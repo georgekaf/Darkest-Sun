@@ -1,0 +1,46 @@
+---
+title: "Journal"
+icon: "file"
+---
+`@01. FREEDOM`
+
+`@02. ABANDONED FATE`
+
+`@03. LOST SOULS`
+
+`@04. DEAD OF THE NIGHT`
+
+`@05. OASIS`
+
+`@06. HIDDEN VILLAGE`
+
+`@07. NIGHT RAID`
+
+## Contents
+
+- [[04. DEAD OF THE NIGHT]]
+- [[16. FORGOTTEN TEMPLE]]
+- [[25. Black Wind, Fire and Steel]]
+- [[11. BURIED RUINS]]
+- [[24. DEMONS FROM THE PAST]]
+- [[20. NEST OF HORRORS]]
+- [[14. TRADERS OF ASSASSINS?]]
+- [[13. STONE DOOR]]
+- [[09. THE CAVE]]
+- [[17. THE HIVE]]
+- [[19. BLOOD AND SAND]]
+- [[10. NIGHT HUNTERS]]
+- [[05. OASIS]]
+- [[15. BOTTOMLESS WELL]]
+- [[21. DEATH CREEPERS]]
+- [[22. RETURN OF THE GIANTS]]
+- [[03. LOST SOULS]]
+- [[02. ABANDONED FATE]]
+- [[01. FREEDOM]]
+- [[07. NIGHT RAID]]
+- [[12.5 STONE DOOR]]
+- [[18. THRAXIS ARENA]]
+- [[23. SEARCH AND DESTROY]]
+- [[08. HUNGER]]
+- [[06. HIDDEN VILLAGE]]
+- [[12. ROAD TO URIK]]
