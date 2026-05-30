@@ -4,4 +4,4 @@ Terrifying entity haunting first-gen dray in Kragmorta. In truth, an illusion cr
 
 Full stats: [[Spirit of Kragmorta|Monster page]].
 
-**Ελληνικά:** [[greek/NPCs/Πνεύμα της Κράγκμορτα]]
+**Ελληνικά:** [[Πνεύμα της Κράγκμορτα]]

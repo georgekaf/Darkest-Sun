@@ -12,4 +12,4 @@
 
 **Associations:** [[Central Gates]], [[New Giustenal]], [[Dray]]
 
-**Ελληνικά:** [[greek/Monsters/Οστέινο Γκόλεμ]]
+**Ελληνικά:** [[Οστέινο Γκόλεμ]]

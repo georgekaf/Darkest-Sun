@@ -24,4 +24,4 @@ Eevuu is the chief of the Silt Stalkers, an elf raider tribe operating in the ea
 - **Counseled by:** [[Luubarra Fire Dagger]]
 - **Tribesmen include:** [[Fire Dagger Clan]]
 
-**Ελληνικά:** [[greek/NPCs/Έβουου Σλιτ Στόλκερ]]
+**Ελληνικά:** [[Έβουου Σλιτ Στόλκερ]]

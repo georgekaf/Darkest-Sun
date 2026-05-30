@@ -12,4 +12,4 @@
 
 **Associations:** [[Sea of Silt]], [[The Silt Road]], [[Giustenal Environs]]
 
-**Ελληνικά:** [[greek/Monsters/Γέννημα της Λάσπης]]
+**Ελληνικά:** [[Γέννημα της Λάσπης]]

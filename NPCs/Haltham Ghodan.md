@@ -22,4 +22,4 @@ Haltham Ghodan is a dwarf tar miner who co-operates the tar mine at Ghodan's Gap
 - **Brother of:** [[Durex Ghodan]]
 - **Supplier to:** Cromlin trade
 
-**Ελληνικά:** [[greek/NPCs/Χάλθαμ Γκόνταν]]
+**Ελληνικά:** [[Χάλθαμ Γκόνταν]]

@@ -26,4 +26,4 @@ Durex Ghodan is a dwarf tar miner who co-operates the tar mine at Ghodan's Gap w
 
 The tar mine 2 miles south of Cromlin, named after the Ghodan brothers who discovered and operate it.
 
-**Ελληνικά:** [[greek/NPCs/Ντούρεξ Γκόνταν]]
+**Ελληνικά:** [[Ντούρεξ Γκόνταν]]

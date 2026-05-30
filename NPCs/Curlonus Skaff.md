@@ -26,4 +26,4 @@ Curlonus Skaff is an earth cleric who leads the Dust Devils, a tribe of silt pir
 - **Employer:** [[Moraz the Defiler]] (her court defiler)
 - **Leader of:** Dust Devils pirate tribe
 
-**Ελληνικά:** [[greek/NPCs/Κέρλονους Σκαφ]]
+**Ελληνικά:** [[Κέρλονους Σκαφ]]

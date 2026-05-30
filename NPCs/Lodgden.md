@@ -25,4 +25,4 @@ Lodgden is a female dray thief who works undercover as a server at The Pit taver
 - **Infiltrating:** The Pit ([[Freiha]] and [[Gatlakk]]'s tavern)
 - **Race:** [[Dray]]
 
-**Ελληνικά:** [[greek/NPCs/Λόντγκντεν]]
+**Ελληνικά:** [[Λόντγκντεν]]

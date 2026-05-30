@@ -4,4 +4,4 @@ Malevolent psionic entity haunting Giustenal. Storm of trapped souls and psychic
 
 Full stats and description: [[Caller in Darkness|Monster page]].
 
-**Ελληνικά:** [[greek/NPCs/Καλούντας στο Σκοτάδι]]
+**Ελληνικά:** [[Καλούντας στο Σκοτάδι]]

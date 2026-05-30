@@ -21,6 +21,6 @@ Muuton is the chief of the Sky Singers, an elf tribe that trades in Nibenay's Hi
 
 - **Chief of:** Sky Singers elf tribe
 - **Tribesman:** [[Guvaano Twilightcatcher]] (unaware of his Veiled Alliance ties)
-- **Associated with:** [[Jessareen]]
+- **Associated with:** [[NPCs/Jessareen]]
 
-**Ελληνικά:** [[greek/NPCs/Μούουτον]]
+**Ελληνικά:** [[Hidden/greek/NPCs/Μούουτον]]

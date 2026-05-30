@@ -12,4 +12,4 @@
 
 **Associations:** [[Giustenal Environs]]
 
-**Ελληνικά:** [[greek/Monsters/Τέμπο]]
+**Ελληνικά:** [[Τέμπο]]

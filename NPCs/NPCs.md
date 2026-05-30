@@ -3,7 +3,7 @@
 All named characters from the *City by the Silt Sea* campaign (2E AD&D Dark Sun boxed set).
 
 **Total: 39 entries** (individuals, groups, and races)
-**Ελληνικές εκδόσεις:** All NPC pages also available in [[greek/NPCs/Ντρέγκοθ|Greek]].
+**Ελληνικές εκδόσεις:** All NPC pages also available in [[Ντρέγκοθ|Greek]].
 
 ---
 
@@ -16,7 +16,7 @@ All named characters from the *City by the Silt Sea* campaign (2E AD&D Dark Sun 
 | [[Borys]] | The Dragon of Tyr, guardian of Rajaat's prison | The Hollow |
 | [[Abalach-Re]] | Sorcerer-Queen of Raam, led Dregoth's assassination | Raam |
 | [[Kalak]] | Sorcerer-King of Tyr | Tyr |
-| [[Nibenay]] | Sorcerer-King of Nibenay, watcher of Giustenal | Nibenay |
+| [[NPCs/Nibenay]] | Sorcerer-King of Nibenay, watcher of Giustenal | Nibenay |
 | [[Lalali-Puy]] | Sorcerer-Queen of Gulg | Gulg |
 | [[Andropinis]] | Sorcerer-King of Balic | Balic |
 | [[Tectuktitlay]] | Sorcerer-King of Draj | Draj |
@@ -35,11 +35,11 @@ All named characters from the *City by the Silt Sea* campaign (2E AD&D Dark Sun 
 
 | NPC | Role | Location |
 |-----|------|----------|
-| [[Muuton]] | Chief of the Sky Singers | Nibenay's Hill District |
+| [[NPCs/Muuton]] | Chief of the Sky Singers | Nibenay's Hill District |
 | [[Guvaano Twilightcatcher]] | Preserver elder, Veiled Alliance ally | Roaming |
-| [[Jessix the Wanderer]] | Rogue-preserver, protects travelers | Wastes near Giustenal |
+| [[NPCs/Jessix the Wanderer]] | Rogue-preserver, protects travelers | Wastes near Giustenal |
 | [[Slinnasia]] | Elf preserver (deceased) | Blasted Spire, Room I |
-| [[Jessareen]] | Bard, damaged by visions | Nibenay, Happy Hurrum Tavern |
+| [[NPCs/Jessareen]] | Bard, damaged by visions | Nibenay, Happy Hurrum Tavern |
 | [[The Loyal]] | Young elves following Jessix | Wastes near Giustenal |
 | [[Kataal the Mover]] | Ancient halfling psyche, tunnel guardian | Tunnel B beneath Giustenal |
 

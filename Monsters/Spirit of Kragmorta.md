@@ -24,4 +24,4 @@ The Spirit of Kragmorta is not a real entity but an illusion and psionic manipul
 - **Torments:** [[Mosak Eggstealer]]'s clan
 - **Serves:** [[Dregoth]]'s expansion plans
 
-**Ελληνικά:** [[greek/NPCs/Πνεύμα της Κράγκμορτα]]
+**Ελληνικά:** [[Πνεύμα της Κράγκμορτα]]

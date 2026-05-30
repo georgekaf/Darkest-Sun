@@ -12,4 +12,4 @@
 
 **Associations:** [[Dregoth]], [[Dregoth's Tower]]
 
-**Ελληνικά:** [[greek/Monsters/Βέντζερ]]
+**Ελληνικά:** [[Βέντζερ]]

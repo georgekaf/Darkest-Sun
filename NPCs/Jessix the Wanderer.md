@@ -14,7 +14,7 @@
 
 ## Description
 
-Jessix (formerly Jessix Twilightcatcher) is a rogue-preserver elf who wanders the wastes near Giustenal. He leads a small group called [[The Loyal]]. He is blamed by [[Jessareen]] for the death of [[Slinnasia]], his best friend and love. He carries immense guilt and seeks redemption by protecting travelers from the [[Caller in Darkness]].
+Jessix (formerly Jessix Twilightcatcher) is a rogue-preserver elf who wanders the wastes near Giustenal. He leads a small group called [[The Loyal]]. He is blamed by [[NPCs/Jessareen]] for the death of [[Slinnasia]], his best friend and love. He carries immense guilt and seeks redemption by protecting travelers from the [[Caller in Darkness]].
 
 ## Agenda
 
@@ -25,9 +25,9 @@ Jessix (formerly Jessix Twilightcatcher) is a rogue-preserver elf who wanders th
 ## Relationships
 
 - **Leader of:** [[The Loyal]]
-- **Blamed by:** [[Jessareen]] for [[Slinnasia]]'s death
+- **Blamed by:** [[NPCs/Jessareen]] for [[Slinnasia]]'s death
 - **Loved:** [[Slinnasia]] (deceased)
 - **Clan member of:** Twilightcatcher clan (formerly, now estranged)
 - **Associated with:** [[Guvaano Twilightcatcher]]
 
-**Ελληνικά:** [[greek/NPCs/Τζέσικ ο Περιπλανώμενος]]
+**Ελληνικά:** [[Hidden/greek/NPCs/Τζέσικ ο Περιπλανώμενος]]

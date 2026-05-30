@@ -30,4 +30,4 @@ Absalom was the first dray created by [[Dregoth]]. His transformation was imperf
 - **First of:** [[Dray]] race
 - **Secretly helps:** First-generation dray
 
-**Ελληνικά:** [[greek/NPCs/Αψάλωμ]]
+**Ελληνικά:** [[Αψάλωμ]]

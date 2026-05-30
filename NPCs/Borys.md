@@ -24,6 +24,6 @@ Borys was the Dwarf-Butcher Champion of [[Rajaat]]. He is the only one of the or
 
 - **Rivaled by:** [[Dregoth]] (who sought to match his transformation)
 - **Creator:** [[Rajaat]]
-- **Fellow Champions:** [[Abalach-Re]], [[Kalak]], [[Nibenay]], [[Lalali-Puy]], [[Andropinis]], [[Tectuktitlay]], [[Hamanu]]
+- **Fellow Champions:** [[Abalach-Re]], [[Kalak]], [[NPCs/Nibenay]], [[Lalali-Puy]], [[Andropinis]], [[Tectuktitlay]], [[Hamanu]]
 
-**Ελληνικά:** [[greek/NPCs/Μπόρυς]]
+**Ελληνικά:** [[Μπόρυς]]

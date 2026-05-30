@@ -25,4 +25,4 @@ Moraz is a defiler wizard who serves [[Curlonus Skaff]] and the Dust Devils pira
 - **Member of:** Dust Devils pirate tribe
 - **Indirectly serves:** [[Dregoth]]
 
-**Ελληνικά:** [[greek/NPCs/Μόραζ ο Μολυντής]]
+**Ελληνικά:** [[Μόραζ ο Μολυντής]]

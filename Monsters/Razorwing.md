@@ -12,4 +12,4 @@
 
 **Associations:** [[The Silt Road]], [[Giustenal Environs]]
 
-**Ελληνικά:** [[greek/Monsters/Λεπίδι της Λάσπης]]
+**Ελληνικά:** [[Λεπίδι της Λάσπης]]

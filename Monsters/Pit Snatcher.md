@@ -12,4 +12,4 @@
 
 **Associations:** [[Tar Pits of Giustenal]], [[Giustenal]]
 
-**Ελληνικά:** [[greek/Monsters/Αρπακτικό της Πίσσας]]
+**Ελληνικά:** [[Αρπακτικό της Πίσσας]]

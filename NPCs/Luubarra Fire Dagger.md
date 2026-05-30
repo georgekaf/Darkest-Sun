@@ -28,4 +28,4 @@ Luubarra is a powerful defiler who made a pact with [[Dregoth]]. She has been su
 - **Deceives:** [[Eevuu Silt Stalker]]
 - **Allied with:** [[Caller in Darkness]] (indirectly, both serve Dregoth's ends)
 
-**Ελληνικά:** [[greek/NPCs/Λούουμπαρα Πύρινο Εγχειρίδιο]]
+**Ελληνικά:** [[Λούουμπαρα Πύρινο Εγχειρίδιο]]

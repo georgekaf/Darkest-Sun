@@ -26,11 +26,11 @@ He created the [[Dray]] race through magical experimentation, blending human and
 ## Relationships
 
 - **Master of:** [[Mon-Adderath]] (High Templar), [[Absalom]] (High Priest)
-- **Enemy of:** [[Abalach-Re]], [[Kalak]], [[Nibenay]], [[Lalali-Puy]], [[Andropinis]], [[Tectuktitlay]], [[Hamanu]] — all seven sorcerer-kings who killed him
+- **Enemy of:** [[Abalach-Re]], [[Kalak]], [[NPCs/Nibenay]], [[Lalali-Puy]], [[Andropinis]], [[Tectuktitlay]], [[Hamanu]] — all seven sorcerer-kings who killed him
 - **Created by:** [[Rajaat]] (Third Champion)
 - **Allied with:** [[Luubarra Fire Dagger]] (made a pact)
 - **Rival of:** [[Borys]] the Dragon (seeks to equal or surpass him)
 - **Manipulates:** The [[Spirit of Kragmorta]] (illusion used to control first-gen dray)
 - **Deceived:** [[Caller in Darkness]] (gave it a "purpose" that serves Dregoth's ends)
 
-**Ελληνικά:** [[greek/NPCs/Ντρέγκοθ]]
+**Ελληνικά:** [[Ντρέγκοθ]]

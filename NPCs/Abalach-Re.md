@@ -21,7 +21,7 @@ Abalach-Re is the sorcerer-queen of Raam, the city-state closest to Giustenal. S
 ## Relationships
 
 - **Enemy of:** [[Dregoth]] (led his assassination, most feared by him)
-- **Fellow conspirators:** [[Kalak]], [[Nibenay]], [[Lalali-Puy]], [[Andropinis]], [[Tectuktitlay]], [[Hamanu]]
+- **Fellow conspirators:** [[Kalak]], [[NPCs/Nibenay]], [[Lalali-Puy]], [[Andropinis]], [[Tectuktitlay]], [[Hamanu]]
 - **Fellow Champion of:** [[Rajaat]]
 
-**Ελληνικά:** [[greek/NPCs/Αμπαλάχ-Ρε]]
+**Ελληνικά:** [[Αμπαλάχ-Ρε]]

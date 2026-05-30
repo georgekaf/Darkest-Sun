@@ -27,4 +27,4 @@ Nibenay is one of the seven sorcerer-kings who assassinated [[Dregoth]]. He main
 - **Served by:** [[Nibenese Templar]]
 - **Champion of:** [[Rajaat]]
 
-**Ελληνικά:** [[greek/NPCs/Νίμπεναι]]
+**Ελληνικά:** [[Hidden/greek/NPCs/Νίμπεναι]]

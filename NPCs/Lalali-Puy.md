@@ -21,8 +21,8 @@ Lalali-Puy, called the Oba, is the sorcerer-queen of Gulg. During the assassinat
 
 ## Relationships
 
-- **Fellow conspirator:** [[Abalach-Re]], [[Kalak]], [[Nibenay]], [[Andropinis]], [[Tectuktitlay]], [[Hamanu]]
+- **Fellow conspirator:** [[Abalach-Re]], [[Kalak]], [[NPCs/Nibenay]], [[Andropinis]], [[Tectuktitlay]], [[Hamanu]]
 - **Enemy of:** [[Dregoth]]
 - **Champion of:** [[Rajaat]]
 
-**Ελληνικά:** [[greek/NPCs/Λαλάλι-Πούι]]
+**Ελληνικά:** [[Λαλάλι-Πούι]]

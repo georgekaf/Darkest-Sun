@@ -24,4 +24,4 @@ Casskka is a female dray who owns the Beetle's Bite Tavern, a competitor to The 
 - **Employs:** [[Lodgden]] (to steal the munge recipe)
 - **Race:** [[Dray]]
 
-**Ελληνικά:** [[greek/NPCs/Κάσσκκα]]
+**Ελληνικά:** [[Κάσσκκα]]

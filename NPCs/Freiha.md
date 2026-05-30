@@ -25,4 +25,4 @@ Freiha is a female dray who co-owns The Pit, a successful tavern in New Giustena
 - **Targeted by:** [[Lodgden]] (spy hired by [[Casskka]])
 - **Race:** [[Dray]]
 
-**Ελληνικά:** [[greek/NPCs/Φρέιχα]]
+**Ελληνικά:** [[Φρέιχα]]

@@ -30,4 +30,4 @@ Notable dray include: [[Absalom]] (the first dray, now undead), [[Freiha]], [[Ga
 - **First-gen leader:** [[Mosak Eggstealer]]
 - **Populate:** New Giustenal
 
-**Ελληνικά:** [[greek/NPCs/Ντράι]]
+**Ελληνικά:** [[Ντράι]]

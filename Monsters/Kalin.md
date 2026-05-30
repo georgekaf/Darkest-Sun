@@ -12,4 +12,4 @@
 
 **Associations:** [[Dray]], [[New Giustenal]]
 
-**Ελληνικά:** [[greek/Monsters/Κάλιν]]
+**Ελληνικά:** [[Κάλιν]]

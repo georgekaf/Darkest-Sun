@@ -24,4 +24,4 @@ Jaksot Han is a former silt pirate who retired after losing an eye. He now runs 
 - **Known to:** [[Passk]], [[Hurdll Crost]], [[Captain Gaff]]
 - **Former pirate associate of:** unknown (retired)
 
-**Ελληνικά:** [[greek/NPCs/Τζάκσοτ Χαν]]
+**Ελληνικά:** [[Τζάκσοτ Χαν]]

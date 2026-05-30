@@ -22,8 +22,8 @@ Rajaat was the first mortal to discover and use defiling magic. He created the 1
 
 ## Relationships
 
-- **Creator of:** [[Dregoth]], [[Borys]], [[Abalach-Re]], [[Kalak]], [[Nibenay]], [[Lalali-Puy]], [[Andropinis]], [[Tectuktitlay]], [[Hamanu]] (all Champions)
+- **Creator of:** [[Dregoth]], [[Borys]], [[Abalach-Re]], [[Kalak]], [[NPCs/Nibenay]], [[Lalali-Puy]], [[Andropinis]], [[Tectuktitlay]], [[Hamanu]] (all Champions)
 - **Imprisoned by:** His own Champions
 - **Guardian:** [[Borys]] guards his prison
 
-**Ελληνικά:** [[greek/NPCs/Ρατζάατ]]
+**Ελληνικά:** [[Ρατζάατ]]

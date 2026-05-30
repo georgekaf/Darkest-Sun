@@ -26,4 +26,4 @@ Tenpug is a one-armed mul gladiator who escaped slavery in Nibenay. He leads a b
 - **Associated with:** [[Nallan]] (band member — deceased)
 - **His band occupies:** The ancient temple near Giustenal
 
-**Ελληνικά:** [[greek/NPCs/Τένπανγκ]]
+**Ελληνικά:** [[Τένπανγκ]]

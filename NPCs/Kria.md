@@ -26,4 +26,4 @@ Kria is a half-elf thief who lives with [[Tenpug]]'s Band. She helps sell their 
 - **Member of:** [[Tenpug]]'s Band
 - **Works with:** [[Tenpug]]
 
-**Ελληνικά:** [[greek/NPCs/Κρία]]
+**Ελληνικά:** [[Κρία]]

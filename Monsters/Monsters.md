@@ -23,7 +23,7 @@ Creatures, entities, and monster races encountered in the *City by the Silt Sea*
 
 | Monster | Notes |
 |---------|-------|
-| [[greek/Monsters/Πλάσματα της Ερήμου]] | Athasian creature descriptions (Aarakocra, Anakore, Belgoi, Braxat, B'rogh, Dwarf, Elf…) |
+| [[Hidden/greek/Monsters/Πλάσματα της Ερήμου]] | Athasian creature descriptions (Aarakocra, Anakore, Belgoi, Braxat, B'rogh, Dwarf, Elf…) |
 
 ## Campaign Monsters — City by the Silt Sea
 
@@ -56,4 +56,4 @@ Creatures, entities, and monster races encountered in the *City by the Silt Sea*
 
 *See [[NPCs]] for named characters.*
 
-**Ελληνικά:** [[greek/Monsters/Τέρατα]]
+**Ελληνικά:** [[Τέρατα]]

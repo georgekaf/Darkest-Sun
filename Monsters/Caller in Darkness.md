@@ -24,9 +24,9 @@ It killed [[Slinnasia]], destroyed [[Passk]]'s pirate crew, and [[Nallan]] commi
 ## Relationships
 
 - **Killed:** [[Slinnasia]], [[Nallan]], and [[Passk]]'s entire crew
-- **Targets:** [[Jessix the Wanderer]], [[Jessareen]], and all psionic visitors
+- **Targets:** [[NPCs/Jessix the Wanderer]], [[NPCs/Jessareen]], and all psionic visitors
 - **Immune to:** [[Abdaleem]] (non-psionic)
 - **Master:** [[Dregoth]] (de facto — the Caller's activity serves Dregoth's purposes)
 - **Feared by:** Everyone who knows of Giustenal
 
-**Ελληνικά:** [[greek/NPCs/Καλούντας στο Σκοτάδι]]
+**Ελληνικά:** [[Καλούντας στο Σκοτάδι]]

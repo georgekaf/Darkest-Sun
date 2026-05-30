@@ -12,4 +12,4 @@
 
 **Associations:** [[The Lion's Den]], [[Taraskir the Lion]]
 
-**Ελληνικά:** [[greek/Monsters/Δράκος Σκαθάρι]]
+**Ελληνικά:** [[Δράκος Σκαθάρι]]

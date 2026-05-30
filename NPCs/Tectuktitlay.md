@@ -19,8 +19,8 @@ Tectuktitlay is the sorcerer-king of Draj. During the assassination of [[Dregoth
 
 ## Relationships
 
-- **Fellow conspirator:** [[Abalach-Re]], [[Kalak]], [[Nibenay]], [[Lalali-Puy]], [[Andropinis]], [[Hamanu]]
+- **Fellow conspirator:** [[Abalach-Re]], [[Kalak]], [[NPCs/Nibenay]], [[Lalali-Puy]], [[Andropinis]], [[Hamanu]]
 - **Enemy of:** [[Dregoth]]
 - **Champion of:** [[Rajaat]]
 
-**Ελληνικά:** [[greek/NPCs/Τεκτουκτίτλαϊ]]
+**Ελληνικά:** [[Τεκτουκτίτλαϊ]]

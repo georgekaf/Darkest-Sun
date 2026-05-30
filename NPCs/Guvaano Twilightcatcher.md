@@ -24,7 +24,7 @@ Guvaano is an elder preserver wizard of the Twilightcatcher elf clan. He is secr
 
 - **Clan elder of:** Twilightcatcher clan
 - **Allied with:** Veiled Alliance
-- **Member of:** Sky Singers tribe (under Chief [[Muuton]])
-- **Associated with:** [[Jessix the Wanderer]]
+- **Member of:** Sky Singers tribe (under Chief [[NPCs/Muuton]])
+- **Associated with:** [[NPCs/Jessix the Wanderer]]
 
-**Ελληνικά:** [[greek/NPCs/Γκουβάανο Τουαϊλάιτκάτσερ]]
+**Ελληνικά:** [[Γκουβάανο Τουαϊλάιτκάτσερ]]

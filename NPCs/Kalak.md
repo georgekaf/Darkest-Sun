@@ -19,8 +19,8 @@ Kalak was the sorcerer-king of Tyr and one of the seven who assassinated [[Drego
 
 ## Relationships
 
-- **Fellow conspirator:** [[Abalach-Re]], [[Nibenay]], [[Lalali-Puy]], [[Andropinis]], [[Tectuktitlay]], [[Hamanu]]
+- **Fellow conspirator:** [[Abalach-Re]], [[NPCs/Nibenay]], [[Lalali-Puy]], [[Andropinis]], [[Tectuktitlay]], [[Hamanu]]
 - **Enemy of:** [[Dregoth]]
 - **Champion of:** [[Rajaat]]
 
-**Ελληνικά:** [[greek/NPCs/Κάλακ]]
+**Ελληνικά:** [[Κάλακ]]

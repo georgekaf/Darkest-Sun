@@ -12,4 +12,4 @@
 
 **Associations:** [[Abdaleem]], [[Blasted Spire]], [[Fire Dagger Clan]]
 
-**Ελληνικά:** [[greek/Monsters/Κραγκ]]
+**Ελληνικά:** [[Κραγκ]]

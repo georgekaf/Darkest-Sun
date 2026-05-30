@@ -12,7 +12,7 @@
 
 ## Description
 
-Jessareen is an elf bard who spreads news and history in Nibenay. She is the sister of [[Slinnasia]] and blames [[Jessix the Wanderer]] for her death. She was recently psychically flooded by [[Kataal the Mover]]'s visions of ancient times, which left her mentally damaged but possessing secret knowledge.
+Jessareen is an elf bard who spreads news and history in Nibenay. She is the sister of [[Slinnasia]] and blames [[NPCs/Jessix the Wanderer]] for her death. She was recently psychically flooded by [[Kataal the Mover]]'s visions of ancient times, which left her mentally damaged but possessing secret knowledge.
 
 ## Agenda
 
@@ -24,9 +24,9 @@ Jessareen is an elf bard who spreads news and history in Nibenay. She is the sis
 ## Relationships
 
 - **Sister of:** [[Slinnasia]] (deceased)
-- **Blames:** [[Jessix the Wanderer]]
+- **Blames:** [[NPCs/Jessix the Wanderer]]
 - **Affected by:** [[Kataal the Mover]] (psychic influx)
 - **Friend of:** Her sister Slinnasia
-- **Associated with:** [[Muuton]]
+- **Associated with:** [[NPCs/Muuton]]
 
-**Ελληνικά:** [[greek/NPCs/Τζέσαρην]]
+**Ελληνικά:** [[Hidden/greek/NPCs/Τζέσαρην]]

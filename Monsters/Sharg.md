@@ -12,4 +12,4 @@
 
 **Associations:** [[Blackjaw River]], [[Sharg Island]]
 
-**Ελληνικά:** [[greek/Monsters/Σαργκ]]
+**Ελληνικά:** [[Σαργκ]]

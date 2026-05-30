@@ -4,4 +4,4 @@ Hybrid race of dragon-humanoids created by [[Dregoth]]. Serve as his chosen peop
 
 Full description: [[Dray|Monster page]].
 
-**Ελληνικά:** [[greek/NPCs/Ντράι]]
+**Ελληνικά:** [[Ντράι]]

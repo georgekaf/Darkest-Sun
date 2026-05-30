@@ -27,4 +27,4 @@ Mon-Adderath is Dregoth's High Templar and most trusted mortal servant. He is a 
 - **Rival of:** [[Absalom]] (dislikes him)
 - **Only human in:** New Giustenal (all other inhabitants are [[Dray]])
 
-**Ελληνικά:** [[greek/NPCs/Μον-Αντεράθ]]
+**Ελληνικά:** [[Μον-Αντεράθ]]

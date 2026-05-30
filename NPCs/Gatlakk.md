@@ -24,4 +24,4 @@ Gatlakk is a male dray who co-owns The Pit tavern with his mate [[Freiha]]. He h
 - **Co-owner of:** The Pit (tavern with [[Freiha]])
 - **Race:** [[Dray]]
 
-**Ελληνικά:** [[greek/NPCs/Γκάτλακκ]]
+**Ελληνικά:** [[Γκάτλακκ]]

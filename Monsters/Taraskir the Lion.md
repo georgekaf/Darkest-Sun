@@ -23,4 +23,4 @@ Taraskir was a giant with a lion's head who once ruled Giustenal before [[Dregot
 - **His followers:** Demihumans who worshipped him as a god
 - **His tomb was looted by:** [[Nallan]] (who stole the amulet)
 
-**Ελληνικά:** [[greek/NPCs/Τάρασκιρ το Λιοντάρι]]
+**Ελληνικά:** [[Τάρασκιρ το Λιοντάρι]]

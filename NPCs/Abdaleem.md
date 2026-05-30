@@ -28,4 +28,4 @@ Abdaleem is a priest of the elemental Silt Sea, a rare and strange faith on Atha
 - **Fled from:** [[Kalak]]'s templars in Tyr
 - **Resident of:** Island north of Giustenal
 
-**Ελληνικά:** [[greek/NPCs/Αμπνταλίμ]]
+**Ελληνικά:** [[Αμπνταλίμ]]

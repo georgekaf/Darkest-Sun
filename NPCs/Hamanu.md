@@ -22,8 +22,8 @@ Hamanu, the Lion of Urik, was newly elevated as sorcerer-king at the time of Dre
 
 ## Relationships
 
-- **Fellow conspirator:** [[Abalach-Re]], [[Kalak]], [[Nibenay]], [[Lalali-Puy]], [[Andropinis]], [[Tectuktitlay]]
+- **Fellow conspirator:** [[Abalach-Re]], [[Kalak]], [[NPCs/Nibenay]], [[Lalali-Puy]], [[Andropinis]], [[Tectuktitlay]]
 - **Enemy of:** [[Dregoth]]
 - **Champion of:** [[Rajaat]]
 
-**Ελληνικά:** [[greek/NPCs/Χαμάνου]]
+**Ελληνικά:** [[Χαμάνου]]

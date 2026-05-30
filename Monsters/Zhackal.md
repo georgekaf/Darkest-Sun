@@ -12,4 +12,4 @@
 
 **Associations:** [[Giustenal]]
 
-**Ελληνικά:** [[greek/Monsters/Τσάκαλ]]
+**Ελληνικά:** [[Τσάκαλ]]

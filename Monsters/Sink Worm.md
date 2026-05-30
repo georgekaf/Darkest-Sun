@@ -12,4 +12,4 @@
 
 **Associations:** [[Dregoth's Palace]], [[Dregoth]]
 
-**Ελληνικά:** [[greek/Monsters/Σκουλήκι του Βυθού]]
+**Ελληνικά:** [[Σκουλήκι του Βυθού]]

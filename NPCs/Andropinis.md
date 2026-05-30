@@ -19,8 +19,8 @@ Andropinis is the sorcerer-king of Balic. During the assassination of [[Dregoth]
 
 ## Relationships
 
-- **Fellow conspirator:** [[Abalach-Re]], [[Kalak]], [[Nibenay]], [[Lalali-Puy]], [[Tectuktitlay]], [[Hamanu]]
+- **Fellow conspirator:** [[Abalach-Re]], [[Kalak]], [[NPCs/Nibenay]], [[Lalali-Puy]], [[Tectuktitlay]], [[Hamanu]]
 - **Enemy of:** [[Dregoth]]
 - **Champion of:** [[Rajaat]]
 
-**Ελληνικά:** [[greek/NPCs/Ανδροπίνης]]
+**Ελληνικά:** [[Ανδροπίνης]]

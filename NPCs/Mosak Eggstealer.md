@@ -24,4 +24,4 @@ Mosak Eggstealer is the leader (Clan Father) of the first-generation dray living
 - **Enemy of:** [[Spirit of Kragmorta]] (actually [[Dregoth]]'s illusion)
 - **Created by:** [[Dregoth]] (indirectly)
 
-**Ελληνικά:** [[greek/NPCs/Μόσακ Κλεψαυγό]]
+**Ελληνικά:** [[Μόσακ Κλεψαυγό]]

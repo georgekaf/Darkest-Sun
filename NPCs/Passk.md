@@ -27,4 +27,4 @@ Passk is a dwarf with a dwarven focus: he is sworn to kill the [[Caller in Darkn
 - **Resident of:** Cromlin
 - **Known to:** [[Hurdll Crost]], [[Jaksot Han]]
 
-**Ελληνικά:** [[greek/NPCs/Πάσσκ]]
+**Ελληνικά:** [[Πάσσκ]]

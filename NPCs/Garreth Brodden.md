@@ -26,4 +26,4 @@ Garreth Brodden is the House M'ke factor in Cromlin. He manages his house's trad
 - **Competitor of:** [[Hurdll Crost]] (House Shom)
 - **Resident of:** Cromlin
 
-**Ελληνικά:** [[greek/NPCs/Γκάρεθ Μπρόντεν]]
+**Ελληνικά:** [[Γκάρεθ Μπρόντεν]]

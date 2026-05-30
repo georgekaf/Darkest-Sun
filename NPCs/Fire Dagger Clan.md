@@ -4,4 +4,4 @@ Sub-group of the Silt Stalker elves, followers of prophetess [[Luubarra Fire Dag
 
 Full description: [[Fire Dagger Clan|Monster page]].
 
-**Ελληνικά:** [[greek/NPCs/Φυλή του Πύρινου Εγχειριδίου]]
+**Ελληνικά:** [[Φυλή του Πύρινου Εγχειριδίου]]

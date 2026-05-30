@@ -23,4 +23,4 @@ The Fire Dagger Clan was the first group of Silt Stalker raiders sent to Giusten
 - **Served to:** [[Dregoth]] (as undead soldiers)
 - **Former tribe:** Silt Stalkers (under Chief [[Eevuu Silt Stalker]])
 
-**Ελληνικά:** [[greek/NPCs/Φυλή του Πύρινου Εγχειριδίου]]
+**Ελληνικά:** [[Φυλή του Πύρινου Εγχειριδίου]]

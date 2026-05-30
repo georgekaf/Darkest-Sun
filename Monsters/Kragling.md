@@ -12,4 +12,4 @@
 
 **Associations:** [[Krag]], [[Blasted Spire]]
 
-**Ελληνικά:** [[greek/Monsters/Κράγκλινγκ]]
+**Ελληνικά:** [[Κράγκλινγκ]]

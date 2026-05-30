@@ -29,4 +29,4 @@ Hurdll Crost is the Master Trader of House Shom in the silt-harbor village of Cr
 - **Associated with:** [[Passk]] (potential hire)
 - **Resident of:** Cromlin
 
-**Ελληνικά:** [[greek/NPCs/Χερντλ Κροστ]]
+**Ελληνικά:** [[Χερντλ Κροστ]]

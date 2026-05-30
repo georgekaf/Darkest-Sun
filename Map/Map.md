@@ -9,7 +9,7 @@ icon: "map"
 - [[City-State of Tyr]]
 - [[Fort Skonz]]
 - [[Shazlim]]
-- [[Nibenay]]
+- [[Map/Nibenay]]
 - [[The Bones]]
 - [[Fort Sandol]]
 - [[Gulg]]

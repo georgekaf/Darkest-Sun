@@ -26,4 +26,4 @@ Captain Gaff commands the Firewind, House Shom's primary silt skimmer in Cromlin
 - **Commands:** Firewind crew
 - **Operates from:** Cromlin
 
-**Ελληνικά:** [[greek/NPCs/Καπετάν Γκαφ]]
+**Ελληνικά:** [[Καπετάν Γκαφ]]

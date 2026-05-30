@@ -23,4 +23,4 @@ Nallan was a human artisan and member of [[Tenpug]]'s Band. He was also a friend
 - **Killed by:** [[Caller in Darkness]]
 - **Sold to:** House Shom (Dregoth's amulet)
 
-**Ελληνικά:** [[greek/NPCs/Νάλλαν]]
+**Ελληνικά:** [[Νάλλαν]]
