@@ -3,6 +3,14 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v0.6 — Potions/Poisons Reference Compilations
+
+**New root files** — poisons and potions from all book sources consolidated:
+- `Poisons.md` — 13 craftable poisons (OSE Players Guide), 8 campaign poisons (Shadowdark), 26 monsters with poison/venom attacks (all books), poison classes A–J, delivery methods, antidotes
+- `Potions.md` — 4 magic fruits, 2 oils, Tree of Life Sap, Life Sap variants, crafting rules, Protection from Poison spell
+
+---
+
 ## v0.5 — Hidden Folder Reorganization
 
 **New `Hidden/` folder** — reference material archived out of active vault:
