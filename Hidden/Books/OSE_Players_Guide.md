@@ -8762,6 +8762,7 @@ Shape Water
 
 Duration: 1 hour
 
+Range: 30'
 
 The caster chooses an area of water
 that he can see within range that fits
@@ -8922,6 +8923,7 @@ Earthbind
 
 Duration: Up to 2 Rounds
 
+Range: 300'
 
 This spell binds flying creatures to the
 ground.
@@ -8936,6 +8938,7 @@ save vs spell, on a failure its flying
 speed (if any) is reduced to o feet
 for the spell's duration.
 
+• Descent: An airborne creature
 affected by this spell safely
 descends at 60’ per round until it
 reaches the ground or the spell
@@ -8945,6 +8948,7 @@ Fog Cloud
 
 Duration: 4 Rounds
 
+Range: 30'
 
 The caster creates a 20-foot-radius
 sphere of fog centered on a point
@@ -9126,6 +9130,7 @@ Range: Touch
 This spell allows the caster to produce
 a magical flame as bright as a torch in
 the palm of his hand.
+• Combustion: The flame does not
 harm the caster, but it may burst
 flames to combustible materials
 (oil, cloth, dry wood, etc.).
@@ -9144,6 +9149,7 @@ e Fireworks: First, it can produce a
 flashing and fiery burst of glowing,
 colored aerial fireworks that lasts
 one round.
+• Blinding Lights: This effect
 temporarily blinds those creatures
 in, under, or within 120 feet of the
 area and that have an unobstructed
@@ -9225,6 +9231,7 @@ Warp Wood
 
 Duration: Permanent
 
+Range: 60'
 
 This spell warps, bends, and twists
 wood.
@@ -9307,6 +9314,7 @@ then dissipates.
 Call Lightning
 
 Duration: 1 turn per caster level
+Range: 360'
 
 This spell calls lightning bolts from a
 storm.
