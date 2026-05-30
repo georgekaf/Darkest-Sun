@@ -3,6 +3,31 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v0.4 — Books Reference Folder
+
+**New `Books/` folder** — 7 reference documents added to vault root:
+- `City by the Silt Sea.md` — AD&D Dark Sun campaign expansion (TSR #2432), OCR'd from scan
+- `City by the silt sea campaign book.md` — campaign book companion
+- `Guide_to_Shadowdark_Monster_Statistics.md` — Shadowdark monster stat conversion guide
+- `Monstrous_Compendium_II.md` — Dark Sun Monstrous Compendium Appendix II (TSR #02433)
+- `OSE_Game_Masters_Guide.md` — OSE Dark Sun Game Masters Guide
+- `OSE_Players_Guide.md` — OSE Dark Sun Players Guide
+- `Terrors_of_the_Desert.md` — Dark Sun MC12 Appendix I: Terrors of the Desert (TSR #2405)
+
+---
+
+## v0.3 — Acts & Structure Tree
+
+**Quest restructure**
+- Renamed all quest files from "Set N" to "Act N" (`Set 1–6` → `Act 1–6`); updated `Kharanok Quest Chain.md` links accordingly
+- Overview table now shows 3 hooks per act and a linear ASCII flow diagram
+- Added `Structure Tree.md` — full visual ASCII tree of all 6 acts with hooks listed per node
+
+**Fixes**
+- Corrected `NPCs/Freiha.md` page reference: `p. 61` → `p. 84–85` (English + Greek)
+
+---
+
 ## v0.2 — Greek Translation & Bidirectional Links
 
 **NPC pages (Greek)**
