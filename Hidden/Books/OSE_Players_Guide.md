@@ -1188,7 +1188,7 @@ Level XP HD THACo |D WP B §S
 10 350,000 9d8+2* 12[+7] 67 8 9 10
 n 450,000 9d8+4* 12[+7] 67 8 9 10
 12 550,000 9d8+6* 12[+7] 6 7 8 9 1
-B 7o0,000 = 9 d8+8* ~—10[+9] 45 67 8
+13 700,000 = 9 d8+8* ~—10[+9] 45 67 8
 14 840,000 = 9d8+10* ~—10[ +9] 45 67 8
 
 THACo: Attack matrix row to use.
@@ -1589,7 +1589,7 @@ Thieving Skills
 Thieves can use the following skills,
 chance of success shown opposite:
 
-¢ Climb sheer surfaces (CS): A roll is
+• Climb sheer surfaces (CS): A roll is
 required for each 100’ to be climbed. If
 the roll fails, the thief falls at the
 halfway point, suffering falling
@@ -2205,21 +2205,22 @@ Templar Level Progression
  
 
 Saving Throws Spells
-Level XP HD THACo DWP BS 1 2 3 5
-1 0 1d6 19l0] nm y65h|] - = = =
-2 1,500 2d6 19[o] num y 6 15] 1 - - - =
-3 3,000 3d6 ig[o] ney 65] 1 1 - - -
-4 6,000 4d6 19[0} nu 12 4 16 155) 2 1 - - -
-5 12,000 5d6 17[+2] 9 0 2 4 RI 3 2 - ==
-6 25,000 6d6 17[+2] 9 0 2 4) 3 2 1 - -
-7 50,000 7d6 17[+2] 902 42] 3 2 2 -
-8 100,000 8d6 17[+2] 9 0 2 4 RB} 3 3 2 I=
-9 120,000 9d6 14[+5) 679 19 3 3 3 1 o-
-10 300,000 = gd6+2*_—14[+5] 679 1 9 3 3 3 2 1
-n 400,000 9d6+4* —14[+5] 679u19/]4 3 3 2 1
-12 500,000 =. 9d6+6* —14[+5] 679 u9|4 4 3 3 2
-B 600,000 9d6+8" —12[+7] 3578 7/4 4 4 3 2
-14 700,000 = gd6H10"_— 12 +7] 357 8 7 5 5 4 4 3
+| Level | XP | HD | THAC0 | D | W | P | B | S | 1 | 2 | 3 | 4 | 5 |
+|---:|---:|:---:|:---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 1d6 | 19[0] | 11 | 12 | 14 | 16 | 15 | - | - | - | - | - |
+| 2 | 1,500 | 2d6 | 19[0] | 11 | 12 | 14 | 16 | 15 | 1 | - | - | - | - |
+| 3 | 3,000 | 3d6 | 19[0] | 11 | 12 | 14 | 16 | 15 | 1 | 1 | - | - | - |
+| 4 | 6,000 | 4d6 | 19[0] | 11 | 12 | 14 | 16 | 15 | 2 | 1 | - | - | - |
+| 5 | 12,000 | 5d6 | 17[+2] | 9 | 10 | 12 | 14 | 12 | 3 | 2 | - | - | - |
+| 6 | 25,000 | 6d6 | 17[+2] | 9 | 10 | 12 | 14 | 12 | 3 | 2 | 1 | - | - |
+| 7 | 50,000 | 7d6 | 17[+2] | 9 | 10 | 12 | 14 | 12 | 3 | 2 | 2 | - | - |
+| 8 | 100,000 | 8d6 | 17[+2] | 9 | 10 | 12 | 14 | 12 | 3 | 3 | 2 | 1 | - |
+| 9 | 120,000 | 9d6 | 14[+5] | 6 | 7 | 9 | 11 | 9 | 3 | 3 | 3 | 1 | - |
+| 10 | 300,000 | 9d6+2* | 14[+5] | 6 | 7 | 9 | 11 | 9 | 3 | 3 | 3 | 2 | 1 |
+| 11 | 400,000 | 9d6+4* | 14[+5] | 6 | 7 | 9 | 11 | 9 | 4 | 3 | 3 | 2 | 1 |
+| 12 | 500,000 | 9d6+6* | 14[+5] | 6 | 7 | 9 | 11 | 9 | 4 | 4 | 3 | 3 | 2 |
+| 13 | 600,000 | 9d6+8* | 12[+7] | 3 | 5 | 7 | 8 | 7 | 4 | 4 | 4 | 3 | 2 |
+| 14 | 700,000 | 9d6+10* | 12[+7] | 3 | 5 | 7 | 8 | 7 | 5 | 5 | 4 | 4 | 3 |
 THACo: Attack matrix row to use. D: Death / poison; W: Wands;
 (Ascending AC attack bonus in [].) P: Paralysis / petrify; B: Breath attacks;
 *: Modifiers from CON no longer apply. S: Spells / rods / staves.
@@ -4849,7 +4850,7 @@ Chatkcha 5 30 id Melee, Boomerang, Missile
 (5-10'/u1'-20'/21'-30')
 Crusher 8 30 16 Blunt, Melee, Two-handed
 Dragon's Paw 10 50 1d8+1 Melee, Brace, Two-handed
-Gythka 8 4o dio Melee, Brace, Two-handed
+Gythka 8 40 d10 Melee, Brace, Two-handed
 Macahuatl 16 30 id641 Melee
 Singing Stick 4 20 idqtt Blunt, Melee
 Trikal 25 60 idio Melee, Reach, Slow,
@@ -5183,7 +5184,7 @@ Armor Table
 
 Item Cost
 Saddle and bridle 25 8p
-Saddle Bags 5¢p
+Saddle Bags 5cp
 
 Leather Barding 25 5p
 Chitin Barding 40 sp
@@ -5284,7 +5285,7 @@ Cargo
 
 Cost Miles Movement Required Capacity
 Vessel (cp) __ per Day Rate Crew* (Coins) Size Draft
-Scout Sail 2,000 18 go'(60') 4 20,000 20°x10° 2-3
+Scout Sail 2,000 18 go'(60') 4 20,000 20'x10' 2-3
 Merchant 5,000 2 60'(60") 10 100,000 80" x 20" 58"
 Skimmer
 Army 6,600 10 50’(35') 5 80,000 60" x 20" 5-8"
@@ -5707,11 +5708,11 @@ Mercenaries
 Armor
 Type Class Morale | Daily Weekly Monthly
 Archer/Artillerist 6[13] 8 5 bits 4cp 16 cp
-Cavalry, heavy 3[16] 8 1cp 7¢p 28cp
-Cavalry, light [12] 9 6 bits 4c¢p 16 cp
-Cavalry, medium 5[14] 9 8 bits 6cp 24c¢p
-Engineer gio] 9 5c¢p 4sp 16 sp
-Footman, heavy 4lis] 8 1cp 7c¢p 28cp
+Cavalry, heavy 3[16] 8 1cp 7cp 28cp
+Cavalry, light [12] 9 6 bits 4cp 16 cp
+Cavalry, medium 5[14] 9 8 bits 6cp 24cp
+Engineer gio] 9 5cp 4sp 16 sp
+Footman, heavy 4lis] 8 1cp 7cp 28cp
 Footman, irregular [10] 9 2 bits 2cp 8cp
 Footman, light 712] 9 6 bits 4cp 16 cp
 Footman, militia 8[1] 8 5 bits 4cp 16cp
@@ -5810,16 +5811,16 @@ Specialist Wage per Month
 Alchemist 100 cp
 Animal Trainer 50cp
 Armorer 30cp
-Assistant armorer 1I5¢P
+Assistant armorer 15 cp
 Blacksmith 1,000 cp
 Engineer 150 cp
 Entertainer 15cp
 Freeman 4cp
 Guide 30 cp
-Oarsman 5¢p
+Oarsman 5cp
 
 Sage 200 cp
-Sailor 15¢p
+Sailor 15cp
 Ship's captain 250 cp
 
 Spy 300 cp (or more)
@@ -6530,7 +6531,7 @@ The caster makes a rapid burst of
 movement, driven by an internal surge
 of kinetic force.
 
-¢ Movement: The caster’s movement
+• Movement: The caster’s movement
 rate is doubled.
 
 e Melee attacks: The caster may
@@ -6707,7 +6708,7 @@ grant the ability to read minds, but
 only grants a general sense of evil
 intent.
 
-¢ Definition of evil: The referee
+• Definition of evil: The referee
 must decide what is “evil”. Some
 things that are potentially harmful,
 like traps, are not “evil”.
@@ -6998,7 +6999,7 @@ saves versus spells for charm,
 confusion, fear, feeblemind, and
 magic jar.
 
-¢ Psionic Protection: +6 bonus to
+• Psionic Protection: +6 bonus to
 saves against mental attacks.
 
 Mind Link
@@ -7230,7 +7231,7 @@ Weight
 Up to 200 2dq4 1
 201-400 2d6 1
 401-800 3d6 2
-8o1-1,500 4d6 3
+801-1,500 4d6 3
 1,501+ 5d6 4
 Telempathic Projection
 
@@ -7284,14 +7285,14 @@ Teleportation Difficulty and Rank
  
 
 Range grdRank = 4th Rank
-30° 55 75
+30' 55 75
 300' 45 65
 3000’ 35 55
 10 miles 25 40
 100 miles a0 25
 1,000 miles 10 20
 10,000 miles 05 15
-Interplanar o1 10
+Interplanar 01 10
 
 103
 
@@ -8491,7 +8492,7 @@ Animal Friendship
 
 Duration: 1 Day
 
-Range: 30°
+Range: 30'
 
 This spell lets you convince a beast
 
@@ -8547,7 +8548,7 @@ You cause a tremor in the ground
 
 within range.
 
-¢ Loss of Balance: Each creature
+• Loss of Balance: Each creature
 
 other than you in that area must
 make a save vs breath. On a failed
@@ -8582,7 +8583,7 @@ Area of Effect: A cube 10’x 10’x 10°
 in dimensions.
 e Flames Effect: : Attacks on targets
 gain a +2 bonus to hit.
-¢ Counters invisibility: The
+• Counters invisibility: The
 flickering fire makes invisible
 targets visible.
 
@@ -8614,7 +8615,7 @@ Range: Touch
 The caster sets up an explosive trap on
 an item.
 Size of the trap: 5’ x 5’ ins size
-¢ Detecting/disabling the trap: It
+• Detecting/disabling the trap: It
 may be detected and disabled just
 like any other trap.
 e Activating the trap: By stepping
@@ -8627,7 +8628,7 @@ Locate Plant or Animal
 
 Duration: 6 turns
 
-Range: 120°
+Range: 120'
 
 The caster can sense the direction (but
 not distance) of a non-magical,
@@ -8761,7 +8762,6 @@ Shape Water
 
 Duration: 1 hour
 
-Range: 30°
 
 The caster chooses an area of water
 that he can see within range that fits
@@ -8922,7 +8922,6 @@ Earthbind
 
 Duration: Up to 2 Rounds
 
-Range: 300°
 
 This spell binds flying creatures to the
 ground.
@@ -8937,7 +8936,6 @@ save vs spell, on a failure its flying
 speed (if any) is reduced to o feet
 for the spell's duration.
 
-¢ Descent: An airborne creature
 affected by this spell safely
 descends at 60’ per round until it
 reaches the ground or the spell
@@ -8947,7 +8945,6 @@ Fog Cloud
 
 Duration: 4 Rounds
 
-Range: 30°
 
 The caster creates a 20-foot-radius
 sphere of fog centered on a point
@@ -9129,7 +9126,6 @@ Range: Touch
 This spell allows the caster to produce
 a magical flame as bright as a torch in
 the palm of his hand.
-¢ Combustion: The flame does not
 harm the caster, but it may burst
 flames to combustible materials
 (oil, cloth, dry wood, etc.).
@@ -9148,7 +9144,6 @@ e Fireworks: First, it can produce a
 flashing and fiery burst of glowing,
 colored aerial fireworks that lasts
 one round.
-¢ Blinding Lights: This effect
 temporarily blinds those creatures
 in, under, or within 120 feet of the
 area and that have an unobstructed
@@ -9230,7 +9225,6 @@ Warp Wood
 
 Duration: Permanent
 
-Range: 60°
 
 This spell warps, bends, and twists
 wood.
@@ -9313,7 +9307,6 @@ then dissipates.
 Call Lightning
 
 Duration: 1 turn per caster level
-Range: 360°
 
 This spell calls lightning bolts from a
 storm.
@@ -9322,7 +9315,7 @@ e Storm requirement: This spell
 cannot be used unless a storm of
 any type is taking place.
 
-¢ Calling the lightning: The caster
+• Calling the lightning: The caster
 may call 1 lightning bolt per turn,
 which descends from the sky hittin
 an area 20’ across.
@@ -9379,7 +9372,7 @@ Duration: 1d6 turns +1 per spell
 level Range: Touch
 The subject gains the ability to fly
 through the air.
-¢ Movement rate: Up to 360’ (120’).
+• Movement rate: Up to 360’ (120’).
 e Free movement: Is possible in any
 direction, including the ability to
 levitate and to hover in mid-air.
@@ -9537,7 +9530,7 @@ Animal Summoning
 
 Duration: 3 turns
 
-Range: 360°
+Range: 360'
 
 Normal animals within range are
 summoned to the caster’s aid. The
@@ -9757,7 +9750,7 @@ Speak with Dead
 
 Duration: 1 turns
 
-Range: 30°
+Range: 30'
 
 This spell allows the caster to ask
 questions to dead creatures.
@@ -9781,7 +9774,7 @@ symbol and incense.
 Speak with Plants
 
 Duration: 3 turns
-Range: 30°
+Range: 30'
 This spell has two uses:
 
 1. Normal plants: Communication
@@ -9822,7 +9815,7 @@ a creature already magically
 protected by a potion, protective
 spell, ring, or other device.
 
-¢ Only Specific Spells: Only a
+• Only Specific Spells: Only a
 particular spell can be protected
 against, not a certain sphere of
 spells or a group of spells that are
@@ -9838,7 +9831,7 @@ against.
 Wall of Fire
 
 Duration: 2 + 1 rounds per level
-Range: 60°
+Range: 60'
 
 The wall of fire spell brings forth an
 immobile, blazing curtain of magical
@@ -9853,7 +9846,7 @@ damage.
 Wall of Sand
 
 Duration: 2 + 1 rounds per level
-Range: 60°
+Range: 60'
 
 You create a wall of swirling sand on
 the ground at a point you can see
@@ -9953,7 +9946,7 @@ Duration: Permanent (until dismissed
 
 or slain)
 
-Range: 240°
+Range: 240'
 
 A16 Hit Dice elemental—a being
 
@@ -10092,7 +10085,7 @@ Control Winds
 
 Duration: Up to1 hour.
 
-Range: 300°
+Range: 300'
 
 You take control of the air in a 100-foot
 cube that you can see within range.
@@ -10111,7 +10104,7 @@ have a -2 on their attack rolls. If the
 wind is strong, any creature moving
 against the wind must spend 1 extra
 foot of movement for each foot moved.
-¢ Downdraft: You cause a sustained
+• Downdraft: You cause a sustained
 blast of strong wind to blow downward
 from the top of the cube. Ranged
 weapon attacks that pass through the
@@ -10141,7 +10134,7 @@ Earthquake
 
 Duration: 1 round
 
-Range: 120°
+Range: 120'
 
 When this spell is cast by a priest, a
 local tremor of fairly high strength rips
@@ -10156,13 +10149,13 @@ creatures in its area of effect.
 
 e Area: The area of effect of the
 earthquake spell is circular, with a
-diameter of 50°
+diameter of 50'
 
 Firestorm
 
 Duration: 1 round
 
-Range: 120°
+Range: 120'
 
 When a fire storm spell is cast, the
 whole area is shot through with sheets
@@ -10188,7 +10181,7 @@ Casting a goodberry spell upon a
 handful of freshly picked berries makes
 2d4 of them magical. These Berries
 have two effects:
-¢ Nourishment: Berries with the
+• Nourishment: Berries with the
 magic either enable a hungry
 creature of approximately man size
 to eat one and be as well-nourished
@@ -10644,66 +10637,4 @@ Reversed: Plant Defiling
 
 When this spell is cast, the caster
 defiles the land and all the plants ina
-40’ radius die and turn to ashes. The
-caster may roll for the defilement effect
-check with a +2 bonus.
-
-6th Level
-
-Lower Water (Lower Silt)
-
-Duration: 10 turns
-
-Range: 240°
-
-This spell reduces the depth of a body
-of water by half for the duration. An
-area of up to 10,000 square feet may be
-affected.
-
-Reversed: Lower Silt
-
-This Spell takes the same effect as
-Lower Water, but applied to Silt.
-
-Part Water (Part Silt)
-
-Duration: 6 turns
-
-Range: 120’
-
-The caster creates a path 10’ wide and a
-maximum of 120’ long through water,
-such as a pond, lake, or other body.
-The caster can dismiss the spell’s effect
-before the duration ends.
-
-Reversed: Lower Silt
-
-This Spell takes the same effect as Part
-Water, but applied to Silt.
-
-144
-
----
-
-# Page 147
-
-Notes:
-
-145
-
----
-
-# Page 148
-
-
-
----
-
-# Page 149
-
-
-
----
-
+40’ radius die 

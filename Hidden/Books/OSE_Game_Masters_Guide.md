@@ -1009,16 +1009,16 @@ Types of Units Table
 
 Monthly — Hit Battle | Movement
 Unit Wages Points Rating Rate Morale Battle Formations
-Archers 16 sp 4 2 40° 7 Range, Skirmish
+Archers 16 sp 4 2 40' 7 Range, Skirmish
 Cavalry, heavy* 28sp 8 5 ss 9 Charge, Diamond
 Cavalry, light 16 sp 5 3 go’ 7 Charge, Skirmish
 Cavalry, medium 248p 7 4 80’ 8 Skirmish, Diamond
 Engineers 16 sp 2 1 40" 6 = Arm/Disarm
-Footmen, heavy 28 sp 6 4 30° 9 Phalanx, Hoplite
-Footmen, irregular 8sp 2 3 40° 6 Berserk, Charge
+Footmen, heavy 28 sp 6 4 30' 9 Phalanx, Hoplite
+Footmen, irregular 8sp 2 3 40' 6 Berserk, Charge
 Footmen, light 16 sp 3 2 35 7 Hoplite, Turtle
 Footmen, militia** 16 sp 4 2 40" 7 None
-Shieldbearers 6gp 7 3 30° 8 Turtle, Hoplite
+Shieldbearers 6gp 7 3 30' 8 Turtle, Hoplite
 
 *: Heavy cavalry may be comprised of Templars, see Special Units
 **: Militia Footmen may be comprised of psionicist and other spelleaster, see Special Units
@@ -1054,7 +1054,7 @@ and in diamond formation, but moves at
 half its movement rate.
 
 Range: The unit is able to attack at a
-range of up to 4o yards.
+range of up to 40 yards.
 
 Skirmish: The unit is able to quickly
 attack at melee or range and then move
@@ -1252,7 +1252,7 @@ Structure — Hull Points Armor Class
 Wall 40-60 fio]
 Tower, small 20-30 8[u]
 Tower, large 30-40 8{u)
-Gatehouse 40°50 glr0]
+Gatehouse 40-50 glr0]
 
 Siege Weapons
 
@@ -1624,7 +1624,7 @@ Nil
 PSI: Kinetic Fist Powers: 2
 Rank: ist
 
-Infravision: 60°
+Infravision: 60'
 
 Boneclaw: Once in a very great
 while, a baazrag is born being
@@ -1701,7 +1701,7 @@ PSI: Invisibility, Kinetic Shield,
 Mind Bar, Telekinesis WT:
 Chameleon Power, Control
 Sound Powers: 10 Rank 2nd
-Infravision: 90°
+Infravision: 90'
 
 Breath weapon: 10’ long line of
 acid, 2dio damage (save versus
@@ -1890,7 +1890,7 @@ taste for a certain type of meat
 hunting that creature with
 preference.
 
-Infravision: 90°
+Infravision: 90'
 
 Surprise: On a 1-4, in
 woodland, due to camouflage.
@@ -1925,7 +1925,7 @@ taste for a certain type of meat
 hunting that creature with
 preference.
 
-Infravision: 90°
+Infravision: 90'
 
 Surprise: On a 1-4, in woodland
 or desert, due to camouflage.
@@ -1962,7 +1962,7 @@ become horribly sick for ten
 days (save versus poison): no
 physical activity possible except
 half speed movement.
-Infravision: 90°
+Infravision: 90'
 
 Pursuit: Always pursue prey
 that flees.
@@ -1994,7 +1994,7 @@ on a failure receive 4d8 damage,
 out of which half that amount
 
 will heal the Cistern Fiend.
-Infravision: 90°
+Infravision: 90'
 
 Poison bite: Any creature hit
 by its bite must save vs
@@ -2047,7 +2047,7 @@ cuts, stabs, and slashes, as well
 as providing some protection
 against falling. Said barrier
 lasts 1dio rounds.
-Infravision: 300°
+Infravision: 300'
 
 Dream Travel: When casting
 Astral Projection, it can select
@@ -2100,7 +2100,7 @@ PSI: Body Control, Cell Adjustment,
 Clairaudience, Clairvoyance, Crush Life,
 Kinetic Shield WT: All-Round Vision,
 Life Detection. Powers: 18 Rank: 4th
-Infravision: 120°
+Infravision: 120'
 
 Attack pattern: Although powerful
 psionicists, most drakes prefer physical
@@ -2338,7 +2338,7 @@ Detection, Send Thoughts, Control
 Light, Know Direction, Animate Shadow
 Powers: 25 Rank 4th
 
-Infravision: 300°
+Infravision: 300'
 
 Fire immunity: Unharmed by fire.
 Mundane damage immunity: Can
@@ -2457,7 +2457,7 @@ PSI: One random power WT:
 
 Send Thoughts, Catfall Powers: PSI: WT: All-Round Vision,
 2 Rank ist Know Direction Powers: 2
-Elven Run: It can run up 200° Max load: Carry up to 4,500
+Elven Run: It can run up 200' Max load: Carry up to 4,500
 for 2d6 rounds one per day. coins unencumbered; up to
 Leader: Groups of 15+ are led by 9,000 at half speed.
 
@@ -3225,7 +3225,7 @@ and is usually not afraid to try.
 
 AC 7[13], HD 2 (8 hp), Att 1x attack (1d3
 by claws or weapon), Thaco 19[+0] MV
-4o’(120') running, SV Diz W13 P14 Bi5
+40'(120') running, SV Diz W13 P14 Bi5
 S16 (2), ML 6, AL Chaotic, XP 40 NA
 
 4d4(5d6+5), TT J (A)
@@ -3288,7 +3288,7 @@ attack (2d6 by claws or bite), Thaco
 ML 12, AL Chaotic, XP 2,500 NA1, TT
 
 Fear Aura: Two times per day,
-the So-ut emanates an aura 30°
+the So-ut emanates an aura 30'
 around it, any creature inside
 this range must save vs spell
 and be frightened for 1d4 rounds
@@ -3602,7 +3602,7 @@ they produce. Better trading houses have
 at least one.
 
 AC 8[12], HD 1/4(a hp), Att 1 x attacks (1
-by sting), Thaco 20[-1] MV 20°
+by sting), Thaco 20[-1] MV 20'
 
 Critic Lizard
 
@@ -3613,7 +3613,7 @@ psionic and tune themselves to their
 feeders.
 
 AC 7[13], HD 1/2(2 hp), Att 1x attacks (1
-by bite), Thaco 19[+0] MV 20°
+by bite), Thaco 19[+0] MV 20'
 
 PSI: WT: Life Detection,
 All-Round Vision, Know
@@ -4208,56 +4208,42 @@ Z 100-300 100-400 100-500 100-600 100-400 110 Any3
 
 # Page 66
 
-Lair Treasures Table
+# Lair Treasures Table
 
- 
+| Treasure Type | Bits | Ceramic Pieces | Bronze Pieces | Silver Pieces | Gold Pieces | Gems | Valuable Item |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| A | 200-2,000 30% | 100-2,000 40% | 50-1,000 40% | 10-100 35% | 10-100 25% | 10-40 60% | Any 2 30% |
+| B | 400-4,000 25% | 100-1,000 25% | 50-500 25% | 10-100 25% | 5-50 30% | 1-8 30% | Armor, Weapon 10% |
+| C | - - | 100-600 15% | 50-200 15% | 10-60 20% | - - | 1-6 25% | Any 2 10% |
+| D | 1,000-10,000 15% | 1,000-3,000 50% | 500-1,000 20% | 100-600 15% | 100-400 10% | 1-10 30% | Any 2+1 potion 15% |
+| E | 2,000-12,000 25% | 1,000-4,000 25% | 500-1,100 25% | 300-1,800 25% | 200-1,200 30% | 1-12 15% | Any 3+1 scroll 25% |
+| F | 3,000-18,000 10% | 1,000-4,000 30% | 600-2,400 20% | 300-1,200 10% | 100-400 10% | 2-20 35% | Any 5 except weapons 30% |
+| G | - - | 1,000-8,000 40% | 1,200-2,400 30% | 300-1,800 20% | 10-40 10% | 3-18 45% | Any 5 35% |
+| H | 1,000-10,000 35% | 1,000-6,000 30% | 1,200-3,000 30% | 200-1,200 30% | 20-120 15% | 3-30 60% | Any 6 15% |
+| I | - - | - - | - - | 100-600 30% | 10-100 10% | 2-12 65% | Any 15% |
 
-Treasure Ceramic Bronze Silver Gold
-Type Bits Pieces Pieces Pieces _ Pieces Gems __ Valuable Item
-A 200-2,000  100-2,000-50-1,000 10-100 10-100 10-40 Any2
-30% 40% 40% 35% 25% 60% 30%
-B 400-4,000 —100-1,000 50-500 10-100 5-50 8 Armor, Weapon
-25% 25% 25% 25% 30% 30% 10%
-Cc - 100-600 50-200 10-60 - 16 Any2
-- 15% 15% 20% - 25% 10%
-D 1,000-10,000 1,000-3,000 500-1,000 100-600 100-400 Ho Any 2+1 potion
-15% 50% 20% 15% 10% 30% 15%
-E 2,000°12,000 1,000-4,000 500-1100 300-1,800 200-1200 2 Any 3+1 scroll
-25% 25% 25% 25% 30% 15% 25%
-F 3,000-18,000 1,000-4,000 600-2,400 300-1,200 100-400 220 Any 5 except
-10%, 30% 20% 10% 10% 3590 weapons 30%
-G - 1,000-8,000 1,200-2,400 300-1,800 10-40 348 Any 5,
-- 40% 30% 20% 10% 45% 35%
-H_—_1,090-10,000 1,000-6,000 1,200-3,000 200-1200 20-120 330 Any 6
-35% 30% 30% 30% 15% 60% 15%
-I > 5 a 100-600 10-100 212 Any
-- - - 30% 10% 65% 15%
-. NPC Demi-human Class and Level
-Coins
-. Dioo Base Value Class
-Because metal coins are more valuable
-on Athas, they are somewhat more rare “or25.«5CP —sOrnamental__
-in treasures. No platinum or electrum . .
-26-50 15 BP Semi-precious
+## Coins
 
-pieces are regularly minted on Athas.
+Because metal coins are more valuable on Athas, they are somewhat more rare in treasures. No platinum or electrum pieces are regularly minted on Athas. The metal is occasionally found in small amounts, but not enough to warrant inclusion on the table.
 
-The metal is occasionally found in small "7° 15 SP ey
+## Gems
 
-amounts, but not enough to warrant 71-90 75 SP Precious
+Where metals are very rare, gems become a more frequent medium of exchange. On Athas, gems are fairly common and still quite valuable.
 
-inclusion on the table. 9r99 15 GP Gems
-(Game 00 75GP Jewels
+# NPC Demi-human Class and Level
 
-Where metals are very rare, gems Objects of Art
+| D100 | Base Value | Class |
+|:---:|---:|:---|
+| 01-25 | 15 CP | Ornamental |
+| 26-50 | 15 BP | Semi-precious |
+| 51-70 | 15 SP | Fancy |
+| 71-90 | 75 SP | Precious |
+| 91-99 | 15 GP | Gems |
+| 00 | 75 GP | Jewels |
 
-become a more frequent medium of
+## Objects of Art
 
-exchange. On Athas, gems are fairly Art is not usually a part of lair treasures
-
-common and still quite valuable. on Athas. Such finds will be specially
-
-placed by the DM.
+Art is not usually part of lair treasures on Athas. Such finds will be specially placed by the DM.
 
 66
 
@@ -4318,13 +4304,13 @@ the material of the armor set.
 
 Valuable Armor and Shields
 
-dioo Item
-o1-10 Metal Armor
+d100 Item
+01-10 Metal Armor
 1-15, Steel Armor
 16-25 Armour +1
 26-27 Armour +1, Shield +1
 28 Armour +1, Shield +2 Armour
-29°33 +1, Shield +3
+29-33 +1, Shield +3
 34-36 Armour +2
 37-41 Armour +2, Shield +1 Armour
 42 +2, Shield +2 Armour +2,
@@ -4332,10 +4318,10 @@ o1-10 Metal Armor
 46 Armour +3, Shield +1
 47 Armour +3, Shield +2
 48 Cursed Armour -1
-49°51 Cursed Armour -2
+49-51 Cursed Armour -2
 52-53 Cursed Armour -2, Shield +1
 54 Cursed Armour, AC 9 [10]
-55°56 Cursed Shield -2
+55-56 Cursed Shield -2
 57-62 Cursed Shield, AC 9 [10]
 63-65, Metal Shield
 66-80 Steel Shield
@@ -4536,8 +4522,8 @@ e Range: The animal is able to be
 controlled at a range of up to
 
 100’.
-idioo ‘Type of Creature
-o1-20 Kank
+1d100 Type of Creature
+01-20 Kank
 
 21-49 ~— Erdlu
 
@@ -4728,7 +4714,7 @@ removes psionic effects from individuals.
 Duration: Psionic items
 affected by this wand do not
 function for 1d4+4 rounds.
-Range: 30°
+Range: 30'
 
 Psionic Targets: Entities under
 the influence of psionic powers
@@ -4915,7 +4901,7 @@ small pockets.
  
 
 Athasian Trinkets Table
-dioo Item dioo Item
+d100 Item d100 Item
 on A faro needle 26 A rock part of a stone elemental
 oz Ascrap of hide 27 Avial with the saliva of an id fiend
 3 Thri-kreen antennae 28 Ahardened bone slave's collar
@@ -5395,14 +5381,14 @@ dioo Feature Category 00-01 Settlement
 10-25 Vegetation
 26-33 Ruins
 
-16-30 Hydrography 34°60 Ground Feature
+16-30 Hydrography 34-60 Ground Feature
 31-45 Vegetation
 
 46-69 Ground Feature
 70-99 Rocky Formations
 
 00-06 _—_ Settlement
-o7-15, Ruins
+07-15, Ruins
 
 61-99 Rocky Formations
 
@@ -6354,52 +6340,4 @@ Herbert)
 e The Barsoom Series™ (Edgar
 Rice Burroughs)
 
-e = The Scroll of Saqqara™ (Pauline
-
-Gedge)
-
-Mad Max™ Movie Series
-
-Book of Eli™
-
-Dark Sun: Shattered Lands™
-
-The Counter-Earth Series™
-
-(John Norman)
-
-The Fallout™ Game Series
-
-The Conan the Barbarian™
-Stories (Robert E. Howard)
-The Dying Earth™ (Jack Vance)
-The Spartacus™ TV series
-Stargate™
-
-Eternal Champions™ Series
-(Michael Moorcock)
-
----
-
-# Page 95
-
-Notes
-
-95
-
----
-
-# Page 96
-
-Notes
-
-96
-
----
-
-# Page 97
-
-
-
----
-
+e = The Scr

@@ -3,6 +3,16 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v0.7 — OCR Typo Fixes
+
+**`Hidden/Books/`** — OCR misreads corrected:
+
+- `Monstrous_Compendium_II.md` — 25 fixes: `Id`→`1d`, `244`→`2d4`, `4dl0`→`4d10` across stat blocks
+- `OSE_Players_Guide.md` — 2 fixes: `19l0]`→`19[0]`, `1I5¢P`→`15 cp`
+- `Terrors_of_the_Desert.md` — 2 fixes: `ld6`→`1d6`, `Id12`→`1d12`
+
+---
+
 ## v0.6 — Potions/Poisons Reference Compilations
 
 **New root files** — poisons and potions from all book sources consolidated:

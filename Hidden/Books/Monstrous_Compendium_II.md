@@ -1695,7 +1695,7 @@ DAMAGE/ATTACK: 144 146/146 N/A 1d3/1d3/2d4 (male only)
 SPECIAL ATTACKS: Nil Toss, trample Poison Gore
 SPECIAL DEFENSES: Nil Nil Nil Nil
 MAGIC RESISTANCE: Nil Nil Nil Nil
-SIZE: S (2’-3') L (10° long) TO") S ('-4’)
+SIZE: S (2’-3') L (10' long) TO") S ('-4’)
 Mora: Average (10) Average (9) N/A Average (9)
 Level/XP_ VALUE: 15 175 35/7 Male 65
 Female 35
@@ -2010,14 +2010,14 @@ Hirt Dice: 8
 THACO: 13
 
 No. OF ATTACKS: 3 + special
-DAMAGH/ATTACK: 1d8/1d8/1410
+DAMAGH/ATTACK: 1d8/1d8/1d10
 SPECIAL ATTACKS: Rake
 
 SPECIAL DEFENSES: Nil
 
 MAGIC RESISTANCE: Nil
 
-Size: L (15° wingspan)
+Size: L (15' wingspan)
 MORALE: Very steady (13)
 Levet/XP_ VALUE: 3,000
 
@@ -2080,7 +2080,7 @@ become a single raking attack that adds a
 points of damage. In the air the aviarag usually drops a raked;
 opponent after the rake attack. On the ground the aviarag can
 attack with its foreclaws, but does not rake. The aviarag can also
-bite, causing I-10 (1410) points of damage.
+bite, causing 1-10 (1d10) points of damage.
 
 ‘The aviarag prefers to dive on its opponents from behind,
 letting out a piercing roar lust before it hits. Intended victims
@@ -2110,7 +2110,7 @@ ful intentions. there is a 50% chance the aviarag will offer
 assistance in the form of guidance to water or shelter, in ex-
 change for food, or some shiny bauble for its lair. While it
 doesn’t covet treasure as such, the aviarag does like shiny
-things. An aviarag’s lair contains 5-50 (dl0) such objects.
+things. An aviarag’s lair contains 5-50 (d10) such objects.
 There is a 1% cumulative chance for each item that an object
 is valuable.
 
@@ -2612,7 +2612,7 @@ with a maximum range of 30 feet. The hollow spines are 3
 inches long and have a small sac of nerve poison in the tip.
 Any creature hit by a spine must successfully save vs. poison
 or be paralyzed for 3-6 rounds. This save must be made for
-each spine that hits. Each spine inflicts 1-6 (Id6) points of
+each spine that hits. Each spine inflicts 1-6 (1d6) points of
 damage.
 
 ‘The cactus has 11-30 pods on its body and each pod has 10
@@ -2916,7 +2916,7 @@ grow from
 either side
 of the jaws
 and reach
-lengths of 3°
+lengths of 3'
 to 5’. Cilops
 have a protective
 coloration that
@@ -3183,7 +3183,7 @@ INTELLIGENCE: Semi (2-4)
 ‘TREASURE: Nil
 ALIGNMENT: Neutral
 
-No. APPEARING: 2-8 (244)
+No. APPEARING: 2-8 (2d4)
 ARMOR CLASS: 7
 
 MoveMeNT: Jp
@@ -4552,7 +4552,7 @@ fighting, style.
 Katin Mount
 ACS; MVIS, Climb 9; HD 7; THACO 13;
 “AT 3 (claw/claw/bite); Dmg
-1d10/1d10/246; SA grapple; SZ L (12°
+1d10/1d10/246; SA grapple; SZ L (12'
 long), ML fanatic (8); Int animal,
 AL LN; XP 650 each,
 
@@ -5004,10 +5004,10 @@ ALIGNMENT: Neutral Neutral
 
 No. APPEARING:
 
-2-5 (Id4+1) or
-5.25 (4d6+1)
+2-5 (1d4+1) or
+4-40 (4d10)
 
-1 or 2-5 (Id4+1)
+1 or 2-5 (1d4+1)
 
  
 
@@ -6321,7 +6321,7 @@ meee
 item must successfully save vs. magical fire at -2 or the victim
 receives an additional 1-6 (1d6) points of damage.
 
-The elemental fire beast can also breathe a cone of fire 30°
+The elemental fire beast can also breathe a cone of fire 30'
 long and 10’ wide at the base once every 3 rounds. Its fiery breath
 causes 2-16 (2d8) points of damage. All creatures within its ra-
 dius are allowed a save vs. breath weapon for half damage. A
@@ -6820,7 +6820,7 @@ Omnivore
 Very (11-12) ComBat: 4 fact can attack with its fists for 1-3 points of dam-
 
 R age each, It can extend its incredibly strong jaw as much as 1 foot,
-ALIGNMENT: Chaotic evil allowing it to bite for 1-12 (Id12) points of damage. If the fael causes
+ALIGNMENT: Chaotic evil allowing it to bite for 1-12 (1d12) points of damage. If the fael causes
 No. APPEARING: 1 6 or more points of damage, there is a 25% chance it has bitten off
 ARMOR CLASS: As in life, or 6 a portion of its victim the size of a hand. If the fael causes 9 or more
 Movement: 9 points of damage, there is a 25% chance it has bitten off a portion
@@ -7884,7 +7884,7 @@ tures in combat. They strike using their rocklike fists to deliver
 hit must make a successful save vs. poison or the golems break
 the skin of their prey and minute flakes of salt residue are left
 behind. This causes the victim pain so severe that he can do
-nothing but writhe on the ground in agony for 1-4 (Id4)
+nothing but writhe on the ground in agony for 1-4 (1d4)
 rounds. While on the ground the victim is susceptible to at-
 tacks as if he were prone (+4 to attack roll)
 Salt golems can dehydrate one opponent once every 5
@@ -8051,7 +8051,7 @@ out to attack. As many as eight goraks can attack a human-
 sized target per round. Targets of such attacks must make a
 successful save vs. paralyzation or become hypnotized by the
 chaotic and dazzling colors of the dorsal fins. This hypnotic
-state lasts for 1-4 (Id4) rounds. During this attack, the alpha
+state lasts for 1-4 (1d4) rounds. During this attack, the alpha
 male of the herd stands back from the melee as if he were di-
 recting the attack.
 
@@ -8132,7 +8132,7 @@ Diet: Oninivore
 INTELLIGENCE: Average to High
 ‘TREASUBE: Varies
 ALIGNMENT: Varies; see below
-No. APPEARING: 2-5 (Id4+1) or 4-40 (4dl0)
+No. APPEARING: 2-5 (1d4+1) or 4-40 (4d10)
 ARMOR CLASS: 7 (10)
 MOVEMENT: 15
 
@@ -8410,7 +8410,7 @@ INTELLIGENCE: Average Average Very Average Average Very
 ‘TREASURE: Nil Nil Ww Nil M w
 ALIGNMENT: Neutral Lawful Neutral Neutral Neutral Lawful
 e . neutral neutral
-No. APPEARING: 4-24 (4d6) 3-36 (3d12) 1-4 (1d4) 2-8 (244) 1-4 (Id4) 2-7 (1d6+1)
+No. APPEARING: 4-24 (4d6) 3-36 (3d12) 1-4 (1d4) 2-8 (2d4) 1-4 (1d4) 2-7 (1d6+1)
 e ARMOR CLASS: 8 9 7 6 8 7
 MoveMENT: 2 12 12 12 2 12
 Hr Dice: 242 342 5 5 3 5
@@ -8752,7 +8752,7 @@ There is a 75% chance that any puncturing or slashing weapon
 carried by a trader is treated with a paralyzing poison intended to
 incapacitate opponents. A victim successfully hit by a weapon
 treated in such a manner must make a successful save vs. poison
-or be incapacitated for 1-12 (Id12) rounds.
+or be incapacitated for 1-12 (1d12) rounds.
 
 Dune traders have 3rd level thief abilities (for attacks, use
 the Thieves Table). They usually wear leather armor (AC 8).
@@ -12053,7 +12053,7 @@ attack while taking any other action and remain motion-
 
 less while doing so. All living victims must make a suc-
 
-cessful save vs. spells or suffer 1-6 (Id6) points of
+cessful save vs. spells or suffer 1-6 (1d6) points of
 damage from dehydration. Rain paraelemental beasts
 gain half as many hit points as their victims lose.
 Magical fire ‘causes full damage to rain paracle-
@@ -12334,7 +12334,7 @@ successfully save vs. magical fire at a -2.
 Paraelemental beasts of sun can generate intense heat from
 their bodies that cause sunstroke and dehydration. For
 each round the creature uses this attack, all victims within
-a Lfoot radius per hit point it has lose 1-6 (Id6) points of
+a Lfoot radius per hit point it has lose 1-6 (1d6) points of
 Constitution unless the victims make a successful save vs.
 breath weapon or have some special protection from heat
 stroke and dehydration.
@@ -13329,7 +13329,7 @@ Racked spirits can only be harmed by a +1 or better mag-
 ical weapon, a creature of 5 HD or greater, or by creatures
 with magical abilities. Racked spirits are immune to sleep,
 charm, hold, and cold-based spells, and poisons and para-
-lyzation. Holy elements inflicts 2-8 (244) points of damage. A
+lyzation. Holy elements inflicts 2-8 (2d4) points of damage. A
 raise dead spell destroys racked spirits if its save vs. spell is
 not successful.
 
@@ -13915,7 +13915,7 @@ Combat: A varved scorpion attacks
 
 any living being that approaches it. It moves about, wildly at-
 tacking with both of its pinchers and its tail in each round. At
-tacks by its pinchers cause 1-12 (Id12) points of damage and
+tacks by its pinchers cause 1-12 (1d12) points of damage and
 captures opponents within its grip Once captured, victims can
 break free only by making a successful Bend Bars/Lift Gates
 roll. If the attempt fails, the barbed scorpion stings the victim
@@ -17394,7 +17394,7 @@ MOVEMENT: 18 18
 Hir Dice: 643 6+3
 THACO: 13 13
 No. OF ATTACKS: 5or2 5 or2
-DAMAGE/ATTACK: 1d4+1 (x5) or Id4 (x4)/1d4+1
+DAMAGE/ATTACK: 1d4+1 (x5) or 1d4 (x4)/1d4+1
 1d4+1 and by or 1d4#1 and
 weapon by weapon
 SPECIAL ATTACKS: Paralyzation Paralyzation

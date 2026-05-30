@@ -2227,7 +2227,7 @@ out a Constitution score, it will die in 1412 + 5 rounds.
 Habitat/Society: Although the beetle’s primary locomotion is
 crawling, the creature’s small wings allow short distance flight
 (up to 6’). The six folded, hooked legs also enable the creature to
-jump 3° vertically. Agony beetles tend to live near water sources
+jump 3' vertically. Agony beetles tend to live near water sources
 where they hope to encounter prey. A pain-devouring creature,
 the agony beetle never ingests solid food for sustenance, only an
 occasional sip of water. They will not hesitate to attack mem-
@@ -3950,7 +3950,7 @@ for half damage). Any combustible material within the sphere
 will ignite upon contact with the fire. Anyone unfortunate to be
 holding or wearing such items suffers 3d6 worth of additional
 burn damage (save versus breath weapon for half damage); any
-other combustible materials within 10° of the flames must make
+other combustible materials within 10' of the flames must make
 a saving throw. Unprotected and nonmagical metal within the
 fire becomes super-heated and melts within 2 rounds. Those car-
 rying or wearing such items suffer 2d4 worth of damage in the
@@ -4814,7 +4814,7 @@ large, tornado-like, funnel cloud. This column of air is 15’ wide
 at its base and up to 45’ wide at its top. The greater air elemen-
 tal’s height when in this form is dependant on its Hit Dice.
 Greater air elementals of 10 Hit Dice are 50’ tall, those of 14 Hit
-Dice are 70 tall, and 18-Hit Die elementals tower at 90° tall.
+Dice are 70 tall, and 18-Hit Die elementals tower at 90' tall.
 Creating and dissipating this form takes one whole turn.
 
 Once created, the whirlwind lasts for three melee rounds and
@@ -9001,7 +9001,7 @@ SPECIAL DEFENSES: Nil
 
 MAGIC RESISTANCE: Nil
 
-SIZE: L (10° long)
+SIZE: L (10' long)
 MORALE: Average (8-10)
 LEVEL/XP_ VALUE: 420
 PSIONICS SUMMARY:
@@ -10845,7 +10845,7 @@ dampener spell to prevent the foe from using his psionic powers
 in combat.
 
 If encountered in their nest, from 13-24 adult scrabs are
-present (Id12 + 12). There are 1d6 leaders and sub-leaders, and
+present (1d12 + 12). There are 1d6 leaders and sub-leaders, and
 there is always one nest mother. From 10-40 eggs or newly
 hatched scrabs are also present. These young scrabs have 1 HD,
 a THACO of 20, and do one point with each pincer. They cannot
@@ -11460,7 +11460,7 @@ The sink worm moves very silently, partly due to its ability to
 is seldom surprised, receiving a +1 bonus to its surprise roll.
 Opponents receive a normal surprise roll. Success means that
 they have noticed the sunken trail in the sand or silt when the
-worm is 10-60 (Id6x10) yards away. In silt the trail can be seen
+worm is 10-60 (ld6x10) yards away. In silt the trail can be seen
 farther off; the range for noticing it increases to 20-120 (2d6x10)
 yards. The sink worm can feel the vibrations of someone walk-
 ing on sand or wading through silt. The range of detection is 120
