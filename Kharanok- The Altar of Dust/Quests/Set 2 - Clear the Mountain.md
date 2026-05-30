@@ -66,3 +66,5 @@ icon: "sword"
 **← [[Set 1 - Eyes Open]]  |  [[Set 3 - Open the Roads]] →**
 
 **Part of:** [[Kharanok Quest Chain]]
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/Quests/Σετ 2 - Καθαρίστε το Βουνό]]

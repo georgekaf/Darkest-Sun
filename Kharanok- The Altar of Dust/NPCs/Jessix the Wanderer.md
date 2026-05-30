@@ -54,3 +54,5 @@ Reads situations quickly and doesn't commit until he knows the price and the odd
 - **Sought by:** [[Elder Yethras]] as a guide resource — can be formalised
 - **Suspicious of:** Whatever his Nibenay contact is really buying in the Black Spine geology market
 - **Part of:** [[Kharanok The Altar of Dust|Kharanok: The Altar of Dust]] (from Set 2)
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/NPCs/Τζέσικ ο Περιπλανώμενος]]

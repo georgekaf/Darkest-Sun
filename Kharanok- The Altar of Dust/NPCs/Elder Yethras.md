@@ -51,3 +51,5 @@ Speaks slowly. Thinks before answering — long enough that you wonder if he hea
 - **Relies on:** [[Breck]] as the last trustworthy enforcer
 - **Compromised by:** the former guard captain's family connection to the council
 - **Part of:** [[Kharanok The Altar of Dust|Kharanok: The Altar of Dust]]
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/NPCs/Πρεσβύτης Γέθρας]]

@@ -67,3 +67,5 @@ icon: "map"
 **← [[Set 2 - Clear the Mountain]]  |  [[Set 4 - Bring the Traders]] →**
 
 **Part of:** [[Kharanok Quest Chain]]
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/Quests/Σετ 3 - Ανοίξτε τους Δρόμους]]

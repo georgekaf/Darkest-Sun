@@ -66,3 +66,5 @@ icon: "droplet"
 **← [[Set 4 - Bring the Traders]]  |  [[Set 6 - Feed the Village]] →**
 
 **Part of:** [[Kharanok Quest Chain]]
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/Quests/Σετ 5 - Το Πρόβλημα του Νερού]]

@@ -51,3 +51,5 @@ Blunt to the point of seeming rude, but not aggressive — she just doesn't see 
 - **Respects:** [[Breck]] — he asked the right follow-up questions
 - **Knows:** [[Dorak]] has knowledge about the lower caves he hasn't shared — she hasn't pushed
 - **Part of:** [[Pens]], [[Kharanok The Altar of Dust|Kharanok: The Altar of Dust]]
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/NPCs/Σίρα]]

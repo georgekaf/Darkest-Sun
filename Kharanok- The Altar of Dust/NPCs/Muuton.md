@@ -54,3 +54,5 @@ Direct, professional, not unfriendly. Doesn't waste time on pleasantries but wil
 - **Leverage over:** Two underpaying caravan operators (useful in 4-A toll recovery)
 - **Owes a favour (Set 6):** Goods purchased from Vakreens without knowing they were stolen — will return them and provide riders when called
 - **Part of:** [[Kharanok The Altar of Dust|Kharanok: The Altar of Dust]] (from Set 3)
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/NPCs/Μούουτον]]

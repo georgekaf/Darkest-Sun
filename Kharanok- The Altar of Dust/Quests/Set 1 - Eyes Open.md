@@ -64,3 +64,5 @@ icon: "eye"
 ---
 
 **Part of:** [[Kharanok Quest Chain]]
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/Quests/Σετ 1 - Μάτια Ανοιχτά]]

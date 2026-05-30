@@ -54,3 +54,5 @@ Nervous in a specific way: over-helpful, over-agreeable, slightly too fast to sm
 - **Suspected by:** [[Breck]] — quietly, without proof
 - **Evidence trail:** Gith manifest from 2-A (his handwriting), Nibenese merchant-house coins in his quarters, second sentry's testimony about mirror signals
 - **Part of:** [[Watch Tower]], [[Kharanok The Altar of Dust|Kharanok: The Altar of Dust]]
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/NPCs/Όρεν]]

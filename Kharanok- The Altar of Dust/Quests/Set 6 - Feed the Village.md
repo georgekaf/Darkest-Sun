@@ -66,3 +66,5 @@ icon: "wheat"
 **← [[Set 5 - The Water Problem]]  |  [[Final - Restock the Pens]] →**
 
 **Part of:** [[Kharanok Quest Chain]]
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/Quests/Σετ 6 - Ταΐστε το Χωριό]]

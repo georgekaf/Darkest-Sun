@@ -48,3 +48,5 @@ These are seeds for the **next arc**:
 **← [[Set 6 - Feed the Village]]**
 
 **Part of:** [[Kharanok Quest Chain]]
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/Quests/Τελικό - Ανεφοδιασμός των Μαντριών]]

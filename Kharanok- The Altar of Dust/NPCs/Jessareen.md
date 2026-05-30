@@ -55,3 +55,5 @@ Charming, controlled, occasionally elsewhere. When something a player says conne
 - **Suspicious of:** The psionic trader asking about Kharanok's cistern — description matches the figure from Set 3-B
 - **Full profile:** Grief over Slinnasia, blame toward Jessix, psychic damage from Kataal — see full NPC file
 - **Part of:** [[Kharanok The Altar of Dust|Kharanok: The Altar of Dust]] (from Set 4)
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/NPCs/Τζέσαρην]]

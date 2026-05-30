@@ -52,3 +52,5 @@ Efficient, clipped, professional. Answers questions with answers, not conversati
 - **Replacement (potential):** A young half-elf apprentice who has been keeping a shadow ledger, suspicious for months
 - **Connected to:** The thing below the [[Lower Caves (Sealed)|Lower Caves]] — the second chamber may be a separate sealed entity or an extension of the same
 - **Part of:** [[The Cistern]], [[Kharanok The Altar of Dust|Kharanok: The Altar of Dust]]
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/NPCs/Γέλκα]]

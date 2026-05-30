@@ -91,3 +91,5 @@ The entity behind the [[Lower Caves (Sealed)|Lower Cave seal]] is intelligent, p
 ## Pacing Note
 
 The quest chain is designed so that each set's revelations make the next set feel inevitable. When NPCs share information, connect it forward: *"That pass movement you found — that's what Jessix has been watching from the other side."* Let the players feel the net tightening. The final reveal — that the merchant house, the gith, the seal, and the psionic buyer are all threads in the same cloth — should feel earned, not surprising.
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/NPCs/Συμβουλές Ρόλου]]

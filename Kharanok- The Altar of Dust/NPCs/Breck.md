@@ -51,3 +51,5 @@ Blunt. Doesn't soften things. Speaks in short sentences when tired — which is 
 - **Knows:** The former guard captain is untouchable through direct accusation, needs a clean evidence trail
 - **Works with:** [[Elder Yethras]] out of necessity, not trust
 - **Part of:** [[Main Gate]], [[Kharanok The Altar of Dust|Kharanok: The Altar of Dust]]
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/NPCs/Μπρεκ]]

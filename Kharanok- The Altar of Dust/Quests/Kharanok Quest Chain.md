@@ -48,3 +48,5 @@ icon: "sword"
 ---
 
 **Part of:** [[Kharanok- The Altar of Dust/Kharanok The Altar of Dust|Kharanok: The Altar of Dust]]
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/Quests/Αλυσίδα Αποστολών Kharanok]]

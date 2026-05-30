@@ -52,3 +52,5 @@ Long silences before answers. Doesn't lie, but frequently says nothing instead o
 - **Provides when asked:** Knowledge of the quarry mineral vein, the hidden second pen location, the Blackjaw valley construction details
 - **Silent about:** The clay tablet from the [[Storage Pits]] — takes it, returns two days later, says *"The old ones kept a second pen"* and nothing more that night
 - **Part of:** [[Old Quarry Yard]], [[Kharanok The Altar of Dust|Kharanok: The Altar of Dust]]
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/NPCs/Ντόρακ]]

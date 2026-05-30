@@ -67,3 +67,5 @@ icon: "coins"
 **← [[Set 3 - Open the Roads]]  |  [[Set 5 - The Water Problem]] →**
 
 **Part of:** [[Kharanok Quest Chain]]
+
+**Ελληνικά:** [[greek/Kharanok- The Altar of Dust/Quests/Σετ 4 - Φέρτε τους Εμπόρους]]
