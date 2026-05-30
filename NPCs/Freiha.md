@@ -4,7 +4,7 @@
 
 **Location:** New Giustenal, The Pit (Area 12)
 
-**Page References:** Campaign Book p. 61
+**Page References:** Campaign Book p. 84-85
 
 ---
 
