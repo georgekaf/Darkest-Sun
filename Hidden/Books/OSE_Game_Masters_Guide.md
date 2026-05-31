@@ -1,165 +1,107 @@
 # Page 1
 
-Game Master’s Guide
+Game Master's Guide
 
 By Lixu
-
-     
-
- 
-
- 
-
-in oe
-
-ESSENTIALS
-
-CLERC lm cx oom icc melcies aoe g
 
 ---
 
 # Page 2
 
-Disclaimer: This is not an official product, Dark Sun™ and Old School Essentials™
-are properties belonging to Wizards of the Coast*and Gavin Norman Respectively.
-This book meant for free distribution only.
+# Foreword
 
-Foreword
+*Disclaimer: This is not an official product, Dark Sun™ and Old School Essentials™ are properties belonging to Wizards of the Coast and Gavin Norman respectively. This book meant for free distribution only.*
 
-Welcome, Dungeon Masters, to the sun-scorched realm of Athas. Within this guide
-for Old School Essentials, you will discover the tools to ignite adventure in this
-unforgiving wasteland. Craft deadly dungeons, navigate treacherous wilderness,
-and unleash unique monsters upon daring adventurers. Athas demands your
-imagination, challenging preconceptions and blurring the line between heroism
-and survival.
+Welcome, Dungeon Masters, to the sun-scorched realm of Athas. Within this guide for Old School Essentials, you will discover the tools to ignite adventure in this unforgiving wasteland. Craft deadly dungeons, navigate treacherous wilderness, and unleash unique monsters upon daring adventurers. Athas demands your imagination, challenging preconceptions and blurring the line between heroism and survival.
 
-Within these pages, you will find everything you need to understand the world of
-Dark Sun. From the twisted civilizations that cling to survival to the unique magic
-and psionics that shape the realm, this conversion guide offers a comprehensive
-glimpse into the rich tapestry of Athas. Unravel the intricacies of the harsh
-landscape, delve into the secrets of the ancient ruins, and navigate the delicate
-balance of power among its factions.
+Within these pages, you will find everything you need to understand the world of Dark Sun. From the twisted civilizations that cling to survival to the unique magic and psionics that shape the realm, this conversion guide offers a comprehensive glimpse into the rich tapestry of Athas. Unravel the intricacies of the harsh landscape, delve into the secrets of the ancient ruins, and navigate the delicate balance of power among its factions.
 
-Welcome, Dungeon Masters, to the extraordinary world of Athas. The fate of the
-wasteland rests in your hands, and this guide will be your compass on this
-unforgettable journey.
+Welcome, Dungeon Masters, to the extraordinary world of Athas. The fate of the wasteland rests in your hands, and this guide will be your compass on this unforgettable journey.
 
-Credits
+# Credits
 
-Writing, Editing, Layout: Lixu
+**Writing, Editing, Layout:** Lixu
 
-Art, interior and exterior: John Baxa, Gerald Brom, Moebius, Tony DiTerlizzi, John
-Dollar,
+**Art, interior and exterior:** John Baxa, Gerald Brom, Moebius, Tony DiTerlizzi, John Dollar,
 
-Cover Layout: Alexandre Henriques
+**Cover Layout:** Alexandre Henriques
 
 ---
 
 # Page 3
 
-Table of Contents
+## Table of Contents
 
-Chapter 1: Running Adventures
-Running Games in Athas...............
-Adventure Scenarios
-Experience...
-Survival...
-Environmental Hazards .
-Athasian Time...
+## chapter 1: Running Adventures
 
-Chapter 2: Mass Combat
-Mass Combat
-Sieges
+| Entry | Page |
+|---|---:|
+| Running Games in Athas | 5 |
+| Adventure Scenarios | 6 |
+| Experience | 7 |
+| Survival | 8 |
+| Environmental Hazards | 10 |
+| Athasian Time | 11 |
 
-Chapter 3: Monsters
-Monster Statistics...
-Monster Descriptions
-Miscellaneous Monsters... ..
-Monsters from Other Setting:
+## chapter 2: Mass Combat
 
-Chapter 4: Encounters
-Encounter Tables...
-NPC Encounters..
+| Entry | Page |
+|---|---:|
+| Mass Combat | 14 |
+| Sieges | 17 |
 
-  
- 
- 
-  
+## chapter 3: Monsters
 
- 
+| Entry | Page |
+|---|---:|
+| Monster Statistics | 19 |
+| Monster Descriptions | 21 |
+| Miscellaneous Monsters | 55 |
+| Monsters from Other Settings | 56 |
 
- 
+## chapter 4: Encounters
 
- 
+| Entry | Page |
+|---|---:|
+| Encounter Tables | 58 |
+| NPC Encounters | 62 |
+| Encounter Complications | 63 |
 
- 
- 
-  
+## chapter 5: Treasure and Magic Items
 
- 
+| Entry | Page |
+|---|---:|
+| Treasure | 65 |
+| Valuable Items | 67 |
+| Additional Magical Items | 68 |
+| Athasian Trinkets | 74 |
 
- 
+## Appendix A: Generators
 
- 
+| Entry | Page |
+|---|---:|
+| City-state Generator | 77 |
+| Wilderness Feature Generator | 80 |
+| Athasian Settlement Generator | 82 |
+| Ruin Generator | 84 |
+| Vegetation Generator | 88 |
+| Hydrography Generator | 88 |
+| Rocky Formations | 89 |
+| Ground Features | 89 |
+| Relief Generator | 90 |
 
- 
+## Appendix I: House Rules
 
-Encounter Complications
-Chapter 5: Treasure and Magic
-Items
-
-Treasure... 65
-
- 
-
-.67
-68
-74
-
-Valuable Item:
-Additional Magical Item:
-Athasian Trinkets... ...
-Appendix A: Generators
-City-state Generator... .77
-Wilderness Feature Generator... 80
-Athasian Settlement Generator. 82
-Ruin Generator....... 84
-Vegetation Generator 88
-Hydrography Generator 88
-
-  
-
- 
-
- 
-
- 
-
- 
-
- 
-
-  
-
-Rocky Formations 89
-Ground Features 89
-Relief Generator 90
-
- 
-
-Appendix L: House Rules
-House Rules............
-Inspirational Material
-
-92
-94
+| Entry | Page |
+|---|---:|
+| House Rules | 92 |
+| Inspirational Material | 94 |
 
 ---
 
 # Page 4
 
-Chapter 1: Runnings
-dventures&SS
+Chapter 1: Running Adventures
 
 ---
 
@@ -848,40 +790,70 @@ Guthay
 
 # Page 12
 
-Tre ese Coeeapge,
+# The Merchant's Calendar
 
-  
-  
+## Note
 
-  
+- 1 year = 375 days
+- 3 seasons:
+  - High Sun
+  - Sun Descending
+  - Sun Ascending
+- 12 months of 30 days each
+- 3 festival weeks of 5 days each
+- Highest Sun = first day of the year
+- Low Sun = midpoint of the year
 
-» Poryminns
+## Seasons / Sun Markers
 
-Licqae,
+- Highest Sun
+- High Sun
+- Sun Descending
+- Low Sun
+- Sun Ascending
 
-te a ie
-we
+## Calendar Table
 
-se
+| Season | Month / Festival | Days | First Day | Star Sign / Note |
+|---|---|---:|---:|---|
+| High Sun | Dominary | 30 | 1 | Balimarash the Caravan |
+| High Sun | Sedulous | 30 | 31 | Fiddle the Beetle |
+| Sun Descending | Fortuary | 30 | 61 | Hesper the Kenku |
+| Sun Descending | Macro | 30 | 91 | Saurus the Lizard |
+| Sun Descending | Dessalia | 5 | 121 | On the cusp |
+| Sun Descending | Fifthover | 30 | 126 | Hortle the Spider |
+| Sun Descending | Hexameron | 30 | 156 | Sylk the Wyrm |
+| Sun Ascending | Morrow | 30 | 186 | Tasker the Scorpion |
+| Sun Ascending | Octavus | 30 | 216 | Pyrus the Wheel |
+| Sun Ascending | Assalia | 5 | 246 | On the cusp |
+| Sun Ascending | Thaumast | 30 | 251 | The Dragon |
+| Sun Ascending | Anabasis | 30 | 281 | Tyrospur the Lion |
+| High Sun | Hoard | 30 | 311 | Scratch the Basilisk |
+| High Sun | Flagstaad | 30 | 341 | Krawler the Kank |
+| High Sun | Zenalia | 5 | 371 | On the cusp |
 
-(y/ 4
+## Constellations / Signs
 
-my ems S95 943 / 5 Sspbeds/ 12 POTS
+- Balimarash — The Caravan
+- Fiddle — The Beetle
+- Hesper — The Kenku
+- Saurus — The Lizard
+- Hortle — The Spider
+- Sylk — The Wyrm
+- Tasker — The Scorpion
+- Pyrus — The Wheel
+- The Dragon
+- Tyrospur — The Lion
+- Scratch — The Basilisk
+- Krawler — The Kank
 
-AP 3 Fost wary
-A dase =f apagys,
-Sop 20 ays
-2 FTE dry -
+## Festival Weeks
 
-    
- 
-  
+- Dessalia
+- Assalia
+- Zenalia
 
- 
-
- 
-
-12
+*© 1993 TSR, Inc. All Rights Reserved*
 
 ---
 
@@ -1309,7 +1281,7 @@ once will render them useless.
 
 # Page 18
 
-18
+Chapter 3: Monsters
 
 ---
 
@@ -1535,323 +1507,142 @@ the DM.
 
 # Page 21
 
-Monster
-Descriptions
+# Monster Descriptions
 
-Aaracokra
+## Aarakokra
 
-Humanoid bird people.These creatures
-rarely leave their homes high in the
-mountains, but sometimes they venture
-into the inhabited regions of the
-Tablelands. Languages: Common,
-Aaracokra
+Humanoid bird people. These creatures rarely leave their homes high in the mountains, but sometimes they venture into the inhabited regions of the Tablelands. **Languages:** Common, Aarakokra
 
-AC 7[12], HD 1+2(6 hp), Att 1x weapon
-(1d6 or by weapon), Thaco 19[0] MV
-6'(36’) flying, SV Diz W13 P14 Bis S16 (1),
-ML 6 (8 with chieftain), AL Chaotic, XP
-20, NA idio (3di0), TT D
+**AC** 7 [12], **HD** 1+2 (6 hp), **Att** 1 x weapon (1d6 or by weapon), **Thaco** 19[0] **MV** 6'(30') flying, **SV** D12 W13 P14 B15 S16 (1), **ML** 6 (8 with chieftain), **AL** Chaotic, **XP** 20, **NA** 1d10 (3d10), **TT** D
 
-PSI: WT: All-Round Vision,
-Know Direction Powers: 2
-Dive Attack: If the aarakocra is
-flying, it can dive straight
-toward a target and then hits it
-with a melee weapon attack, the
-attack deals an extra 1d6 (3)
-damage to the target.
+**PSI: WT:** All-Round Vision, Know Direction
+**Powers:** 2
 
-Leader: A 2 HD leader (with
-uhp) is present for every 20
-aaracokras.
+**Dive Attack:** If the aarakocra is flying, can dive straight toward a target and then hits it with a melee weapon attack, the attack deals an extra 1d6 (3) damage to the target.
 
- 
+**Leader:** A 2 HD leader (with 11hp) is present for every 20 aarakokras.
 
-Anakore
+## Anakore
 
-The dune freaks, or anakore, are a race
-of dimwitted humanoids. They are
-nomadic burrowers who are constantly
-moving through the sandy wastes of
-Athas
+The dune freaks, or anakore, are a race of dimwitted humanoids. They are nomadic burrowers who are constantly moving through the sandy wastes of Athas
 
-AC 7[12], HD 3(14 hp), Att 2x weapon
-(idq4 or by weapon), Thaco 17[+2] MV
-40'(20’) burrow, SV Di2 W173 P14 Bis S16
-(3), ML 7, AL Neutral, XP 95, NA 2d6,
-TTP
+**AC** 7 [12], **HD** 3 (14 hp), **Att** 2 x weapon (1d4 or by weapon), **Thaco** 17[+2] **MV** 40'(20') burrow, **SV** D12 W13 P14 B15 S16 (2), **ML** 7, **AL** Neutral, **XP** 95, **NA** 2d6, **TT** P
 
-PSI: WT: Life Detection
-Powers: 2
-Infravision:
-Light sensitivity: Suffer a -2
-penalty to attack rolls and a -1
-penalty to AC when in bright
-light (daylight, continual light).
-Drag under: The Anakore drags
-the target underground and hits
-it with poisonous claws. The
-target must Save vs paralysis, if
-it fails it is paralyzed for 1d4
-rounds, if it succeeds the target
-is then able to escape.
+**PSI: WT:** Life Detection
+**Powers:** 2
 
- 
+**Infravision:** 90'.
 
- 
+**Light sensitivity:** Suffer a -2 penalty to attack rolls and a -1 penalty to AC when in bright light (daylight, continual light).
 
-21
+**Drag under:** The Anakore drags the target underground and hits it with poisonous claws. The target must Save vs paralysis, if it fails it is paralyzed for 1d4 rounds, if it succeeds the target is then able to escape.
 
 ---
 
 # Page 22
 
-Baazrag
+## Baazrag
 
-Two feet long or less omnivore, it is one
-of the smallest in the stony barren
-regions. Lives in small caves and tiny
-crags.
+Two feet long or less omnivore, it is one of the smallest in the stony barren regions. Lives in small caves and tiny crags.
 
-AC 4[15], HD 1(4 hp), Att 1x weapon
-(1d4+2 claws or bite), Thaco 19[o]
+**AC** 4 [15], **HD** 1 (4 hp), **Att** 1 x weapon (1d4+2 claws or bite), **Thaco** 19[0] **MV** 40', **SV** D12 W13 P14 B15 S16 (1), **ML** 6, **AL** Neutral, **XP** 15, **NA** 2d10 (4d10), **TT** Nil
 
-MV 40; SV Diz W23 P14 Bis S16 (1), ML
-6, AL Neutral, XP 15, NA 2d10 (4di0), TT
-Nil
+**PSI:** Kinetic Fist
+**Powers:** 2
+**Rank:** 1st
 
-PSI: Kinetic Fist Powers: 2
-Rank: ist
+**Infravision:** 60'
 
-Infravision: 60'
+**Boneclaw:** Once in a very great while, a baazrag is born being much larger than normal. This creature is a boneclaw. The boneclaw stands more than 8 feet tall. **HD:** 4 (18 hp), **Att** 2 x weapon (1d4+2 claws), **MV** 60', **XP** 125, **TT** Nil.
 
-Boneclaw: Once in a very great
-while, a baazrag is born being
-much larger than normal. This
-creature is a boneclaw. The
-boneclaw stands more than 8
-feet tall. HD: 4(18 hp), Att 2 x
-weapon (1d4+2 claws), MV 60’
-XP 125 TT Nil.
+## Belgoi
 
-Belgoi
+Demihumans who dwell in the most forlorn wastes of Athas. They have a taste for the flesh of intelligent races.
 
-Demihumans who dwell in the most
-forlorn wastes of Athas. They have a
-taste for the flesh of intelligent races.
+**AC** 7 [12], **HD** 3 (14 hp), **Att** 2 x weapon (1d4+2 claws or by weapon), **Thaco** 16[+3] **MV** 40', **SV** D12 W13 P14 B15 S16 (3), **ML** 8, **AL** Chaotic, **XP** 80, **NA** 1d10 (1d10), **TT** M
 
-AC 7[12], HD 3(14 hp), Att 2 x weapon
-(1d4+2 claws or by weapon), Thaco
-16[+3] MV 40’, SV Diz W13 P14 Bis S16
-(3), ML 8, AL Chaotic, XP 80, NA 1dio
-(idio), TT M
+**PSI:** Hypnosis, Domination
+**WT:** Life Detection
+**Powers:** 3
+**Rank:** 2nd.
 
-PSI: Hypnosis, Domination WT:
-Life Detection Powers: 3 Rank:
-2nd.
-
-Poisonous Claws: Belgois
-secret poison when attacking
-with their claws. Target must
-save vs death and lose 1d4 CON
-ona failure. Once the target's
-CON reaches 0, it falls
-unconscious and Belgois may
-feast on it.
-
- 
-
-22
+**Poisonous Claws:** Belgois secret poison when attacking with their claws. Target must **save vs death** and lose 1d4 CON on a failure. Once the target's CON reaches 0, it falls unconscious and Belgois may feast on it.
 
 ---
 
 # Page 23
 
-Braxat
+## Braxat
 
-Braxat is a huge humanoid of mixed
-stock, mostly a combination of
-mammalian and reptilian. They are true
-terrors of the desert, usually attacking at
-night in search of fresh meat.
+Braxat is a huge humanoid of mixed stock, mostly a combination of mammalian and reptilian. They are true terrors of the desert, usually attacking at night in search of fresh meat.
 
-AC ofig], HD 10 (45 hp), Att 1x weapon
-(2dio by spiked club), Thaco [+8] MV
-45, SV D6 W7 P8 B8 Sio (10), ML 11, AL
-Neutral, XP 2300, NA 0 (id2), TT V
+**AC** 0 [19], **HD** 10 (45 hp), **Att** 1 x weapon (2d10 by spiked club), **Thaco** 11 [+8] **MV** 45', **SV** D6 W7 P8 B8 S10 (10), **ML** 11, **AL** Neutral, **XP** 2300, **NA** 0 (1d2), **TT** V
 
-Brambleweed
+**PSI:** Invisibility, Kinetic Shield, Mind Bar, Telekinesis
+**WT:** Chameleon Power, Control Sound
+**Powers:** 10
+**Rank:** 2nd
 
-Brambleweed is a thick, thorny, vine-like
-plant that grows with incredible speed,
-creating an almost impassable wall
-around sources of water in the desert.
+**Infravision:** 90'
 
-AC 8[12], HD 1** (4 hp), Att dioo x
-needle (1 damage per needle), Thaco
-1g9[o] MV 0, SV Diz W13 P14 Bis S16 (1),
-ML N/A, AL Neutral, XP 15,
+**Breath weapon:** 10' long line of acid, 2d10 damage (save versus breath for half).
 
-NA 100(100), TT Nil
+**Resistance to non-metal weapons:** Only suffer 1 point of damage to non-metal or non-magical weapons.
 
- 
+## Brambleweed
 
-PSI: Invisibility, Kinetic Shield,
-Mind Bar, Telekinesis WT:
-Chameleon Power, Control
-Sound Powers: 10 Rank 2nd
-Infravision: 90'
+Brambleweed is a thick, thorny vine-like plant that grows with incredible speed, creating an almost impassable wall around sources of water in the desert.
 
-Breath weapon: 10’ long line of
-acid, 2dio damage (save versus
-breath for half).
+**AC** 8 [12], **HD** 1** (4 hp), **Att** d100 x needle (1 damage per needle), **Thaco** 19 [0] **MV** 0, **SV** D12 W13 P14 B15 S16 (1), **ML** N/A, **AL** Neutral, **XP** 15, **NA** 100 (100), **TT** Nil
 
-Resistance to non-metal
-weapons: Only suffer 1 point of
-damage to non-metal or
-non-magical weapons.
+**: Each Hit Die counts for 10 square feet of the plant.
 
- 
-
-**: Each Hit Die counts for 10
-square feet of the plant
-
-Plant Needles: Brambleweed
-does not make an attack, but ifa
-victim is thrown into a section
-of brambleweed make an attack
-
-roll.
-
- 
-
-23
+**Plant Needles:** Brambleweed does not make an attack, but if a victim is thrown into a section of brambleweed make an attack roll.
 
 ---
 
 # Page 24
 
-Brogh
+## Cactus
 
-Brrohg are giant, slim, humanoid giants
-with four arms and two legs. They are
-often hunted for combat in the
-gladiatorial arenas of Athas due to their
-strength, size and combat prowess
+Cacti are a vile form of plant life that dwells anywhere there is sand. It feeds on the blood of its victims. They often rest among a group of normal cacti if one is available.
 
-AC 7[12], HD 543 (25 hp), Att 4 x
-weapon (1d8 by fist or weapon), Thaco
-15[+4] MV 40) SV Dio Wu Pi2 Biz Si4
-(4), ML 6, AL Neutral, XP 575, NA 1di2
-(adi2), TT J
+- **False appearance:** While they remain immobile, cacti seem indistinguishable from other normal cacti.
+- **Blindsight:** Cacti can only perceive 30' around them, they are blind beyond this point.
 
-PSI: WT: Know Direction,
-All-Round Vision Powers: 2
-Multi-arm Defense: Whenever
-a Brogh is not attacking with
-any pair of hands, it gains -2[+2]
-AC for each pair.
+## Sand Cactus
 
-Multi Attacks: B’rogh can
-attack up to four times, but after
-their second attack each
-subsequent attack will get a -2
-penalty to their attack roll.
+Sand cacti are well protected; the entire plant except the needles is hidden below the sand. The body is from 5-8 feet across and about 4 feet thick.
 
- 
+**AC** 8 [12], **HD** 5 (22 hp), **Att** 4-8 x spine (1d3 per appendage), **Thaco** 15 [+4] **MV** 0, **SV** D10 W11 P12 B12 S14 (4), **ML** N/A, **AL** Neutral, **XP** 575, **NA** 0 (1), **TT** Nil
 
-Cactus
+**PSI WT:** Life Detection
 
-Cacti are a vile form of plant life that
-dwells anywhere there is sand. It feeds
-on the blood of its victims. They often
-rest among a group of normal cacti if
-one is available.
-
-e False appearance: While they
-remain immobile, cacti seem
-indistinguishable from other
-normal cacti.
-
-e  Blindsight: Cacti can only
-perceive 30’ around them, they
-are blind beyond this point
-
-Sand Cactus
-
-Sand cacti are well protected; the entire
-plant (except the needles) is hidden
-below the sand. The body is from 5-8
-feet across and about 4 feet thick.
-
-AC 8[12], HD 5 (22 hp), Att 4-8 x spine
-(id3 per appendage), Thaco 15[+4] MV 0,
-SV Dio Wu P12 Bi2 S14 (4), ML N/A, AL
-Neutral, XP 575, NA o(1), TT Nil
-
-PSI: WT: Life Detection
-
-Underground Plant: It preys
-from underground, it has 0 [20]
-AC when its main body is
-buried, around 6’-8’
-underground.
-
- 
-
-24
+**Underground Plant:** It preys from underground, it has 0 [20] AC when its main body is buried, around 6'-8' underground.
 
 ---
 
 # Page 25
 
-Hunting Cactus
+## Hunting Cactus
 
-Hunting cacti stand 3 feet high and have
-a number of oval shaped pods attached
-to the main trunk. They rely mostly on
-their psionic abilities to detect prey.
+Hunting cacti stand 3 feet high and have a number of oval shaped pods attached to the main trunk. They rely mostly on their psionic abilities to detect prey.
 
-AC 8[12], HD 5+5 (27 hp), Att 6-8 x spine
-(1d4 per appendage), Thaco 15[+4] MV
-0, SV Dio Wn P12 Bi2 $14 (4), ML N/A,
-AL Neutral, XP 575, NA 0(1), TT Nil
+**AC** 8 [12], **HD** 5+5 (27 hp), **Att** 6-8 x spine (1d4 per appendage), **Thaco** 15 [+4] **MV** 0, **SV** D10 W11 P12 B12 S14 (4), **ML** N/A, **AL** Neutral, **XP** 575, **NA** 0 (1), **TT** Nil
 
-PSI: WT: Life Detection
+**PSI WT:** Life Detection
 
-Poison spines: Any creature hit
-by its spines must save vs
-paralysis, failure causes
-paralysis on the target for 1d6
-rounds.
+**Poison spines:** Any creature hit by its spines must **save vs paralysis**, failure causes paralysis on the target for 1d6 rounds.
 
- 
+## Spider Cactus
 
-Spider Cactus
+Spider cactus patches look like any patch of harmless cacti until a victim is showered by their needles. The victim is then dragged into the cactus, where the feeding needles make a slow feast of the hapless being.
 
-Spider cactus patches look like any
-patch of harmless cacti until a victim is
-showered by their needles. The victim is
-then dragged into the cactus, where the
-feeding needles make a slow feast of the
-hapless being.
+**AC** 7 [13], **HD** 3 (20 hp), **Att** 1 x spine (1d4 by needle), **Thaco** 17 [+2] **MV** 0, **SV** D12 W13 P14 B15 S16 (1), **ML** N/A, **AL** Neutral, **XP** 150, **NA** 0 (2d4), **TT** Nil
 
-AC 7[13], HD 3 (20 hp), Att 1x spine
-(idq4 by needle), Thaco 17[+2] MV 0,
-SV Di2 W133 Pig Bis S16 (1), ML N/A, AL
-Neutral, XP 150, NA 0(2d4), TT Nil
+**PSI WT:** Life Detection
 
-PSI: WT: Life Detection
-Poison needle: Any creature
-hit by its spines must save vs
-paralysis, failure causes
-paralysis on the target for 1d6
-rounds. Once hit by its needle,
-the target is slowly brought to
-the cactus, which starts
-attacking with 1d8 extra needles
-(id4 damage per needle.
+**Poison needle:** Any creature hit by its spine must **save vs paralysis**, failure causes paralysis on the target for 1d6 rounds. Once hit by its needle, the target is slowly brought to the cactus, which starts attacking with 1d8 extra needles (1d4 damage per needle).
 
 ---
 
@@ -1934,146 +1725,73 @@ or desert, due to camouflage.
 
 # Page 27
 
-Cilop
+## Cilop
 
-Cilops are relentless hunters who are
-prized by the templars of all the
-city-states for their unique tracking
-abilities. The creatures look like
-enormous centipedes that reach lengths
-exceeding 15 feet.
+Cilops are relentless hunters who are prized by the templars of all the city-states for their unique tracking abilities. The creatures look like enormous centipedes that reach lengths exceeding 15 feet.
 
-AC 3[17], HD 5 (27 hp), Att 2 x bite (2d6
+**AC** 3 [17], **HD** 5 (27 hp), **Att** 2 x bite (2d6 by fang), **Thaco** 15 [+4] **MV** 50', **SV** D12 W13 P14 B15 S16 (5), **ML** 10, **AL** Neutral, **XP** 500, **NA** 1d4 (1d4), **TT** Nil
 
-by fang), Thaco 15[+4] MV 50, SV Diz
-W323 P14 Bis S16 (5), ML 10, AL Neutral,
-XP 500, NA 1d4(id4), TT Nil
+**PSI:** Levitation, Telekinesis, Precognition, Thought Shield, Crush Life
+**WT:** Life Detection, All-Round Vision, Know Direction
+**Powers:** 8
+**Rank:** 3rd
 
-PSI: Levitation, Telekinesis,
-Precognition, Thought Shield,
-Crush Life WT: Life Detection,
-All-Round Vision, Know
-Direction, Powers: 8 Rank: 3rd
-Danger Sense: It cannot be
-surprised.
+**Danger Sense:** It cannot be surprised.
 
-Poison: Causes victims to
-become horribly sick for ten
-days (save versus poison): no
-physical activity possible except
-half speed movement.
-Infravision: 90'
+**Poison:** Causes victims to become horribly sick for ten days (**save versus poison**): no physical activity possible except half speed movement.
 
-Pursuit: Always pursue prey
-that flees.
+**Infravision:** 90'
 
- 
+**Pursuit:** Always pursue prey that flees.
 
-Cistern Fiend
+## Cistern Fiend
 
-The cistern fiend appears as a giant,
-vaguely green but translucent worm
-with a great mass of coiling pinkish
-tentacles surrounding a hideous mouth,
-it preys near water sources.
+The cistern fiend appears as a giant, vaguely green but translucent worm with a great mass of coiling pinkish tentacles surrounding a hideous mouth, it preys near water sources.
 
-AC o[20], HD 10+10 (55 hp), Att 4 x whip
-(id6 by tentacle), Thaco 9[+10] MV 40;
-SV D6 W7 P8 B8 Sio (10), ML, AL
-Neutral, XP 3000 , NA 1(1), TT Water
+**AC** 0 [20], **HD** 10+10 (55 hp), **Att** 4 x whip (1d6 by tentacle), **Thaco** 9 [+10] **MV** 40', **SV** D6 W7 P8 B8 S10 (10), **ML** 11, **AL** Neutral, **XP** 3000, **NA** 1 (1), **TT** Water
 
-PSI:Mind Bar, Telekinesis, Mind
-Link, Thought Shield, Crush
-Life WT: Life Detection,
-All-Round Vision, Know
-Direction, Powers: 8 Rank: 3rd
-Life Absorption: if a cistern
-fiend bites a target, the victim
-will have to save vs death and
-on a failure receive 4d8 damage,
-out of which half that amount
+**PSI:** Mind Bar, Telekinesis, Mind Link, Thought Shield, Crush Life
+**WT:** Life Detection, All-Round Vision, Know Direction
+**Powers:** 8
+**Rank:** 3rd
 
-will heal the Cistern Fiend.
-Infravision: 90'
+**Life Absorption:** If a cistern fiend bites a target, the victim will have to **save vs death** and on a failure receive 4d8 damage, out of which half that amount will heal the Cistern Fiend.
 
-Poison bite: Any creature hit
-by its bite must save vs
-paralysis, failure causes
-paralysis on the target for 1d6
-rounds.
+**Infravision:** 90'
 
- 
-
- 
-
- 
-
- 
-
-27
+**Poison bite:** Any creature hit by its bite must **save vs paralysis**, failure causes paralysis on the target for 1d6 rounds.
 
 ---
 
 # Page 28
 
-Cloud Ray
+## Cloud Ray
 
-Through the skies and clouds of Athas
-slowly fly these deadly giants. Cloud rays
-can sometimes be seen crossing the
-evening sky.
+Through the skies and clouds of Athas slowly fly these deadly giants. Cloud rays can sometimes be seen crossing the evening sky.
 
-AC 5[15], HD 12+7 (61 hp), Att 2 x attack
-(2dio by tail or bite), Thaco 12[+7] MV
-6'(120’) flying, SV D6 W7 P8 B8 Sio (12),
-ML 10, AL Neutral, XP 2,700, NA o(1),
-TT Nil
+**AC** 5 [15], **HD** 12+7 (61 hp), **Att** 2 x attack (2d10 by tail or bite), **Thaco** 12 [+7] **MV** 6' (120') flying, **SV** D6 W7 P8 B8 S10 (12), **ML** 10, **AL** Neutral, **XP** 2,700, **NA** 0 (1), **TT** Nil
 
-PSI:Mind Bar, Telekinesis,
-Kinetic Shield, Thought
-Shield, Levitation, Astral
-Projection WT: All-Round
-Vision, Know Direction,
-Powers: 10 Rank: 3rd
-Levitation: Cloud Rays can
-cast levitation on themselves
-without restriction.
+**PSI:** Mind Bar, Telekinesis, Kinetic Shield, Thought Shield, Levitation, Astral Projection
+**WT:** All-Round Vision, Know Direction
+**Powers:** 10
+**Rank:** 3rd
 
-Inertial Barrier: The cloud
-ray can create a skin-tight
-psychokinetic barrier around
-yourself that resists blows,
-cuts, stabs, and slashes, as well
-as providing some protection
-against falling. Said barrier
-lasts 1dio rounds.
-Infravision: 300'
+**Levitation:** Cloud Rays can cast levitation on themselves without restriction.
 
-Dream Travel: When casting
-Astral Projection, it can select
-a location and cast teleport to
-said location.
+**Inertial Barrier:** The cloud ray can create a skin-tight psychokinetic barrier around yourself that resists blows, cuts, stabs, and slashes, as well as providing some protection against falling. Said barrier lasts 1d10 rounds.
 
- 
+**Infravision:** 300'
 
-Cordlu
+**Dream Travel:** When casting Astral Projection, it can select a location and cast teleport to said location.
 
-Crodlu are large reptiles that roam the
-deserts and scrub land in herds.
-Sometimes they are kept by herders as
-cattle.
+## Cordlu
 
-AC 4[16], HD 2+4 (14 hp), Att 1x attack
-(id6 by claw or bite), Thaco 15[+4] MV
-40, SV Diz W13 P14 Bis S16 (2), ML 6, AL
-Neutral, XP 40, NA 0(5d6), TT Nil
+Crodlu are large reptiles that roam the deserts and scrubland in herds. Sometimes they are kept by herders as cattle.
 
-PSI: WT: All-Round Vision,
-Know Direction Powers: 2
+**AC** 4 [16], **HD** 2+4 (14 hp), **Att** 1 x attack (1d6 by claw or bite), **Thaco** 15 [+4] **MV** 40', **SV** D12 W13 P14 B15 S16 (2), **ML** 6, **AL** Neutral, **XP** 40, **NA** 0 (5d6), **TT** Nil
 
- 
-
-28
+**PSI WT:** All-Round Vision, Know Direction
+**Powers:** 2
 
 ---
 
@@ -2154,219 +1872,96 @@ their homes.
 
 # Page 30
 
-Air Drake
-They spend most of their time soaring
-the Athasian skies.
+## Air Drake
 
-AC -2[22], HD 20+9 (99 hp), Att 4x
-attack (2d8+idio), Thaco 5[+14] MV
-40’(60’)flying, SV D2 W2 P2 B2 Sq (20),
-ML 12, AL Neutral, XP 5,000, NA o(1),
-TT Body Parts
+They spend most of their time soaring the Athasian skies.
 
-PSI: Refer to main entry +
-Levitation and Telekinesis
-Wind Attack: They are able to
-cast a 60’ diameter, circular
-bubble of tornado-like winds.
-Anyone caught inside the area
-will be buffeted for 3dio points
-of damage (save versus breath
-weapon for half damage). This
-counts as their Breath
+**AC** -2 [22], **HD** 20+9 (99 hp), **Att** 4 x attack (2d8+1d10), **Thaco** 5 [+14] **MV** 40' (60') flying, **SV** D2 W2 P2 B2 S4 (20), **ML** 12, **AL** Neutral, **XP** 5,000, **NA** 0 (1), **TT** Body Parts
 
-‘Weapon.
+**PSI:** Refer to main entry + Levitation and Telekinesis
 
-Dive Attack: If the Air Drake is
-flying, it can dive straight
-toward a target and then hits it
-with a melee weapon attack, the
-attack deals an extra 2d8
-damage to the target.
+**Wind Attack:** They are able to cast a 60' diameter, circular bubble of tornado-like winds. Anyone caught inside the area will be buffeted for 3d10 points of damage (**save versus breath weapon** for half damage). This counts as their **Breath Weapon**.
 
-Earth Drake
+**Dive Attack:** If the Air Drake is flying, it can dive straight toward a target and then hits it with a melee weapon attack, the attack deals an extra 2d8 damage to the target.
 
-Often mistaken for an outcropping of
-rock, it is covered with thousands of
-small, spiny scales.
+## Earth Drake
 
-AC -4[24], HD 20+20 (uo hp), Att 4x
-attack (3d8+1d12), Thaco 5[+14] MV
-50'(30’)burow, SV D2 W2 P2 B2 Sq (20),
-ML 12, AL Neutral, XP 5,500, NA 1(1),
-TT Body Parts
+Often mistaken for an outcropping of rock, is covered with thousands of small, spiny scales.
 
-PSI: Refer to main entry +
-Molecular Agitation, Molecular
-Manipulation, Telekinesis,
-Dimension Door.
+**AC** -4 [24], **HD** 20+20 (110 hp), **Att** 4 x attack (3d8+1d12), **Thaco** 5 [+14] **MV** 50' (30') burrow, **SV** D2 W2 P2 B2 S4 (20), **ML** 12, **AL** Neutral, **XP** 5,500, **NA** 1 (1), **TT** Body Parts
 
-Earth Shaping: Once per day
-They are able to create
-50-cubic-feet of solid matter in
-the form of dirt, stones, and
-boulders from the elemental
-plane of earth, causing 3dio
-damage (save vs breath for
-half).
+**PSI:** Refer to main entry + Molecular Agitation, Molecular Manipulation, Telekinesis, Dimension Door.
 
-Breath Weapons: 100’ long line
-of rock spikes out its mouths.
+**Earth Shaping:** Once per day they are able to create 500-cubic-feet of solid matter in the form of dirt, stone, and boulders from the elemental plane of earth, causing 3d10 damage (**save vs breath** for half).
 
- 
-
-30
+**Breath Weapons:** 100' long line of rock spikes out its mouths.
 
 ---
 
 # Page 31
 
-Fire Drake
+## Fire Drake
 
-They enjoy inflicting pain for the
-pleasure of watching their victims writhe
-in agony. A fire drake’s greatest delight
-comes from torturing a potential meal.
+They enjoy inflicting pain for the pleasure of watching their victims writhe in agony. A fire drake's greatest delight comes from torturing a potential meal.
 
-AC -3[23], HD 20+5 (95 hp), Att 4x
-attack (2d10+2d8), Thaco 5[+14] MV 45)
-SV D2 W2 P2 B2 S4 (20), ML 12, AL
-Neutral, XP 5,000, NA o(1), TT Body
-Parts
+**AC** -3 [23], **HD** 20+5 (95 hp), **Att** 4 x attack (2d10+2d8), **Thaco** 5 [+14] **MV** 45', **SV** D2 W2 P2 B2 S4 (20), **ML** 12, **AL** Neutral, **XP** 5,000, **NA** 0 (1), **TT** Body Parts
 
-PSI: Refer to main entry + Mind
-Link, Mass Domination,
-Telekinesis, Molecular
-Agitation.
+**PSI:** Refer to main entry + Mind Link, Mass Domination, Telekinesis, Molecular Agitation.
 
-Fire Summoning: able to cast a
-50’ diameter sphere of fire. The
-fire will burn for 1d6 +4 rounds.
-An unprotected take 4dio fire
-damage per round that they
-remain in the fire (save vs
-breath for half damage).
-Breath Weapons: go’ long cone
-of fire.
+**Fire Summoning:** Able to cast a 50' diameter sphere of fire. The fire will burn for 1d6+4 rounds. An unprotected creature takes 4d10 fire damage per round that they remain in the fire (**save vs breath** for half damage).
 
- 
+**Breath Weapons:** 90' long cone of fire.
 
-Water Drake
+## Water Drake
 
-The most elusive of all drakes. They live
-near a deep water source, if possible; and
-to aquifers deep below the ground.
+The most elusive of all drakes. They live near a deep water source, if possible; and aquifers deep below the ground.
 
-AC -i[21], HD 2045 (90 hp), Att 4 x
-attack (2d10+2d8), Thaco 5[+14] MV
-35'(60’)Swimming, SV D2 W2 P2 B2 Sq
-(20), ML 12, AL Neutral, XP 5,000, NA
-o(1), TT Body Parts
+**AC** -1 [21], **HD** 20+5 (90 hp), **Att** 4 x attack (2d10+2d8), **Thaco** 5 [+14] **MV** 35' (60') Swimming, **SV** D2 W2 P2 B2 S4 (20), **ML** 12, **AL** Neutral, **XP** 5,000, **NA** 0 (1), **TT** Body Parts
 
-PSI: Refer to main entry +
-Dimension Door, Mind Over
-Body, Shape Alteration,
-Telekinesis, Molecular
-Manipulation
+**PSI:** Refer to main entry + Dimension Door, Mind Over Body, Shape Alteration, Telekinesis, Molecular Manipulation
 
-Ice Sphere: They are able to
-gate a 30’ diameter sphere of Ice
-for dio rounds. Anyone caught
-inside this sphere must save
-versus breath weapon or be
-frozen inside it. Individuals will
-take 1d8 points of cold damage
-per round and will suffocate
-unless rescued.
+**Ice Sphere:** They are able to create a 30' diameter sphere of ice for 1d10 rounds. Anyone caught inside this sphere must **save versus breath weapon** or be frozen inside it. Individuals will take 1d8 points of cold damage per round and will suffocate unless rescued.
 
-Breath weapons: : Boiling
-Water line, 100’ range, 20’
-diameter.
-
- 
-
-31
+**Breath weapons:** Boiling water line, 100' range, 20' diameter.
 
 ---
 
 # Page 32
 
-
+*[Full-page illustration: winged demon/beast creature]*
 
 ---
 
 # Page 33
 
-Dragon of Tyr
+## Dragon of Tyr
 
-Fortunately, there is only one dragon in
-the Tyr Region, and perhaps in the
-entire world of Athas. Its appearance is
-reptilian in many ways: it has a long,
-snake-like neck, whip-like tail, and scaly
-hide. Yet it walks on two legs, its hands
-have long, well developed fingers and
-thumbs, its bone structure seems faintly
-humanoid, and its head is long and
-narrow, with a distinctly mammalian
-appearance.
+Fortunately, there is only one dragon in the Tyr Region and perhaps in the entire world of Athas. Its appearance is reptilian in many ways: it has a long, snake-like neck, whip-like tail, and scaly hide. Yet it walks on two legs, its hands have long, well developed fingers and thumbs, its bone structure seems faintly humanoid, and its head is long and narrow, with a distinctly mammalian appearance.
 
-Mysterious Origin: The dragon
-wanders over all parts of Athas, usually
-alone. Occasionally, it visits a
-sorcerer-king, leaving disaster and chaos
-in its wake. Nobody knows, however,
-where it comes from, being a secret only
-known by the sorcerer kings.
+**Mysterious Origin:** The dragon wanders over all parts of Athas, usually alone. Occasionally, it visits a sorcerer-king, leaving disaster and chaos in its wake. Nobody knows, however, where it comes from, being a secret only known by the sorcerer kings.
 
-AC -5[25], HD 40** (200 hp), Att 4x
-attack (2d10+15 by claws and tail), Thaco
-o[+19] MV 60'(60’)Flying, SV D2 W2 P2
-B2 S2 (21), ML 12, AL Lawful, XP 10,000,
-NAi, TTH
+**AC** -5 [25], **HD** 40** (200 hp), **Att** 4 x attack (2d10+15 by claws and tail), **Thaco** 0 [+19] **MV** 60' (60') Flying, **SV** D2 W2 P2 B2 S2 (21), **ML** 12, **AL** Lawful, **XP** 10,000, **NA** 1, **TT** H
 
-PSI: Accelerated Motion, Telekinesis,
-Cell Adjustment, Mass Domination,
-Hypnosis, Body Control, Thought
-Shield, Crush Life, Molecular Agitation,
-Mind Bar, Molecular Rearrangement,
-Precognition, Teleport, Invisibility,
-Clairaudience, Clairvoyance, Detect
-Magic, Astral Projection WT: All-Round
-Vision, Control Sound, Sight Link, Life
-Detection, Send Thoughts, Control
-Light, Know Direction, Animate Shadow
-Powers: 25 Rank 4th
+**PSI:** Accelerated Motion, Telekinesis, Cell Adjustment, Mass Domination, Hypnosis, Body Control, Thought Shield, Crush Life, Molecular Agitation, Mind Bar, Molecular Rearrangement, Precognition, Teleport, Invisibility, Clairaudience, Clairvoyance, Detect Magic, Astral Projection
+**WT:** All-Round Vision, Control Sound, Sight Link, Life Detection, Send Thoughts, Control Light, Know Direction, Animate Shadow
+**Powers:** 25
+**Rank:** 4th
 
-Infravision: 300'
+**Infravision:** 300'
 
-Fire immunity: Unharmed by fire.
-Mundane damage immunity: Can
-only be harmed by magical attacks.
-Psionic Resistance: Only affected by
-4th rank Powers
+**Fire immunity:** Unharmed by fire.
 
-Arcane Defiling Powers: Can cast
-Spells like a 14th level Defiler, it will
-always defile.
+**Mundane damage immunity:** Can only be harmed by magical attacks.
 
-Spells known: Charm Person, Detect
-Magic, Shield, Read Magic (1st level).
-Phantasmal Force, Mirror Image, ESP,
-Detect Invisible (2nd level). Fire Ball,
-Haste, Lightning Bolt, Hold Person (3rd.
-level). Massmorph, Wall of Fire, Wall of
-Ice, Remove Curse, Curse (4th level).
-Wall of Stone, Cloudkill, Conjure
-Elemental (5th level). Anti-Magic Spell,
-Death Spell, Disintegrate (6th level).
-Levitate: The dragon can levitate at will
-with no restrictions.
+**Psionic Resistance:** Only affected by 4th rank Powers.
 
-Breath Weapon: It can thrice per day
-breath a 50’ long cone of burning sand.
-It deals damage equal to its current hit
-points (save vs breath for half damage).
+**Arcane Defiling Power:** Can cast spells like a 14th level Defiler, it will always defile.
+
+**Spells known:** Charm Person, Detect Magic, Shield, Read Magic (**1st level**). Phantasmal Force, Mirror Image, ESP, Detect Invisible (**2nd level**). Fire Ball, Haste, Lightning Bolt, Hold Person (**3rd level**). Massmorph, Wall of Fire, Wall of Ice, Remove Curse, Curse (**4th level**). Wall of Stone, Cloudkill, Conjure Elemental (**5th level**). Anti-Magic Spell, Death Spell, Disintegrate (**6th level**).
+
+**Levitate:** The dragon can levitate at will with no restrictions.
+
+**Breath Weapon:** It can thrice per day breathe a 50' long cone of burning sand. It deals damage equal to its current hit points (**save vs breath** for half damage).
 
 ---
 
@@ -2955,62 +2550,31 @@ Boren.
 
 # Page 44
 
-Pterran
+## Pterran
 
-Pterrans are a race of lizard men who
-inhabit the Hinterlands near the Ringing
-Mountains. While most never make it
-past the mountains, some small clans
-have made their homes on the desert
-side, living in the forests and jungles
-near the Forest Ridge, near the rocky
-barrens which border the deserts of
-Athas.
+Pterrans are a race of lizard men who inhabit the Hinterlands near the Ringing Mountains. While most never make it past the mountains, some small clans have made their homes on the desert side, living in the forests and jungles near the Forest Ridge, near the rocky barrens which border the deserts of Athas.
 
-AC 8[12], HD 3 (12 hp), Att 1x attack
-(ad6 by claws or weapon), Thaco 17[+2]
-MV 40; SV Di2 W13 P14 Bis S16 (2), ML
-6, AL Neutral, XP 55 NA 1dio(2di0+5),
-TTJ(C)
+**AC** 8 [12], **HD** 3 (12 hp), **Att** 1 x attack (1d6 by claws or weapon), **Thaco** 17 [+2] **MV** 40', **SV** D12 W13 P14 B15 S16 (2), **ML** 6, **AL** Neutral, **XP** 55, **NA** 1d10 (2d10+5), **TT** J (C)
 
-PSI: ESP, Thought Shield WT:
-Know Direction, Life Detection
-Powers: 4 Rank: ist
+**PSI:** ESP, Thought Shield
+**WT:** Know Direction, Life Detection
+**Powers:** 4
+**Rank:** 1st
 
-Poison Weapons: Pterran input
-poison into their weapons,
-victims of these must save vs
+**Poison Weapons:** Pterran input poison into their weapons, victims of these must **save vs poison**, and on a fail it loses 1 STR or CON for 1d20 days. If any of those stats falls to zero, the victim dies.
 
-poison, and ona fail it loses 1
-STR or CON for 1d20 days. If any
-of those stats falls to zero, the
-victim dies.
+## Pterrax
 
- 
+Pterrax are large pteranodon-like creatures which are capable of flight. They occupy the plains and rocky barrens of Athas. Pterrax are sometimes encountered near the edges of the Forest Ridge near the Ringing Mountains, where they are commonly used by pterrans as flying mounts.
 
-Pterrax
+**AC** 7 [13], **HD** 5 (23 hp), **Att** 2 x attack (1d8 by claws), **Thaco** 17 [+2] **MV** 40' (60') Flying, **SV** D10 W11 P12 B13 S14 (5), **ML** 7, **AL** Neutral, **XP** 225, **NA** 1d6 (1d6), **TT** Nil
 
-Pterrax are large pteranodon-like
-creatures which are capable of flight.
-They occupy the plains and rocky
-barrens of Athas. Pterrax are sometimes
-encountered near the edges of the Forest
-Ridge near the Ringing Mountains,
-where they are commonly used by
-pterrans as flying mounts.
+**PSI:** Thought Shield
+**WT:** Know Direction, All-Round Vision
+**Powers:** 3
+**Rank:** 1st
 
-AC 7[13], HD 5 (23 hp), Att 2 x attack
-(id8 by claws), Thaco 17[+2] MV 40’(60’)
-Flying, SV Dio Wu Piz Bi3 S14 (5), ML 7,
-AL Neutral, XP 225 NA 1d6(id6), TT Nil
-
-PSI: Thought Shield WT: Know
-Direction, All-Round Vision
-Powers: 3 Rank: ist
-
-Dive Attack: The Pterrax dives
-onto its target and bites it,
-dealing 2d6 extra damage.
+**Dive Attack:** The Pterrax dives onto its target and bites it, dealing 2d6 extra damage.
 
 ---
 
