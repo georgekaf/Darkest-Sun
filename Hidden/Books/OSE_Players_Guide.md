@@ -1043,47 +1043,22 @@ own followers.
 
 # Page 19
 
-Fighter Level Progression
+# Fighter Level Progression
 
-Saving Throws
-
- 
-
-Level XP HD THACo|W DP B S$
-1 ° 1d8 i9[o] B 2 Yt 16
-2 2,000 2d8 igo] B3 2 4 65 16
-3 4,000 3d8 ig[o] 3 2 14 «15 (16
-4 8,000 4d8 17[+2] n wR B 14
-5 16,000 5d8 17[+2] n wR By
-6 32,000 6d8 17[+2] nu wR yp
-7 64,000 7d8 14[+5] 9 8 wo n 2
-8 120,000 8d8 14[+5] 9 8 wu 2
-9 240,000 9d8 14[+5] 9 8 wow u 2
-10 360,000 9d8+2* 12[+7] 7 6 8 9 1
-n 480,000 9d8+4* 12[+7] 7 68 9 10
-R 600,000 9d8+6* = 2[+7] | 7 6 8 9 10
-B 720,000 9d8+8* 10[+9] 5 46 7 8
-14 840,000 9d8+10* 10[+9] 5 46 7 8
-
-THACo: Attack matrix row to use.
-(Ascending AC attack bonus in {}.)
-*: Modifiers from CON no longer
-
-apply
-
-D: Death / poison; W: Wands;
-P: Paralysis / petrify; B: Breath
-attacks;
-S: Spells / rods /
-
-staves,
-
- 
-
-18
-
----
-
+| Level | XP | HD | THAC0 | W | D | P | B | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 1d8 | 19 [0] | 13 | 12 | 14 | 15 | 16 |
+| 2 | 2,000 | 2d8 | 19 [0] | 13 | 12 | 14 | 15 | 16 |
+| 3 | 4,000 | 3d8 | 19 [0] | 13 | 12 | 14 | 15 | 16 |
+| 4 | 8,000 | 4d8 | 17 [+2] | 11 | 10 | 12 | 13 | 14 |
+| 5 | 16,000 | 5d8 | 17 [+2] | 11 | 10 | 12 | 13 | 14 |
+| 6 | 32,000 | 6d8 | 17 [+2] | 11 | 10 | 12 | 13 | 14 |
+| 7 | 64,000 | 7d8 | 14 [+5] | 9 | 8 | 10 | 11 | 12 |
+| 8 | 120,000 | 8d8 | 14 [+5] | 9 | 8 | 10 | 11 | 12 |
+| 9 | 240,000 | 9d8 | 14 [+5] | 9 | 8 | 10 | 11 | 12 |
+| 10 | 360,000 | 9d8+2* | 12 [+7] | 7 | 6 | 8 | 9 | 10 |
+| 11 | 480,000 | 9d8+4* | 12 [+7] | 7 | 6 | 8 | 9 | 10 |
+| 12 |
 # Page 20
 
 Gladiator
@@ -1171,48 +1146,28 @@ than normal prices.
 
 # Page 21
 
-Gladiator Level Progression
+# Gladiator Level Progression
 
- 
+| Level | XP | HD | THAC0 | D | W | P | B | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 1d8 | 19 [0] | 12 | 13 | 14 | 15 | 16 |
+| 2 | 2,500 | 2d8 | 19 [0] | 12 | 13 | 14 | 15 | 16 |
+| 3 | 5,000 | 3d8 | 19 [0] | 12 | 13 | 14 | 15 | 16 |
+| 4 | 10,000 | 4d8 | 17 [+2] | 10 | 11 | 12 | 13 | 14 |
+| 5 | 18,500 | 5d8 | 17 [+2] | 10 | 11 | 12 | 13 | 14 |
+| 6 | 37,000 | 6d8 | 17 [+2] | 10 | 11 | 12 | 13 | 14 |
+| 7 | 85,000 | 7d8 | 14 [+5] | 8 | 9 | 10 | 11 | 12 |
+| 8 | 140,000 | 8d8 | 14 [+5] | 8 | 9 | 10 | 11 | 12 |
+| 9 | 270,000 | 9d8 | 14 [+5] | 8 | 9 | 10 | 11 | 12 |
+| 10 | 350,000 | 9d8+2* | 12 [+7] | 6 | 7 | 8 | 9 | 10 |
+| 11 | 450,000 | 9d8+4* | 12 [+7] | 6 | 7 | 8 | 9 | 10 |
+| 12 | 550,000 | 9d8+6* | 12 [+7] | 6 | 7 | 8 | 9 | 10 |
+| 13 | 700,000 | 9d8+8* | 10 [+9] | 4 | 5 | 6 | 7 | 8 |
+| 14 | 840,000 | 9d8+10* | 10 [+9] | 4 | 5 | 6 | 7 | 8 |
 
-Level XP HD THACo |D WP B §S
-1 o 1d8 19[o] 2B 4 15 16
-2 2,500 2d8 19[o] 2 Bb 4 155 16
-3 5,000 3d8 19[o] RB ys 6
-4 10,000 4d8 17[+2] i Nn 2 1 4
-5 18,500 5d8 17[+2] io uu 12 B 4
-6 37,000 6d8 17[+2] 10 Un 2 B Y
-7 85,000 7d8 14[+5] 8 9 ou 2
-8 140,000 8d8 14[+5] 8 9 wu R
-9 270,000 od8 14[+5] 8 9 wo U 2
-10 350,000 9d8+2* 12[+7] 67 8 9 10
-n 450,000 9d8+4* 12[+7] 67 8 9 10
-12 550,000 9d8+6* 12[+7] 6 7 8 9 1
-13 700,000 = 9 d8+8* ~—10[+9] 45 67 8
-14 840,000 = 9d8+10* ~—10[ +9] 45 67 8
-
-THACo: Attack matrix row to use.
-(Ascending AC attack bonus in (].)
-*; Modifiers from CON no longer
-
-apply.
-
-After Reaching 9th Level
-
-A Gladiator attracts a number of up to
-50 followers with his reputation and
-fame, getting the title of champion and
-commanding them as his own army.
-Gladiators can also build a stronghold
-or keep to use as a base of operations.
-
-D: Death / poison; W: Wands;
-P: Paralysis / petrify; B: Breath
-attacks;
-S: Spells / rods / staves.
-
----
-
+**THAC0:** Attack matrix row to use.
+**Ascending AC attack bonus** in `[]`.
+`*` 
 # Page 22
 
 Ranger
@@ -1309,82 +1264,37 @@ the chance of evasion is reduced by
 
 # Page 23
 
-Ranger Level Progression
+# Ranger Level Progression
 
- 
+| Level | XP | HD | THAC0 | W | D | P | B | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 1d8 | 19 [0] | 13 | 10 | 12 | 15 | 16 |
+| 2 | 2,500 | 2d8 | 19 [0] | 13 | 10 | 12 | 15 | 16 |
+| 3 | 5,000 | 3d8 | 19 [0] | 13 | 10 | 12 | 15 | 16 |
+| 4 | 10,000 | 4d8 | 17 [+2] | 11 | 8 | 10 | 13 | 13 |
+| 5 | 18,500 | 5d8 | 17 [+2] | 11 | 8 | 10 | 13 | 13 |
+| 6 | 37,000 | 6d8 | 17 [+2] | 11 | 8 | 10 | 13 | 13 |
+| 7 | 85,000 | 7d8 | 14 [+5] | 9 | 6 | 8 | 10 | 10 |
+| 8 | 140,000 | 8d8 | 14 [+5] | 9 | 6 | 8 | 10 | 10 |
+| 9 | 270,000 | 9d8 | 14 [+5] | 9 | 6 | 8 | 10 | 10 |
+| 10 | 350,000 | 9d8+2* | 12 [+7] | 7 | 4 | 6 | 8 | 7 |
+| 11 | 450,000 | 9d8+4* | 12 [+7] | 7 | 4 | 6 | 8 | 7 |
+| 12 | 550,000 | 9d8+6* | 12 [+7] | 7 | 4 | 6 | 8 | 7 |
+| 13 | 700,000 | 9d8+8* | 10 [+9] | 5 | 3 | 4 | 5 | 5 |
+| 14 | 840,000 | 9d8+10* | 10 [+9] | 5 | 3 | 4 | 5 | 5 |
 
-Saving Throws
-Level XP HD THACo|WOD P B S
-1 o 1d8 19[0] B 0 2 1b 6
-2 2,500 2d8 19[o] Bw R 15 6
-3 5,000 3d8 ig[o] Bo 2 1 16
-4 10,000 4d8 17[+2] u 8 0 B B
-5 18,500 5d8 17[+2] nu 8 0 BB
-6 37,000 6d8 17[+2] nu 8 0 BB
-7 85,000 708 [+s] | 9 6 8 101 10
-8 140,000 8d8 ig[+5] | 9 6 8 ©
-9 270,000 od8 ig{+s] | 9 6 8 10 10
-10 350,000 9d8+2* 12[+7] 7 4 6 8 7
-n 450,000 9d8+4* i2[+7] | 7 4 6 8 7
-12 550,000 9d8+6" 12[+7] 7 46 8 7
-3 joo,o00 = 9. d8+8*— 049] | 53 4 5S
-14 840,000 = gd8+10* ~~ 10[ +9] 5 345 5
+**THAC0:** Attack matrix row to use.
+**Ascending AC attack bonus** in `[]`.
+`*` Modifiers from CON no longer apply.
+**D:** Death / poison
+**W:** Wands
+**P:** Paralysis / petrify
+**B:** Breath attacks
+**S:** Spells / rods / staves
 
-THACo: Attack matrix row to use.
-(Ascending AC attack bonus in [].)
-*: Modifiers from CON no longer
+## Tracking
 
-apply.
-
-Tracking
-
-Rangers can identify and follow tracks.
-This skill improves as the character
-
-gains levels (see the table below).
-
-Ranger Tracking Chance of Success
-
-Level
-
-Goenranewe
-
-Tracking
-
-5
-25
-35
-45
-55
-65
-5
-85
-95
-
-D: Death / poison; W: Wands;
-P: Paralysis / petrify; B: Breath
-
-attacks;
-
-S: Spells / rods / staves.
-
-After Reaching 10th Level
-
-2di2 beings will join the ranger as
-
-followers. They may include human or
-
-demihuman adventurers, animals,
-
-fantastic mounts, or special monsters,
-as determined by the DM. If any of the
-
-followers die, they are not replaced.
-
-22
-
----
-
+Rangers can identify and follow tracks. This skill improves as the character
 # Page 24
 
 Bard
@@ -1634,112 +1544,41 @@ means that the attempt is noticed.
 
 # Page 27
 
-Thief Level Progression
+# Thief Level Progression
 
- 
+| Level | XP | HD | THAC0 | D | W | P | B | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 1d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 |
+| 2 | 1,200 | 2d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 |
+| 3 | 2,400 | 3d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 |
+| 4 | 4,800 | 4d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 |
+| 5 | 9,600 | 5d4 | 17 [+2] | 12 | 13 | 11 | 14 | 13 |
+| 6 | 20,000 | 6d4 | 17 [+2] | 12 | 13 | 11 | 14 | 13 |
+| 7 | 40,000 | 7d4 | 17 [+2] | 12 | 13 | 11 | 14 | 13 |
+| 8 | 80,000 | 8d4 | 17 [+2] | 12 | 13 | 11 | 14 | 13 |
+| 9 | 160,000 | 9d4 | 14 [+5] | 10 | 11 | 9 | 12 | 10 |
+| 10 | 280,000 | 9d4+2* | 14 [+5] | 10 | 11 | 9 | 12 | 10 |
+| 11 | 400,000 | 9d4+4* | 14 [+5] | 10 | 11 | 9 | 12 | 10 |
+| 12 | 520,000 | 9d4+6* | 14 [+5] | 10 | 11 | 9 | 12 | 10 |
+| 13 | 640,000 | 9d4+8* | 12 [+7] | 8 | 9 | 7 | 10 | 8 |
+| 14 | 760,000 | 9d4+10* | 12 [+7] | 8 | 9 | 7 | 10 | 8 |
 
-Saving Throws
+**THAC0:** Attack matrix row to use.
+**Ascending AC attack bonus** in `[]`.
+`*` Modifiers from CON no longer apply.
+**D:** Death / poison
+**W:** Wands
+**P:** Paralysis / petrify
+**B:** Breath attacks
+**S:** Spells / rods / staves
 
-Level XP HD THACo | DW P B S
-1 ° 1d4 r9lo] B34 BB 6 5
-2 1,200 2d4 19[0] B34 B 6 15
-3 2,400 3d4 1g[o] Bu B 6 15
-4 4,800 4d4 19[0] BY B 6 15
-5 9,600 5d4 17[+2] RBu 4 B
-6 20,000 6d4 17[+2] 2B u 4 B
-7 40,000 7d4 17[+2] reopBu 4B
-8 80,000 8d4 17[+2] 2B nu 4B
-9 160,000 od4 14[+5] iu 9 2
-10 280,000 9d4+2* 14[+5] io NW g 2 wo
-n 400,000 9d4+4* 14[+5] iu 9 2 Ww
-12 520,000 9d4+6* 14[+5] i u 9g 2 0
-B 640,000 =. 9d4+8* 12[+7] 89 7 w 8
-14 760,000 9d4+10* 12[+7] 89 7 w 8
+## After Reaching 9th Level
 
-THACo: Attack matrix row to use.
-(Ascending AC attack bonus in [].)
-*: Modifiers from CON no longer
+A thief can become a trader and establish a trading house, attracting 2d6 employees of 1st level. These employees will be in charge of buying, selling and maintaining any business that they want.
 
-apply.
+## Rolling Skill Checks
 
-After Reaching 9th Level
-
-A thief can become a trader and
-establish a trading house, attracting
-2d6 employees of ist level. These
-employees will be in charge of buying,
-selling and maintaining any business
-that they want.
-
-Rolling Skill Checks
-
-All skills except hear noise are rolled
-on d%, with a result of less than or
-equal to the listed percentage
-indicating success. Hear noise is rolled
-on 1d6. If the roll is within the listed
-range of numbers, the skill succeeds.
-
-D: Death / poison; W: Wands;
-P: Paralysis / petrify; B: Breath
-attacks;
-
-S: Spells / rods / staves.
-
-Thief Skills Chance of Success
-
-Level CS TR HN HS MS
-1 87 10 12 10 20
-2 88 15 12 15) 25
-3 89 20 13 20 30
-4 go 250 13 250 35
-5 gl 30 «13 «30 «40
-6 92 40 13° 36 45
-7 93 #50 14 45 55
-8 94 60 14 55 65
-9 95 70 14 65 75
-10 96 80 1-4 75 8&5
-n 97 99 15 85 95
-2 98 95 15 90 96
-B 99 97 15 95 98
-4 99 99 15 99 99
-
-OL
-
-15
-20
-25
-30
-35
-45
-55
-65
-a
-
-BES
-
-88
-
-PP
-
-25
-
-35
-40
-45
-55
-65
-Bs
-85
-
-105
-5
-125
-
-26
-
----
-
+All skills except hear noise are rolled on d%, with a result of less than or equal to the listed percentage indicating success. Hear noise is rolled on 1d6. If the roll is within the listed 
 # Page 28
 
 Cleric
@@ -1843,88 +1682,43 @@ lowest HD are affected first.
 
 # Page 29
 
-Cleric Level Progression
+# Cleric Level Progression
 
- 
+| Level | XP | HD | THAC0 | D | W | P | B | S | 1 | 2 | 3 | 4 | 5 |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 1d6 | 19 [0] | 11 | 12 | 14 | 16 | 15 | — | — | — | — | — |
+| 2 | 1,800 | 2d6 | 19 [0] | 11 | 12 | 14 | 16 | 15 | 1 | — | — | — | — |
+| 3 | 3,600 | 3d6 | 19 [0] | 11 | 12 | 14 | 16 | 15 | 2 | — | — | — | — |
+| 4 | 7,200 | 4d6 | 19 [0] | 11 | 12 | 14 | 16 | 15 | 2 | 1 | — | — | — |
+| 5 | 14,400 | 5d6 | 19 [0] | 9 | 10 | 12 | 14 | 12 | 2 | 2 | — | — | — |
+| 6 | 28,000 | 6d6 | 17 [+2] | 9 | 10 | 12 | 14 | 12 | 2 | 2 | 1 | 1 | — |
+| 7 | 52,000 | 7d6 | 17 [+2] | 9 | 10 | 12 | 14 | 12 | 2 | 2 | 2 | 2 | — |
+| 8 | 110,000 | 8d6 | 17 [+2] | 9 | 10 | 12 | 14 | 12 | 3 | 3 | 2 | 2 | 1 |
+| 9 | 220,000 | 9d6 | 17 [+2] | 6 | 7 | 9 | 11 | 9 | 3 | 3 | 3 | 2 | 1 |
+| 10 | 360,000 | 9d6+2* | 17 [+2] | 6 | 7 | 9 | 11 | 9 | 4 | 4 | 3 | 3 | 2 |
+| 11 | 480,000 | 9d6+4* | 14 [+5] | 6 | 7 | 9 | 11 | 9 | 4 | 4 | 4 | 3 | 2 |
+| 12 | 600,000 | 9d6+6* | 14 [+5] | 6 | 7 | 9 | 11 | 9 | 5 | 5 | 4 | 4 | 3 |
+| 13 | 720,000 | 9d6+8* | 14 [+5] | 3 | 5 | 7 | 8 | 7 | 5 | 5 | 5 | 4 | 4 |
+| 14 | 840,000 | 9d6+10* | 14 [+5] | 3 | 5 | 7 | 8 | 7 | 6 | 5 | 5 | 5 | 4 |
 
- 
+**THAC0:** Attack matrix row to use.
+**Ascending AC attack bonus** in `[]`.
+`*` Modifiers from CON no longer apply.
+**D:** Death / poison
+**W:** Wands
+**P:** Paralysis / petrify
+**B:** Breath attacks
+**S:** Spells / rods / staves
 
- 
+## Turning Table Results
 
-Saving Throws Spells
+**Number:** If the 2d6 turning roll is higher or equal, the turning attempt succeeds.
+**T:** The turning succeeds.
+**D:** The turning succeeds; the monsters are destroyed, not simply caused to flee.
 
-Level xP HD THAC) | DWP BS/]1 2 3 4
+## After Reaching 9th Level
 
-1 ° 1d6 igfo} n 2 4 16 15] = - - -
-
-2 1,800 2d6 1g[o] u 2 4 6 15] 1 - - -
-
-3 3,600 3d6 ig[o] nw2ig6 5] 2 - = -
-
-4 7,200 4d6 igo} u 24 6 15) 2 1
-
-5 14,400 5d6 ig[o} 9 0 2 42] 2 2 - -
-
-6 28,000 6d6 17[+2] 9 10 12 4 II) 2 2 1 1
-
-7 52,000 7d6 [+2] 902 42/2 2 2 2 =
-8 110,000 8d6 17[+2] 90 2 42) 3 3 2 2 2
-9 220,000 946 a7[+2] 679u9|]3 3 3 2 1
-10 360,000 = gd6+2* ~—_19[+2] 6799/4 4 3 3 2
-n 480,000 gd6+4" — 14[+5] 679 u9/4 4 4 3 2
-12 600,000 9d6+6* —14[ +5] 679 u 9 5 5 4 4 3
-B 720,000 9d6+8* —14[+5] 357 87/5 5 5 4 4
-14 840,000 9d6+10* —14[+5] 357 87 6 5 5 5 4
-
-THACo: Attack matrix row to use.
-(Ascending AC attack bonus in (].)
-*: Modifiers from CON no longer apply.
-
-D: Death / poison; W: Wands;
-P: Paralysis / petri reath attacks;
-S: Spells / rods / staves.
-
-Turning the Undead
-
-    
-
-Turning Table Results
-
-Level 1 2 2 3 4 5 6 78
-
-Number: If the 2d6 turning roll is
-
-higher or equal, the turning attempt x 7 9 Bo = ee
-succeeds. 2 To7 7 wow = =
-T: The turning succeeds. 3 TT 9 9 w= =
-D: The turning succeeds; the monsters 4 DOT T 7 7 Mu -
-are destroyed, not simply caused to 5 DDT T9928
-flee. 6 DD D T T 7 9
-7 DDODODTTY
-
-After Reaching 9th Level 8 D DD DDT T
-9 DD DoDODODT
-
-A cleric may establish or build a 10 DDD pDDODODB
-temple, always outside big settlements, n+ DD DopDoDpDDDB
-
-as elemental worship is forbidden by
-the sorcerer kings. Once a temple is
-established, the cleric would have to
-attract followers on his own.
-
-*:2 HD monsters with a special ability
-(i.e. with an asterisk next to their HD
-rating, in the monster description).
-
-+: At the referee’s option, the table may
-be expanded to include more powerful
-types of undead monsters.
-
-28
-
----
-
+A cleric may e
 # Page 30
 
 Druid
@@ -2029,76 +1823,39 @@ guarded lands.
 
 # Page 31
 
-Druid Level Progression
+# Druid Level Progression
 
- 
+| Level | XP | HD | THAC0 | D | W | P | B | S | 1 | 2 | 3 | 4 | 5 |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 1d6 | 19 [0] | 11 | 12 | 14 | 16 | 15 | — | — | — | — | — |
+| 2 | 2,000 | 2d6 | 19 [0] | 11 | 12 | 14 | 16 | 15 | 1 | — | — | — | — |
+| 3 | 4,000 | 3d6 | 19 [0] | 11 | 12 | 14 | 16 | 15 | 2 | — | — | — | — |
+| 4 | 8,000 | 4d6 | 19 [0] | 11 | 12 | 14 | 16 | 15 | 2 | 1 | — | — | — |
+| 5 | 16,000 | 5d6 | 17 [+2] | 9 | 10 | 12 | 14 | 12 | 2 | 2 | — | — | — |
+| 6 | 32,000 | 6d6 | 17 [+2] | 9 | 10 | 12 | 14 | 12 | 2 | 2 | 1 | 1 | — |
+| 7 | 64,000 | 7d6 | 17 [+2] | 9 | 10 | 12 | 14 | 12 | 2 | 2 | 2 | 2 | — |
+| 8 | 120,000 | 8d6 | 17 [+2] | 9 | 10 | 12 | 14 | 12 | 3 | 3 | 2 | 2 | 1 |
+| 9 | 240,000 | 9d6 | 14 [+5] | 6 | 7 | 9 | 11 | 9 | 3 | 3 | 3 | 2 | 1 |
+| 10 | 360,000 | 9d6+2* | 14 [+5] | 6 | 7 | 9 | 11 | 9 | 4 | 4 | 3 | 3 | 2 |
+| 11 | 480,000 | 9d6+4* | 14 [+5] | 6 | 7 | 9 | 11 | 9 | 4 | 4 | 4 | 3 | 2 |
+| 12 | 600,000 | 9d6+6* | 14 [+5] | 6 | 7 | 9 | 11 | 9 | 5 | 5 | 4 | 4 | 3 |
+| 13 | 720,000 | 9d6+8* | 12 [+7] | 3 | 5 | 7 | 8 | 7 | 5 | 5 | 5 | 4 | 4 |
+| 14 | 840,000 | 9d6+10* | 12 [+7] | 3 | 5 | 7 | 8 | 7 | 6 | 5 | 5 | 5 | 4 |
 
- 
+**THAC0:** Attack matrix row to use.
+**Ascending AC attack bonus** in `[]`.
+`*` Modifiers from CON no longer apply.
+**D:** Death / poison
+**W:** Wands
+**P:** Paralysis / petrify
+**B:** Breath attacks
+**S:** Spells / rods / staves
 
-Saving Throws Spells
+## Shape Change
 
-Level XP HD = THACo DWP BS 1 2 3 5
-1 oO 1d6 igo] n 2 4 6 15] - - - - -
-2 2,000 2d6 19{o] no 2 4 6 15] 1 - = =e
-3 4,000 3d6 iglo} n2zy65]2 - - - -
-4 8,000 4d6 iglo] nw 4 6 15} 2 1 - - -
-5 16,000 5d6 [+2] 9 ow 2 42} 2 2 - = =
-6 32,000 6d6 17[+2] 9 10 12 4 | 2 2 1 1 =
-7 64,000 746 a7[ +2] gw2yR2}]2 2 2 2 =
-8 120,000 8d6 17[+2] 9 0 2 Wy) 3 3 2 2 1
-9 240,000 = 96 1g[+5] 679 u9/3 3 3 2 1
-10 360,000 9642" 1g[+5] 679 19 4 4 3 3 2
-n 480,000 9d6+4* —14[+5] 679 u9/4 4 4 3 2
-12 600,000 9d6+6* —14[+5] 679 1 9 5 5 4 4 3
-B 720,000 = 9d6+8" 12 +7] 3578 7/5 5 5 4 4
-14 840,000 gd6#10* —12[+7] 357 87/6 5 5 5 4
+At 7th level, a druid gains the power to change into the form of an animal from his favored land three times per day. The animal may be of any size up to around twice the bulk of the druid's normal form.
 
-THACo: Attack matrix row to use. D: Death / poison; W: Wands;
-
-(Ascending AC attack bonus in (].) P: Paralysis / petrify; B: Breath attacks;
-
-*: Modifiers from CON no longer apply. S: Spells / rods / staves.
-
-Identify Plants and Animals
-
-Shape Change
-
-At 7th level, a druid gains the power to
-change into the form of An animal
-from his favored land three times per
-day. The animal may be of any size up
-to around twice the bulk of the druid’s
-normal form.
-
-Ifa druid has lost hit points, they
-regain 1d4 hit points per level upon
-changing into an animal. All
-equipment carried by the druid is
-absorbed into the animal form and
-reappears when the druid changes
-back.
-
-At 8th Level, Druids can identify all
-plants and animals and can discern
-pure water.
-
-After Reaching 12th Level
-
-Upon reaching 12th level, the druid's
-time of wandering has come to an end.
-From that time forward, the druid
-must spend half of his time on his
-guarded lands, watching over them
-and protecting them. Druids who
-attain 12th level or above may build a
-shrine integrated into a natural setting,
-as well as take 1d6 low level druids as
-disciples.
-
-30
-
----
-
+If a druid has lost hit points, they regain 1d4 hit points per level upon c
 # Page 32
 
 Templar
@@ -2196,64 +1953,37 @@ crime is proven to be committed.
 
 # Page 33
 
-Templar Level Progression
+# Templar Level Progression
 
- 
-
- 
-
- 
-
-Saving Throws Spells
 | Level | XP | HD | THAC0 | D | W | P | B | S | 1 | 2 | 3 | 4 | 5 |
-|---:|---:|:---:|:---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 1 | 0 | 1d6 | 19[0] | 11 | 12 | 14 | 16 | 15 | - | - | - | - | - |
-| 2 | 1,500 | 2d6 | 19[0] | 11 | 12 | 14 | 16 | 15 | 1 | - | - | - | - |
-| 3 | 3,000 | 3d6 | 19[0] | 11 | 12 | 14 | 16 | 15 | 1 | 1 | - | - | - |
-| 4 | 6,000 | 4d6 | 19[0] | 11 | 12 | 14 | 16 | 15 | 2 | 1 | - | - | - |
-| 5 | 12,000 | 5d6 | 17[+2] | 9 | 10 | 12 | 14 | 12 | 3 | 2 | - | - | - |
-| 6 | 25,000 | 6d6 | 17[+2] | 9 | 10 | 12 | 14 | 12 | 3 | 2 | 1 | - | - |
-| 7 | 50,000 | 7d6 | 17[+2] | 9 | 10 | 12 | 14 | 12 | 3 | 2 | 2 | - | - |
-| 8 | 100,000 | 8d6 | 17[+2] | 9 | 10 | 12 | 14 | 12 | 3 | 3 | 2 | 1 | - |
-| 9 | 120,000 | 9d6 | 14[+5] | 6 | 7 | 9 | 11 | 9 | 3 | 3 | 3 | 1 | - |
-| 10 | 300,000 | 9d6+2* | 14[+5] | 6 | 7 | 9 | 11 | 9 | 3 | 3 | 3 | 2 | 1 |
-| 11 | 400,000 | 9d6+4* | 14[+5] | 6 | 7 | 9 | 11 | 9 | 4 | 3 | 3 | 2 | 1 |
-| 12 | 500,000 | 9d6+6* | 14[+5] | 6 | 7 | 9 | 11 | 9 | 4 | 4 | 3 | 3 | 2 |
-| 13 | 600,000 | 9d6+8* | 12[+7] | 3 | 5 | 7 | 8 | 7 | 4 | 4 | 4 | 3 | 2 |
-| 14 | 700,000 | 9d6+10* | 12[+7] | 3 | 5 | 7 | 8 | 7 | 5 | 5 | 4 | 4 | 3 |
-THACo: Attack matrix row to use. D: Death / poison; W: Wands;
-(Ascending AC attack bonus in [].) P: Paralysis / petrify; B: Breath attacks;
-*: Modifiers from CON no longer apply. S: Spells / rods / staves.
-Requisition of Soldiers After reaching 1oth level
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 1d6 | 19 [0] | 11 | 12 | 14 | 16 | 15 | — | — | — | — | — |
+| 2 | 1,500 | 2d6 | 19 [0] | 11 | 12 | 14 | 16 | 15 | 1 | — | — | — | — |
+| 3 | 3,000 | 3d6 | 19 [0] | 11 | 12 | 14 | 16 | 15 | 1 | 1 | — | — | — |
+| 4 | 6,000 | 4d6 | 19 [0] | 11 | 12 | 14 | 16 | 15 | 2 | 1 | — | — | — |
+| 5 | 12,000 | 5d6 | 17 [+2] | 9 | 10 | 12 | 14 | 12 | 3 | 2 | — | — | — |
+| 6 | 25,000 | 6d6 | 17 [+2] | 9 | 10 | 12 | 14 | 12 | 3 | 2 | 1 | — | — |
+| 7 | 50,000 | 7d6 | 17 [+2] | 9 | 10 | 12 | 14 | 12 | 3 | 2 | 2 | — | — |
+| 8 | 100,000 | 8d6 | 17 [+2] | 9 | 10 | 12 | 14 | 12 | 3 | 3 | 2 | 1 | — |
+| 9 | 120,000 | 9d6 | 14 [+5] | 6 | 7 | 9 | 11 | 9 | 3 | 3 | 3 | 1 | — |
+| 10 | 300,000 | 9d6+2* | 14 [+5] | 6 | 7 | 9 | 11 | 9 | 3 | 3 | 3 | 2 | 1 |
+| 11 | 400,000 | 9d6+4* | 14 [+5] | 6 | 7 | 9 | 11 | 9 | 4 | 3 | 3 | 2 | 1 |
+| 12 | 500,000 | 9d6+6* | 14 [+5] | 6 | 7 | 9 | 11 | 9 | 4 | 4 | 3 | 3 | 2 |
+| 13 | 600,000 | 9d6+8* | 12 [+7] | 3 | 5 | 7 | 8 | 7 | 4 | 4 | 4 | 3 | 2 |
+| 14 | 700,000 | 9d6+10* | 12 [+7] | 3 | 5 | 7 | 8 | 7 | 5 | 5 | 4 | 4 | 3 |
 
-A Templar may request the help of 1d4 A templar may be granted a land and
-soldiers from his city-state at any time, title such as vizier. The land under the
+**THAC0:** Attack matrix row to use.
+**Ascending AC attack bonus** in `[]`.
+`*` Modifiers from CON no longer apply.
+**D:** Death / poison
+**W:** Wands
+**P:** Paralysis / petrify
+**B:** Breath attacks
+**S:** Spells / rods / staves
 
-of any level no higher than the templar’s control is then part of his
+## Requisition of Soldiers
 
-Templar. These soldiers can not leave
-their cities without the sorcerer king’s
-permission. The Templar has to send a
-letter of magical message to request
-this aid, expressing specific objectives
-for them and the soldiers will arrive at
-the templar’s location around the same
-amount of days it took him to arrive
-there. Once the mission is complete,
-the soldiers will go back to the city,
-and Templar may only request
-assistance again when they go back.
-When the soldiers are with the
-Templar, they act as mercenaries.
-
-noble house.
-
- 
-
-32
-
----
-
+A Templar may request the help of 1d4 soldiers from his city-state at any time, of any level no higher than the Templar. These soldiers can not leave their cities without the so
 # Page 34
 
 Defiler
@@ -2349,38 +2079,18 @@ to become defilers.
 
 # Page 35
 
-Defiler Level Progression
+# Defiler Level Progression
 
- 
-
- 
-
-Saving Throws Spells
-Level xP HD THACo | DWP BS|]1 2 3 4 5
-1 o id4 19fo] B34 B 6 15 1 = - -
-2 1,750 2d4 19{o] B34 B 6 5] 2 - - -
-3 3,500 34 19[0] B4B 65H] 2 1 aa
-4 7,000 444190] B43 615] 2 2
-5 14,000 5d4 19[o] BY B65] 2 2 1 - -
-6 28,000 6d4 ag 42] nau ynpl2 2 2 - -
-7 42,000 7440 sa] fm em ge] 32 2
-8 63,000 8d4 17[+2] nRu Wyk} 3 3 2 2
-9 95,500 dq 17[+2] neu ye] 3 3 3 2 21
-10 180,000 9442" —17[+2] n2u 42} 3 3 3 3 2
-nu 270,000 = gdq+q* —14[+5] 89 8 un 8 4 3 3 3 2 1
-2 540,000 9d4+6* 14/45] 89 8 un 8|4 4 3 3 3 2
-B 820,000 = 9d4+8* —1g[+5] 89 8 u 8 4 4 4 3 3 3
-14 1,080,000 gd4+10" —14[+5] 89 8 un 8 4 4 4 4 3 3
-
-THACo: Attack matrix row to use.
-(Ascending AC attack bonus in [].)
-*: Modifiers from CON no longer apply.
-
-D: Death / poison; W: Wands;
-P: Paralysis / petrify; B: Breath attacks;
-S: Spells / rods / staves.
-
----
+| Level | XP | HD | THAC0 | D | W | P | B | S | 1 | 2 | 3 | 4 | 5 | 6 |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 1d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 | 1 | — | — | — | — | — |
+| 2 | 1,750 | 2d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 | 2 | — | — | — | — | — |
+| 3 | 3,500 | 3d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 | 2 | 1 | — | — | — | — |
+| 4 | 7,000 | 4d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 | 2 | 2 | — | — | — | — |
+| 5 | 14,000 | 5d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 | 2 | 2 | 1 | — | — | — |
+| 6 | 28,000 | 6d4 | 17 [+2] | 11 | 12 | 11 | 14 | 12 | 2 | 2 | 2 | — | — | — |
+| 7 | 42,000 | 7d4 | 17 [+2] | 11 | 12 | 11 | 14 | 12 | 3 | 2 | 2 | 1 | — | — |
+| 8 | 63,000 | 8d4 | 17 [+2] | 11 | 12 | 11 | 14 | 12 | 3 | 3 | 2 | 2 | — | — |
 
 # Page 36
 
@@ -2474,59 +2184,22 @@ details, p).
 
 # Page 37
 
-Preserver Level Progression
+# Preserver Level Progression
 
- 
-
- 
-
- 
-
-Saving Throws Spells
-Level XP HD THAC |DWPBS|1 2 3 4 5 6
-T o 14 19[o] ae a
-2 2,500 2d4 ig[o] B34 3B 16 15] 2 - - = =
-3 5,000 3dq rg[o] BY B 16 =| 2 1 - - 7 -
-4 10,000 4d4 iglo] B34 B 6 15] 2 2 - - =
-5 20,000 5d4 19[o] BY B 65) 2 2 1 = = =
-6 40,000 6d4 r7[+2] nu 4 2) 2 2 2 - - -
-7 80,000 704 17[+2] n2n 42!] 3 2 2 1 - -
-8 150,000 + 8dq_— ay 42] nin 42) 3 3 2 2 -
-9 300,000 od4 17[+2] nau yl] 3 3 3 2 1 -
-10 450,000 odq+2* viv2} | nn 42] 3 3 3 3 2 -
-n 600,000 gd4+q* —14[+5] 89 8 un 8) 4 3 3 3 2 1
-2 750,000 gdq+6" — 1g[+5] 89 8 u 8} 4 4 3 3 3 2
-3 900,000 — gd4+8* —14[+5] 89 8 u 8) 4 4 4 3 3 3
-14 1,050,000 gd4+10* 14/45] 89 8u8!|4 4 4 4 3.3
-
-THACo; Attack matrix row to use,
-(Ascending AC attack bonus in [}.)
-*: Modifiers from CON no longer apply.
-
-After Reaching uth Level
-
-The Preserver may recruit 1d6
-
-apprentices of levels 1-3 to train as
-
-preservers. Eventually, said apprentices
-
-may recruit their own, from which the
-preserver may set up his own veiled
-
-alliance.
-
-D: Death / poison; W: Wands;
-
-P: Par
-
- 
-
-ysis / petrify; B: Breath attacks;
-S: Spells / rods / staves,
-
----
-
+| Level | XP | HD | THAC0 | D | W | P | B | S | 1 | 2 | 3 | 4 | 5 | 6 |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 1d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 | 1 | — | — | — | — | — |
+| 2 | 2,500 | 2d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 | 2 | — | — | — | — | — |
+| 3 | 5,000 | 3d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 | 2 | 1 | — | — | — | — |
+| 4 | 10,000 | 4d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 | 2 | 2 | — | — | — | — |
+| 5 | 20,000 | 5d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 | 2 | 2 | 1 | — | — | — |
+| 6 | 40,000 | 6d4 | 17 [+2] | 11 | 12 | 11 | 14 | 12 | 2 | 2 | 2 | — | — | — |
+| 7 | 80,000 | 7d4 | 17 [+2] | 11 | 12 | 11 | 14 | 12 | 3 | 2 | 2 | 1 | — | — |
+| 8 | 150,000 | 8d4 | 17 [+2] | 11 | 12 | 11 | 14 | 12 | 3 | 3 | 2 | 2 | — | — |
+| 9 | 300,000 | 9d4 | 17 [+2] | 11 | 12 | 11 | 14 | 12 | 3 | 3 | 3 | 2 | 1 | — |
+| 10 | 450,000 | 9d4+2* | 17 [+2] | 11 | 12 | 11 | 14 | 12 | 3 | 3 | 3 | 3 | 2 | — |
+| 11 | 600,000 | 9d4+4* | 14 [+5] | 8 | 9 | 8 | 11 | 8 | 4 | 3 | 3 | 3 | 2 | 1 |
+| 12 | 750
 # Page 38
 
 Psionicist
@@ -2621,51 +2294,22 @@ to students. The psionicist will attract
 
 # Page 39
 
-Psionicist Level Progression
+# Psionicist Level Progression
 
- 
-
- 
-
- 
-
-Saving Throws | psionic | Power
-Level xP HD THACo|W D P B S | powers | Rank
-1 ry 1d4 i9[o] 5 Bb 0 6 15 | 2 ist
-2 2,200 2d4 19[o] 15 3 1 16 15 3 ist
-3 4,400 3d4 19fo] 5 8B 0 6 15 4 ast
-4 8,800 4d4 19{0] 5 Bb wo 6 15 5 ist
-5 16,500 5d4 19{o] B 2 9 5 4 7 and
-6 30,000 6d4 wiz] | 2 9 15 4] 8 and
-7 55,000 744 +2] |3 2 9 5 4 9 and
-8 100,000 8d4 +2] |13 12 9 15 144 10 2nd
-9 200,000 od4 wi+2] |u 10 8 BR 2 3rd
-10 400,000 =. 9d4+2* wit+2] |u 1 8 B BR 3 3rd
-n 600,000 §©9d4+4* ss ag[+5] | 10 8 B 2 4 3rd
-12 800,000 god4+6" igl+45) [un 10 8 B RL 15 3rd
-B 900,000 = gdg+8* ss sgl45] [9 8 7 2 7 4th
-14 1,000,000 gd4#i0* = i4l+5] |G 8 7 2B 18 4th
-
-D: Death / poison; W: Wands;
-P: Paralysis / petrify; B: Breath attacks;
-S: Spells / rods / staves.
-
- 
-
-‘ix row to use.
-(Ascending AC attack bonus in [].)
-*: Modifiers from CON no longer apply.
-
- 
-
-PD
-AZ
-AY ATU
-
-38
-
----
-
+| Level | XP | HD | THAC0 | W | D | P | B | S | Psionic Powers | Power Rank |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|:---:|
+| 1 | 0 | 1d4 | 19 [0] | 15 | 13 | 10 | 16 | 15 | 2 | 1st |
+| 2 | 2,200 | 2d4 | 19 [0] | 15 | 13 | 10 | 16 | 15 | 3 | 1st |
+| 3 | 4,400 | 3d4 | 19 [0] | 15 | 13 | 10 | 16 | 15 | 4 | 1st |
+| 4 | 8,800 | 4d4 | 19 [0] | 15 | 13 | 10 | 16 | 15 | 5 | 1st |
+| 5 | 16,500 | 5d4 | 19 [0] | 13 | 12 | 9 | 15 | 14 | 7 | 2nd |
+| 6 | 30,000 | 6d4 | 17 [+2] | 13 | 12 | 9 | 15 | 14 | 8 | 2nd |
+| 7 | 55,000 | 7d4 | 17 [+2] | 13 | 12 | 9 | 15 | 14 | 9 | 2nd |
+| 8 | 100,000 | 8d4 | 17 [+2] | 13 | 12 | 9 | 15 | 14 | 10 | 2nd |
+| 9 | 200,000 | 9d4 | 17 [+2] | 11 | 10 | 8 | 13 | 12 | 12 | 3rd |
+| 10 | 400,000 | 9d4+2* | 17 [+2] | 11 | 10 | 8 | 13 | 12 | 13 | 3rd |
+| 11 | 600,000 | 9d4+4* | 14 [+5] | 11 | 10 | 8 | 13 | 12 | 14 | 3rd |
+| 1
 # Page 40
 
 Dwarf
@@ -2907,107 +2551,39 @@ Encounters, in OSE™).
 
 # Page 43
 
-Elf Level Progression
+# Elf Level Progression
 
- 
+| Level | XP | HD | THAC0 | D | W | P | B | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 1d6 | 19 [0] | 12 | 13 | 13 | 15 | 15 |
+| 2 | 1,800 | 2d6 | 19 [0] | 12 | 13 | 13 | 15 | 15 |
+| 3 | 3,600 | 3d6 | 19 [0] | 12 | 13 | 13 | 15 | 15 |
+| 4 | 7,000 | 4d6 | 17 [+2] | 10 | 11 | 11 | 13 | 12 |
+| 5 | 14,000 | 5d6 | 17 [+2] | 10 | 11 | 11 | 13 | 12 |
+| 6 | 28,000 | 6d6 | 17 [+2] | 10 | 11 | 11 | 13 | 12 |
+| 7 | 60,000 | 7d6 | 14 [+5] | 8 | 9 | 9 | 10 | 10 |
+| 8 | 120,000 | 8d6 | 14 [+5] | 8 | 9 | 9 | 10 | 10 |
+| 9 | 240,000 | 9d6 | 14 [+5] | 8 | 9 | 9 | 10 | 10 |
+| 10 | 360,000 | 9d6+2* | 12 [+7] | 6 | 7 | 8 | 8 | 8 |
+| 11 | 480,000 | 9d6+4* | 12 [+7] | 6 | 7 | 8 | 8 | 8 |
+| 12 | 600,000 | 9d6+6* | 12 [+7] | 6 | 7 | 8 | 8 | 8 |
 
-Saving Throws
+**THAC0:** Attack matrix row to use.
+**Ascending AC attack bonus** in `[]`.
+`*` Modifiers from CON no longer apply.
+**D:** Death / poison
+**W:** Wands
+**P:** Paralysis / petrify
+**B:** Breath attacks
+**S:** Spells / rods / staves
 
-Level XP HD THACo | DW P B S
-1 ° 1d6 iglo] 2B wB 5 5
-2 1,800 2d6 19[0] 2B B56 5
-3 3,600 3d6 igo} RBBB 5
-4 7,000 4d6 17[+2] iol uBR
-5 14,000 5d6 17[+2] ou nu BR
-6 28,000 6d6 17[+2] iu u B 12
-7 60,000 7d6 14[+5] 89 9 0 10
-8 120,000 8d6 14[+5] 89 9 W 10
-9 240,000 od6 14[+5] 89 9 1 10
-10 360,000 =. gd6+2* 12[+7] 67 8 8 8
-un 480,000 9d6+4* 12[+7] 67 8 8 8
-12 600,000 9 d6+6* 12[+7] 67 8 8 8
+## Rolling Skill Checks
 
-THACo: Attack matrix row to use.
-(Ascending AC attack bonus in [].)
+All skills except hear noise are rolled on d%, with a result of less than or equal to the listed percentage indicating success. Hear noise is rolled on 1d6. If the roll is within the listed range of numbers, the skill succeeds.
 
-*: Modifiers from CON no longer apply.
+## After Reaching 9th Level
 
-Rolling Skill Checks
-
-All skills except hear noise are rolled
-on d%, with a result of less than or
-
-equal to the listed percentage
-indicating success. Hear noise is rolled
-
-on 1d6. If the roll is within the listed
-range of numbers, the skill succeeds.
-
-After Reaching 9th Level
-
-An Elf may create a tribe with 2dio
-level 1 elves. This tribe will wander
-
-through the desert living nomadic lives
-
-as herders, traders, raiders or bandits.
-
-Elves only accept other elven hirelings
-
-as members, other races may be hired,
-
-but only for short term periods.
-
-D: Death / poison; W: Wands;
-
-P: Paralysis / petrify
-
- 
-
- 
-
-B: Breath
-
-attacks; S: Spells / rods / staves.
-
- 
-
-Elf Skills Chance of Success
-
-Level cs OL
-1 87 15
-2 88 20
-3 89 25
-4 90 30
-5 91 35
-6 92 40
-7 93 ah
-8 94 55
-9 5 65
-10 96 7o
-u 97 75
-12 98 80
-
-PP
-
-20
-25
-30
-35
-
-45
-
-50
-55
-
-65
-
-80
-
-42
-
----
-
+An Elf may create a tribe with 2d10 level 1 elves. This tribe will wander through the desert
 # Page 44
 
 Half-Elf
@@ -3240,42 +2816,18 @@ the clan is called the Chief.
 
 # Page 47
 
-Half-Giant Level Progression
+# Half-giant Level Progression
 
-Saving Throws
-
- 
-
-Level XP HD THACo | DWP B §S
-
-1 ° idio+2 19[o] Bo 5 6 B
-
-2 2,500 2di0+4 19[o] 310 15 6 B
-
-3 5,000 3d10+6 19[o] Bw 5 6 B
-
-4 10,000 4di0+8 17[+2] 10 8 2 4 OU
-
-5 20,000 5diovio §~—17[+2] 1 8 2 4 40
-
-6 40,000 6di0+12 17[+2] i 8 12 MU
-
-7 80,000 7dio+i4 —14[+5] 76 9 2 9
-
-8 150,000 = 8dio#16—14[+5] 76 9 2 9g
-THACo: Attack matrix row to use. D: Death / poison; W: Wands;
-(Ascending AC attack bonus in [].) P: Paralysis / petrify; B: Breath
-
-attacks; S: Spells / rods / staves.
-
- 
-
- 
-
-46
-
----
-
+| Level | XP | HD | THAC0 | D | W | P | B | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 1d10+2 | 19 [0] | 13 | 10 | 15 | 16 | 13 |
+| 2 | 2,500 | 2d10+4 | 19 [0] | 13 | 10 | 15 | 16 | 13 |
+| 3 | 5,000 | 3d10+6 | 19 [0] | 13 | 10 | 15 | 16 | 13 |
+| 4 | 10,000 | 4d10+8 | 17 [+2] | 10 | 8 | 12 | 14 | 11 |
+| 5 | 20,000 | 5d10+10 | 17 [+2] | 10 | 8 | 12 | 14 | 11 |
+| 6 | 40,000 | 6d10+12 | 17 [+2] | 10 | 8 | 12 | 14 | 11 |
+| 7 | 80,000 | 7d10+14 | 14 [+5] | 7 | 6 | 9 | 12 | 9 |
+| 8 | 150,00
 # Page 48
 
 Halfling
@@ -3483,50 +3035,27 @@ normal prices.
 
 # Page 51
 
-Mul Level Progression
+# Mul Level Progression
 
- 
+| Level | XP | HD | THAC0 | D | W | P | B | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 1d8 | 19 [0] | 13 | 13 | 13 | 16 | 15 |
+| 2 | 2,200 | 2d8 | 19 [0] | 13 | 13 | 13 | 16 | 15 |
+| 3 | 4,400 | 3d8 | 19 [0] | 13 | 13 | 13 | 16 | 15 |
+| 4 | 8,800 | 4d8 | 17 [+2] | 11 | 11 | 11 | 14 | 13 |
+| 5 | 17,500 | 5d8 | 17 [+2] | 11 | 11 | 11 | 14 | 13 |
+| 6 | 35,000 | 6d8 | 17 [+2] | 11 | 11 | 11 | 14 | 13 |
+| 7 | 70,000 | 7d8 | 14 [+5] | 9 | 9 | 9 | 12 | 11 |
+| 8 | 140,000 | 8d8 | 14 [+5] | 9 | 9 | 9 | 12 | 11 |
+| 9 | 250,000 | 9d8 | 14 [+5] | 9 | 9 | 9 | 12 | 11 |
+| 10 | 350,000 | 9d8+2* | 12 [+7] | 7 | 7 | 7 | 10 | 9 |
+| 11 | 500,000 | 9d8+4* | 12 [+7] | 7 | 7 | 7 | 10 | 9 |
+| 12 | 600,000 | 9d8+6* | 12 [+7] | 7 | 7 | 7 | 10 | 9 |
 
-Saving Throws
-
-Level XP HD THACo| DWP B §
-1 ° 1d8 ig[o] 3B 3 6 15
-2 2,200 2d8 19[0] BB Bb 15
-3 4,400 3d8 wlio] | 3B B16 15
-4 8,800 4d8 17[+2] nuu ye xB
-5 17,500 5d8 17[+2] nuuy xB
-6 35,000 6d8 17[+2] nuuy B
-Gf 70,000 7d8 14[+5] 99 9 R
-8 140,000 8d8 14[+5] 99 9 R
-9 250,000 od8 wits] | 99 9 2B ou
-10 350,000 9d8+2* 12[+7] 7770 9
-u 500,000 9 d8+4* 12[+7] 77 7 0 9
-2 600,000 = 9 d8+6* —12[ +7] 77 70 9
-
-THACo: Attack matrix row to use.
-(Ascending AC attack bonus in [].)
-
-*: Modifiers from CON no longer apply.
-
-After Reaching 9th Level
-
-A Mul may create a tribe with 2dio
-Hirelings from a slave background.
-This group may set up a camp in the
-desert and attract new members from
-
-the same background over time. The
-
-Mul may hire mercenaries and
-
-specialists from any class and race.
-
-D: Death / poison; W: Wands;
-P: Paralysis / petrify; B: Breath
-attacks; S: Spells / rods / staves.
-
----
-
+**THAC0:** Attack matrix row to use.
+**Ascending AC attack bonus** in `[]`.
+`*` Modifiers from CON no longer apply.
+**D:** Death / po
 # Page 52
 
 Thri-Kreen
@@ -5172,7 +4701,7 @@ Unencumbered Encumbered
 
 Cost Miles Movement Max Load Miles Movement Max Load
 Animal (cp) per Day Rate (Coins) per Day Rate (Coins)
-Erdlu so | 90'(30') 4,500 9 45°15’) 9,000
+Erdlu so | 90'(30') 4,500 9 45'(15') 9,000
 Kank 120 24 120'(40') 4,000 2 60'(20') 8,000
 Mekillot 500 | 8 40'(15') 8,000 4 207(8’) 16,000
 Inix 100 20 100'(35’) 3,500 10 50'(20') 7,000
@@ -8579,7 +8108,7 @@ Duration: 9 turns
 Range: Touch
 Creates harmless green flames on
 detected target:
-Area of Effect: A cube 10’x 10’x 10°
+Area of Effect: A cube 10’x 10’x 10’
 in dimensions.
 e Flames Effect: : Attacks on targets
 gain a +2 bonus to hit.
@@ -9551,7 +9080,7 @@ summoned. Magical creatures and
 those of greater than animal
 intelligence are not summoned.
 
-e¢ Number of animals: A number of
+• Number of animals: A number of
 animals of total Hit Dice equal to
 the caster’s level will respond to the
 summons.

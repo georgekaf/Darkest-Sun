@@ -3,6 +3,22 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v0.8 — Full OCR Pipeline Cleanup
+
+**4 books processed** — per-page + `Hidden/Books/` combined files:
+
+**`°`→`'` (feet symbols):** ~50 fixes across all books — distances, ranges, sizes, infravision, movement rates
+**`°`→`-` (table dashes):** 7 fixes in OSE GMG (treasure, magic item, terrain tables)
+**`¢`→`•` (bullet points):** 15 fixes in OSE PG (spell lists, feature lists)
+**`¢p`/`c¢p`→`cp` (copper pieces):** 10 fixes in OSE PG (equipment, wages, hirelings tables)
+**`o`→`0` / `l`/`I`→`1` (digit OCR):** `4o`→`40`, `dioo`→`d100`, `dl0`→`d10`, `1410`→`1d10`
+**`@`→`a`/digit:** 5 fixes in MC2 (`@ baazrag`→`a baazrag`, `@'-4'`→`3'-4'`, etc.)
+**Class table rewrites:** 13 pages in OSE PG — Fighter, Gladiator, Ranger, Thief, Cleric, Druid, Templar, Defiler, Preserver, Psionicist, Elf, Half-giant, Mul
+**Full page rewrites:** MC2 Water Elemental Beasts (p42), Racked Spirit (p87); GMG Elf/Erdlu (p35)
+**Border artifact cleanup:** 4 pages in MC2 — artifact lines deleted, sections rewritten clean
+
+---
+
 ## v0.7 — OCR Typo Fixes
 
 **`Hidden/Books/`** — OCR misreads corrected:

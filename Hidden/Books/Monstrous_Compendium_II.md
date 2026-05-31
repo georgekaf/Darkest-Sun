@@ -2218,7 +2218,7 @@ just the bite wound. For example, an adventurer with 15
 
 points of current damage suffers 5 points of damage from
 
-@ baazrag that gnaws him. This would normally take 20
+a baazrag that gnaws him. This would normally take 20
 
 days to heal naturally, but the toxin increases it to 100
 
@@ -2319,7 +2319,7 @@ and back are covered with a hard shell that
 deflects all normal missiles smaller than a
 javelin. Its shell has sharp serrated edges
 everywhere except around the mouth and
-eyes. The boneclaw is a dull brown color, §
+eyes. The boneclaw is a dull brown color,
 with sand-colored claws and red eyes
 
 that glow in the dark.
@@ -5480,116 +5480,22 @@ nents even in darkness.
 
 # Page 36
 
-A  ¢ GS Ls = j$€§ _ = @ © ©
+## Habitat/Society
 
-Habitat/Society: The saying that a dwarf’s first
-love is hard work is true. No dwarf is more content than while
-working toward the resolution of some cause, be it labor or
-combat. This task, called a focus, is approached with single-
-minded direction for the dwarf’s entire life, if need be, though
-most foci require considerably less time. The only time con-
-straint for a focus is that it must take more than a week to
-complete, anything less is nothing more than a simple task. A
-dwarf does not ignore such short activities, but he derives no
-satisfaction from their completion. At all times, the dwarf
-must be progressing toward the completion of the focus,
-changing direction for no more than a few days at most.
+The saying that a dwarf's first love is hard work is true. No dwarf is more content than while working toward the resolution of some cause, be it labor or combat. This task, called a *focus*, is approached with single-minded direction for the dwarf's entire life, if need be, though most foci require considerably less time. The only time constraint for a focus is that it must take more than a week to complete, anything less is nothing more than a simple task. A dwarf does not ignore such short activities, but he derives no satisfaction from their completion. At all times, the dwarf must be progressing toward the completion of the focus, changing direction for no more than a few days at most.
 
-It is possible for a dwarf to have more than one focus, pro-
-viding both are somehow related. For example, a dwarf whose
-focus is to construct a new village for his clan to adopt may
-also have a short-term focus to locate the best
-builders in all of Athas for this village. A dwarf
-who performs tasks related to the completion of
-his foci receives a +1 bonus to all saving
-throws and a +2 bonus to his proficiency
-rolls. A dwarf who dies while resolving a
-focus is doomed to spend the remainder of
-its existence as a banshee, forever wander-
-ing the wastelands in vain attempts to
-finish his work.
+It is possible for a dwarf to have more than one focus, providing both are somehow related. For example, a dwarf whose focus is to construct a new village for his clan to adopt may also have a short-term focus to locate the best builders in all of Athas for this village. A dwarf who performs task related to the completion of his foci receives a +1 bonus to all saving throws and a +2 bonus to his proficiency rolls. A dwarf who dies while resolving a focus is doomed to spend the remainder of its existence as a banshee, forever wandering the wastelands in vain attempts to finish his work.
 
-Free dwarves settle in
-communities, called clans,
-bound around their fami-
-lies. Ties of the blood are
-honored and respected
-above all others, except
-the focus. Debts and
-glories earned from one
-generation in a clan are
-passed down to the family
-members of the next gen-
-eration. There is no way to
-break free from these nebulous
-ties, for such a concept is
-entirely foreign to the mind
-of the dwarf. Many foci of
-clan dwarves center
-around the benefit of the
-family,
+Free dwarves settle in communities, called clans, bound around their families. Ties of the blood are honored and respected above all others, except the focus. Debts and glories earned from one generation in a clan are passed down to the family members of the next generation. There is no way to break free from these nebulous ties, for such a concept is entirely foreign to the mind of the dwarf. Many foci of clan dwarves center around the benefit of the family.
 
-  
- 
- 
- 
-  
- 
- 
-  
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-  
+## Ecology
 
-Ecology: Dwarves adapt to virtually all types of
-terrain on Athas, comfortably settling in mountains. deserts,
-or near human city-states. Few communities surpass 300 in
-number. These communities usually spring from a few ex-
-tended families linked by a common ancestor whose focus was
-to start the settlement ages ago.
+Dwarves adapt to virtually all types of terrain on Athas, comfortably settling in mountains, deserts, or near human city-states. Few communities surpass 300 in number. These communities usually spring from a few extended families linked by a common ancestor whose focus was to start the settlement ages ago.
 
-Most free dwarves earn their money through commerce
-with the world around them. Dwarven-forged metal is consid-
-ered to be among the best in all of Athas. Many smiths swell
-the boundaries of their clan’s economy by purchasing or find-
-ing scraps of steel and converting it to arms or armor. Though
-dwarves despise haggling because it wastes too much time
-that could be directed toward better things, they set their
-prices fairly. Most dwarven-produced goods are priced within
-10% of the prices listed in the Player's Handbook.
+Most free dwarves earn their money through commerce with the world around them. Dwarven-forged metal is considered to be among the best in all of Athas. Many smiths swell the boundaries of their clan's economy by purchasing or finding scraps of steel and converting it to arms or armor. Though dwarves despise haggling because it wastes too much time that could be directed toward better things, they set their prices fairly. Most dwarven-produced goods are priced within 10% of the prices listed in the *Player's Handbook*.
 
-In the cities, dwarves who do not craft
-
-metal usually hire out as mercenaries.
-Dwarven mercenaries are highly prized; it is
-hard to buy their loyalty once it has been
-purchased by another. Some desperate
-dwarves find their ways into the gladiatorial
-pits of the nobles, sacrificing freedom to send
-money to the homelands.
-
-Dwarves have an average life span of about
-250 years.
-
----
-
+In the cities, dwarves who do not craft metal usually hire out as mercenaries. Dwarven mercenaries are highly prized; it is hard to buy their loyalty once it has been purchased by another. Some desperate dwarves find their way into the gladiator pits of the nobles, sacrificing freedom to send money to the homelands. Dwarves have an average life span of about 250 years.
+                                                                                                                      
 # Page 37
 
 The elemental beast is a creature of low intelligence that is na-
@@ -6388,186 +6294,55 @@ instance, the beast immediately attacks its summoner.
 
 # Page 42
 
-CLIMATE/TERRAIN: Any water
-FREQUENCY: Very rare
-ORGANIZATION: School
-Activity CYCLE: Any
-DIET: Water
-INTELLIGENCE: Semi (2-4)
-TREASURE: Nil
-ALIGNMENT: Neutral
+# Water Elemental Beasts
 
-No. APPEARING:
-ARMOR CLASS:
+| Field | Value |
+|---|---|
+| Climate/Terrain | Any water |
+| Frequency | Very rare |
+| Organization | School |
+| Activity Cycle | Any |
+| Diet | Water |
+| Intelligence | Semi (2–4) |
+| Treasure | Nil |
+| Alignment | Neutral |
+| No. Appearing | 5–10 (1d6+4) |
+| Armor Class | 2 |
+| Movement | 6, Sw 18, Fl 18 |
+| Hit Dice | 1+1 |
+| THAC0 | Special |
+| No. of Attacks | 5–10 (one for each) |
+| Damage/Attack | 1d8 each |
+| Special Attacks | See below |
+| Special Defenses | +1 or better weapon to hit |
+| Magic Resistance | Nil |
+| Size | S (1' long) |
+| Morale | Very steady (13–14) |
+| Level/XP Value | 300 |
+| Psionics Summary | Nil |
+| Player's Option | MAC 8 |
 
-5-10 (1d6+4)
+Water elemental beasts can be summoned to any area near a large volume of water. The water must be relatively pure. The summoner can use no other tainted liquid such as ale or wine. A summoner needs at least 700 cubic feet of water (10'x10'x7' for example) to support a spell summoning this creature. They are always summoned as a school, one beast for each hit die of elemental summoned.
 
-2
-6, Sw 18, F1 18
+Water elemental beasts resemble flying piranhas. They range in size from 9 to 12 inches and have fanlike membranous wings that fold from the back. These creatures are always encountered in schools, but they move and attack in combat as if there were a single intelligence controlling them. The most telling feature of the beasts is their long, sharp teeth that seem overlarge for the small creatures. The only noise they make is caused by their movement through water that they call home.
 
- 
+## Combat
 
-MOVEMENT:
+In combat, a school of water elemental beasts moves as if it were one creature. It darts and swims, attacks and retreats, as one. Because of this oneness, school of water elemental beast attacks as if it were a creature of as many Hit Dice as there are individuals in the school (school of 8 equals 8 HD). When an individual is destroyed, the effective Hit Dice of the school is also lowered by one. A school of water elemental beast also gets a cumulative saving throw as if it were a creature of as many Hit Dice as individuals within the school.
 
-Hir Dice: 141
+When attacking, each beast can dart in and cause 1d8 points of damage with its sharklike teeth. It can also fly up to 18 feet before landing. Attacks made while flying are made as if the beast were charging, with a +2 attack bonus, but the beast suffers a -1 penalty to its Armor Class. When attacking in water, the beast is invisible and it gains automatic surprise against beings not native to their water environment. Attacks against a submerged elemental water beast are made with a -4 penalty, in addition to any other penalty received for underwater combat.
 
-THAC Special
+When attacking while flying, the school has an instinct to fly directly into the face of air-breathing creatures. If the attack roll is a natural 20, one of the water elemental beasts separates from the school and lodges in the throat of the victim. The victim must make a successful save vs. paralyzation or suffer 1–6 (1d6) points of damage per round in suffocation damage. Each round after the first, the victim must also make another saving throw or pass out from lack of air. If the saving throw is ever successful, the victim spits out the water beast. Otherwise, the elemental water beast emerges when the victim dies.
 
-No. OF ATTACKS: 5-10 (one for each)
-DAMAGH/ATTACK: 1d8 each
+A water beast is immune to nonmagical weapons. It does have several limitations, however. The water beast cannot travel more than 20 feet beyond the shores of the water it was summoned to and must return every 2 rounds or it suffers 1d8 points of damage. Also, fire-based attacks such as *fireball* and *flamestrike* cause double damage. For all area effect attacks, damage is divided evenly among them.
 
-SPECIAL ATTACKS: See below
+## Habitat/Society
 
-‘SPECIAL DEFENSES: +1 or better weapon to hit
+Schools of water elemental beasts swim in the pure waters of their home elemental plane and are not indigenous to any other plane.
 
-Macic RESISTANCE: Nil
-Size: S (V’ long)
-orate: Very steady (13-14)
-Levet/XP_ VALUE: 300
-PsIONICS SUMMARY: Nil
+## Ecology
 
-PLAYER'S OPTION: MAC 8
-
-Water elemental beasts can be summoned to any area near a
-large volume of water. The water must be relatively pure.
-‘The summoner can use no other tainted liquid such as ale or
-wine. A summoner needs at least 700 cubic feet of water
-(10’x10'x7’ for example) to support a spell sum- 4g
-moning this creature. They are always sum-
-moned as a school, one beast for each
-hit die of elemental summoned.
-
-Water elemental beasts
-resemble flying. pira-
-nhas. They’ range
-in size from 9
-to 12 inches
-and have fan-
-like membra-
-nous wings
-that fold from
-the back. These
-creatures are al-
-ways en-
-countered in
-schools, but they
-move and attack
-in combat as if
-there were a sin-
-gle intelligence
-controlling them.
-The most telling
-feature of the beasts
-is their long, sharp 4
-teeth that seem
-overlarge for the
-small creatures. The
-only noise they make is caused by their movement through
-the water that they call home.
-
-Combat: In combat, a school of water elemental beasts
-moves as if it were one creature. It darts and swims, attacks
-and retreats, as one. Because of this oneness, a school of water
-elemental beasts attacks as if it were a creature of as many Hit
-Dice as there are individuals in the school (school of 8 equals
-8 HD). When an individual is destroyed, the effective Hit Dice
-
-  
-    
-   
-  
- 
- 
-  
- 
- 
-  
- 
-  
- 
-  
-
-of the school is also lowered by one. A school of water elemen-
-tal beasts also gets a cumulative saving throw as if it were a
-creature of as many Hit Dice as individuals within the school.
-
-When attacking, each beast can dart in and cause 1d8
-points of damage with its sharklike teeth. It can also fly up to
-18 feet before landing. Attacks made while flying are made as
-if the beast were charging, with a +2 attack bonus, but the
-beast suffers a -1 penalty to its Armor Class. When attacking in
-water, the beast is invisible and it gains automatic surprise
-against beings not native to their water environment. Attacks
-against a submerged elemental water beast are made with a
--4 penalty, in addition to any other penalty received for un-
-derwater combat.
-
-When attacking while flying, the school has an instinct to
-fly directly into the face of air-breathing creatures. If the at-
-tack roll is a natural 20, one of the water elemental beasts sep-
-arates from the school and lodges in the throat of the victim.
-The victim must make a successful save vs. paralyzation or
-suffer 1-6 (1d6) points of damage per round in suffocation
-damage. Each round after the first, the victim must also make
-another saving throw or pass out from lack of air. If the sav-
-ing throw is ever successful, the victim spits out the water
-beast. Otherwise, the elemental water beast emerges when the
-victim dies.
-
-‘A water beast is immune to nonmagical weapons. It does
-have several limitations, however. The water beast cannot
-travel more than 20 feet beyond the shores of the water it was
-summoned to and must return every 2 rounds or it
-
-suffers 1d8 points of damage. Also, fire-based at-
-
-tacks such as fireball and flamestrike cause
-double damage. For ail area effect at-
-
-tacks, damage is divided evenly
-among them.
-
-Habitat/Society: schools
-of water elemental beasts swim in
-the pure waters of their home ele-
-mental plane and are not in-
-digenous to any other plane.
-
-Ecology:
-Marids
-have been
-known to
-use water
-element
-beasts as
-guardians
-and for
-hunting and
-tracking. On
-Athas, these
-elemental
-beasts are the
-least often
-ur summoned ~
-since there are
-
-@!
-Fa few bodies of
-4
-: water large
-
-y h to ac-
-
-A enough to ac
-
-commodate the
-creatures. Also, the dryness of Athas can cause water
-beasts great pain. Every month the school makes
-savina throw vs. death. If it fails, the school
-loses one beast.
-
----
-
+Marids have been known to use water elemental beasts as guardians and for hunting and tracking. On Athas, these elemental beasts are the least often summoned since there are few bodies of water large enough to accommodate the creatures. Also, the dryness of Athas can cause water beasts great pain. Every month the school makes a saving throw vs. death. 
 # Page 43
 
 . CLIMATE/TERRAIN: Any land
@@ -7480,7 +7255,7 @@ giant larger and more substantial, even healing previously in-
 flicted damage. This healing ranges from 1 point for torch
 light to 2d4 points for continual light spells and full daylight.
 The absence of light, on the other hand, weakens a shadow
-giant, for without @ light source there can be no shadows.
+giant, for without a light source there can be no shadows.
 
 Finally, while a shadow giant is immune to sleep, charm,
 hold, and cold-based spells, it is very susceptible to pure
@@ -8172,7 +7947,7 @@ Despite an impressive average weight of 1,600 pounds, the
 half-giant has managed to maintain much of its human
 agility. The half-giant’s dour face appears human, with long
 thick hair kept either in a single tail down the back or braided
-(@ trend especially prevalent among the females).
+(A trend especially prevalent among the females).
 
 Half-giants have no native language, but most can speak
 common. Most translations to the common tongue make the
@@ -8287,7 +8062,7 @@ SPECIAL ATTACKS: Nil
 SPECIAL DEFENSES: Special resistances
 
 MAcic RESISTANCE: Nil
-SIZE: S (@'-4’ tall)
+SIZE: S (3'-4’ tall)
 Morate: Steady (11-12)
 
 65 for normals
@@ -11171,7 +10946,7 @@ Strength bonus
 SPECIAL DEFENSES: Nil
 Macic RESISTANCE: Nil
 
-Size: M @-7' tall)
+Size: M (6'-7' tall))
 Morate: Elite (15-16)
 Levet/XP_ VALUE: 65
 
@@ -12719,145 +12494,49 @@ that is impossible elsewhere. They have noted Athas because it
 
 # Page 84
 
-~~ —————<§  ¢§ fs << i ¢ © &
+is a world that could survive the massive amounts of psionic force they used to destroy their own world. As a race they have no particular plans for Athas, although individual Psurlons might have some. The psurlons, who are far smaller in number than they were on their home world, are trying to boost their psionic powers and hone their abilities in order to attempt the mind meld again despite their diminished population.
 
-is a world that could survive the massive amounts of potential extend beyond that of most
-psionic force they used to destroy their own
-world. As a race they have to particular plans
-for Athas, although individual Psurlons
-might have some. The psurlons, who are
+Psurlons are only encountered on Athas when summoned. Their knowledge is sought by many, especially psionicists and wizards who travel the Astral Plane. They hate being forced to serve, and seek vengeance upon those who summon them.
 
-  
- 
- 
- 
-   
- 
- 
-  
-  
-  
-  
-  
- 
- 
-   
-  
-  
-  
+## Ecology
 
-within their race. They are trained
-from an early age to serve as both a
-. protector and a leader among the
-psurlons.
-far smaller in number than they were on Some psurlons have become as-
-their home world, are trying to boost their
-psionic powers and hone their abilities in
-order to attempt the mind meld again,
+Psurlons normally feed on the flesh of living creatures, especially that of other sentient races. They particularly like human and halfling flesh.
 
-tral explorers, traveling across
-the Astral Plane, seeking new
-knowledge and power, hunting
-despite their diminished population. ’ food and suitable creatures
-Psurlons are only encountered on en that might be subjugated and
-Athas when summoned. Their ® used as slave labor. Small ex-
-knowledge is sought by many, ploration parties usually con-
+The typical lifespan of a psurlon is 1,500 years. They are at the top of the food chain and are seldom preyed upon. Athasian rocs consider psurlons a delicacy, but fortunately for the psurlons there are no rocs on the Astral Plane.
 
-sist of 2-8 (2d4) psurlon
+Some evil psionicists summon psurlons in hopes of gaining their knowledge. The price is very high and often leads to the death of the summoner. Summoners who gain knowledge from psurlons and then attempt to slay them or send them back are tracked down and forced to pay what is due either by the psurlons they summoned or by others of their race.
 
-adepts.
-
-especially psionicists and wizards
-who travel the Astral Plane. They 4
-hate being forced to serve, and
-seek vengeance upon those who
-
-Giant Psurlons
-
-. As for psurlon adept, plus
-
-summon them.
-
- 
-
-EcOlOGY: Psurlons normally
-
-feed on the flesh of living creatures,
-
-/ 4 Psychometabolic: Devo-
-
-e/ tions double pain.
-especially that of other sentient races.
-
-They particularly lake human and
-halfling. flesh.
-
-The typical lifespan of a psurlon is
-1,500 years. They are at the top of the food
-chain and are seldom preyed upon.
-
-f Psychokinesis: Sciences —
-ae disintegrate, telekinesis,
-Devotions — leviations. iner-
-tial barrier
-Athasian rocs consider psurlons a deli- } Giant psurlons are mutated
-cacy, but fortunately for the psurlons psurlons who existed when
-there are no rocs on the Astral Plane. their kind destroyed their world.
-Some evil psionicists summon psurlons
-in hopes of gaining their knowledge. The
-price is very high and often leads to the
-death of the summoner. Summoners who
-gain knowledge from psurlons and then at
-tempt to slay them or send them back are
-
-They absorbed so much psionic
-/ energy when their world was de-
-stroyed that they became nearly
-
-immortal and they grew in size and
-psionic ability.
-
-Only a handful of these creatures are
-tracked down and forced to pay what is due
-
-either by the psurlons they summoned or by |
-others of their race.
-
-left. These creatures make their own soli-
-tary dens upon the Astral Plane and have lit-
-tle contact with others, including those of their
-
-own kind, since other psurlons consider
-them cursed monsters.
-
-Psurbon Adepts
+## Psurlon Adepts
 
 Same as for a typical psurlon, plus:
 
-There are a few, however, who
-have taken control of small
-psurlon communities, ruling
-them as harshly as any sorcerer
-king ever ruled.
-Giant psurlons can attack with
+**Telepathy:** *Sciences* — psionic blast (*ultrablast*)
+*Devotions* — psychic drain.
 
-Telepathy: Sciences~ psionic blast (ultra
-blast) Devotions psychic drain.
+**Clairsentience:** *Sciences* — clairvoyance;
+*Devotions* — combat mind, danger sense, know location, spirit sense.
 
-Clairsentience: Sciences— clairvoyance; Devotions— their claws and bite that cause far N \
-combat mind, danger sense, know location, spirit sense. greater damage than those of
+Psurlon adepts serve as leaders of the small psurlon communities. They are specially gifted psurlons whose psionic potential extend beyond that of most within their race. They are trained from an early age to serve as both a protector and a leader among the psurlons.
 
-both typical psurlons and \
-Psurlon adepts serve as leaders of the small psurlon com- _ psurlon adepts, but they
+Some psurlons have become astral explorers, traveling across the Astral Plane, seeking new knowledge and power, hunting food and suitable creatures that might be subjugated and used as slave labor. Exploration parties usually consist of 2–8 (2d4) psurlon adepts.
 
-munities. They are specially gifted psurlons whose psionic seldom need to do so.
+## Giant Psurlons
 
-—~
+As for psurlon adept, plus:
 
-oe + mr 7 Z,
+**Psychometabolic:** *Devotions* — double pain.
 
----
+**Psychokinesis:** *Sciences* — disintegrate, telekinesis;
+*Devotions* — levitation, inertial barrier.
 
+Giant psurlons are mutated psurlons who existed when their kind destroyed their world. They absorbed so much psionic energy when their world was destroyed that they became nearly immortal and they grew in size and psionic ability.
+
+Only a handful of these creatures are left. These creature make their own solitary dens upon the Astral Plane and have little contact with others, including those of their own kind, since other psurlons consider them cursed monsters.
+
+There are a few, however, who have taken control of small psurlon communities, ruling them as harshly as any sorcerer king ever ruled.
+
+Giant psurlons can attack with their claws and bite that cause far greater damage than those of both typical psurlons and psurlon adepts, but they seldom need to do so.
+                                                                                                                                               
 # Page 85
 
 CLIMATE/TERRAIN: Any
@@ -13170,178 +12849,53 @@ on-one with his spells
 
 # Page 87
 
-CUMATH/TERRAIN:
-FREQUECY:
-ORGANIZATION:
-Acriviy Cycte:
-Diet:
-INTELLIGENCE:
-"TREASURE:
-ALIGNMENT:
+# Racked Spirit
 
-No. APPEARING:
-ARMOR CLASS:
-@.5 Movement:
+| Field | Value |
+|---|---|
+| Climate/Terrain | Any |
+| Frequency | Uncommon |
+| Organization | Pack |
+| Activity Cycle | Night or darkness |
+| Diet | None |
+| Intelligence | Average (8–10) |
+| Treasure | M (x2), O |
+| Alignment | Chaotic evil |
+| No. Appearing | 3–12 (3d4) |
+| Armor Class | 6, or as in life (see below) |
+| Movement | 12, Fl 18 (B) |
+| Hit Dice | As in life, or 4 |
+| THAC0 | As in life, or 17 |
+| No. of Attacks | As in life, or 2 |
+| Damage/Attack | By weapon type, or 1d6 |
+| Special Attacks | Energy drain |
+| Special Defenses | See below |
+| Magic Resistance | Nil |
+| Size | M (5'–6' tall) |
+| Morale | Elite (15–16) |
+| Level/XP Value | 2,000 + 500 per HD over 4 |
+| Psionics Summary | Dis 3/Sci 4/Dev 13, PS 14; PSPs 55 |
+| Att | EW, II, MT, PB |
+| Def | IF, MB, TS, TW |
+| Player's Option | #AT 1; MTHAC0 17; MAC 8 |
 
-e Hir Dice:
-THACO:
+Telepathic: Sciences— mindlink, psionic blast (switch personality); Devotions— contact (ESP), ego whip (aversion), empathy, false sensory input, id insinuation (send thoughts), inflict pain, life detection, mind thrust (phobia amplification), repugnance, telempathic projection, truthear.
 
-No. OF ATTACKS:
-DAMAGH/ATTACK:
-SPECIAL ATTACKS:
-SPECIAL DEFENSES:
-MAGIC RESISTANCE:
-Size:
+Psychokinesis: Sciences— telekinesis; Devotions— molecular manipulation, soften.
 
-Monrate:
-Leve/XP VALUE:
+Clairsentience: Sciences— aura sight; Devotions— none.
 
-Any
+Racked spirits are the evil remnants of persons who committed acts during their lives that violated the very nature of their being. Racked spirits cannot appease their consciences and the only way to suppress their personal agony is by destroying the lives of happy living beings. They look just as they did at the time of their death, except they are slightly transparent because part of them is still on the Ethereal Plane. Racked spirits vary in race, but dwarven banshees are the most common. Dwarven banshees are created whenever dwarves forsake their life purpose.
 
-Uncommon
+Combat: Racked spirits usually attack with their touch that causes 1-6 (1d6) points of damage from its chill. Even creatures immune to cold-based attacks receive the damage. Their touch drains one energy level from their victim. The damage from the chill can heal normally, but the experience points must be earned again, or regained with a restoration spell. A being drained of all its life energy becomes a lesser spirit that has only half its former experience level and none of the racked spirit psionic powers. Lesser spirits are under the control of the racked spirits who destroy them. Those who become lesser spirits can only be laid to rest by destroying the racked spirit.
 
-Pack
+Racked spirits single out happy individuals, attempting to ruin their lives through "bad luck." They appear to those they have ruined to offer their help in exchange for services. The services they require always conflict with the strongest beliefs of the victims. If the victims refuse to do what the spirit's request, the spirit descends on them and drains their life energy. Those who agree and go against their own beliefs become full-strength racked spirits upon their deaths.
 
-Night or darkness
-None
+Racked spirits can only be harmed by a +1 or better magical weapon, a creature of 5 HD or greater, or by creatures with magical abilities. Racked spirits are immune to sleep, charm, hold, and cold-based spells, and poisons and paralyzation. Holy elements inflicts 2-8 (2d4) points of damage. A raise dead spell destroys racked spirits if its save vs. spell is not successful.
 
-Average (8-10)
+Habitat/Society: Racked spirits can roam anywhere at will. They do not associate with one another.
 
-M (x2), 0
-
-Chaotic evil
-
-3-12 (3d4)
-
-6, or as in life (see below)
-12, F1 18 (B)
-
-As in life, or 4
-
-As in life, or 17
-
-As in life, or 2
-
-By weapon type. or 146
-Energy drain
-
-See below
-
-Nil
-
-M (6-6 tall)
-
-Elite (15-16)
-
-2,000 + 500 per HD over 4
-
-    
-  
-    
-  
-   
-  
-   
-  
-   
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
-  
- 
-  
- 
- 
- 
- 
-
-PsIONICS SUMMARY: Dis 3/Sci4/Dev 13, PS 14; PSPs 55
-Att: EW, Il, MT, PB;
-Def: IF, MB, TS, TW
-
-PLAYER’S OPTION: #AT1; MTHACO 17; MAC 8
-
-Telepathic: Sciences— mindlink, psionic blast (switch person-
-
-{ ality); Devotions— contact (ESP), ego whip (aversion), empathy,
-false sensory input, id insinuation (send thoughts), inflict
-pain, life detection, mind thrust (phobia amplification) re-
-pugnance, telempathic projection, truthear.
-
-Psychokinesis: Sciences— telekinesis; Devotions~ molecular
-manipulation, soften.
-
-Clairsentience: Sciences~ aura sight; Devotions~ none.
-
-Racked spirits are the evil remnants of persons who commit-
-ted acts during their lives that violated the very nature of their
-being. Racked spirits cannot appease their consciences and
-the only way to suppress their personal agony is by destroy-
-ing the lives of happy living
-beings.
-They look just as
-they did at the time of
-their death, except they
-are slightly transparent
-because part of them is still
-on the Ethereal Plane Racked
-spirits vary in race, but dwarven
-banshees are the most common.
-Dwarven banshees are created whenever
-dwarves forsake their life purpose.
-
-Combat: Racked spirits usually attack
-with their touch that causes 1-6 (1d6) points of
-
-damage from its chill. Even creatures im-
-mune to cold-based attacks receive the
-damage Their touch drains one
-
- 
-
-energy level from their victim. The damage from the chill
-can heal normally, but the experience points must be
-earned again, or regained with a restoration spell. A being
-drained of all its life energy becomes a lesser spirit that has
-only half its former experience level and none of the racked
-spirit psionic powers. Lesser spirits are under the control of
-the racked spirits who destroy them. Those who become
-lesser spirits can only be laid to rest by destroying the
-racked spirit.
-
-Racked spirits single out happy individuals, attempting to
-ruin their lives through “bad luck.” They appear to those they
-have ruined to offer their help in exchange for services. The
-services they require always conflict with the strongest beliefs
-of the victims. If the victims refuse to do what the spirit’s re-
-quest, the spirit descends on them and drains their life energy.
-Those who agree and go against their own beliefs become full-
-strength racked spirits upon their deaths.
-
-Racked spirits can only be harmed by a +1 or better mag-
-ical weapon, a creature of 5 HD or greater, or by creatures
-with magical abilities. Racked spirits are immune to sleep,
-charm, hold, and cold-based spells, and poisons and para-
-lyzation. Holy elements inflicts 2-8 (2d4) points of damage. A
-raise dead spell destroys racked spirits if its save vs. spell is
-not successful.
-
-Habitat/Society: Racked spirits can roam any-
-
-where at will. They do no associate with one another.
-
-Ecology: Like most undead, racked spirits have no eco-
-logical impact.
-
----
-
+Ecology: Like mo
 # Page 88
 
 CLIMATH/TERRAIN: Any
@@ -15274,151 +14828,60 @@ dark spiders and act as leaders of warrior dark spiders. The last
 
 # Page 102
 
-~———<< ¢§ 6 i a & © ©
+and most feared dark spider is the queen spider. The queen spider is an extremely powerful and skilled psionicist/defiler. She is considered a 7th-level defiler and a 6th-level psionicist. Her poison (type E) is even more deadly than that of other dark spiders and causes death if the victim does not make a successful save and 20 points of damage even if the save was successful.
 
-and most feared dark spider is the queen spider. The
-queen spider is an extremely powerful and
-skilled psionicist/defiler. She is considered a
-7th-level defiler and a 6th-level psionicist.
-Her poison (type E) is even more deadly
-than that of other dark spiders and
-causes death if the victim does not
-make a successful save and 20 points
+## Ecology
 
-of damage even if the save was suc-
-cessful.
+Dark spiders have no natural enemies, but often make enemies of beings living near their lairs. Their young are born in web sacks, located in the lair's hatchery.
 
-Ecology: dark spiders
-no natural enemies, but
-often make enemies of be-
-ings living near their lairs.
-Their young are born in
-web sacks, located in the
-lair's hatchery.
+The poison is highly prized by assassins. In rare cases, the spiders have been known to trade silk for live food. A number of merchant houses are rumored to trade slaves as food in exchange for valuable silk.
 
-The poison is highly
-prized by assassins. In rare
-cases, the spiders have been
-known to trade silk for live
-food. A number of merchant
-houses are rumored to trade
-slaves as food in exchange for
-valuable silk.
+## Mountain Spiders
 
-Mountain Spiders
-Mountain spiders are large creatures
-that resemble most other spiders except
-for their size and color. They blend in well
-with their surroundings, taking on the coloration
-of the rocks within the area shortly after birth.
+Mountain spiders are large creatures that resemble most other spiders except for their size and color. They blend in well with their surroundings, taking on the coloration of the rocks within the area shortly after birth.
 
-They make their dens in small caves on cliff walls and
-mountain sides. They often prey upon birds and other crea-
-tures that get too close to then caves.
+They make their dens in small caves on cliff walls and mountain sides. They often prey upon birds and other creatures that get too close to their caves.
 
-Combat: Mountain spiders prefer to attack by surprise.
-‘They attack by biting their opponents for 1-8 (1d8) points of
-damage and their bite carries with it a strong venom (type 0)
-that causes paralysis in a victim in 2-24 (2d12) minutes unless
-the victim makes a successful save vs. poison.
+## Combat
 
-Habitat/Society: there is 2 10% chance that a
-mountain spider has the following psionic powers
+Mountain spiders prefer to attack by surprise. They attack by biting their opponents for 1–8 (1d8) points of damage and their bite carries with it a strong venom (type O) that causes paralysis in a victim in 2–24 (2d12) minutes unless the victim makes a successful save vs. poison.
 
-Psionics SUMMARY: Dis 3/Sci 4/Dev 12; PS 13; PSPs 50
-Att: EW, II, MT, PB;
+## Habitat/Society
 
-Def: IF, MB, TS, TW
+There is a 10% chance that a mountain spider has the following psionic powers.
 
-PLAYER'S OPTION: #AT 3/2 MTHACO 14; MAC 3
+**Psionics Summary:** Dis 3/Sci 4/Dev 12; PS 13; PSPs 50
+**Att:** EW, II, MT, PB
+**Def:** IF, MB, TS, TW
+**Player's Option:** #AT 3/2 MTHAC0 14; MAC 3
 
-  
+**Telepathic:** *Sciences* — domination, mass domination, psionic blast (*ultrablast*), mindlink;
+*Devotions* — attraction, awe, contact (*inflict pain*), ego whip (*ESP*), empathy, id insinuation (*Phobia amplification*), invincible foes, mind thrust (*repugnance*).
 
-Telepathic: Sciences~ domination, mass
+**Psychometabolic:** *Sciences* — nil;
+*Devotions* — body weaponry (the weapons produced resemble insect parts), cat fall.
 
-domination, psionic blast (ultrablast), ~‘
-mindlink; Devotions attraction, awe, contact
-(inflict pain) ego whip (ESP) empathy, id
-insinuation (Phobia amplification), invin-
-cible foes, mind thrust (repugnance). ’
+**Clairsentience:** *Sciences* — none;
+*Devotions* — danger sense, sensitivity to observation.
 
-Psychometabolic: Sciences~ nil;
-Devotions~ body weaponry (the
-weapons produced resemble insect
-parts), cat fall.
+Mountain spiders are highly intelligent creatures and they use many tricks to lure in prey. They often place shiny metal objects just inside the entrances of their caves where the sun will shine on them, hoping the glare will attract the interest of travelers.
 
-Clairsentience: Sciences~ none;
-Devotions— danger sense, sensitivity
-to observation.
+It is believed that many of their tunnels link together and that the mountain spiders have an almost tribal society composed of various smaller packs. Because no intelligent creature has crawled through the tunnels of these creatures, the truth remains unknown.
 
-Mountain spiders are highly intelli-
-gent creatures and they use many
+## Ecology
 
-tricks to lure in prey. They often place
-shiny metal objects just inside the en-
-trances of their caves where the sun
-will shine on them, hoping the glare
-will attract the interest of travelers.
+Mountain spiders consume living flesh and blood, and they are especially fond of wounded rocs.
 
-It is believed that many of their
+The venom of mountain spiders is highly prized by assassins. A skilled priest, defiler, or preserver can transform it into a potion to cure paralysis.
 
-tunnels link together and that the
-mountain spiders have an almost tribal
-society composed of various smaller
-packs. Because no intelligent creature has
-crawled through the tunnels of these crea-
-tures, the truth remains unknown.
+## Silt Spiders
 
-   
-   
-   
-  
- 
-   
-    
-  
-  
- 
- 
- 
- 
- 
-   
-    
-   
-   
+Silt spiders are small spiders that easily blend into silt-filled areas. They can swim through silt easily and often attack unseen, deep within the silt. They swarm all over anything that comes within their area.
 
-EcOlOGY: Mountain spiders consume liv-
-ing flesh and blood, and they are especially fond of
-wounded rocs.
-The venom of mountain spiders is highly prized by assas-
-sins. A skilled priest, defiler, or preserver can transform it into
-a potion to cure paralysis.
+Worse than their bites is their poison. The poison causes no damage, but unless a victim makes a successful save vs. poison at +2, he becomes paralyzed and cannot move.
 
-Silt Spiders
-
-Silt spiders are small spiders that easily blend into silt-filled areas.
-They can swim through silt easily and often attack unseen, deep
-within the silt. They swarm all over anything that comes within
-their area. Worse than their bites is their poison. The poison causes
-no damage, but unless a victim makes a successful save vs. poison
-at +2, he becomes paralyzed and cannot move.
-Paralyzed victims are easily preyed upon
-
-by the swarming silt spiders. While ‘
-the poison’s effects wear off in 2-12
-
-(2d6) rounds, most victims are
-
-bitten so many times they be- \
-come food for the spiders
-long before the paralysis
-
-wears off.
-~>
-
----
-
+Paralyzed victims are easily preyed upon by the swarming silt spiders. While the poison's effects wear off in 2–12 (2d6) rounds, most victims are bitten so many times they become food for the spiders long before the paralysis wears off.
+                                               
 # Page 103
 
 Shinewyrm -

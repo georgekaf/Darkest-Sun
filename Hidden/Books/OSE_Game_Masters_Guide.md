@@ -2441,39 +2441,47 @@ rounds.
 
 # Page 35
 
-Elf Erdlu
+# Elf
 
-Athasian Elves stand 6’-7’ tall. They are Erdlus are flightless, featherless birds
-tribal raiders, nomads and traders all covered with flaky gray-tored scales.
-across the dunes and steppes of Athas. | They weigh as much as 200 pounds and
-stand up to seven feet tall. They are used
-AC 5[14], HD 14+1* (5 hp), Att1x weapon as mounts and cattle.
-(d8 by fist or weapon), Thaco 18[+3] MV_@§_ £2
-120'(200’)running, SV Diz W33 P13 Bis AC 7[12], HD 3 (13 hp), Att 2 x attack
-S15 (Elf, 1), ML 6(8 with leader), AL (1d6/1d4 by claw or bite), Thaco 17[+2]
-Chaotic, XP 15, NA 1d6(2d12), TT E MV 90, SV Diz Wi3 Pig Bis S16 ( 3), ML
-—SSSSSSSSSSSSSSSCS«, AL. Necuttraal, XP 35, NA 5di0, TT Nil
-PSI: One random power WT:
+Athasian Elves stand 6'–7' tall. They are tribal raiders, nomads and traders all across the dunes and steppes of Athas.
 
-Send Thoughts, Catfall Powers: PSI: WT: All-Round Vision,
-2 Rank ist Know Direction Powers: 2
-Elven Run: It can run up 200' Max load: Carry up to 4,500
-for 2d6 rounds one per day. coins unencumbered; up to
-Leader: Groups of 15+ are led by 9,000 at half speed.
+| Stat | Value |
+|---|---|
+| AC | 5 [14] |
+| HD | 1+1* (5 hp) |
+| Att | 1 x weapon |
+| Damage | 1d8 by fist or weapon |
+| THAC0 | 18 [+1] |
+| MV | 120' (200') running |
+| SV | D12 W13 P13 B15 S15 (Elf 1) |
+| ML | 6 (8 with leader) |
+| AL | Chaotic |
+| XP | 15 |
+| NA | 1d6 (2d12) |
+| TT | E |
 
-an elf of level 1d6 +1. The leader
-may have magical items: 5%
-chance per level for each magic
-item table.
+**PSI:** One random power
+**WT:** Send Thoughts, Catfall
+**Powers:** 2
+**Rank:** 1st
+**Elven Run:** It can run up 20' for 2d6 rounds one per day.
+**Leader:** Groups of 15+ are led by an elf of level 1d6 + 1. The leader may have magical items 5% chance per level for each magic item table.
 
-  
+# Erdlu
 
-—~~ 726
+Erdlus are flightless, featherless birds covered with flaky gray-tored scales. They weigh as much as 200 pounds and stand up to seven feet tall. They are used as mounts and cattle.
 
-35
-
----
-
+| Stat | Value |
+|---|---|
+| AC | 7 [12] |
+| HD | 3 (13 hp) |
+| Att | 2 x attack |
+| Damage | 1d6/1d4 by claw or bite |
+| THAC0 | 17 [+2] |
+| MV | 90' |
+| SV | D12 W13 P14 B15 S16 (3) |
+| ML | 6 |
+| AL | Neutr
 # Page 36
 
 Gaj
@@ -4908,7 +4916,7 @@ oz Ascrap of hide 27 Avial with the saliva of an id fiend
 04 A roc feather fan 29 A scroll with a spell badly written
 05 Askull-shaped shard of obsidian 30 An ock'n shell
 06 A necklace made with fingerbones 3 Agem that holds a dwarfs focus
-o7 Awyvern's stinger 32 Templars amulet of king Hamanu
+07 A wyvern's stinger 32 Templars amulet of king Hamanu
 08 A complete skeleton of a snake 3 A tuft of hair from a feylaar
 09 A dried esperweed flower 34 A piece of leather with a forest image
 10 A rank insignia from Yaramuke 35 An aarakocra feather
@@ -5388,7 +5396,7 @@ dioo Feature Category 00-01 Settlement
 70-99 Rocky Formations
 
 00-06 _—_ Settlement
-07-15, Ruins
+07-15 Ruins
 
 61-99 Rocky Formations
 
