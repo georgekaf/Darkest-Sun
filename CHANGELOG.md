@@ -3,38 +3,75 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
-## v0.9 — OSE GMG Manual Page Corrections
+## v0.9 — OSE GMG Manual Page Corrections *(in progress)*
 
-**`OSE_Game_Masters_Guide.md`** — combined file restructured and 15 pages fully rewritten from PDF source:
+**`OSE_Game_Masters_Guide.md`** — combined file restructured and pages rewritten from PDF source.
 
-**Structure restored (pages 1–4):**
-- Page 1: Cover (`Game Master's Guide / By Lixu`) — OCR noise removed
-- Page 2: Foreword + Credits — disclaimer, foreword text, and credits reformatted with correct markdown
-- Page 3: Table of Contents — fully rewritten as structured markdown tables with correct page numbers; garbled dot-leader layout replaced; Appendix L corrected to Appendix I
-- Page 4: Chapter 1 divider — `Chapter 1: Runnings dventures&SS` → `Chapter 1: Running Adventures`
+### ✅ Completed
 
-**Full page rewrites (monster entries + special pages):**
-- Page 12: Merchant's Calendar — entirely garbled; replaced with clean calendar table (15 months/festivals, 375-day year), constellation list, and festival weeks
-- Page 18: Chapter 3 divider — blank/stray `18` → `Chapter 3: Monsters`
-- Page 21: Aarakokra + Anakore — dice notation, saving throws, infravision, two-column merge resolved
-- Page 22: Baazrag + Belgoi — dice notation, saving throws, stat block formatting
-- Page 23: Braxat + Brambleweed — `AC ofig]`→`0[19]`, `2dio`→`2d10`, `dioo`→`d100`, two-column merge resolved
-- Page 24: Cactus + Sand Cactus — `id3`→`1d3`, `NA o(1)`→`0(1)`; B'rohg entry removed (belongs on separate page)
-- Page 25: Hunting Cactus + Spider Cactus — saving throws, `idq4`→`1d4`, `W133 Pig`→`W13 P14`
-- Page 27: Cilop + Cistern Fiend — `W323`→`W13`, `AC o[20]`→`0[20]`, missing ML restored, two-column merge resolved
-- Page 28: Cloud Ray + Cordlu — `2dio`→`2d10`, `Sio`→`S10`, `Diz Bis`→`D12 B15`, Infravision 300' confirmed
-- Page 30: Air Drake + Earth Drake — `idio`→`1d10`, `Sq`→`S4`, `uo hp`→`110 hp`, `50-cubic-feet`→`500-cubic-feet`, `burow`→`burrow`
-- Page 31: Fire Drake + Water Drake — `AC -i[21]`→`-1[21]`, `HD 2045`→`20+5`, `4dio`→`4d10`, `dio rounds`→`1d10 rounds`
-- Page 32: Full-page illustration noted (winged demon/beast creature)
-- Page 33: Dragon of Tyr — `o[+19]`→`0[+19]`, 14th level Defiler confirmed, stat block reformatted
-- Page 44: Pterran + Pterrax — `ad6`→`1d6`, `1dio`→`1d10`, `Diz Bis`→`D12 B15`, `ist`→`1st`, two-column merge resolved
+**Structure (pages 1–4):**
+- p1: Cover restored (`Game Master's Guide / By Lixu`)
+- p2: Foreword + Credits reformatted
+- p3: Table of Contents — fully rewritten as markdown tables, page numbers corrected, Appendix L → Appendix I
+- p4: Chapter 1 divider — `Runnings dventures&SS` → `Chapter 1: Running Adventures`
 
-**Recurring fix patterns across all rewritten pages:**
-- `Bis`→`B15`, `Sio`→`S10`, `Diz`/`Di2`→`D12` in saving throw fields
-- `id[X]`→`1d[X]` and `ad[X]`→`2d[X]` throughout dice notation
-- `NA o(N)`→`NA 0(N)` and `AC o[N]`→`AC 0[N]` (letter O as zero)
-- Two-column OCR merges resolved on all stat blocks
-- All stat blocks reformatted with bold field labels
+**Special pages:**
+- p12: Merchant's Calendar — entirely garbled; rewritten with calendar table (15 months/festivals), constellations, festival weeks
+- p18: Chapter 3 divider restored
+- p32: Full-page illustration noted (winged demon/beast)
+
+**Monster pages (fully rewritten):**
+- p21: Aarakokra + Anakore
+- p22: Baazrag + Belgoi
+- p23: Braxat + Brambleweed
+- p24: Cactus + Sand Cactus *(B'rohg removed — page mismatch)*
+- p25: Hunting Cactus + Spider Cactus
+- p27: Cilop + Cistern Fiend
+- p28: Cloud Ray + Cordlu
+- p30: Air Drake + Earth Drake
+- p31: Fire Drake + Water Drake
+- p33: Dragon of Tyr
+- p34: Dwarf + Dwarf Banshee
+- p36: Gaj + Beasthead Giant
+- p38: Gith + Half-Giant *(was mislabelled p36 by user)*
+- p39: Halfling + Hej-kin
+- p44: Pterran + Pterrax
+
+**Recurring fixes on all rewritten pages:**
+`Bis`→`B15`, `Sio`→`S10`, `Diz`/`Di2`→`D12`, `id[X]`→`1d[X]`, `ad[X]`→`2d[X]`, `NA o(N)`→`NA 0(N)`, `AC o[N]`→`AC 0[N]`, two-column merges resolved, stat blocks reformatted bold.
+
+---
+
+### 🔲 Remaining — Monster pages (needs PDF text)
+
+| Page | Monsters | Key issues |
+|---|---|---|
+| p40 | Id Fiend + Inix | `id6`, two-column merge, `$14` |
+| p41 | Jozhal + Kank | `Diz`, `Bis` |
+| p42 | Megapede + Mekillot | `ad6`×2 (= `2d6`) |
+| p43 | Mul | `Di2 W313`, `Bis` |
+| p46 | Pyreen | `AC o[20]` |
+| p47 | Sand Bride | `AC o[20]` |
+| p49 | Silt Runner + Athasian Sloth | `Diz`, `Sio`, `NA o(id4)` |
+| p50 | So-ut + Crystal Spider | `Sio`, `Diz`, `Bis` |
+| p51 | Ssurran + Sylk Wyrm | `ad6`, `Diz`, `Bis` |
+| p52 | Tarek + Thri-kreen | `Di2 W123`, `Bis`, `idq4` |
+| p53 | Tohr-kreen + Thrax | `NAi(id4)` |
+| p54 | Villichi | `idq` |
+| p55 | Floater + Kes'trekel | `AC o[11]` |
+
+### 🔲 Remaining — Rules/generator pages (fixable without PDF)
+
+| Page | Issue |
+|---|---|
+| p62 | `e@` bullets → `•`; `id3` in NPC table |
+| p69 | `e@` bullets → `•`; `~—` table artifacts |
+| p77 | `3 ~=©— Butte` — needs PDF |
+| p82, p84, p88 | Standalone `id4`, `id6`, `id8_` in generator tables |
+
+### 🔲 Remaining — Bare page number artifacts only (auto-fixable)
+
+Pages: 10, 11, 14–17, 19, 20, 29, 37, 45, 48, 56, 58–61, 63, 65–68, 70–73, 75, 78–81, 83, 85–87, 89–93
 
 ---
 

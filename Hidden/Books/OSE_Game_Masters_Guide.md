@@ -1967,70 +1967,31 @@ Fortunately, there is only one dragon in the Tyr Region and perhaps in the entir
 
 # Page 34
 
-Dwarf
+## Dwarf
 
-They are known for obsessive attitudes
-about the tasks they perform and as
-such, are considered extremely reliable
-workers.
+They are known for obsessive attitudes about the tasks they perform and as such, are considered extremely reliable workers.
 
-Dwarf Banshee
+**AC** 4 [15], **HD** 1 (4 hp), **Att** 1 x weapon (1d8 or by weapon), **Thaco** 19 [0] **MV** 60' (20'), **SV** D8 W9 P10 B13 S12 (Dwarf 1), **ML** 8 (10 with leader), **AL** Lawful, **XP** 15, **NA** 1d6 (5d8), **TT** G
 
-Dwarves who die before completing a
-major focus are often condemned to live
-out their afterlives as demented
-banshees.
+**PSI WT:** Sight Link, Know Direction
+**Powers:** 2
 
- 
+**Leader:** Leader of level 1d6 + 2 is present for every 20 dwarves. The leader may have valuable equipment: 5% chance per level.
 
-AC 4[15], HD 1 (4 hp), Att 1x weapon
-(id8 or by weapon), Thaco 19[0] MV
-60'(20’), SV D8 Wo Pio B13 Siz (Dwarf,
-1)), ML 8(10 with leader), AL Lawful, XP
-15, NA 1d6(5d8), TT G
+**Focus:** When performing tasks related to their quest, they gain +1 to **Saves** and +2 to **attacks**.
 
-AC o[20], HD 242 (10 hp), Att 1x
-weapon (1d4+6 by fist or weapon),
-Thaco 19[0] MV 60’(20’), SV D8 Wo Pio
-Bi3 Si2 (Dwarf, 1)), ML 12, AL Chaotic,
-XP 25, NA 1d6(5d8), TT G
+## Dwarf Banshee
 
- 
+Dwarves who die before completing a major focus are often condemned to live out their afterlives as demented banshees.
 
-PSI: WT: Sight Link, Know
-Direction Powers: 2
+**AC** 0 [20], **HD** 2+2 (10 hp), **Att** 1 x weapon (1d4+6 by fist or weapon), **Thaco** 19 [0] **MV** 60' (20'), **SV** D8 W9 P10 B13 S12 (Dwarf 1), **ML** 12, **AL** Chaotic, **XP** 25, **NA** 1d6 (5d8), **TT** G
 
-Leader: A leader of level 1d6 + 2
-is present for every 20 dwarves.
-The leader may have valuable
-equipment: 5% chance per level.
-Focus: When performing tasks
-related to their quest, they gain
-+1 to Saves and +2 to attacks.
+**PSI WT:** Sight Link, Know Direction
+**Powers:** 2
 
- 
+**Mundane damage immunity:** Can only be harmed by magical attacks.
 
- 
-
- 
-
- 
-
- 
-
-PSI: WT: Sight Link, Know
-Direction Powers: 2
-
-Mundane damage immunity:
-Can only be harmed by magical
-attacks.
-
-Rage: It enters a desperate rage(
-+2 attack and damage bonus,
-may not leave the fight) for 2d6
-rounds.
-
-34
+**Rage:** It enters a desperate rage (+2 attack and damage bonus, may not leave the fight) for 2d6 rounds.
 
 ---
 
@@ -2079,83 +2040,45 @@ Erdlus are flightless, featherless birds covered with flaky gray-tored scales. T
 | AL | Neutr
 # Page 36
 
-Gaj
+## Gaj
 
-A gaj is a psionic horror, a predatory
-insectoid creature that feeds by draining
-the mind of intelligent creatures.
+A gaj is a psionic horror, a predatory insectoid creature that feeds by draining the mind of intelligent creatures.
 
-AC 2[18], HD 7 (31 hp), Att 2 x attack
-(1d6+2 by claw), Thaco 13[+6] MV 607,
-SV D8 Wo Pio Bio S12 (7), ML 9, AL
-Neutral, XP 1,250, NA 1d2, TT Nil
+**AC** 2 [18], **HD** 7 (31 hp), **Att** 2 x attack (1d6+2 by claw), **Thaco** 13 [+6] **MV** 60', **SV** D8 W9 P10 B10 S12 (7), **ML** 9, **AL** Neutral, **XP** 1,250, **NA** 1d2, **TT** Nil
 
-PSI:Mind Bar, Domination, Hypnosis,
-Mind Link, Thought Shield, Crush Life
-WT: Life Detection, All-Round Vision,
-Sight Link, Send Thought Powers: 7
-Rank: 2nd
+**PSI:** Mind Bar, Domination, Hypnosis, Mind Link, Thought Shield, Crush Life
+**WT:** Life Detection, All-Round Vision, Sight Link, Send Thought
+**Powers:** 7
+**Rank:** 2nd
 
-Mandible Grapple: The victim must
-save vs. paralyze or be held by the
-mandibles for 1d6 rounds.
+**Mandible Grapple:** The victim must **save vs. paralyze** or be held by the mandibles for 1d6 rounds.
 
-Mind Consumption: When it holds its
-victim, it uses its antennae to feed from
-its mind. The victim loses 1d4 points of
-INT or WIS, if any of those two stats fall
-to o, the victim dies.
+**Mind Consumption:** When it holds its victim, it uses its antennae to feed from its mind. The victim loses 1d4 points of INT or WIS, if any of those two stats fall to 0, the victim dies.
 
- 
+## Giant, Athasian
 
-Giant, Athasian
+The Giants of Athas are huge, lumbering creatures who commonly inhabit the islands of the Sea of Silt. All the Giants of Athas share one characteristic, and that is savagery. Though humanoid giants can be congenial and friendly when properly approached, they have short tempers and are very easily agitated.
 
-The Giants of Athas are huge, lumbering
-creatures who commonly inhabit the
-islands of the Sea of Silt. All the Giants
-of Athas share one characteristic, and
-that is savagery. Though humanoid
-giants can be congenial and friendly
-when properly approached, they have
-short tempers and are very easily
-agitated.
+### Beasthead Giant
 
-Beasthead Giant
+Though somewhat smaller than humanoid giants, beasthead giants are actually more dangerous. They have a human looking body and the head of a beast.
 
-Though somewhat smaller than
-humanoid giants, beasthead giants are
-actually more dangerous. They have a
-human looking body and the head of a
-beast.
+**AC** 3 [17], **HD** 15 (67 hp), **Att** 2 x attack (2d8+4 by fist or weapon), **Thaco** 5 [+14] **MV** 60', **SV** D6 W7 P8 B8 S10 (12), **ML** 10, **AL** Neutral, **XP** 1,100, **NA** 1d4+2 (2d6), **TT** O
 
-AC 3[17], HD 15 (67 hp), Att 2 x attack
-(2d8+4 by fist or weapon), Thaco 5[+14]
-MV 60; SV D6 W7 P8 B8 Sio (12), ML 10,
-AL Neutral, XP 1,100 NA 1d4+2(2d6),
-TTO
+**PSI:** Mind Bar, Clairvoyance, Crush Life, Kinetic Fist
+**WT:** Detect Life, Know Direction
+**Powers:** 5
+**Rank:** 2nd
 
-PSI:Mind Bar, Clairvoyance,
-Crush Life, Kinetic Fist WT:
-Detect Life, Know Direction
-Powers: 5 Rank: 2nd
-Psionic Resistance: Only
-affected by 2nd rank Powers and
-onwards.
-Beasthead: The head has the
-shape of a beast, and it can
-make an attack similar to that
-creature, as listed below:
+**Psionic Resistance:** Only affected by 2nd rank Powers and onwards.
 
-e Eagle, goat 1d8+4
-Wolf idio+2
-Id Fiend 1d6+6
-Kirre 1d1o (2 attacks)
-Braxat 2d8 (breath
-weapon, target save vs
-breath for half
-damage).
+**Beasthead:** The head has the shape of a beast, and it can make an attack similar to that creature, as listed below:
 
-36
+- Eagle, goat 1d8+4
+- Wolf 1d10+2
+- Id Fiend 1d6+6
+- Kirre 1d10 (2 attacks)
+- Braxat 2d8 (breath weapon, target **save vs breath** for half damage).
 
 ---
 
@@ -2226,202 +2149,121 @@ homes in the midst of these brush areas.
 
 # Page 38
 
-Gith
+## Gith
 
-The gith are a race of grotesque
-humanoids that appear to be a peculiar
-mixture of elf and reptile. They tend to
-organize their society more along the
-lines of a nomadic hunting clan, going
-wherever the game takes them.
+The gith are a race of grotesque humanoids that appear to be a peculiar mixture of elf and reptile. They tend to organize their society more along the lines of a nomadic hunting clan, going wherever the game takes them.
 
-AC 8[12], HD 2 (9 hp), Att 1x attack
-(1d4+2 by weapon), Thaco 17[+2] MV 40),
-SV Diz W13 Pig Bis S16 (2), ML 6(8 with
-leader), AL Chaotic, XP 30 NA 2d6(3d6),
-TIM
+**AC** 8 [12], **HD** 2 (9 hp), **Att** 1 x attack (1d4+2 by weapon), **Thaco** 17 [+2] **MV** 40', **SV** D12 W13 P14 B15 S16 (2), **ML** 6 (8 with leader), **AL** Chaotic, **XP** 30, **NA** 2d6 (3d6), **TT** M
 
-PSI: Clairvoyance,
-Clairaudience, Crush Life,
-Kinetic Fist, Telekinesis WT:
-Detect Life, Know Direction
-Powers: 5 Rank: ind
+**PSI:** Clairvoyance, Clairaudience, Crush Life, Kinetic Fist, Telekinesis
+**WT:** Detect Life, Know Direction
+**Powers:** 5
+**Rank:** 1st
 
-Leader: A leader of level 1d6 + 2
-is present for every 20 dwarves.
-The leader may have valuable
-equipment: 5% chance per level.
+**Leader:** A leader of level 1d6 + 2 is present for every 20 gith. The leader may have valuable equipment: 5% chance per level.
 
- 
+## Half-Giant
 
-Half-Giant
+Highly valued as guards and mercenaries, half giants can be found from one end to Athas to the other.
 
-Highly valued as guards and
-mercenaries. half giants can be found
-from one end to Athas to the other.
+**AC** 7 [13], **HD** 4 (18 hp), **Att** 1 x attack (1d6+4 by weapon), **Thaco** 17 [+2] **MV** 40', **SV** D10 W11 P12 B13 S14 (4), **ML** 7, **AL** Varies, **XP** 125, **NA** 1d4+1 (1d10), **TT** O
 
-AC 7[13], HD 4 (18 hp), Att 1x attack
-(1d6+4 by weapon), Thaco 17[+2] MV
-40, SV Dio Wn P12 Bi3 $14 (4), ML 7, AL
-Varies, XP 125 NA 1d4+1(idio), TT O
+**PSI WT:** Cat Fall, Sight Link
+**Powers:** 2
 
-PSI: WT: Cat Fall, Sight Link
-Powers: 2
-
-Shifting Alignment:
-Half-giants routinely change
-their alignments to match
-whatever situation has most
-influenced them lately.
-
- 
-
-38
+**Shifting Alignment:** Half-giants routinely change their alignments to match whatever situation has most influenced them lately.
 
 ---
 
 # Page 39
 
-Halfling Hej-kin
+## Halfling
 
-Standing no more than 3 Hej-kin are a race of vile-looking
-1/2 feet in height, and unlike their humanoids who inhabit the natural
-counterparts from other worlds, subterranean caverns and tunnels of
-Athasian Halflings are xenophobic Athas.
-headhunters and cannibals who hunt J
-and kill trespassers in their mountain AC io[i0], HD 2 (8 hp), Att 2 x attack
-forests. (id4 by weapon), Thaco 19[+0] MV 40),
-SV Dr Wi Pt, By Ss (1), ML 6, AL
-AC 7[13], HD 1 (4 hp), Att 1x attack Neutral, XP 30 NA 1d10(3d8), TT O(C)
-(1d4+2 by weapon), Thaco 19[+0] MV —
-30, SV Du Wiz P13 Big Sis (1), ML 6 (8 PSI: Body Equilibrium, Thought
-with leader), AL Lawful, XP 20 NA Shield WT: Life Detection,Send
-2d8(3di0), TT V(E) Thoughts Powers: 4 Rank: ist
-SS Earth Glide: It can move
+Standing no more than 3 1/2 feet in height, and unlike their counterparts from other worlds, Athasian Halflings are xenophobic headhunters and cannibals who hunt and kill trespassers in their mountain forests.
 
-PSI: Telekinesis, Kinetic Wave, through non magical earth or
+**AC** 7 [13], **HD** 1 (4 hp), **Att** 1 x attack (1d4+2 by weapon), **Thaco** 19 [+0] **MV** 30', **SV** D11 W12 P13 B14 S15 (1), **ML** 6 (8 with leader), **AL** Lawful, **XP** 20, **NA** 2d8 (3d10), **TT** V (E)
 
-Thought Shield, Mind Link WT: stone without thrace.
+**PSI:** Telekinesis, Kinetic Wave, Thought Shield, Mind Link
+**WT:** Cat Fall, Send Thoughts
+**Powers:** 4
+**Rank:** 1st
 
-Cat Fall, Send Thoughts
+**Leader and militia:** Tribes are led by a halfling of level 1d6 + 1. A militia of 5d4 2HD warriors is also present.
 
-Powers: 4
+**Hoard:** Only have treasure type E when encountered in the wilderness.
 
-Rank: ist
+## Hej-kin
 
-Leader and militia: Tribes are
-led by a halfling of level 1d6 +1.
-A militia of 5d4 2HD warriors is
-also present.
+Hej-kin are a race of vile-looking humanoids who inhabit the natural subterranean caverns and tunnels of Athas.
 
-Hoard: Only have treasure type
-E when encountered in the
+**AC** 10 [10], **HD** 2 (8 hp), **Att** 2 x attack (1d4 by weapon), **Thaco** 19 [+0] **MV** 40', **SV** D11 W12 P13 B14 S15 (1), **ML** 6, **AL** Neutral, **XP** 30, **NA** 1d10 (3d8), **TT** O (C)
 
-wilderness.
+**PSI:** Body Equilibrium, Thought Shield
+**WT:** Life Detection, Send Thoughts
+**Powers:** 4
+**Rank:** 1st
 
-  
-
-39
+**Earth Glide:** It can move through non-magical earth or stone without trace.
 
 ---
 
 # Page 40
 
-Id Fiend Inix
+## Id Fiend
 
-The id fiend is a psionic predator whose _ The inix is a large lizard midway in size
+The id fiend is a psionic predator whose greatest weapon is its ability to draw images of its victims' fears from their minds.
 
-greatest weapon is its ability to draw between a kank and mekillot. It weighs
+**AC** 6 [14], **HD** 5+5 (27 hp), **Att** 3 x attack (1d8 by claw or bite), **Thaco** 15 [+4] **MV** 40', **SV** D10 W11 P12 B13 S14 (5), **ML** 6, **AL** Neutral, **XP** 475, **NA** 1 (2), **TT** Nil (A)
 
-images of its victims' fears from their about two tons and grows up to sixteen
+**PSI:** Crush Life, Cell Adjustment, Invisibility, Telepathic Projection
+**WT:** Life Detection, Chameleon Power
+**Powers:** 7
+**Rank:** 2nd
 
-minds. feet long. They are widely used as
-mounts.
+**Incite Panic:** Once per day it can incite fear to up to 1d6 victims, if the victim fails a **save vs spell**, it becomes afraid for 1d6 rounds and becomes unable to act straight.
 
-AC 6[14], HD 5+5 (27 hp), Att 3 x attack, ©
-(d8 by claw or bite), Thaco 15[+4] MV AC 6[14], HD 6 (27 hp), Att 2 x attack
-40’, SV Dio Wu Piz Bi3 $14 (5), ML6, AL (id6 by claw or tail), Thaco 15[+4] MV
+## Inix
 
-Neutral, XP 475 NA 1(2), TT Nil(A) 100), SV Dio Wu Piz B13 $14 (6), ML 6,
-AL Neutral, XP 500 NA 1(2), TT
-PSI: Crush Life, Cell Nil(Rider)
-Adjustment, Invisibility, es
-Telempathic Projection WT: Life PSI: WT: All-Round Vision,
-Detection, Chameleon Power Know Direction Powers: 2
-Powers: 7 Rank: 2nd Max load: Carry up to 3,500
-Incite Panic: Once per day it coins unencumbered; up to
-can incite fear to up to 1d6 7,000 at half speed.
+The inix is a large lizard midway in size between a kank and mekillot. It weighs about two tons and grows up to sixteen feet long. They are widely used as mounts.
 
-victims, if the victim fails a save
-vs spell, it becomes afraid for
-1d6 rounds and becomes unable
-to act straight.
+**AC** 6 [14], **HD** 6 (27 hp), **Att** 2 x attack (1d6 by claw or tail), **Thaco** 15 [+4] **MV** 100', **SV** D10 W11 P12 B13 S14 (6), **ML** 6, **AL** Neutral, **XP** 500, **NA** 1 (2), **TT** Nil (Rider)
 
-   
+**PSI WT:** All-Round Vision, Know Direction
+**Powers:** 2
 
-40
+**Max load:** Carry up to 3,500 coins unencumbered; up to 7,000 at half speed.
 
 ---
 
 # Page 41
 
-Jozhal
+## Jozhal
 
-Four feet tall reptile that live in clans in
-the desert. They are very adept in
-psionics and interested in magic.
+Four feet tall reptile that live in clans in the desert. They are very adept in psionics and interested in magic.
 
-AC 3[17], HD 3 (12 hp), Att 1x attack (1d6
-by claw or weapon), Thaco 15[+4] MV
-30, SV Du Wiz Pi3 Big Sis (6), ML 6, AL
-Chaotic, XP 500 NA 1d6(idi0+4), TT U
+**AC** 3 [17], **HD** 3 (12 hp), **Att** 1 x attack (1d6 by claw or weapon), **Thaco** 15 [+4] **MV** 30', **SV** D11 W12 P13 B14 S15 (6), **ML** 6, **AL** Chaotic, **XP** 500, **NA** 1d6 (1d10+4), **TT** U
 
-PSI: Kinetic Leap, Kinetic
-Shield, Mind Bar, Telekinesis
-WT: Chameleon Power, Control
-Sound Powers: 8 Rank 2nd
-Magic Spells: They are able to
-cast spells as a 3rd level cleric.
-Spells Known: Cure Light
-Wounds, Detect Magic (ast
-Level), Hold Person (2nd
-Level).
+**PSI:** Kinetic Leap, Kinetic Shield, Mind Bar, Telekinesis
+**WT:** Chameleon Power, Control Sound
+**Powers:** 8
+**Rank:** 2nd
 
-Magic Kleptomania: They
-tend to always look to steal
-magic items from others.
+**Magic Spells:** They are able to cast spells as a 3rd level cleric.
 
- 
+**Spells Known:** Cure Light Wounds, Detect Magic (**1st Level**), Hold Person (**2nd Level**).
 
-Kank
+**Magic Kleptomania:** They tend to always look to steal magic items from others.
 
-Kanks are large docile insects, often
-weigh as much as 400 pounds and stand
-up to four feet tall at the back, with
-bodies as long as eight feet from head to
-abdomen. They are often used as
-mounts and cattle.
+## Kank
 
-AC 5[15], HD 2 (8 hp), Att 1x attack (1d6
-by claw), Thaco 19[+0] MV 120’, SV Diz
-W13 P14 Bis S16 (6), ML 6, AL Neutral,
-XP 50 NA 0(5dio), TT Nil(Rider)
+Kanks are large docile insects, often weigh as much as 400 pounds and stand up to four feet tall at the back, with bodies as long as eight feet from head to abdomen. They are often used as mounts and cattle.
 
-PSI: WT: All-Round Vision,
-Know Direction Powers: 2
-Max load: Carry up to 4,000
-coins unencumbered; up to
-8,000 at half speed.
+**AC** 5 [15], **HD** 2 (8 hp), **Att** 1 x attack (1d6 by claw), **Thaco** 19 [+0] **MV** 120', **SV** D12 W13 P14 B15 S16 (6), **ML** 6, **AL** Neutral, **XP** 50, **NA** 0 (5d10), **TT** Nil (Rider)
 
- 
+**PSI WT:** All-Round Vision, Know Direction
+**Powers:** 2
 
- 
-
- 
-
- 
-
-Al
+**Max load:** Carry up to 4,000 coins unencumbered; up to 8,000 at half speed.
 
 ---
 
