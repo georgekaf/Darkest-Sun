@@ -3,7 +3,7 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
-## v0.9 — OSE GMG Manual Page Corrections *(in progress)*
+## v0.9 — OSE GMG Manual Page Corrections
 
 **`OSE_Game_Masters_Guide.md`** — combined file restructured and pages rewritten from PDF source.
 
@@ -35,43 +35,37 @@ tags: [kharanok, meta]
 - p36: Gaj + Beasthead Giant
 - p38: Gith + Half-Giant *(was mislabelled p36 by user)*
 - p39: Halfling + Hej-kin
+- p40: Id Fiend + Inix
+- p41: Jozhal + Kank
+- p42: Megapede + Mekillot
+- p43: Mul + Nightmare Beast
 - p44: Pterran + Pterrax
+- p46: Pyreen
+- p47: Razorwing + Sand Bride
+- p49: Silt Runner + Athasian Sloth
+- p50: So-ut + Crystal Spider
+- p51: Ssurran + Syllk Wyrm
+- p52: Tarek + Thri-kreen
+- p53: Tohr-kreen + Thrax
+- p54: Villichi + Zhackal
+- p55: Misc. Monsters (Hurrum, Critic Lizard, Floater, Kes'trekel)
+
+**Rules/generator pages:**
+- p62: NPC Encounters — bullets fixed, tables reformatted
+- p69: Magic items (fruits, oils, Ring of Animal Influence) — bullets and table artifacts fixed
+- p77: City-state Generator — `~=©— Butte` resolved, all tables reformatted
+- p82: Athasian Settlement Generator — fully rewritten as markdown tables
+- p84: Ruin Generator — fully rewritten as markdown tables
+- p88: Vegetation + Hydrography Generators — fully rewritten, duplicate heading corrected
 
 **Recurring fixes on all rewritten pages:**
 `Bis`→`B15`, `Sio`→`S10`, `Diz`/`Di2`→`D12`, `id[X]`→`1d[X]`, `ad[X]`→`2d[X]`, `NA o(N)`→`NA 0(N)`, `AC o[N]`→`AC 0[N]`, two-column merges resolved, stat blocks reformatted bold.
 
 ---
 
-### 🔲 Remaining — Monster pages (needs PDF text)
+### 🔲 Pending — Bare page number artifacts (auto-fixable, ~40 pages)
 
-| Page | Monsters | Key issues |
-|---|---|---|
-| p40 | Id Fiend + Inix | `id6`, two-column merge, `$14` |
-| p41 | Jozhal + Kank | `Diz`, `Bis` |
-| p42 | Megapede + Mekillot | `ad6`×2 (= `2d6`) |
-| p43 | Mul | `Di2 W313`, `Bis` |
-| p46 | Pyreen | `AC o[20]` |
-| p47 | Sand Bride | `AC o[20]` |
-| p49 | Silt Runner + Athasian Sloth | `Diz`, `Sio`, `NA o(id4)` |
-| p50 | So-ut + Crystal Spider | `Sio`, `Diz`, `Bis` |
-| p51 | Ssurran + Sylk Wyrm | `ad6`, `Diz`, `Bis` |
-| p52 | Tarek + Thri-kreen | `Di2 W123`, `Bis`, `idq4` |
-| p53 | Tohr-kreen + Thrax | `NAi(id4)` |
-| p54 | Villichi | `idq` |
-| p55 | Floater + Kes'trekel | `AC o[11]` |
-
-### 🔲 Remaining — Rules/generator pages (fixable without PDF)
-
-| Page | Issue |
-|---|---|
-| p62 | `e@` bullets → `•`; `id3` in NPC table |
-| p69 | `e@` bullets → `•`; `~—` table artifacts |
-| p77 | `3 ~=©— Butte` — needs PDF |
-| p82, p84, p88 | Standalone `id4`, `id6`, `id8_` in generator tables |
-
-### 🔲 Remaining — Bare page number artifacts only (auto-fixable)
-
-Pages: 10, 11, 14–17, 19, 20, 29, 37, 45, 48, 56, 58–61, 63, 65–68, 70–73, 75, 78–81, 83, 85–87, 89–93
+Stray footer numbers left over from OCR on pages: 10, 11, 14–17, 19, 20, 29, 37, 45, 48, 56, 58–61, 63, 65–68, 70–73, 75, 78–81, 83, 85–87, 89–93
 
 ---
 

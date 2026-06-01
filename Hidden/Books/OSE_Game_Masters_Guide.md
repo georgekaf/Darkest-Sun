@@ -2269,124 +2269,63 @@ Kanks are large docile insects, often weigh as much as 400 pounds and stand up t
 
 # Page 42
 
-Megapede
-Megapedes are colossal centipedes
-which roam the sandy deserts of Athas.
-They have a very long (100 to 150 feet),
-segmented body which sports a pair of
-legs nearly every two feet
+## Megapede
 
-AC 3[17], HD 10 (40 hp), Att 5 x attack
-(ad6 by claw), Thaco [+8] MV 40; SV
-D6 W7 P8 B8 Sio (10), ML 6, AL Neutral,
-XP 2,300NA 1d4(1), TT Nil
+Megapedes are colossal centipedes which roam the sandy deserts of Athas. They have a very long (100 to 150 feet), segmented body which sports a pair of legs nearly every two feet.
 
-PSI: Mind Link, Thought Shield,
-Reduction, Cell Adjustment
-WT: All-Round Vision,
-Chameleon Power Powers: 6
-Rank: 2nd
+**AC** 3 [17], **HD** 10 (40 hp), **Att** 5 x attack (1d6 by claw), **Thaco** 11 [+8] **MV** 40', **SV** D6 W7 P8 B8 S10 (10), **ML** 6, **AL** Neutral, **XP** 2,300, **NA** 1d4 (1), **TT** Nil
 
-Poisonous Bite: Megapedes
-insert their fangs into their
-victim, which must save vs
-poison and receive 3d6 poison
-damage on a fail.
+**PSI:** Mind Link, Thought Shield, Reduction, Cell Adjustment
+**WT:** All-Round Vision, Chameleon Power
+**Powers:** 6
+**Rank:** 2nd
 
-Mekillot
+**Poisonous Bite:** Megapedes insert their fangs into their victim, which must **save vs poison** and receive 3d6 poison damage on a fail.
 
-Mekillots are mighty lizards weighing up
-to six-tons, with huge, mound-shaped
-bodies as long as 30 feet. They are used
-to pull caravan wagons.
+## Mekillot
 
-AC 3[17], HD u1 (44 hp), Att 1x attack
-(ad6 by tongue), Thaco 9[+10] MV 40’,
-SV D6 W7 P8 B8 Sio (11), ML6, AL
-Neutral, XP 2,600NA 2(1), TT Nil
+Mekillots are mighty lizards weighing up to six-tons, with huge, mound-shaped bodies as long as 30 feet. They are used to pull caravan wagons.
 
-PSI: WT: Know Direction,
-Control Sound Powers: 2
-Swallow: On a natural 20 on
-their attack roll, the Mekillot
-may grab its victim with its
-tongue and pull it inside of its
-mouth. The victims must save
-vs paralysis, and it fails, it is
-swallowed by the Mekillot and
-dies immediately, crushed by
-the Mekillot’s insides.
+**AC** 3 [17], **HD** 11 (44 hp), **Att** 1 x attack (1d6 by tongue), **Thaco** 9 [+10] **MV** 40', **SV** D6 W7 P8 B8 S10 (11), **ML** 6, **AL** Neutral, **XP** 2,600, **NA** 2 (1), **TT** Nil
 
- 
+**PSI WT:** Know Direction, Control Sound
+**Powers:** 2
 
-A2
+**Swallow:** On a natural 20 on their attack roll, the Mekillot may grab its victim with its tongue and pull it inside of its mouth. The victim must **save vs paralysis**, and if it fails, it is swallowed by the Mekillot and dies immediately, crushed by the Mekillot's insides.
 
 ---
 
 # Page 43
 
-Mul
+## Mul
 
-Mulare a cross-breed of dwarf and
-human that are raised for the
-gladiatorial games often played on
-Athas. While all are born into captivity,
-some escape and make their homes in
-the plains and oasis of the Athasian
-deserts.
+Mul are a cross-breed of dwarf and human that are raised for the gladiatorial games often played on Athas. While all are born into captivity, some escape and make their homes in the plains and oasis of the Athasian deserts.
 
-AC 8[12], HD 3+4 (16 hp), Att 1x attack
-(1d8 by spear or weapon), Thaco 15[+4]
-MV 40; SV Di2 W313 P14 Bis S16 (3), ML
-7, AL Chaotic, XP 60 NA 1d6+1(2d6+2),
-TT L(C)
+**AC** 8 [12], **HD** 3+4 (16 hp), **Att** 1 x attack (1d8 by spear or weapon), **Thaco** 15 [+4] **MV** 40', **SV** D12 W13 P14 B15 S16 (3), **ML** 7, **AL** Chaotic, **XP** 60, **NA** 1d6+1 (2d6+2), **TT** L (C)
 
- 
+**PSI:** Kinetic Leap, Control Body
+**WT:** Sight Link, Control Sound
+**Powers:** 4
+**Rank:** 1st
 
-PSI: Kinetic Leap, Control Body
-WT: Sight Link, Control Sound
-Powers: 4 Rank: ist
+**Leader:** A leader of level 1d6 + 2 is present for every 10 Mul. The leader may have valuable equipment: 5% chance per level.
 
-Leader: A leader of level 1d6 + 2
-is present for every 10 Mul. The
-leader may have valuable
-equipment: 5% chance per level.
+## Nightmare Beast
 
- 
+20' tall behemoths that roam the deserts causing devastation on their path, mostly with their combination of psionic and defiling abilities.
 
-Nightmare Beast
+**AC** -5 [25], **HD** 15 (67 hp), **Att** 5 x attack (2d6 by claws or fangs), **Thaco** 5 [+14] **MV** 50', **SV** D4 W5 P6 B5 S8 (15), **ML** 9, **AL** Chaotic, **XP** 4,000, **NA** 1 (1), **TT** Nil (F)
 
-20’ tall behemoths that roam the deserts
-causing devastation on their path,
-mostly with their combination of psionic
-and defiling abilities.
+**PSI:** Crush Life, Molecular Agitation, Molecular Rearrangement, Kinetic Wave, Teleport, Thought Shield
+**WT:** Life Detection, Control Sound
+**Powers:** 10
+**Rank:** 3rd
 
-AC -5[25], HD 15 (67 hp), Att 5 x attack
-(2d6 by claws or fangs), Thaco 5[+14]
-MV 50; SV D4 Ws P6 Bs $8 (15), ML 9,
-AL Chaotic, XP 4,000 NA 1(1), TT Nil (F)
+**Defiling Spells:** It has powers that manifest similar to magic and defile the land around it, it can cast each of them twice per day.
 
-PSI: Crush Life, Molecular Agitation,
-Molecular Rearrangement, Kinetic wave,
-Teleport, Thought Shield WT: Life
-Detection, Control Sound Powers: 10
-Rank: 3rd
+**Spell known:** Fireball, Dispel Magic, Disintegrate, Cloudkill
 
-Defiling Spells: It has powers that
-manifest similar to magic and defile the
-land around it, it can cast each of them
-twice per day.
-
-Spell known: Fireball, Dispel Magic,
-Disintegrate, Cloud kill
-
-Draining attack: Thrice per day, it heals
-the damage it causes, either by attacks
-or its powers.
-
- 
-
-Boren.
+**Draining attack:** Thrice per day, it heals the damage it causes, either by attacks or its powers.
 
 ---
 
@@ -2428,136 +2367,59 @@ Pterrax are large pteranodon-like creatures which are capable of flight. They oc
 
 # Page 46
 
-Pyreen
+## Pyreen
 
-Pyreens are mysterious beings that roam
-the world of Athas. They are powerful
-psionicists and very powerful druids.
-They travel about Athas attempting to
-set things right, although it looks like a
-hopeless battle. Few know of their
-existence, and fewer still have ever met
-one. They are sworn enemies of defilers,
-and their actions indicate they are bent
-on the destruction of the sorcerer-kings.
-Pyreens are humanoid, although they
-are not identifiable as any of the current
-humanoid or demi-human races, rather,
-they have characteristics of all of them.
+Pyreens are mysterious beings that roam the world of Athas. They are powerful psionicists and very powerful druids. They travel about Athas attempting to set things right, although it looks like a hopeless battle. Few know of their existence, and fewer still have ever met one. They are sworn enemies of defilers, and their actions indicate they are bent on the destruction of the sorcerer-kings. Pyreens are humanoid, although they are not identifiable as any of the current humanoid or demi-human races, rather they have characteristics of all of them.
 
-AC o[20], HD 16 (72 hp), Att 1x attack
-(1d8+3 by weapon), Thaco 5[+14] MV 60;
-SV D2 W3 P4 B3 S6 (16), ML 12, AL
-Neutral, XP 6,000 NA1, TT V
+**AC** 0 [20], **HD** 16 (72 hp), **Att** 1 x attack (1d8+3 by weapon), **Thaco** 5 [+14] **MV** 60', **SV** D2 W3 P4 B3 S6 (16), **ML** 12, **AL** Neutral, **XP** 6,000, **NA** 1, **TT** V
 
-PSI: Cell Adjustment, Mind Bar,
-Mind Link, Teleport, Crush Life,
-Molecular Rearrangement,
-Molecular Agitation, Dimension
-Door, Telekinesis, Control
-Density, Thought Shield,
-Hypnosis, Astral Projection,
-Accelerated Motion, Levitation,
-Body Weaponry, Clairvoyance,
-Clairaudience WT: Sight Link,
-Chameleon Power Powers: 18
-Rank: 4th
+**PSI:** Cell Adjustment, Mind Bar, Mind Link, Teleport, Crush Life, Molecular Rearrangement, Molecular Agitation, Dimension Door, Telekinesis, Control Density, Thought Shield, Hypnosis, Astral Projection, Accelerated Motion, Levitation, Body Weaponry, Clairvoyance, Clairaudience
+**WT:** Sight Link, Chameleon Power
+**Powers:** 18
+**Rank:** 4th
 
-Divine Magic: Pyreens have
-access to spells from all
-elemental spheres. They cast
-magic similar to a 14th level
-Druid.
+**Divine Magic:** Pyreens have access to spells from all elemental spheres. They cast magic similar to a 14th level Druid.
 
-Rejuvenate: Three times per
-day they are able to cast the
-Spell Rejuvenate on Defiled
-lands.
+**Rejuvenate:** Three times per day they are able to cast the Spell Rejuvenate on Defiled lands.
 
-Animal Transformation:
-Pyreens are able to transform
-into any animal they desire at
-will.
+**Animal Transformation:** Pyreens are able to transform into any animal they desire at will.
 
-Hunger and Thirst Immunity:
-Pyreen are able to survive
-without ever eating food or
-drinking water.
+**Hunger and Thirst Immunity:** Pyreen are able to survive without ever eating food or drinking water.
 
-Psionic Resistance: They are
-only affected by psionic powers
-of rank 4.
+**Psionic Resistance:** They are only affected by psionic powers of rank 4.
 
-Language Knowledge: Pyreens
-know all humanoid languages in
-Athas.
+**Language Knowledge:** Pyreens know all humanoid languages in Athas.
 
-Speak with Plants and
-Animals: Pyreens are able to
-talk to all plants and animals.
-Magical Equipment: Pyreens
-tend to be equipped with at
-least 3 magical items, usually
-weapons, rings and wands.
+**Speak with Plants and Animals:** Pyreens are able to talk to all plants and animals.
 
- 
-
-A6
+**Magical Equipment:** Pyreens tend to be equipped with at least 3 magical items, usually weapons, rings and wands.
 
 ---
 
 # Page 47
 
-Razorwing
-The razorwing is a small-bodied slate
-gray creature that looks a bit like a small
-pterrax. It has bone white edges on its
-wings which are very sharp.
+## Razorwing
 
-AC 6[14], HD 4 (19 hp), Att 3 x attack
-(2d4 by wings or bite), Thaco 17[+2] MV
-40’(60’) Flying, SV Dio Wu P12 B13 S14,
-(5), ML 7, AL Neutral, XP 175 NA
-2d4(2d4), TT Nil
+The razorwing is a small-bodied slate gray creature that looks a bit like a small pterrax. It has bone white edges on its wings which are very sharp.
 
-PSI:WT: Detect Life, Control
-Sound Powers: 3
+**AC** 6 [14], **HD** 4 (19 hp), **Att** 3 x attack (2d4 by wings or bite), **Thaco** 17 [+2] **MV** 40' (60') Flying, **SV** D10 W11 P12 B13 S14 (5), **ML** 7, **AL** Neutral, **XP** 175, **NA** 2d4 (2d4), **TT** Nil
 
-Surprise Advantage: +1 to all
-surprise rolls.
+**PSI WT:** Detect Life, Control Sound
+**Powers:** 3
 
-Charge Attack: Once per day,
-they can charge with their wings
-against an enemy and deal
-double damage on their next
-attack.
+**Surprise Advantage:** +1 to all surprise rolls.
 
-Sand Bride
+**Charge Attack:** Once per day, they can charge with their wings against an enemy and deal double damage on their next attack.
 
-The sand bride is a negative material
-plane creature trapped on Athas. It uses
-its powers of illusion to lure victims to a
-cold death. The sand bride usually
-creates the illusion of an oasis, with
-itself as a beautiful woman (or more
-rarely, a man). It feeds on the life force of
-intelligent beings.
+## Sand Bride
 
-AC o[20], HD 6 (27 hp), Att 2 x attack
-(ado by arm), Thaco 13[+6] MV 60, SV
-Dio Wu Piz Bi3 $14 (6), ML 9, AL
-Chaotic, XP 725 NA1, TT C
+The sand bride is a negative material plane creature trapped on Athas. It uses its powers of illusion to lure victims to a cold death. The sand bride usually creates the illusion of an oasis, with itself as a beautiful woman (or more rarely, a man). It feeds on the life force of intelligent beings.
 
-Illusion: Twice per day, a Sand
-Bride can create the Illusion of
-an Oasis in the desert and take
-the form of a beautiful man or
-woman to trick a thirsty
-traveller.
+**AC** 0 [20], **HD** 6 (27 hp), **Att** 2 x attack (1d6 by arm), **Thaco** 13 [+6] **MV** 60', **SV** D10 W11 P12 B13 S14 (6), **ML** 9, **AL** Chaotic, **XP** 725, **NA** 1, **TT** C
 
-Mundane damage immunity:
-Can only be harmed by magical
-attacks.
+**Illusion:** Twice per day, a Sand Bride can create the illusion of an Oasis in the desert and take the form of a beautiful man or woman to trick a thirsty traveler.
+
+**Mundane damage immunity:** Can only be harmed by magical attacks.
 
 ---
 
@@ -2620,445 +2482,220 @@ attempts to grasp an opponent
 
 # Page 49
 
-Silt Runner
+## Silt Runner
 
-These small lizard-like men are common
-on Athas. They usually live the life of
-raiders, although occasionally a lair will
+These small lizard-like men are common on Athas. They usually live the life of raiders, although occasionally a lair will be found.
 
-be found.
+**AC** 7 [13], **HD** 2 (8 hp), **Att** 1 x attack (1d3 by claws or weapon), **Thaco** 19 [+0] **MV** 40' (120') running, **SV** D12 W13 P14 B15 S16 (2), **ML** 6, **AL** Chaotic, **XP** 40, **NA** 4d4 (5d6+5), **TT** J (A)
 
-Sloth, Athasian
+**PSI:** Clairaudience
+**WT:** Chameleon Power, All-Round Vision
+**Powers:** 3
+**Rank:** 1st
 
-The Athasian sloth is fast, cunning, and
-very bloodthirsty. A family of sloths can
-eat a whole halfling village in one night
-and is usually not afraid to try.
+**Leader:** Groups of 15+ are led by a Leader. The leader may have magical items: 5% chance per level for each magic item table.
 
- 
+**Running:** Silt Runners tend to attack by overrunning their opponents, they may run to their targets at 120' a round up to four times a day.
 
-AC 7[13], HD 2 (8 hp), Att 1x attack (1d3
-by claws or weapon), Thaco 19[+0] MV
-40'(120') running, SV Diz W13 P14 Bi5
-S16 (2), ML 6, AL Chaotic, XP 40 NA
+## Sloth, Athasian
 
-4d4(5d6+5), TT J (A)
+The Athasian sloth is fast, cunning, and very bloodthirsty. A family of sloths can eat a whole halfling village in one night and is usually not afraid to try.
 
-PSI: Clairaudience WT:
+**AC** 5 [15], **HD** 11 (49 hp), **Att** 3 x attack (2d8 by claws), **Thaco** 7 [+12] **MV** 40', **SV** D6 W7 P8 B8 S10 (11), **ML** 6, **AL** Neutral, **XP** 1,100, **NA** 0 (1d4), **TT** Nil
 
-Chameleon Power, All-Round
-Vision Powers: 3 Rank: 1st
-Leader: Groups of 15+ are led by
-a Leader. The leader may have
-magical items: 5% chance per
-level for each magic item table.
-Running: Silt Runners tend to
-attack by overrunning their
-opponents, they may run to
-their targets at 120’ a round up
+**PSI WT:** Detect Life, Chameleon Power
+**Powers:** 4
 
-to four times a day.
+**Poison Resistance:** +4 to saving throws.
 
-AC 5[15], HD 11 (49 hp), Att 3 x attack
-(2d8 by claws), Thaco 7[+12] MV 40’, SV
-D6 W7 P8 B8 Sio (11), ML 6, AL Neutral,
-XP 1,100 NA o(id4), TT Nil
+**Powerful Bite:** Its teeth do 2d10 damage on a successful bite. If the victim fails a **save vs paralysis**, the sloth sinks its teeth into its prey and hangs on, doing an additional 1d10 of damage per round.
 
-PSI: WT: Detect Life,
-Chameleon Power Powers: 4
-Poison Resistance: +4 to
-saving throws.
-
-Powerful Bite: Its teeth do
-2dio damage on a successful
-bite. If the victim fails a save vs
-paralysis, the sloth sinks its
-teeth into its prey and hangs on,
-doing an additional 1dio of
-damage per round.
-
-Halflings Preference: Will
-prioritize halflings on sight.
-
- 
-
-49
+**Halflings Preference:** Will prioritize halflings on sight.
 
 ---
 
 # Page 50
 
-So-ut (Rampager)
+## So-ut (Rampager)
 
-The so-ut, or rampagers, are fierce
-creatures that live only for the sake of
-destruction. They know no fear and hate
-the things of men, like weapons and
-buildings.
+The so-ut, or rampagers, are fierce creatures that live only for the sake of destruction. They know no fear and hate the things of men, like weapons and buildings.
 
-AC -4[24], HD 14+2 (65 hp), Att 2 x
-attack (2d6 by claws or bite), Thaco
-7[+12] MV 40’, SV D6 W7 P8 B8 Sio (11),
-ML 12, AL Chaotic, XP 2,500 NA1, TT
+**AC** -4 [24], **HD** 14+2 (65 hp), **Att** 2 x attack (2d6 by claws or bite), **Thaco** 7 [+12] **MV** 40', **SV** D6 W7 P8 B8 S10 (11), **ML** 12, **AL** Chaotic, **XP** 2,500, **NA** 1, **TT** Nil
 
-Fear Aura: Two times per day,
-the So-ut emanates an aura 30'
-around it, any creature inside
-this range must save vs spell
-and be frightened for 1d4 rounds
-ona fail.
+**Fear Aura:** Two times per day, the So-ut emanates an aura 30' around it, any creature inside this range must **save vs spell** and be frightened for 1d4 rounds on a fail.
 
-Poison Claw: When attacking
-with its claws, the So-ut secretes
-acidic poison. Any creature hit
-by this attack must save vs
-poison and receives 10 extra
-damage on a fail. Any armor hit
-in this manner automatically
-melts off and becomes
+**Poison Claw:** When attacking with its claws, the So-ut secretes acidic poison. Any creature hit by this attack must **save vs poison** and receives 10 extra damage on a fail. Any armor hit in this manner automatically melts off and becomes ineffective.
 
-ineffective.
+## Spider, crystal
 
- 
+The crystal spider is a voracious predator that spins a glass web. The web is very sharp and can focus a damaging beam of light at a potential victim.
 
-Spider, crystal
+**AC** 2 [18], **HD** 4 (17 hp), **Att** 2 x attack (2d4 by claws and bite), **Thaco** 17 [+2] **MV** 40', **SV** D12 W13 P14 B15 S16 (4), **ML** 7, **AL** Neutral, **XP** 120, **NA** 1d4 (3d4), **TT** Q
 
-The crystal spider is a voracious predator
-that spins a glass web. The web is very
-sharp and can focus a damaging beam of
-light at a potential victim.
+**PSI:** Kinetic Shield
+**WT:** Control Light
+**Powers:** 4
+**Rank:** 1st
 
-AC 2[18], HD 4(17 hp), Att 2 x attack
-(2d4 by claws and bite), Thaco 17[+2]
-MV 40, SV Diz W13 P14 Bis S16 (4), ML
-7, AL Neutral, XP 120 NA 1d4(3d4), TT Q
+**Light Beam:** After taking a round to prepare, the spider shoots a light beam from its eyes as an attack roll. Target creature receives 3d6 damage and must **save vs wands** and be blinded on a failure.
 
-PSI: Kinetic Shield WT: Control
-Light Powers: 4 Rank: ist
-Light Beam: After taking a
-round to prepare, the spider
-shoots a light beam from its
-eyes as an attack roll. Target
-creature receives 3d6 damage
-and must save vs wands and be
-
-blinded ona failure.
-
-Poison needle: Any creature
-hit by its spines must save vs
-paralysis, failure causes
-paralysis on the target for 1d6
-rounds.
-
- 
-
-50
+**Poison needle:** Any creature hit by its spines must **save vs paralysis**, failure causes paralysis on the target for 1d6 rounds.
 
 ---
 
 # Page 51
 
-Ssurran
+## Ssurran
 
-Ssurrans are nomadic, humanoid
-reptiles. Some are raiders while others
-are simple hunters. As lizard men of the
-desert, they have adapted to the heat of
-the Athasian day and are active even
-during the blazing midday heat.
+Ssurrans are nomadic, humanoid reptiles. Some are raiders while others are simple hunters. As lizard men of the desert, they have adapted to the heat of the Athasian day and are active even during the blazing midday heat.
 
-AC 4[16], HD 3(22 hp), Att 1x spear (1d8
+**AC** 4 [16], **HD** 3 (12 hp), **Att** 1 x spear (1d8 by weapon), **Thaco** 7 [+12] **MV** 40', **SV** D12 W13 P14 B15 S16 (3), **ML** 6, **AL** Lawful, **XP** 80, **NA** 2d8 (5d6), **TT** R
 
-by weapon), Thaco 7[+12] MV 40’, SV
-Diz Wi13 P14 Bis S16 (3), ML 6, AL
-Lawful, XP 80 NA 2d8(5d6), TT R
+**PSI WT:** Know Direction, Life Detection
+**Powers:** 4
+**Rank:** 1st
 
-PSI: WT: Know Direction, Life
-Detection Powers: 4 Rank: ist
-Fire Resistance: They receive
-only half damage from fire
-based attacks.
+**Fire Resistance:** They receive only half damage from fire based attacks.
 
-Shaman: For each group of 10
-or more ssurrans encountered,
-one is a shaman/leader with
-maximum hit points and 3rd
-level clerical abilities. It has a
-5% chance to hold valuable
-equipment.
+**Shaman:** For each group of 10 or more ssurrans encountered, one is a shaman/leader with maximum hit points and 3rd level clerical abilities. It has a 5% chance to hold valuable equipment.
 
-Sylk Wyrm
+## Syllk Wyrm
 
-A snake 50’ long with a hard, chitinous
-shell. It is usually seen flying during the
-day looking for prey to attack at dusk.
+A snake 50' long with a hard, chitinous shell. It is usually seen flying during the day looking for prey to attack at dusk.
 
-AC 3[17], HD 6 (27 hp), Att 1x attack
-(ad6 by bite), Thaco 15[+4] MV 30'(50’)
-flying, SV D8 Wo Pio Bio Si2 (7), ML 6,
-AL Neutral, XP 1,100 NA1, TTQ
+**AC** 3 [17], **HD** 6 (27 hp), **Att** 1 x attack (1d6 by bite), **Thaco** 15 [+4] **MV** 30' (50') flying, **SV** D8 W9 P10 B10 S12 (7), **ML** 6, **AL** Neutral, **XP** 1,100, **NA** 1, **TT** Q
 
-PSI: WT: Create Sound,
-Animate Shadow Powers: 6
-Fire Resistance: They receive
-only half damage from fire
-based attacks.
+**PSI WT:** Create Sound, Animate Shadow
+**Powers:** 6
 
-Paralyzing Bite: They can bite
-their opponents and secret a
-strong poison, a failed save vs
-paralysis causes the victim to
-be paralyzed for 1d4 days.
+**Fire Resistance:** They receive only half damage from fire based attacks.
 
-Life Leeching: It would try to
-take away its victim to a Lair
-and start leeching 1dq4 CON per
-day for the duration of its
-poison. If the victim's CON falls
-to 0, it dies.
+**Paralyzing Bite:** They can bite their opponents and secret a strong poison, a failed **save vs paralysis** causes the victim to be paralyzed for 1d4 days.
 
- 
-
-51
+**Life Leeching:** It would try to take away its victim to a Lair and start leeching 1d4 CON per day for the duration of its poison. If the victim's CON falls to 0, it dies.
 
 ---
 
 # Page 52
 
-Tarek
+## Tarek
 
-Tareks are big, musclebound, and
-hairless bipeds that inhabit the hilly and
-mountainous areas of Athas.
+Tareks are big, musclebound, and hairless bipeds that inhabit the hilly and mountainous areas of Athas.
 
-AC 7[13], HD 2+2(10 hp), Att 1x spear
-(1d4+4 by weapon), Thaco 7[+12] MV
-40’, SV Diz Wi3 P14 Bis S16 (2), ML 6, AL
-Lawful, XP 125 NA 2d8(5d6), TT P
+**AC** 7 [13], **HD** 2+2 (10 hp), **Att** 1 x spear (1d4+4 by weapon), **Thaco** 7 [+12] **MV** 40', **SV** D12 W13 P14 B15 S16 (2), **ML** 6, **AL** Lawful, **XP** 125, **NA** 2d8 (5d6), **TT** P
 
-PSI: Mind Link, Crush Life, ESP
-WT: Animate Shadow, Send
-Thoughts Powers: 6 Rank: ist
-Beyond Death: Even after one
-fatal blow, Tareks can keep
-fighting after having their hit
-points reduced to o. They only
-stop after 1 round or their hp
-being reduced to -10, whichever
-comes first.
+**PSI:** Mind Link, Crush Life, ESP
+**WT:** Animate Shadow, Send Thoughts
+**Powers:** 6
+**Rank:** 1st
 
- 
+**Beyond Death:** Even after one fatal blow, Tareks can keep fighting after having their hit points reduced to 0. They only stop after 1 round or their hp being reduced to -10, whichever comes first.
 
-Thri-kreen
+## Thri-kreen
 
-Thri-kreen are a race of large, intelligent
-insects often referred to as mantis
-warriors. They are found in most areas
-of Athas and they prefer to roam the
-plains where they have
+Thri-kreen are a race of large, intelligent insects often referred to as mantis warriors. They are found in most areas of Athas and they prefer to roam the plains where they have hunting territories.
 
-hunting territories.
+**AC** 5 [15], **HD** 3+2 (15 hp), **Att** 4 x attacks (1d4 by claw or weapon), **Thaco** 16 [+3] **MV** 40', **SV** D12 W13 P14 B15 S16 (3), **ML** 9, **AL** Chaotic, **XP** 150, **NA** 2d12 (2d12), **TT** R
 
-AC 5[15], HD 3+2(15 hp), Att 4 x attacks
-(idq4 by claw or weapon), Thaco 16[+3]
-MV 40, SV Di2 W123 P14 Bis S16 (3), ML
-9, AL Chaotic, XP 150 NA 2d12(2d12),
-TTR
+**PSI:** Kinetic Shield, Kinetic Leap, ESP
+**WT:** Chameleon Power, Send Thoughts
+**Powers:** 6
+**Rank:** 1st
 
-PSI: Kinetic Shield, Kinetic
-Leap, ESP WT: Chameleon
-Power, Send Thoughts Powers:
-6 Rank: ist
-
-Multi-arm: Thri-kreen have
-four arms and can use up to four
-weapons at once. They receive a
-penalty of -2 on their attack roll
-if they carry any extra weapon.
-
- 
-
-52
+**Multi-arm:** Thri-kreen have four arms and can use up to four weapons at once. They receive a penalty of -2 on their attack roll if they carry any extra weapon.
 
 ---
 
 # Page 53
 
-Tohr-kreen
+## Tohr-kreen
 
-Tohr-kreen are larger, cultured versions
-of thri-kreen. They are more civilized
-than their smaller cousins, and not
-nearly as aggressive. However, when they
-do fight, they are more deadly than the
-thri-kreen
+Tohr-kreen are larger, cultured versions of thri-kreen. They are more civilized than their smaller cousins, and not nearly as aggressive. However, when they do fight, they are more deadly than the thri-kreen.
 
-AC 3[17], HD 6(25 hp), Att 4 x attacks
-(1d4 by claw or weapon), Thaco 16[+3]
-MV 40; SV D8 Wo Pio Bio Si2 (6), ML
-10, AL Lawful, XP 300 NAi(id4), TTR
+**AC** 3 [17], **HD** 6 (25 hp), **Att** 4 x attacks (1d4 by claw or weapon), **Thaco** 16 [+3] **MV** 40', **SV** D8 W9 P10 B10 S12 (6), **ML** 10, **AL** Lawful, **XP** 300, **NA** 1 (1d4), **TT** R
 
-PSI: Kinetic Shield, Kinetic
-Leap, ESP WT: Chameleon
-Power, Send Thoughts Powers:
-8 Rank: 2nd
+**PSI:** Kinetic Shield, Kinetic Leap, ESP
+**WT:** Chameleon Power, Send Thoughts
+**Powers:** 8
+**Rank:** 2nd
 
-Multi-arm: Tohr-kreen have
-four arms and can use up to four
-weapons at once. They receive a
-penalty of -1 on their attack roll
-if they carry any extra weapon.
-Paralyzing Bite: They can bite
-their opponents and secret a
-strong poison, a failed save vs
-paralysis causes the victim to
-be paralyzed for 1d6 rounds.
+**Multi-arm:** Tohr-kreen have four arms and can use up to four weapons at once. They receive a penalty of -1 on their attack roll if they carry any extra weapon.
 
-‘Thrax
+**Paralyzing Bite:** They can bite their opponents and secret a strong poison, a failed **save vs paralysis** causes the victim to be paralyzed for 1d6 rounds.
 
-A Thrax is a dreadful creature that exists
-by draining the water from its victims.
-The thrax is very intelligent and is an
-implacable foe.
+## Thrax
 
-AC 3[17], HD 9(40 hp), Att 1 x attacks
-(2d6 by fist or weapon), Thaco 1[+8]
-MV 40; SV D8 Wo Pio Bio Si2 (9), ML 9,
-AL Neutral, XP 700 NA1(Q1), TTR
+A Thrax is a dreadful creature that exists by draining the water from its victims. The thrax is very intelligent and is an implacable foe.
 
-PSI:Mind Bar, Telekinesis, Mind
-Link, Thought Shield, Crush
-Life WT: Life Detection,
-All-Round Vision, Know
-Direction, Powers: 8 Rank: 2nd
-Drain Water: A successful hit
-by a thrax on an unarmored
-victim causes 2d6 points of
-damage, and the victim must
-save vs. petrification, and ona
-failure, the victim starts losing
-water from their body. After 2
-rounds in this state, the victim
-dies dehydrated.
+**AC** 3 [17], **HD** 9 (40 hp), **Att** 1 x attacks (2d6 by fist or weapon), **Thaco** 11 [+8] **MV** 40', **SV** D8 W9 P10 B10 S12 (9), **ML** 9, **AL** Neutral, **XP** 700, **NA** 1 (1), **TT** R
 
- 
+**PSI:** Mind Bar, Telekinesis, Mind Link, Thought Shield, Crush Life
+**WT:** Life Detection, All-Round Vision, Know Direction
+**Powers:** 8
+**Rank:** 2nd
 
-53
+**Drain Water:** A successful hit by a thrax on an unarmored victim causes 2d6 points of damage, and the victim must **save vs petrification**, and on a failure, the victim starts losing water from their body. After 2 rounds in this state, the victim dies dehydrated.
 
 ---
 
 # Page 54
 
-Villichi
+## Villichi
 
-Villichi are females born to normal
-humans, but mutated humans with
-enhanced psychic abilities and an
-extreme sensitivity to sunlight.
+Villichi are females born to normal humans, but mutated humans with enhanced psychic abilities and an extreme sensitivity to sunlight.
 
-AC 7[13], HD 4(19 hp), Att 1x attacks
+**AC** 7 [13], **HD** 4 (19 hp), **Att** 1 x attacks (1d4 by weapon), **Thaco** 11 [+8] **MV** 40', **SV** D10 W11 P12 B13 S14 (4), **ML** 9, **AL** Lawful, **XP** 150, **NA** 1 (1), **TT** K
 
-(idq by weapon), Thaco 11[+8] MV 40;
-SV Dio Wu Piz Bi3 $14 (4), ML 9, AL
-Lawful, XP 150 NA 1(1), TT K
+**PSI:** Telekinesis, Thought Shield, Body Control, Crush Life, Kinetic Wave
+**WT:** Detect Life, Control Sound
+**Powers:** 9
+**Rank:** 2nd
 
-PSI: Telekinesis, Thought
-Shield, Body Control, Crush
-Life, Kinetic Wave WT: Detect
-Life, Control Sound Powers: 9
-Rank: 2nd
+## Zhackal
 
- 
+Zhackals are small pack animals that travel about feeding off of the emotions of those about to die.
 
-Zhackal
+**AC** 7 [13], **HD** 1 (5 hp), **Att** 1 x attacks (1d4 by bite), **Thaco** 19 [+0] **MV** 40', **SV** D10 W11 P12 B13 S14 (4), **ML** 9, **AL** Neutral, **XP** 120, **NA** 2d6 (3d6), **TT** Nil
 
-Zhackals are small pack animals that
-travel about feeding off of the emotions
-of those about to die.
-
-AC 7[13], HD 1(5 hp), Att 1 x attacks (1d4
-by bite), Thaco 19[+0] MV 40’, SV Dio
-Wu Piz B13 $14 (4), ML 9, AL Neutral,
-XP 120 NA 2d6(3d6), TT Nil
-
-PSI: Mind Bar, Mind Link,
-Invisibility WT: Chameleon
-Power, Send Thoughts Powers:
-7 Rank: 2nd
-
- 
-
- 
-
- 
-
- 
-
-5A
+**PSI:** Mind Bar, Mind Link, Invisibility
+**WT:** Chameleon Power, Send Thoughts
+**Powers:** 7
+**Rank:** 2nd
 
 ---
 
 # Page 55
 
-Misc. Monters
+# Misc. Monsters
 
-Some other minor Monsters are less
-common or too unimportant to be listed
-with the rest. Most of these are domestic
-animals such as pets, familiars and
-companions
+Some other minor Monsters are less common or too unimportant to be listed with the rest. Most of these are domestic animals such as pets, familiars and companions.
 
-Hurrum
+## Hurrum
 
-These brightly-colored beetles are highly
-prized for the pleasant humming sounds
-they produce. Better trading houses have
-at least one.
+These brightly-colored beetles are highly prized for the pleasant humming sounds they produce. Better trading houses have at least one.
 
-AC 8[12], HD 1/4(a hp), Att 1 x attacks (1
-by sting), Thaco 20[-1] MV 20'
+**AC** 8 [12], **HD** 1/4 (1 hp), **Att** 1 x attacks (1 by sting), **Thaco** 20 [-1] **MV** 20'
 
-Critic Lizard
+## Critic Lizard
 
-Multi-colored, spiny-backed lizards,
-critics are frequently reluctant house
-guests in Athas. They are innately
-psionic and tune themselves to their
-feeders.
+Multi-colored, spiny-backed lizards, critics are frequently reluctant house guests in Athas. They are innately psionic and tune themselves to their feeders.
 
-AC 7[13], HD 1/2(2 hp), Att 1x attacks (1
-by bite), Thaco 19[+0] MV 20'
+**AC** 7 [13], **HD** 1/2 (2 hp), **Att** 1 x attacks (1 by bite), **Thaco** 19 [+0] **MV** 20'
 
-PSI: WT: Life Detection,
-All-Round Vision, Know
-Direction, Powers: 4
+**PSI WT:** Life Detection, All-Round Vision, Know Direction
+**Powers:** 4
 
-Floater
+## Floater
 
-Floaters are small, aerial, jelly fish that
-drift above the Sea of Silt.
+Floaters are small, aerial, jelly fish that drift above the Sea of Silt.
 
-AC [11], HD 1/4(1 hp), Att 1x attacks (1
-by sting), Thaco 19[+0] MV
-20’(30’) Flying
+**AC** 9 [11], **HD** 1/4 (1 hp), **Att** 1 x attacks (1 by sting), **Thaco** 19 [+0] **MV** 20' (30') Flying
 
-Kes'trekel
+## Kes'trekel
 
-The scourge of the Tablelands, kes’trekel
-are vile avian creatures that feast upon
-desert carrion.
+The scourge of the Tablelands, kes'trekel are vile avian creatures that feast upon desert carrion.
 
-AC o[11], HD 1/2(2 hp), Att 1x attacks (1
-by beak), Thaco 18[+1] MV 20’(40’)Flying
-
-  
- 
- 
- 
- 
-  
-
-55
+**AC** 9 [11], **HD** 1/2 (2 hp), **Att** 1 x attacks (1 by beak), **Thaco** 18 [+1] **MV** 20' (40') Flying
 
 ---
 
@@ -3373,86 +3010,58 @@ un Brogh ns“ Pterrax
 
 # Page 62
 
-NPC Encounters
+# NPC Encounters
 
-This procedure generates parties of NPC
-adventurers. As the procedure is fairly
-involved, referees may wish to
-pre-generate some NPC parties for use
-in random encounters. The following
-general details apply to all types of NPC
-party described:
+This procedure generates parties of NPC adventurers. As the procedure is fairly involved, referees may wish to pre-generate some NPC parties for use in random encounters. The following general details apply to all types of NPC party described:
 
-e@ Spells: If spell casters are
-present, choose or roll their
-memorized spells.
+- **Spells:** If spell casters are present, choose or roll their memorized spells.
+- **Equipment:** Normal adventuring gear.
+- **Treasure:** Treasure types U+V, shared among the group.
+- **Marching order:** Decided by referee. If the classes presented in this book are not in use, the referee should replace the listed classes by equivalents in use in the campaign.
 
-e Equipment: Normal
-adventuring gear.
+## NPC Adventurer Class and Level
 
-e Treasure: Treasure types U+V,
-shared among the group.
+| d12 | Class | Basic | Expert |
+|---:|---|---|---|
+| 1 | Bard | 1d3 | 1d6+4 |
+| 2 | Druid | 1d3 | 1d6+2 |
+| 3 | Cleric | 1d3 | 1d6+3 |
+| 4 | Fighter | 1d3 | 1d6+5 |
+| 5 | Gladiator | 1d3 | 1d6+3 |
+| 6 | Preserver | 1d3 | 1d6+2 |
+| 7 | Defiler | 1d3 | 1d6+4 |
+| 8 | Psionicist | 1d3 | 1d6+3 |
+| 9 | Ranger | 1d3 | 1d6+4 |
+| 10 | Templar | 1d3 | 1d6+3 |
+| 11 | Thief | 1d3 | 1d6+4 |
+| 12 | Demi-human | 1d3 | 1d6+3 |
 
-e@ Marching order: Decided by
-referee. If the classes presented
-in this book are not in use, the
-referee should replace the listed
-classes by equivalents in use in
-the campaign.
+## NPC Demi-human Class and Level
 
-NPC Adventurer Class and Level
-Level
+| d6 | Class | Basic | Expert |
+|---:|---|---|---|
+| 1 | Dwarf | 1d3 | 1d6+3 |
+| 2 | Elf | 1d3 | 1d6+4 |
+| 3 | Halfling | 1d3 | 1d6+3 |
+| 4 | Half-elf | 1d3 | 1d6+2 |
+| 5 | Half-giant | 1d3 | 1d6+2 |
+| 6 | Mul | 1d3 | 1d6+3 |
 
-diz Class Basic Expert
-1 Bard 1d3, 1d6+4
-2 Druid 1d3 1d6+2
-3 Cleric 1d3 1d6+3,
-4 Fighter 1d3 1d6+5
-5 Gladiator 1d3, 1d6+3,
-6 Preserver 1d3 1d6+2
-7 Defiler id3, 1d6+4
-8 Psionicist 1d3 1d6+3
-9 Ranger 1d3 1d6+4
-10 Templar 1d3 1d6+3
-u Thief id3 1d6+4
-2 Demi-human 1d3 1d6+3
+## Basic Adventurers
 
-NPC Demi-human Class and Level
+**Composition:** 1d4+4 characters of random class and level (see below).
 
-Level
-d6 = Class Basic Expert
-1 Dwarf id3 1d6+3
-2 Elf id3 1d6+4
-3 Halfling 1d3 1d6+3
-4 Half-elf 1d3 1d6+2
-5  Half-giant id3 1d6+2
-6 Mul id3 1d6+3
-Basic Adventurers
+**Alignment:** Either roll the alignment of each NPC or roll once for the party.
 
-Composition: 1d4+4 characters of
-random class and level (see below).
-Alignment: Either roll the alignment of
-each NPC or roll once for the party.
+## Expert Adventurers
 
-Expert Adventurers
+**Composition:** 1d6+3 characters of random class and level (see below).
 
-Composition: 1d6+3 characters of
-random class and level (see below).
-Alignment: Either roll the alignment of
-each NPC or roll once for the party.
-Mounts: 75% chance of being mounted
-in the wilderness.
+**Alignment:** Either roll the alignment of each NPC or roll once for the party.
 
-Valuable Items: Per individual: there is
-a chance of the NPC having a metal or
-magic item from each suitable valuable
-item sub-table (see Magic Items, p). The
-chance per sub-table is 5% per level of
-the NPC. Rolled items that cannot be
-used by the NPC should be ignored (no
-re-roll).
+**Mounts:** 75% chance of being mounted in the wilderness.
 
-62
+**Valuable Items:** Per individual: there is a chance of the NPC having a metal or magic item from each suitable valuable item sub-table (see Magic Items, p). The chance per sub-table is 5% per level of the NPC. Rolled items that cannot be used by the NPC should be ignored (no re-roll).
 
 ---
 
@@ -3848,106 +3457,57 @@ them 2d8 damage.
 
 # Page 69
 
-Fruit of Mind Bar
+## Fruit of Mind Bar
 
-This fruit’s effects are identical to the
-psionic power mind bar, but does not
-require the consumer to know psionics
-to begin or maintain.
+This fruit's effects are identical to the psionic power mind bar, but does not require the consumer to know psionics to begin or maintain.
 
-Fruit of Psionic Restoration
+## Fruit of Psionic Restoration
 
-When a psionic character eats it, it
-temporarily increases the total amount
-of psionic powers available to cast by
-1d6.
+When a psionic character eats it, it temporarily increases the total amount of psionic powers available to cast by 1d6.
 
-e Duration: The effects last for 12
-hours.
+- **Duration:** The effects last for 12 hours.
+- **Multiple Consumption:** Consuming multiple pieces of this fruit has an opposite effect, decreasing the amount of powers available by 1d4 if two or more are eaten within a 12 hour period.
 
-e Multiple Consumption:
-Consuming multiple pieces of
-this fruit has an opposite effect,
-decreasing the amount of
-powers available by 1d4 if two or
-more are eaten within a 12 hour
-period.
+## Fruit of Psionic Boost
 
-Fruit of Psionic Boost
+When a psionic character eats it, the next 1d4 powers he cast may be 1 rank higher than what the character is allowed to.
 
-When a psionic character eats it, the
-next 1d4 powers he cast may be 1 rank
-higher than what the character is
-allowed to.
+- **Duration:** The effects last for 12 hours.
+- **Multiple Consumption:** Consuming multiple pieces of this fruit during said duration would not cause a noticeable effect.
 
-e Duration: The effects last for 12
-hours.
+## Fruit of Silt Breathing
 
-e Multiple Consumption:
-Consuming multiple pieces of
-this fruit during said duration
-would not cause a noticeable
-effect.
+Those who eat this fruit have no need to breathe air while submersed in silt.
 
-Fruit of Silt Breathing
+- **Duration:** This fruit has a duration of 2d6+2 turns.
 
-Those who eat this fruit have no need to
-breathe air while submersed in silt.
-e Duration: This fruit has a
-duration of 2d6+2 turns.
+## Oil of Armor
 
-Oil of Armor
+Applying this oil on a surface, it grants the recipient increased toughness.
 
-Applying this oil on a surface, it grants
-the recipient increased toughness
-e Granted Bonus: +3 Bonus to
-AC and 2d4 hp
-e Duration: The benefits last for
-24 Hours. Applying multiple
-flasks of this oil during said
-duration would not cause a
-noticeable effect.
+- **Granted Bonus:** +3 Bonus to AC and 2d4 hp
+- **Duration:** The benefits last for 24 Hours. Applying multiple flasks of this oil during said duration would not cause a noticeable effect.
 
-Oil of Masking
+## Oil of Masking
 
-When this oil is rubbed on the body it
-effectively “masks” the person from all
-senses except normal vision.
+When this oil is rubbed on the body it effective "masks" the person from all senses except normal vision.
 
-e@ Masking: Senses such as smell,
-hearing, infravision, and any
-means of psionic detection
-cannot detect the presence of
-someone covered in this oil.
+- **Masking:** Senses such as smell, hearing, infravision, and any means of psionic detection cannot detect the presence of someone covered in this oil.
+- **Duration:** The benefits last for 24 Hours. Applying multiple flasks of this oil during said duration would not cause a noticeable effect.
 
-e Duration: The benefits last for
-24 Hours. Applying multiple
-flasks of this oil during said
-duration would not cause a
-noticeable effect.
+## Ring of Animal Influence
 
-Ring of Animal Influence
+While under the influence of the ring's power, a specific type of wild animal becomes docile and responds to simple commands given by the wearer.
 
-While under the influence of the ring’s
-power, a specific type of wild animal
-becomes docile and responds to simple
-commands given by the wearer.
-e Range: The animal is able to be
-controlled at a range of up to
+- **Range:** The animal is able to be controlled at a range of up to 100'.
 
-100’.
-1d100 Type of Creature
-01-20 Kank
-
-21-49 ~— Erdlu
-
-50-79 ~—Inix
-
-80-95 Mekillot
-
-96+ Other (DM's Choice)
-
-69
+| 1d100 | Type of Creature |
+|---:|---|
+| 01-20 | Kank |
+| 21-49 | Erdlu |
+| 50-79 | Inix |
+| 80-95 | Mekillot |
+| 96+ | Other (DM's Choice) |
 
 ---
 
@@ -4456,116 +4016,77 @@ Asmall iron hammer made by an ancient dwarven clan
 
 # Page 77
 
-City-state
-Generator
+# City-state Generator
 
-As with any other setting, DMs are
-allowed and sometimes encouraged to
-make the world their own. Originally the
-Dark Sun Box Set™ mentioned seven
-city-states present in the Tyr Region,
-however more cities were implied to
-exist to the north, south and east, so the
-following tables may be used to create
-city-states, whether in the Tyr Region or
-other unknown lands in Athas.
+As with any other setting, DMs are allowed and sometimes encouraged to make the world their own. Originally the **Dark Sun Box Set™** mentioned seven city-states present in the Tyr Region, however more cities were implied to exist to the north, south and east, so the following tables may be used to create city-states, whether in the Tyr Region or other unknown lands in Athas.
 
-City Water Source
-1d6 Source
-1 Aquifer
-2 Lake
-3 Mountain springs
-4 Mud flats
-5 Oasis
-6 Magical rituals
+## City Water Source
 
-City Natural Feature
+| 1d6 | Source |
+|---:|---|
+| 1 | Aquifer |
+| 2 | Lake |
+| 3 | Mountain springs |
+| 4 | Mud flats |
+| 5 | Oasis |
+| 6 | Magical rituals |
 
-idiz Feature
+## City Natural Feature
 
- 
+| 1d12 | Feature |
+|---:|---|
+| 1 | Boulder field |
+| 2 | Cave |
+| 3 | Butte |
+| 4 | Mountain cliff |
+| 5 | Crater |
+| 6 | Grassfield |
+| 7 | Grove |
+| 8 | Hill |
+| 9 | Mudflat |
+| 10 | Lake |
+| 11 | Marsh |
+| 12 | Canyon |
 
-1 Boulder field
-2 Cave
+## Settlement Size & Population
 
-3 ~=©— Butte
+| 1d4 | Population |
+|---:|---|
+| 1 | Small City, 5,000 - 15,000 |
+| 2 | Medium City, 15,000 - 30,000 |
+| 3 | Large City, 30,000 - 60,000 |
+| 4 | Metropolis, 60,000 - 100,000 |
 
-4 Mountain cliff
-5 Crater
+## City Government Type
 
-6 — Grassfield
+| 3d6 | Ruler |
+|---:|---|
+| 3 | Veiled Alliance (magocracy) |
+| 4 | Mindlord(s) (psionocracy) |
+| 5 | Elected dictator (republic) |
+| 6 | King (traditional monarchy) |
+| 7-14 | Sorcerer-King (monarchy) |
+| 15 | Noble council (aristocracy) |
+| 16 | Merchant House(s) (plutocracy) |
+| 17 | Citizens assembly (democracy) |
+| 18 | Elemental priest(s) (theocracy) |
 
-7 Grove
+## City Famed for its...
 
-8 Hill
-
-9 = Mudflat
-
-10 Lake
-
-uu Marsh
-
-12 Canyon
-
-Settlement Size & Population
-
-idy Population
-
- 
-
-1 Small City, 5,000 - 15,000
-2 Medium City, 15,000 - 30,000
-3 Large City, 30,000 - 60,000
-4
-
-Metropolis 60,000 - 190,000
-
-City Government Type
-3d6 Ruler
-
-3 Veiled Alliance (magocracy)
-4 Mindlord(s) (psionocracy)
-
-5 Elected dictator (republic)
-
-6 King (traditional monarchy)
-Sorcerer-King (monarchy)
-
-15 Noble council (aristocracy)
-
-16 Merchant House(s) (plutocracy)
-17 Citizens assembly (democracy)
-18 Elemental priest(s) (theocracy)
-
-City Famed for its...
-
-idio Feature
-
- 
-
-1 Psionic academies
-2 Seers, oracles and diviners
-
-3 Gladiatorial games and arenas
-4 Productive slave trade
-
-5  Tyrannical society
-
-6 Lushness of its soil
-
-7 Ruins underneath
-
-8 Diverse ecology around it
-
-9 Lackof slaves
-
-10 Military might
-
-1 Metal mines
-
-12 Powerful merchant houses
-
-7
+| 1d10 | Feature |
+|---:|---|
+| 1 | Psionic academies |
+| 2 | Seers, oracles and diviners |
+| 3 | Gladiatorial games and arenas |
+| 4 | Productive slave trade |
+| 5 | Tyrannical society |
+| 6 | Lushness of its soil |
+| 7 | Ruins underneath |
+| 8 | Diverse ecology around it |
+| 9 | Lack of slaves |
+| 10 | Military might |
+| 11 | Metal mines |
+| 12 | Powerful merchant houses |
 
 ---
 
@@ -4860,127 +4381,80 @@ aes Rocky Formations individually following the next page:
 
 # Page 82
 
-Athasian
-Settlement
-Generation
+# Athasian Settlement Generation
 
-To generate villages and towns built
-across the tablelands, the following
-tables may be used. Rolling once in each
-table may be enough to generate a good
-settlement, but DMs may roll multiple
-times to add multiple factors describing
-the settlement and/or its situation.
+To generate villages and towns built across the tablelands, the following tables may be used. Rolling once in each table may be enough to generate a good settlement, but DMs may roll multiple times to add multiple factors describing the settlement and/or its situation.
 
-Settlement Type
+## Settlement Type
 
-1d6 Settlement
+| 1d6 | Settlement |
+|---:|---|
+| 1 | Nomadic herdsmen have encamped for a week. |
+| 2 | A cluster of mud buildings surround a tiny water supply. |
+| 3 | A supply outpost for the nearest city-state. |
+| 4 | A farming community (crops or animals). |
+| 5 | A trade outpost for a Merchant House. |
+| 6 | A crafting base (e.g. Quarry, mine, leather, etc.). |
 
- 
+## Ruler Oddity
 
-Nomadic herdsmen have encamped for
-aweek,
+| 1d12 | Oddity |
+|---:|---|
+| 1 | Bickering |
+| 2 | Cruel |
+| 3 | Weak |
+| 4 | Greedy |
+| 5 | Wise |
+| 6 | Eccentric |
+| 7 | Confusing |
+| 8 | Brutal |
+| 9 | Cunning |
+| 10 | Stern |
+| 11 | Secretive |
+| 12 | Drunkard |
 
-Acluster of mud buildings surround a
-tiny water supply.
+## Ruler Type
 
-3 Asupply outpost for the nearest
-city-state.
+| 1d12 | Ruler |
+|---:|---|
+| 1 | Council |
+| 2 | Despot |
+| 3 | Elder |
+| 4 | Ex-Slave |
+| 5 | Intelligent Monster |
+| 6 | Templar |
+| 7 | No one |
+| 8 | Commander |
+| 9 | Trader |
+| 10 | Merchant House |
+| 11 | Artisan |
+| 12 | Bandit Chief |
 
-4 A farming community (crops or
-animals).
+## Another Interesting NPC
 
-5  Atrade outpost fora Merchant House.
+| 1d12 | NPC |
+|---:|---|
+| 1 | Scientist Studying Stars |
+| 2 | Famous Ex-gladiator |
+| 3 | Beautiful courtesan |
+| 4 | Visiting Merchant House agent |
+| 5 | Friendly Elemental |
+| 6 | Undercover Veiled Alliance |
+| 7 | Undercover Defiler |
+| 8 | Vivacious and chatty mother figure |
+| 9 | Dwarf builder/sculptor |
+| 10 | Half-Giant enforcer |
+| 11 | Enthusiastic teen follower |
+| 12 | Scarred animal wrangler |
 
-6 Acrafting base (e.g. Quarry, mine,
-leather, etc.).
+## Settlement Size & Population
 
-Ruler Oddity
-idi2_ Oddity
-
-1 Bickering
-
-2 Cruel
-
-3 Weak
-
-4 Greedy
-
-5 Wise
-
-6 Eccentric
-
-7 Confusing
-
-8 Brutal
-
-9 Cunning
-
-10 Stern
-
-nu Secretive
-
-12 Drunkard
-
-Ruler Type
-
-idi2_ Ruler
-
- 
-
-Intelligent Monster
-‘Templar
-Noone
-
-Commander
-Trader
-Merchant House
-Artisan
-
-Bandit Chief
-
-Another Interesting NPC
-
-dia
-
-NPC
-
-Scientist Studying Stars
-Famous Ex-gladiator
-
-Beautiful courtesan
-
-Visiting Merchant House agent
-Friendly Elemental
-
-Undercover Veiled Alliance
-Undercover Defiler
-
-Vivacious and chatty mother figure
-Dwarf builder/sculptor
-
-Half-Giant enforcer
-
-Enthusiastic teen follower
-
-Scarred animal wrangler
-
-Settlement Size & Population
-
-id4
-
-swe
-
-Population
-
-Hamlet, <100
-
-Village, 100 - 500
-
-‘Small town, 500 - 1,000
-Large town, 1,000 - 2,000
-
-82
+| 1d4 | Population |
+|---:|---|
+| 1 | Hamlet, <100 |
+| 2 | Village, 100 - 500 |
+| 3 | Small town, 500 - 1,000 |
+| 4 | Large town, 1,000 - 2,000 |
 
 ---
 
@@ -5030,72 +4504,33 @@ Suara u Decadence
 
 # Page 84
 
-Ruin Generator
+# Ruin Generator
 
-For ruins and dungeons found in the
-wilderness, DMs may use these tables to
-generate them quickly.
+For ruins and dungeons found in the wilderness, DMs may use these tables to generate them quickly.
 
-Ruin Size
+## Ruin Size
 
-id6
+| 1d6 | Size |
+|---:|---|
+| 1 | Just one room, perhaps barely distinct from the surrounding environment. |
+| 2 | Tiny. There are only 2-4 rooms in this dungeon. |
+| 3 | Small. 5-7 small rooms. Rooms are situated close together. |
+| 4 | Medium. 8-10 similar sized rooms. |
+| 5 | Large. 11-14 rooms of different sizes and many winding hallways. |
+| 6 | Gigantic. This ruin is as large as a small town with many different passageways and rooms. There are 15-20 rooms in this ruin. |
 
-Size
+## Ruin Condition
 
-Just one room, perhaps barely distinct
-from the surrounding environment.
-Tiny. There are only 2-4 rooms in this
-dungeon.
-
-Small. 5-7 small rooms, Rooms are
-situated close together.
-
-Medium, 8-10 similar sized rooms.
-Large. u-14 rooms of different sizes and
-many winding hallways.
-
-Gigantic. This ruin is as large as a small
-town with many different passageways
-and rooms. There are 15-20 rooms in this
-
-ruin.
-
-Ruin Condition
-
-1d8
-
-State
-
-Immaculate and nothing is out of place.
-It looks as though it hasn't gone a day
-without upkeep.
-
-Open but about three quarters of the
-ruin has caved in and is impassible.
-Totally ruined with little to nothing left.
-‘There is still evidence of a structure here
-at one point in time, such as fallen
-pillars and chiselled pieces of stone.
-
-On the verge of collapse—one wrong
-move or push could crush anything and
-anyone inside.
-
-Blocked. Because of this the rest of the
-ruin has not been touched since its last
-residence centuries ago.
-
-Still intact but is obviously worn due to
-the passing of time and the elements.
-Intact but dusty, forgotten and has been
-buried beneath the sands.
-
-Gutted by scavengers long ago. Very
-little remains of the history of this ruin.
-
- 
-
-84
+| 1d8 | State |
+|---:|---|
+| 1 | Immaculate and nothing is out of place. It looks as though it hasn't gone a day without upkeep. |
+| 2 | Open but about three quarters of the ruin has caved in and is impassible. |
+| 3 | Totally ruined with little to nothing left. There is still evidence of a structure here at one point in time, such as fallen pillars and chiselled pieces of stone. |
+| 4 | On the verge of collapse—one wrong move or push could crush anything and anyone inside. |
+| 5 | Blocked. Because of this the rest of the ruin has not been touched since its last residence centuries ago. |
+| 6 | Still intact but is obviously worn due to the passing of time and the elements. |
+| 7 | Intact but dusty, forgotten and has been buried beneath the sands. |
+| 8 | Gutted by scavengers long ago. Very little remains of the history of this ruin. |
 
 ---
 
@@ -5296,111 +4731,82 @@ rn Ten marbles of many shapes and sizes in wooden box. 7 Asmall book filled with
 
 # Page 88
 
-Vegetation
-Generator
+# Vegetation Generator
 
-Meant to be used to generate strange
-and/or unique plants. It is
-recommended to use this generator
-multiple times for higher eco-diversity.
-Roll one time for the type of vegetation
-and density tab;es and twice for the
-plant features:
+Meant to be used to generate strange and/or unique plants. It is recommended to use this generator multiple times for higher eco-diversity. Roll one time for the type of vegetation and density tables and twice for the plant features:
 
-‘Type of Vegetation Table
-1d6 Vegetation Type
+## Type of Vegetation Table
 
-1 Flowers/Grass
-Fungi
+| 1d6 | Vegetation Type |
+|---:|---|
+| 1 | Flowers/Grass |
+| 2 | Fungi |
+| 3 | Cacti |
+| 4 | Bushes |
+| 5 | Small Trees |
+| 6 | Large Trees |
 
-Cacti
+## Vegetation Density Table
 
-Bushes
-Smalls Trees
+| 1d6 | Density |
+|---:|---|
+| 1 | Barren |
+| 2 | Scattered |
+| 3 | Moderate |
+| 4 | Loose Clusters |
+| 5 | Tight Clusters |
+| 6 | Lush |
 
-auhwn
+## Vegetation Features Table
 
-Large Trees
-Vegetation Density Table
-1d6 Density
+| 1d8 | Feature |
+|---:|---|
+| 1 | Spikes |
+| 2 | Odd/Vivid Colors |
+| 3 | Releases Poison Spores |
+| 4 | Edible |
+| 5 | Hallucinogenic |
+| 6 | Poison upon touch |
+| 7-8 | Unremarkable |
 
-1 Barren
-2 Scattered
-3 Moderate
-4 Loose Clusters
-5 Tight Clusters
-6 Lush
-Vegetation Features Table
+# Hydrography Generation
 
-1d8 Feature
+Despite the ravaged state of Athas, many different types of hydrography exist. Note that active water formations tend to be surrounded by life, so consider rolling in the vegetation tables to compliment hydrography.
 
-1 Spikes
+## Hydrography Features Table
 
-2 Odd/Vivid Colors
+| 1d8 | Feature |
+|---:|---|
+| 1 | Oasis |
+| 2 | Dry Irrigation Canal |
+| 3 | Salt Water Pool |
+| 4 | Artesian Well |
+| 5 | Dried River |
+| 6 | Desert Marsh |
+| 7 | Mirage Lake |
+| 8 | Aquifer |
 
-3 Releases Poison Spores
-4 Edible
+## Water-Related Landmark Table
 
-5 Hallucinogenic
+| 1d6 | Landmark |
+|---:|---|
+| 1 | Monster Lair |
+| 2 | Cavern Underneath |
+| 3 | Waterfall Formation |
+| 4 | Central Island |
+| 5 | Bridge (Ancient) |
+| 6 | Bubbling Geysers |
 
-6 Poison upon touch
-7-8 Unremarkable
+## Hydrological Phenomena Table
 
-Hydrography
-Generation
-
-Despite the ravaged state of Athas, many
-different types of hydrography exist.
-Note that active water formations tend
-to be surrounded by life, so consider
-rolling in the vegetation tables to
-compliment hydrography.
-
-Vegetation Features Table
-
-id8_ Feature
-
-Oasis
-
-Dry Irrigation Canal
-Salt Water Pool
-Artesian Well
-
-Dried River
-
-Desert Marsh
-Mirage Lake
-Aquifer
-
-oyranwawne =
-
-Water-Related Landmark Table
-
-1d6 Landmark
-
-1 Monster Lair
-Caverns Underneath
-Waterfall Formation
-Central Island
-Bridge (Ancient)
-
-6 Bubbling Geysers
-
-wwe
-
-Hydrological Phenomena Table
-
-1d6 Event
-
-1 Ghost Apparitions
-Bioluminescent Lights
-Mist
-Nomadic Tribe Passing
-Water Coloring
-Periodic Drying and Filling
-88
-
-auhwn
+| 1d6 | Event |
+|---:|---|
+| 1 | Ghost Apparitions |
+| 2 | Bioluminescent Lights |
+| 3 | Mist |
+| 4 | Nomadic Tribe Passing |
+| 5 | Water Coloring |
+| 6 | Periodic Drying and Filling |
 
 ---
 
