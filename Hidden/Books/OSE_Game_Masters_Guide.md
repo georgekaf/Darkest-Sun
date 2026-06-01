@@ -1275,7 +1275,7 @@ Disposing of the engineers operating the
 weapons or outright attacking them
 once will render them useless.
 
-7
+17
 
 ---
 
@@ -2084,64 +2084,39 @@ Though somewhat smaller than humanoid giants, beasthead giants are actually more
 
 # Page 37
 
-Desert Giant
+## Desert Giant
 
-Desert giants are humanoid in
-appearance. Desert giants live on desert
-islands.
+Desert giants are humanoid in appearance. Desert giants live on desert islands.
 
-AC 4[16], HD 13 (58 hp), Att 1x attack
-(1d8+4 by fist or weapon), Thaco 7[+12]
-MV 40’ SV D8 Wo Pio Bio Si2 (9), ML 8,
-AL Neutral, XP 1,000 NA 2d6(3d6), TT J
+**AC** 4 [16], **HD** 13 (58 hp), **Att** 1 x attack (1d8+4 by fist or weapon), **Thaco** 7 [+12] **MV** 40', **SV** D8 W9 P10 B10 S12 (9), **ML** 8, **AL** Neutral, **XP** 1,000, **NA** 2d6 (3d6), **TT** J
 
-PSI: WT: Detect Life, Know Direction
-Powers: 3
+**PSI WT:** Detect Life, Know Direction
+**Powers:** 3
 
-Psionic Resistance: Only affected by
-2nd rank Powers and onwards.
+**Psionic Resistance:** Only affected by 2nd rank Powers and onwards.
 
-Throw Hurl Rocks: When in combat,
-they can throw rocks that deal 2d10+5
-damage, They can do so three times per
-day.
+**Throw Hurl Rocks:** When in combat, they can throw rocks that deal 2d10+5 damage. They can do so three times per day.
 
-Boulder throwing: Up to 200’
-Fortress: On desert islands. This
-climate is nearly identical to the deserts
-of Athas, save that these islands are
-surrounded by the Sea of Silt.
+**Boulder throwing:** Up to 200'
 
-Plain Giant
+**Fortress:** On desert islands. This climate is nearly identical to the deserts of Athas, save that these islands are surrounded by the Sea of Silt.
 
-Plains giants have facial features more
-akin to an elf than a human. Plains
-giants live on islands that have terrain
-similar to the scrub plains of Athas.
+## Plain Giant
 
-AC 5[15], HD 10 (58 hp), Att 1x attack
-(1d6+4 by fist or weapon), Thaco 10[+9]
-MV 40, SV D8 Wo Pio Bio Si2 (9), ML 7,
-AL Chaotic, XP 1,000 NA 2d6+2(3d6+4),
-TT)
+Plain giants have facial features more akin to an elf than a human. Plains giants live on islands that have terrain similar to the scrub plains of Athas.
 
-PSI: WT: Send Thoughts, Know
-Direction Powers: 3
+**AC** 5 [15], **HD** 10 (58 hp), **Att** 1 x attack (1d6+4 by fist or weapon), **Thaco** 10 [+9] **MV** 40', **SV** D8 W9 P10 B10 S12 (9), **ML** 7, **AL** Chaotic, **XP** 1,000, **NA** 2d6+2 (3d6+4), **TT** J
 
-Psionic Resistance: Only affected by
-2nd rank Powers and onwards.
+**PSI WT:** Send Thoughts, Know Direction
+**Powers:** 3
 
-Throw Hurl Rocks: When in combat,
-they can throw rocks that deal 2d10+5,
-damage, They can do so two times per
-day.
+**Psionic Resistance:** Only affected by 2nd rank Powers and onwards.
 
-Boulder throwing: Up to 150’
-Fortress: in the most heavily vegetated
-areas on their islands, making their
-homes in the midst of these brush areas.
+**Throw Hurl Rocks:** When in combat, they can throw rocks that deal 2d10+5 damage. They can do so two times per day.
 
- 
+**Boulder throwing:** Up to 150'
+
+**Fortress:** In the most heavily vegetated areas on their islands, making their homes in the midst of these brush areas.
 
 37
 
@@ -2844,7 +2819,7 @@ es
 
 Drake, water
 
-5
+58
 
 Stoney Barrens, Alternative
 
@@ -3714,7 +3689,7 @@ psionic damage to any creature
 on radius (save vs breath for
 half damage).
 
-1
+71
 
 ---
 
@@ -3859,7 +3834,7 @@ scene.
 
  
 
-13
+73
 
 ---
 
@@ -4004,7 +3979,7 @@ Asmall iron hammer made by an ancient dwarven clan
 
  
 
-15
+75
 
 ---
 
@@ -4212,62 +4187,55 @@ Plague
 Will crisis (psionics weakening)
 Economic growth
 
-18
+78
 
 ---
 
 # Page 79
 
-City Districts (Roll at least once for each category)
+## City Districts
 
-Residential
+*Roll at least once for each category.*
 
-Commercial
+### Residential
 
-Government
+| 1d6 | District |
+|---:|---|
+| 1 | Slave Pits |
+| 2 | Slums |
+| 3 | Freemen |
+| 4 | Merchant Residences |
+| 5 | Noble Quarters |
+| 6 | Templar Quarters |
 
-aww HB
+### Recreational
 
-16
-1
+| 1d4 | District |
+|---:|---|
+| 1 | Arena |
+| 2 | Public Square |
+| 3 | Inns/Foreign Quarters |
+| 4 | Bard Alleys |
 
-awewny
+### Commercial
 
-Bwne
+| 1d4 | District |
+|---:|---|
+| 1 | Emporiums |
+| 2 | Warehouses |
+| 3 | Craftsmen & Artisans |
+| 4 | Academies/University |
 
-Recreational
-District
-Slave Pits
-Slums
-Freemen
-Merchant Residences
-Noble Quarters
+### Government
 
-Templar Quarters
+| 1d4 | District |
+|---:|---|
+| 1 | Military Quarters |
+| 2 | Gardens |
+| 3 | Temple |
+| 4 | Palace |
 
-aww ale
-
-4 District
-Arena
-Public Square
-Inns/ Foreigner Quarters
-Bard Alleys
-
-District
-Emporiums
-Warehouses
-Craftsmen & Artisans
-Academies/ University
-
-District
-Military Quarters
-Gardens
-Temple
-Palace
-
- 
-
-19
+79
 
 ---
 
@@ -4536,97 +4504,52 @@ For ruins and dungeons found in the wilderness, DMs may use these tables to gene
 
 # Page 85
 
-Ruin Current Inhabitants
+## Ruin Current Inhabitants
 
-id Inhabitants
+| d12 | Inhabitants |
+|---:|---|
+| 1 | Giant monsters |
+| 2 | Depraved humanoids (e.g. Gith) |
+| 3 | Undead |
+| 4 | City-state forces |
+| 5 | Merchant house |
+| 6 | Adventurer group |
+| 7 | Bandit band |
+| 8 | Defiler cabal |
+| 9 | Squatters |
+| 10 | A hermit |
+| 11 | Nobody |
+| 12 | Roll twice |
 
-Ruin Unique Feature
+## Ruin Unique Feature
 
-ida
+| d12 | Feature |
+|---:|---|
+| 1 | Many puzzles and traps meant to deter unwanted scavengers. |
+| 2 | Openings that are filling the ruin with sand, blocking off exits and entrances. |
+| 3 | Many fissures and is prone to collapse if something were to hit the walls. |
+| 4 | Sheer winds howl through the ruin that sound like haunting voices. |
+| 5 | An obsidian monolith etched with strange markings. |
+| 6 | Two warring tribes that use it as neutral ground. |
+| 7 | Fresh corpses strewn about—the victims of a ritual sacrifice. |
+| 8 | Hasty chalk writing that marks every wall, floor to ceiling. |
+| 9 | A river of silt bisecting it, with corpses sticking out of it. |
+| 10 | An odd aura that causes those within to feel the toll of hunger and thirst faster than normal. |
+| 11 | Inch-deep white ash covering every surface. |
+| 12 | Roll twice |
 
-Feature
+## Ruin Room Purpose/Content
 
- 
+| d12 | Content |
+|---:|---|
+| 1 | Open path, entrance or clearing*. |
+| 2 | Alternative path (ascend, pit etc.) |
+| 3-5 | Passive threat, terrain hazards, trap. |
+| 6-10 | Danger, monster lair. |
+| 11 | Blocked path, partially or totally crumbled. |
+| 12 | A key destination (Treasure). |
 
-1 Giant monsters
-
-2 Depraved humanoids (e. g. Gith)
-Undead
-City-state forces
-Merchant house
-
-Bandit band
-
-Defiler cabal
-
-Squatters
-10 Ahermit
-n Nobody
-12 Roll twice
-
-3
-4
-5
-6 Adventurer group
-7
-8
-9
-
- 
-
-Many puzzles and traps meant to deter
-unwanted scavengers.
-
-Openings that are filling the ruin with
-sand, blocking off exits and entrances.
-Many fissures and is prone to collapse if
-something were to hit the walls.
-
-Sheer winds howl through the ruin that
-sound like haunting voices.
-
-An obsidian monolith etched with
-strange markings.
-
-Two warring tribes that use it as neutral
-ground,
-
-Fresh corpses strewn about—the victims
-of a ritual sacrifice.
-
-Hasty chalk writing that marks every
-wall, floor to ceiling
-
-A river of silt bisecting it, with corpses
-sticking out of it.
-
-An odd aura that causes those within to
-feel the toll of hunger and thirst faster
-than normal.
-
-Inch-deep white ash covering every
-surface.
-
-Roll twice
-
-Ruin Room Purpose/Content
-
-idi2
-
-Inhabitants
-
-Open path, entrance or clearing*.
-Alternative path (ascend, pit, etc).
-Passive threat, terrain hazards, trap.
-Danger, monster lair.
-
-Blocked path, partially or totally
-crumbled.
-
-A key destination (Treasure).
-
-*: Obviously, most dungeons needs at least one
-entrance
+*Obviously, most dungeons needs at least one entrance
 
 85
 
