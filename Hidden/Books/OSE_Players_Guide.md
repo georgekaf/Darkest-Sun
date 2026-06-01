@@ -54,135 +54,139 @@ Cover Layout: Alexandre Henriques
 
 # Page 4
 
-Table of Contents
+## Table of Contents
 
-cenier’ 1: Player Characters
-Character Creation...
-Rolling Ability Score:
+Introduction ........................................ 5
 
- 
- 
- 
-     
+### Chapter 1: Player Characters
 
- 
+| Entry | Page |
+|---|---:|
+| Character Creation | 8 |
+| Rolling Ability Scores | 10 |
+| Languages | 11 |
+| Character Tree | 12 |
 
-Languages......
-Character Tre
-epee character Classes ThricKreen
-Game Modalities Chapter 3: Character er Options
-Fighter Character Races... or
-~ Dwarf.
+### Chapter 2: Character Classes
 
- 
+| Entry | Page |
+|---|---:|
+| Class Groups | 14 |
+| Game Modalities | 16 |
+| Fighter | 17 |
+| Gladiator | 19 |
+| Ranger | 21 |
+| Bard | 23 |
+| Thief | 25 |
+| Cleric | 27 |
+| Druid | 29 |
+| Templar | 31 |
+| Defiler | 33 |
+| Preserver | 35 |
+| Psionicist | 37 |
+| Dwarf | 39 |
+| Elf | 41 |
+| Half-Elf | 43 |
+| Half-Giant | 45 |
+| Halfling | 47 |
+| Mul | 49 |
+| Thri-Kreen | 51 |
 
- 
+### Chapter 3: Character Options
 
-Halfling...
-Human
-Mul.
-Thri-Kreen
-Multiple Classes......
-Athasian Backgrounds.
-
-  
- 
-
- 
-
- 
-
-POAASASARRE |
-
-  
-
-PSIONICISE... 0... cee seeeee terse eeee eee
+| Entry | Page |
+|---|---:|
+| Character Races | 54 |
+| Dwarf | 55 |
+| Elf | 56 |
+| Half-Elf | 57 |
+| Half-Giant | 58 |
+| Halfling | 59 |
+| Human | 60 |
+| Mul | 61 |
+| Thri-Kreen | 62 |
+| Multiple Classes | 63 |
+| Athasian Backgrounds | 64 |
 
 ---
 
 # Page 5
 
-Chapter 4: Wealth and {Equipment
-Wealth...
-Equipment... si
-Adventuring Geai - 68
+### Chapter 4: Wealth and Equipment
 
-  
-   
+| Entry | Page |
+|---|---:|
+| Wealth | 66 |
+| Equipment | 67 |
+| Adventuring Gear | 68 |
+| Poison | 69 |
+| Armor & Ammunition | 70 |
+| Weapons | 71 |
+| Weapon Descriptions | 72 |
 
-Poison.......... 69
-Armor & Ammunition. -70
-Weapons ........... ~ 7
+### Chapter 5: Mounts & Vehicles
 
- 
+| Entry | Page |
+|---|---:|
+| Vehicles and Animals | 74 |
+| Animals of Burden & Land Vehicles | 76 |
+| Silt Vehicles | 78 |
 
-Weapons Descriptions. 72
-Chapter 5: Mounts & Vehicles
+### Chapter 6: Hired Help
 
-Vehicles and Animals............... 74
+| Entry | Page |
+|---|---:|
+| Retainers | 81 |
+| Mercenaries | 83 |
+| Specialist | 85 |
+| Slaves | 87 |
 
-Animals of Burden &
+### Chapter 7: Strongholds
 
-Land Vehicles... 2... 00.00. vee 76
+| Entry | Page |
+|---|---:|
+| Strongholds | 89 |
 
-Silt Vehiicles...........ssccceeseee 78
-Chapter 6: Hired Help
+### Chapter 8: Psionics
 
-Retainers .............6.....00005
+| Entry | Page |
+|---|---:|
+| Psionic Rules | 91 |
+| Wild Talents | 92 |
+| Psionic Powers | 94 |
+| Descriptions | 95 |
 
- 
- 
-  
- 
-   
- 
+### Chapter 9: Magic
 
-Mercenaries
-Specialist .
-Slaves...
-Chapter 7: alia
-Strongholds as
-Chapter 8: Psionics
-Psionic Rules
-Wild Talent:
-Psionic Powers
-" Descriptions
-Chapter 9: Magic
-Divine Magic.
-Arcane Magic
-Athasian Cosmology
-Priests Spells List. .
-Magic-Users Spell List
-Chapter 10: Spell Descriptions
-Priests
+| Entry | Page |
+|---|---:|
+| Divine Magic | 107 |
+| Arcane Magic | 109 |
+| Athasian Cosmology | 113 |
+| Priests Spells List | 115 |
+| Magic-Users Spell List | 119 |
 
- 
+### Chapter 10: Spell Descriptions
 
-. 107
+#### Priests
 
- 
+| Level | Page |
+|---|---:|
+| 1st Level | 121 |
+| 2nd Level | 125 |
+| 3rd Level | 129 |
+| 4th Level | 132 |
+| 5th Level | 136 |
 
- 
-  
- 
+#### Magic-Users
 
-“115
-. 119
-
-  
-
-Ast LeVel......ceceueeeeceeeeeeee 121
-2nd Level . 125
-3rd Level 129
-
-4th Level
-5th Level
-
-132
-136
-
-Magic-Users
-Ast Level.....
+| Level | Page |
+|---|---:|
+| 1st Level | 141 |
+| 2nd Level | 142 |
+| 3rd Level | 143 |
+| 4th Level | 143 |
+| 6th Level | 144 |
 
 ---
 
@@ -604,59 +608,30 @@ gn Native Illiterate
 
 # Page 12
 
-Languages
+# Languages
 
-Athas is a world where the intelligent
-races come from a wide variety of
-species—the humans and
-demihumans are very different from
-the insectmen and beastmen. Each
-intelligent race has its own language,
-sometimes even its own approach to
-language and communication.
+Athas is a world where the intelligent races come from a wide variety of species—the humans and demihumans are very different from the insectmen and beastmen. Each intelligent race has its own language, sometimes even its own approach to language and communication.
 
-The Common Tongue
+## The Common Tongue
 
-There is a standard language (known
-simply as common or the common
-tongue) that all humans, dwarves,
-elves, half-elves and muls speak. It is
-important to note that halflings and
-thri-kreen do not speak common. It is
-strongly recommended, however, that
-player character halflings and
-thri-kreen use one of their additional
-languages to obtain the common
-tongue.
+There is a standard language, known simply as common or the common tongue, that all humans, dwarves, elves, half-elves and muls speak. It is important to note that halflings and thri-kreen do not speak common. It is strongly recommended, however, that player character halflings and thri-kreen use one of their additional languages to obtain the common tongue.
 
-Other Languages Table
+## Other Languages Table
 
-diz Language
-
-Aarakocra
-
-Anakore
-Belgoi
-Braxat
-Ettercap
-Giant
-Gith
-
-Jozhal
-
-Cry auawyn
-
-Pterran
-
-10 Ssurran
-
-nu Thri-kreen
-
-2 Human Dialect
-
- 
-
-11
+| d12 | Language |
+|---:|---|
+| 1 | Aarakocra |
+| 2 | Anakore |
+| 3 | Belgoi |
+| 4 | Braxat |
+| 5 | Ettercap |
+| 6 | Giant |
+| 7 | Gith |
+| 8 | Jozhal |
+| 9 | Pterran |
+| 10 | Ssurran |
+| 11 | Thri-kreen |
+| 12 | Human Dialect |
 
 ---
 
@@ -1377,69 +1352,41 @@ within range with his music.
 
 # Page 25
 
-Bard Level Progression
+# Bard Level Progression
 
-Saving Throws
+| Level | XP | HD | THACo | D | W | P | B | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 1d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 |
+| 2 | 2,000 | 2d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 |
+| 3 | 4,000 | 3d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 |
+| 4 | 8,000 | 4d4 | 19 [0] | 13 | 14 | 13 | 16 | 15 |
+| 5 | 16,500 | 5d4 | 17 [+2] | 12 | 13 | 11 | 14 | 13 |
+| 6 | 32,000 | 6d4 | 17 [+2] | 12 | 13 | 11 | 14 | 13 |
+| 7 | 64,000 | 7d4 | 17 [+2] | 12 | 13 | 11 | 14 | 13 |
+| 8 | 120,000 | 8d4 | 17 [+2] | 12 | 13 | 11 | 14 | 13 |
+| 9 | 240,000 | 9d4 | 14 [+5] | 10 | 11 | 9 | 12 | 10 |
+| 10 | 360,000 | 9d4+2* | 14 [+5] | 10 | 11 | 9 | 12 | 10 |
+| 11 | 480,000 | 9d4+4* | 14 [+5] | 10 | 11 | 9 | 12 | 10 |
+| 12 | 600,000 | 9d4+6* | 14 [+5] | 10 | 11 | 9 | 12 | 10 |
+| 13 | 720,000 | 9d4+8* | 12 [+7] | 8 | 9 | 7 | 10 | 8 |
+| 14 | 840,000 | 9d4+10* | 12 [+7] | 8 | 9 | 7 | 10 | 8 |
 
- 
+**THACo:** Attack matrix row to use.
+**Ascending AC attack bonus:** in `[ ]`.
+`*`: Modifiers from CON no longer apply.
+**Saving Throws:** D: Death / poison; W: Wands; P: Paralysis / petrify; B: Breath attacks; S: Spells / rods / staves.
 
-Level XP HD THACo DWP B 5
-1 ° 1d4 19[o] BYR 6 5
-2 2,000 2d4 19[o] BY B 6 15
-3 4,000 3d4 1g[o] BY B 16115
-4 8,000 4d4 igfo] BY B 6 5
-5 16,500 5d4 17[+2] 2B u 4 B
-6 32,000 6d4 17[+2] 2Bu 4 B
-7 64,000 74 a7[+2] 2B u 4 B
-8 120,000 8d4 17[+2] 2B nu 4 B
-9 240,000 od4 14[+5] wu 9 12
-10 360,000 9d4+2* 14[+5] wou 9 2 0
-nu 480,000 =9d.4+4* 14[+5] wou 9 2 0
-12 600,000 9d4+6* 14[+5] iu 9 2 wo
-3 720,000 9d4+8* 22[+7] 89 7 wo 8
-14 840,000 = 9d 4+10* 12[+7] 89 7 wow 8
+## Lore
 
-THACo: Attack matrix row to use. D: Death / poiso
+From 2nd level onwards, a bard has a 2-in-6 chance of knowing lore pertaining to monsters, history, or heroes of folktale or legend. This ability may be used to hint on the nature of an item, but never identify it.
 
-(Ascending AC attack bonus in [].) _P: Paralysis / petri
+## Poison Master
 
-*: Modifiers from CON no longer attacks;
+Victims of poisoning by a bard suffer a -2 penalty to the saving throw. After reaching 4th level, this penalty becomes -3. After reaching 8th level, this penalty becomes -4, and after reaching 12th level, this penalty becomes -5.
 
-apply. S: Spells / rods / staves.
+## After Reaching 11th Level
 
-Lore After Reaching uth Level
-
-From 2nd level onwards, a bard has a
-2-in-6 chance of knowing lore
-pertaining to monsters, history, or
-heroes of folktale or legend. This
-ability may be used to hint on the
-
-nature of an item, but never identify it.
-
-Poison Master
-
-Victims of poisoning by a bard suffer a
-
--2 penalty to the saving throw. After
-reaching 4 th level, this penalty
-becomes -3. After reaching 8 th level,
-this penalty becomes -4, and after
-reaching 12 th level, this penalty
-
-becomes -5.
-
-A bard can establish a manor. 2d6
-
- 
-
- 
-
-apprentice bards of ist level will come
-
-to study under the bard’s tutelage.
-
- 
+A bard can establish a manor. 2d6 apprentice bards of 1st level will come to study under the bard's tutelage.
 
 24
 
@@ -2914,35 +2861,26 @@ AT
 
 # Page 49
 
-Halfling Level Progression
+# Halfling Level Progression
 
- 
+| Level | XP | HD | THACo | D | W | P | B | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 1d6 | 19 [0] | 13 | 10 | 15 | 16 | 13 |
+| 2 | 2,000 | 2d6 | 19 [0] | 13 | 10 | 15 | 16 | 13 |
+| 3 | 4,000 | 3d6 | 19 [0] | 13 | 10 | 15 | 16 | 13 |
+| 4 | 8,000 | 4d6 | 17 [+2] | 10 | 8 | 12 | 14 | 11 |
+| 5 | 16,000 | 5d6 | 17 [+2] | 10 | 8 | 12 | 14 | 11 |
+| 6 | 32,000 | 6d6 | 17 [+2] | 10 | 8 | 12 | 14 | 11 |
+| 7 | 64,000 | 7d6 | 14 [+5] | 7 | 6 | 9 | 12 | 9 |
+| 8 | 120,000 | 8d6 | 14 [+5] | 7 | 6 | 9 | 12 | 9 |
 
- 
+**THACo:** Attack matrix row to use.
+**Ascending AC attack bonus:** in `[ ]`.
+**Saving Throws:** D: Death / poison; W: Wands; P: Paralysis / petrify; B: Breath attacks; S: Spells / rods / staves.
 
-Saving Throws
-Level XP HD THACo | DWP B §
-1 ° 1d6 19[o] B10 15 16 13
-2 2,000 2d6 19[0] 310 155 6 B
-3 4,000 3d6 19[0] Bw 5 6 B
-4 8,000 4d6 17[+2] 10 8 2 YoU
-5 16,000 5d6 17[+2] wo 8 2 4oUu
-6 32,000 6d6 17[+2] 1 8 2 40
-7 64,000 746 wl+5] | 76 9 2 9
-8 120,000 8d6 14[+5] 76 9 2 9
-THACo: Attack matrix row to use. D: Death / poison; W: Wands;
-(Ascending AC attack bonus in [].) P: Paralysis / petrify; B: Breath
-attacks; S: Spells / rods / staves.
-By Reaching 7th Level
+## By Reaching 7th Level
 
-The Halfling may create a tribe with a
-minimum of 20 other Halflings. This
-tribe would follow the culture and
-moral codes of the Halflings, as well as
-building a stronghold on forest lands.
-The Halfling may hire any mercenary
-or specialist, as long as they are
-Halflings.
+The Halfling may create a tribe with a minimum of 20 other Halflings. This tribe would follow the culture and moral codes of the Halflings, as well as building a stronghold on forest lands. The Halfling may hire any mercenary or specialist, as long as they are Halflings.
 
 ---
 
@@ -4259,45 +4197,30 @@ Rosemary (Wolfsbane) 0
 
 # Page 70
 
-Poison
+# Poison
 
-Athasian bards are masters of the fine
-art of creating potent poisons out of
-plant extracts and creature venom. The
-following are a description of some of
-the Athasian poisons, usable in
-conjunction with the rules present in
-the Old School Essentials Advanced
-Fantasy Player’s Tome™.
+Athasian bards are masters of the fine art of creating potent poisons out of plant extracts and creature venom. The following are a description of some of the Athasian poisons, usable in conjunction with the rules present in the *Old School Essentials Advanced Fantasy Player's Tome™*.
 
- 
+## Poison Table
 
- 
-
-Poison Table
-
-Poison Cost(CP) Save Mod. Onset Time Effect (Success) Effect (Fails)
-Bloodstream poisons
-
-Bug extract 5 +6 1d4+1 rounds None 2dio damage
-Cactus juice 80 45 143 rounds None 3dio damage
-Cistern fiend saliva 800 +4 1round None 4dio damage
-Drake's blood 1,600 48 Instant None Death
-Ingested poisons
-
-Inix slumber 10 5 2dqrounds dio damage 3cio damage
-Elf Scent 35 +5 idgsirounds dio damage 4dio damage
-Kank taint 250 +4 id2 rounds 3dio damage sdio damage
-Purple grass extract 600 3 Instant 4dio damage 6dio damage
-Templar's ultimatum 1,200 vet ad4 turns 5dio damage Death
-Inhaled Poisons
-
-Brain seed powder no 8 Instant None 1 turn paralysis
-Fordorran 350 2 Instant 1round paralysis 2 turns paralysis
-Gaj poison gas oo ” Instant 2rounds paralysis 3 turns paralysis
-Poison weed gas 1500 0 Instant 3 rounds paralysis —_4 turns paralysis
-
- 
+| Poison | Cost (CP) | Save Mod. | Onset Time | Effect (Success) | Effect (Fails) |
+|---|---:|---:|---|---|---|
+| *Bloodstream poisons* | | | | | |
+| Bug extract | 15 | +6 | 1d4+1 rounds | None | 2d10 damage |
+| Cactus juice | 80 | +5 | 1d3 rounds | None | 3d10 damage |
+| Cistern fiend saliva | 800 | +4 | 1 round | None | 4d10 damage |
+| Drake's blood | 1,600 | +3 | Instant | None | Death |
+| *Ingested poisons* | | | | | |
+| Inix slumber | 10 | +6 | 2d4 rounds | 1d10 damage | 3d10 damage |
+| Elf Scent | 35 | +5 | 1d4+1 rounds | 2d10 damage | 4d10 damage |
+| Kank taint | 250 | +4 | 1d2 rounds | 3d10 damage | 5d10 damage |
+| Purple grass extract | 600 | +3 | Instant | 4d10 damage | 6d10 damage |
+| Templar's ultimatum | 1,200 | +2 | 1d4 turns | 5d10 damage | Death |
+| *Inhaled Poisons* | | | | | |
+| Brain seed powder | 110 | +3 | Instant | None | 1 turn paralysis |
+| Fordorran | 350 | +2 | Instant | 1 round paralysis | 2 turns paralysis |
+| Gaj poison gas | 700 | +1 | Instant | 2 rounds paralysis | 3 turns paralysis |
+| Poison weed gas | 1,500 | +0 | Instant | 3 rounds paralysis | 4 turns paralysis |
 
 69
 
@@ -10174,4 +10097,4 @@ Reversed: Plant Defiling
 
 When this spell is cast, the caster
 defiles the land and all the plants ina
-40’ radius die 
+40’ radius die   
