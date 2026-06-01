@@ -436,851 +436,654 @@ rules in the DMG).
 
 # Page 5
 
-I
+## Hit Dice
 
-0 mE —— s/t
+This statistic controls the number of hit points of damage a creature can withstand before being killed. Unless otherwise stated, Hit Dice are 8-sided, yielding 1 to 8 cumulative hit points each. The Hit Dice are rolled and the numbers shown are added to determine the monster’s hit points. Some monsters will have a hit point range instead of Hit Dice, and some will have additional points added to their Hit Dice. Thus, a creature with 4+4 Hit Dice has 4d8+4 hit points, for 8 to 36 total hit points. Creatures with +3 or more added to their hit points are considered of the next higher hit die for purposes of attack roll and saving throws.
 
-   
-  
-  
-  
-  
-   
-   
-   
-   
- 
- 
-  
-    
-  
-  
- 
-  
-     
+## THAC0
 
-Hit Dice
+This number is the attack roll the monster needs to hit Armor Class 0. This is always a function of Hit Dice, with any exceptions mentioned in the text description of the creature. Humans and demihumans always use player character THAC0s, regardless if they are player characters or “monsters.” THAC0s do not include any special bonuses noted in the description. Hit probability bonuses because of strength are listed in parentheses with the THAC0.
 
-This Statistic controls the number of hit points of damage a
-creature can withstand before being killed. Unless otherwise
-stated, Hit Dice are 8-sided, yielding 1 to 8 cumulative hit
-points each. The Hit Dice aré rolled’and the numbers shown
-are added to determine the monster's hit points. Some mon-
-sters will have a hit point range instead of Hit Dice, and some
-will have additional points added to their Hit Dice. Thus. a
-creature with 4+4 Hit Dice has 4d8+4 hit points (for 8 to 36 total
-points). Creatures with +3 or more added to their hit points are
-considered of the next higher hit die for purposes of attack
-rolls and saving throws.
+## No. of Attacks
 
-THACO
+This entry shows the basic attacks the monster can make in a melee round, excluding special attacks. This number may be modified by hits that sever limbs or spells such as haste and slow, for example. Multiple attacks indicate several attacking arms, raking paws, or multiple heads.
 
-This number is the attack roll the monster needs to hit Armor
-Class 0. This is always a function of Hit Dice, with any excep-
-tions mentioned in the text description of the creature Hu-
-mans and demihumans always use player character THACOs,
-regardless if they are player characters or “monsters.” THACOs
-do not include any special bonuses noted in the description.
-Hit probability bonuses because of strength are listed in
-parentheses with the THACO.
+## Damage/Attack
 
-No. of Attacks
+This category shows the amount of damage a given attack will make, expressed as a spread of hit points, die roll combinations. If the monster uses weapons, the damage done by typical weapons will be followed by the weapon type. Damage bonuses because of Strength are listed as a bonus following the damage range.
 
-This entry shows the basic attacks the monster can make in a
-melee round, excluding special attacks. This number may be
-modified by hits that sever limbs or spells such as haste and
-slow. for example. Multiple attacks indicate several attacking
-arms, raking paws, or multiple heads.
+## Special Attacks
 
-Damage/Attack
+This entry lists attack modes such as dragon breath or magic use. These are explained in the monster description.
 
-This category shows the amount of damage a given attack will
-make, expressed as a spread of hit points (die roll combina-
-tions). If the monster uses weapons, the damage done by typ-
-ical weapons will be followed by the weapon type. Damage
-bonuses because of Strength are listed as a bonus following
-the damage range.
+## Special Defenses
 
-Speciad Attacks
+This entry lists any special defenses, which are explained in the monster description.
 
-This entry lists attack modes such as dragon breath or magic
-use. These are explained in the monster description.
+## Magic Resistance
 
-Special Defenses
+This notation is the percentage chance that magic cast upon the creature will fail to affect it, even if other creatures nearby are affected. If the magic penetrates this resistance, the creature is still entitled to any normal saving throws allowed.
 
-This entry lists any special defenses, which are explained in
-the monster description.
+## Size
 
-Magic Resistance
-This notation is the percentage chance that magic cast upon
-the creature will fail to affect it, even if other
-creatures nearby are affected. If the magic
+Size is abbreviated as T (*tiny*, 2 feet tall or less), S (*small*, 2+ to 4 feet tall), M (*man-sized*, 4+ to 7 feet tall), L (*large*, 7+ to 12 feet tall), H (*huge*, 12+ to 25 feet tall), and G (*gargantuan*, 25+ feet tall). Note that not all monsters are “tall”, they might be “long” instead.
 
-4 y penetrates this resistance, the creature
+## Morale
 
-is still entitled to any normal saving
+This category is a general rating of how likely the monster is to persevere in the face of adversity or armed opposition. This guideline may be adjusted for individual circumstances. Morale rating corresponds to the following range:
 
- 
+| Morale | Rating |
+|---:|---|
+| 2-4 | Unreliable |
+| 5-7 | Irregular |
+| 8-10 | Average |
+| 11-12 | Steady |
+| 13-14 | Very steady |
+| 15-16 | Elite |
+| 17-18 | Fanatic |
+| 19-20 | Fearless |
 
-throws allowed.
+## XP Value
 
-Size
+This is the number of experience points awarded for defeating, not necessarily killing, the monster. This value is a guideline that may be modified by the DM for the degree of challenge, encounter situation or campaign balance. For the creatures in this appendix, additional experience point awards have been calculated on the basis of extraordinary spell use, spell-like abilities, and exceptional magic resistance.
 
-Size is abbreviated as T
-(tiny, 2 feet tall or less),
-S (small, 2+ to 4 feet
+## Psionics Summary
 
- 
+This entry gives a complete listing of the creature’s innate psionic abilities. It is compatible with both *The Complete Psionics Handbook* rules and the *Player’s Option: Skills and Powers* psionics rules. Statistics shown in blue are in reference to the new psionics rule presented in the revised *DARK SUN Campaign Setting* (2438) and *Player’s Option: Skills and Powers*. Parenthetical entries printed in blue replace the suggested powers under the new system. For example, psionic blast is a devotion in *The Complete Psionics Handbook*. However in the *Player’s Option: Skills and Powers* book it is a proficiency. For example:
 
-So = me ee ee fg eee
+**Telepathy:** *Sciences* — psionic blast *(mind link)*
 
-to 12 feet tall), H (luge, 12+ to 25 feet tall), and G (gargantuan,
-25+ feet tall). Note that not all monsters are “tall”, they might
-be “long” instead.
+If you are using *The Complete Psionics Handbook*, the monster does not have the send thoughts devotion. However, if you are using the *Player’s Option: Skills and Powers* system, it has the psionic blast proficiency and the send thoughts devotion.
 
-Morate
+## Abbreviations
 
-This category is a general rating of how likely the monster is to
-persevere in the face of adversity or armed opposition. This
-guideline may be adjusted for individual circumstances. Morale
-rating corresponds to the following range:
+| Abbreviation | Meaning |
+|---|---|
+| Dis | Disciplines |
+| Sci | Sciences |
+| Dev | Devotions |
+| PSPs | Psionic Strength Points |
+| PS | Power Score |
+| Att | Psionic Attack Forms |
+| Def | Psionic Defense Forms |
+| MTHAC0 | Mental To Hit Armor Class 0 |
+| MAC | Mental Armor Class |
+| EW | Ego Whip |
+| II | Id Insinuation |
+| MT | Mind Thrust |
+| PB | Psionic Blast |
+| PsC | Psychic Crush |
+| IF | Intellect Fortress |
+| MB | Mental Barrier |
+| MBk | Mind Blank |
+| TS | Thought Shield |
+| TW | Tower of Iron Will |
 
-2-4 Unreliable
-5-7 Irregular
-8-10 Average
-11-12 Steady
-13-14 Very Steady
-15-16 Elite
-
-17-18 Fanatic
-19-20 Fearless
-
-XP Value
-
-This is the number of experience points awarded for de-
-feating (not necessarily killing) the monster. This value is a
-
-guideline that may be modified by the DM for the degree of
-challenge, encounter situation. or campaign balance. For the
-creatures in this appendix, additional experience point
-awards have been calculated on the basis of extraordinary
-spell use, spell-like abilities, and exceptional magic resistance.
-
-Psionics Summary
-
-This entry gives a complete listing of the creature’s innate
-psionic abilities. It is compatible with both The Complete Psionics
-Handbook rules and the Player's Option: Skill and Powers psionics
-rules. Statistics shown in blue are in reference to the new psion-
-ics rules presented in the revised DARK SUN Campaign Setting
-(2438) and Player's Option: Skills and Powers. Parenthetical entries
-printed in blue replace the suggested powers under the new
-system For example, psionic blast is a devotion in The Complete
-Psionics Handbook. However in the Player's Option: Skills and pow-
-ers book it is a proficiency. For example:
-
-Telepathy: Sciences~ psionc blast (mind link)
-
-If you are using The Complete Psionics Handbook, the monster
-does not have the send thoughts devotion. However, if you are
-using the Player's Option: Skills and Powers system, it has the
-psionic blast proficiency and the send thoughts devotion.
-
-Abbreviations
-
-Dis Disciplines
-
-Sci Sciences
-
-Dev Devotions
-
-PSPs Psionic Strength Points
-PS Power Score
-
-Att Psionic Attack Forms
-Def Psionic Defense Forms
-MTHACO Mental To Hit Armor Class 0
-MAC Mental Armor Class
-
-EW Ego Whip IF Intellect Fortress
-Il Id Insinuation MB Mental Barrier
-MT Mind Thrust MBk Mind Blank
-
-PB Psionic Blast Ts Thought Shield
-PsC Psychic Crush TW Tower of Iron Will
+Page 4
 
 ---
 
 # Page 6
 
-2
-mo Re
+... Dark Sun Encounter Tables
 
- 
-  
-   
-    
-    
-   
-    
-    
-    
-   
-   
-    
-   
-   
-     
- 
- 
-   
-  
-  
-   
-   
-   
+These encounter tables draw upon creatures presented in the original *DARK SUN* boxed set (2400), the *Monstrous Manual* (2140), the *Terrors of the Desert DARK SUN MONSTROUS COMPENDIUM* (2405), and this volume.
 
-   
+When a random encounter is called for, roll the die on the following terrain type table and proceed from there to the appropriate terrain table and any subtables, as indicated. Random encounters in specific terrain should be rolled on the correct table. Demihuman, slave worker, and templar patrol encounters must be organized by the DM.
 
-Subtable B (Roll 1d12) Subtable E (Roll 1d12)
+## Terrain Type
 
-‘These encounter tables draw upon crea-
+| 1d10 | Terrain |
+|---:|---|
+| 1 | Verdant belt |
+| 2 | Stony barrens |
+| 3 | Sandy wastes |
+| 4 | Rocky badlands |
+| 5 | Mountains |
+| 6 | Forest |
+| 7 | Scrub plains |
+| 8 | Salt flats |
+| 9 | Sea of Silt |
+| 10 | Roll again |
 
- 
+## Verdant Belt
 
- 
+| 2d12 | Encounter |
+|---:|---|
+| 2 | Subtable C |
+| 3-4 | Subtable B |
+| 5-7 | Subtable A |
+| 8 | Rock cactus |
+| 9 | Domestic animal |
+| 10 | Erdland |
+| 11 | Dwarf |
+| 12 | Lirr |
+| 13 | Thri-kreen |
+| 14 | Templar |
+| 15 | Slave |
+| 16 | Elf |
+| 17 | Merchant |
+| 18 | B’rohg |
+| 19-21 | Subtable A |
+| 22-23 | Subtable B |
+| 24 | Subtable C |
 
- 
+## Stony Barrens
 
- 
+| 2d12 | Encounter |
+|---:|---|
+| 2-4 | Subtable E |
+| 5-7 | Subtable D |
+| 8 | Wild mul |
+| 9 | Elf |
+| 10 | Brambleweed |
+| 11 | Thri-kreen |
+| 12 | Scrab |
+| 13 | Rock cactus |
+| 14 | Templar |
+| 15 | Renegade slave |
+| 16 | Wild kank |
+| 17 | Jankz |
+| 18 | B’rohg |
+| 19-21 | Subtable D |
+| 22-24 | Subtable E |
 
-tures presented in the original Dark SUN 1 Lesser earth elemental 1 Zhackal
-boxed set (2400), the Monstrous Manual 2 Bloodgrass 2 T’chowb
-(2140), the Terrors of the Desert Dark SUN 3. _Dewfrond 3. Thrax
-Monstrous COMPENDIUM (2405), and this 4 T’chowb 4 Heavy crodlu
-volume. 5 Hunting cactus 5 Crystal spider
-When a random encounter is called 6 Renegade halfling 6 Seat
-for, roll the die on the following, terrain + Bloceskilter 5
-type table and proceed from there to the 7
-appropriate terrain table (and any sub- 8 Half-giant 8 Villichi
-tables, as indicated). Random encoun- 9 Dwarf banshee 9 Dune runner
-ters in specific terrain should be rolled 10 Strangling vine 10 Earth drake °
-on the correct table. Demihuman, slave ll Id fiend 11 Cloud ray
-sane ase Baers 12 Agony bee 12 Spt of te e
-Subtable C (Roll 1d10) SANDY Wastes (Roll 2d12)
-TERRAIN TYPE (Roll 1d10) 1 Crystal spider 2-4 Subtable G
-1 Verdant belt 2 Vilhchi 5-7 Subtable F
-2 Stony barrens 3. Aviarag 8 Brambleweed
-3 Sandy wastes 4 Fire scorpion 9 Thri-kreen
-4 Rocky badlands 5 Bulette 10 Wild mul
-5 Mountains 6 Burnflower 11 Scrab
-6 Forest 7 Rain drake 12 Spider cactus
-7 Scrub plains 8 Cloud ray 13. Erdland
-8 Salt flats 9 Water drake 14. Merchant
-9 Sea of Silt 10 Spirit of the land 15 Silt runner
-10 Roll again 16 Templar
-STONY BARRENS (Roll 2d12) 17 Jankz
-VERDANT BELT (Roll 2d12) 2-4 Subtable E 18 Brrohg
-2 Subtable C 5-7 Subtable D 19-21 Subtable F 4
-3-4 Subtable B 8 Wild mul 22-24 — Subtable G
-5-7 Subtable A 9 EIf
-8 Rock cactus 10 Brambleweed Subtable F(Roll 1420)
-9 Domestic animal ll Thri-kreen 1 Antloid swarm
-10 Erdland 12. Scrab 2. Kes'trekel
-11 Dwarf 13 Rock cactus 3 Rock cactus
-120 Lirr 14 Templar 4 Brambletree
-13. Thri-kreen 15 Renegade slave 5) Dwarf
-14 Templar 16 Wild kank 6 Tagster
-15 Slave 17 Jankz 7 Dwarf banshee
-16 Elf 18 Brrohg 8 Nikaal
-17 Merchant 19-21 Subtable D 9 Red silt horror
-18 Brrohg 22-24 — Subtable E 10 Aarokocra
-19-21  Subtable A au Dynamis antloid
-20-23 Subtable B Subtable D (Roll 1412) 12 T’chowb
-24 Subtable C 1 Dwarf banshee 13 Sand bride
-2 Baazrag 14 Thrax
-Subtable A (Roll 148) 3 Dwarf 15 Id fiend
-1 Brambletree 4 Kes'trekel 16 Sink worm
-2 Silkworm 5 Nikaal 17 Zhackal
-3. Shakar 6 Agony beetle 18 Sand cactus
-1 Lan 7 Sun drake 19 Heavy crodlu
-S Nikaal 8 Lesser earth elemental 20 Bulette
-6 Spinewyrm 9 Cha’thrang
-7 ‘Thrickreen 10 Hunting cactus
-8 Bog wader 11 Flailer
+## Sandy Wastes
 
-12 Id fiend
+| 2d12 | Encounter |
+|---:|---|
+| 2-4 | Subtable G |
+| 5-7 | Subtable F |
+| 8 | Brambleweed |
+| 9 | Thri-kreen |
+| 10 | Wild mul |
+| 11 | Scrab |
+| 12 | Spider cactus |
+| 13 | Erdland |
+| 14 | Merchant |
+| 15 | Silt runner |
+| 16 | Templar |
+| 17 | Jankz |
+| 18 | B’rohg |
+| 19-21 | Subtable F |
+| 22-24 | Subtable G |
 
+## Subtable A
+
+| 1d8 | Encounter |
+|---:|---|
+| 1 | Brambletree |
+| 2 | Silkworm |
+| 3 | Jhakar |
+| 4 | Lirr |
+| 5 | Nikaal |
+| 6 | Spinewyrm |
+| 7 | Thri-kreen |
+| 8 | Bog wader |
+
+## Subtable B
+
+| 1d12 | Encounter |
+|---:|---|
+| 1 | Lesser earth elemental |
+| 2 | Bloodgrass |
+| 3 | Dewfrond |
+| 4 | T’chowb |
+| 5 | Hunting cactus |
+| 6 | Renegade halfling |
+| 7 | Blossomkiller |
+| 8 | Half-giant |
+| 9 | Dwarf banshee |
+| 10 | Strangling vine |
+| 11 | Id fiend |
+| 12 | Agony beetle |
+
+## Subtable C
+
+| 1d10 | Encounter |
+|---:|---|
+| 1 | Crystal spider |
+| 2 | Villichi |
+| 3 | Aviarag |
+| 4 | Fire scorpion |
+| 5 | Bulette |
+| 6 | Burnflower |
+| 7 | Rain drake |
+| 8 | Cloud ray |
+| 9 | Water drake |
+| 10 | Spirit of the land |
+
+## Subtable D
+
+| 1d12 | Encounter |
+|---:|---|
+| 1 | Dwarf banshee |
+| 2 | Baazrag |
+| 3 | Dwarf |
+| 4 | Kes’trekel |
+| 5 | Nikaal |
+| 6 | Agony beetle |
+| 7 | Sun drake |
+| 8 | Lesser earth elemental |
+| 9 | Cha’thrang |
+| 10 | Hunting cactus |
+| 11 | Flailer |
+| 12 | Id fiend |
+
+## Subtable E
+
+| 1d12 | Encounter |
+|---:|---|
+| 1 | Zhackal |
+| 2 | T’chowb |
+| 3 | Thrax |
+| 4 | Heavy crodlu |
+| 5 | Crystal spider |
+| 6 | So-ut |
+| 7 | Boneclaw |
+| 8 | Villichi |
+| 9 | Dune runner |
+| 10 | Earth drake |
+| 11 | Cloud ray |
+| 12 | Spirit of the land |
+
+## Subtable F
+
+| 1d20 | Encounter |
+|---:|---|
+| 1 | Antloid swarm |
+| 2 | Kes’trekel |
+| 3 | Rock cactus |
+| 4 | Brambletree |
+| 5 | Dwarf |
+| 6 | Tagster |
+| 7 | Dwarf banshee |
+| 8 | Nikaal |
+| 9 | Red silt horror |
+| 10 | Aarakocra |
+| 11 | Dynamis antloid |
+| 12 | T’chowb |
+| 13 | Sand bride |
+| 14 | Thrax |
+| 15 | Id fiend |
+| 16 | Sink worm |
+| 17 | Zhackal |
+| 18 | Sand cactus |
+| 19 | Heavy crodlu |
+| 20 | Bulette |
+
+5
 ---
 
 # Page 7
 
-,
-
-f
-|
-
-   
-  
-  
- 
- 
-  
-  
-  
-   
-  
-   
-    
-
-_ aa
-
- 
-
-oS me ee ee
-
-Subtable G (Roll 2d8)
-
-2 Cha'thrang
-3 So-ut
-
-4 Crystal spider
-
-5 Megapede
-
-6 Sand mother
-
-7 Cloud ray
-
-8 Nightmare beast
-
-9 Mini-kank
-
-10 Burnflower
-
-1 Fire scorpion
-
-12 Lesser earth elemental
-13 Dune runner
-
-14 Earth drake
-15 Dune trapper
-16 Spirit of the land
-
-Rocky BADLANDS (Roll 2d12)
-2-4 Subtable I
-5-7 Subtable H
-
-8 Pterrax
-9 Elf
-10 Erdland
-11 Rock cactus
-
-12. Thri-kreen
-13 Spider cactus
-
-14 Hunting cactus
-15 Rasclinn
-
-16 Nomad/herder
-7 Elf
-
-18 Brohg
-
-19-21 Subtable H
-22-24 — Subtable 1
-
-Subtable H(Roll 1d12)
-1 Kes’ trekel
-
-2 Nikaal
-
-3 Brambletree
-
-4 Dwarf banshee
-
-5 Sun drake
-
-6 Lesser earth elemental
-
-7
-
-8
-
-9
-
-Half-giant
-Undead
-T’chowb
-
-10 Id fiend
-
-11 Drik
-
-12 Earth serpent
-
-<4
-
-Subtable I (Roll 1412)
-1 Lesser fire elemental
-2 Cha'thrang
-3. Agony beetle
-4 Crystal spider
-5 Fire scorpion
-6 Bulette
-7 Villichi
-8 Water drake
-9 Dune runner
-10 Burnflower
-11 Cloud ray
-12 Spirit of the land
-
-Mountains (Roll 2d12)
-2-4 Subtable K
-5-7 Subtable J
-
-8 Gith
-
-9 Kes'trekel
-10 Elf
-
-11 Erdland
-12 Rock cactus
-13. Dwarf
-
-4 Lirr
-
-15 Half-giant
-16 Undead
-17 Brohg
-
-18 Raider
-
-19-21 Subtable J
-22-24  Subtable K
-
-SubtableJ (Roll 148)
-1 Jhakar
-Tigone
-Tul’k
-Brambletree
-Nikaal
-Spinewyrm
-‘Agony beetle
-Klar
-
-eN Aken
-
-Subtable K (Roll 2d10)
-
-moe aa ke
-Ree en RON
-
-Bee pee
-QaRGESB
-
-18
-19
-20
-
-Zhackal
-T’chowb
-
-Athasian roc
-
-Id fiend
-
-Lesser fire elemental
-Aviarag
-
-Nightmare beast
-Crystal spider
-Lesser earth elemental
-Cloud ray
-
-Villichi
-
-Fire scorpion
-
-Earth drake
-
-Dune runner
-
-Air drake
-
-Fire drake
-
-Water drake
-
-Sun drake
-
-Spirit of the land
-
-Forest (Roll 2d12)
-
-2-4
-5-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19-21
-22-24
-
-Subtable M
-Subtable L
-
-Pterran
-
-Elf
-
-Trapping spider
-Lirr
-
-Erdland
-
-Halfling
-
-Kirre
-
-Renegade halfling
-Pterran.
-
-Sloth
-
-Brrohg
-
-Subtable L
-
-Subtable M
-
-Subtable L (Roll 2d8)
-
-2
-
-Ce aake
-
-S
-
-Bloodgrass
-Spinewyrm
-Brambletree
-Zombie plant
-Athasian sloth
-Critic
-
-Esperweed
-Blossomkiller
-Renegade halfling
-T’chowb
-
-Zhackal
-Poisonweed
-Feylaar
-Half-giant
-
-Agony beetle
+## Subtable G
+
+| 2d8 | Encounter |
+|---:|---|
+| 2 | Cha’thrang |
+| 3 | So-ut |
+| 4 | Crystal spider |
+| 5 | Megapede |
+| 6 | Sand mother |
+| 7 | Cloud ray |
+| 8 | Nightmare beast |
+| 9 | Mini-kank |
+| 10 | Burnflower |
+| 11 | Fire scorpion |
+| 12 | Lesser earth elemental |
+| 13 | Dune runner |
+| 14 | Earth drake |
+| 15 | Dune trapper |
+| 16 | Spirit of the land |
+
+## Rocky Badlands
+
+| 2d12 | Encounter |
+|---:|---|
+| 2-4 | Subtable I |
+| 5-7 | Subtable H |
+| 8 | Pterrax |
+| 9 | Elf |
+| 10 | Erdland |
+| 11 | Rock cactus |
+| 12 | Thri-kreen |
+| 13 | Spider cactus |
+| 14 | Hunting cactus |
+| 15 | Rasclinn |
+| 16 | Nomad/herder |
+| 17 | Elf |
+| 18 | B’rohg |
+| 19-21 | Subtable H |
+| 22-24 | Subtable I |
+
+## Subtable H
+
+| 1d12 | Encounter |
+|---:|---|
+| 1 | Kes’trekel |
+| 2 | Nikaal |
+| 3 | Brambletree |
+| 4 | Dwarf banshee |
+| 5 | Sun drake |
+| 6 | Lesser earth elemental |
+| 7 | Half-giant |
+| 8 | Undead |
+| 9 | T’chowb |
+| 10 | Id fiend |
+| 11 | Drik |
+| 12 | Earth serpent |
+
+## Subtable I
+
+| 1d12 | Encounter |
+|---:|---|
+| 1 | Lesser fire elemental |
+| 2 | Cha’thrang |
+| 3 | Agony beetle |
+| 4 | Crystal spider |
+| 5 | Fire scorpion |
+| 6 | Bulette |
+| 7 | Villichi |
+| 8 | Water drake |
+| 9 | Dune runner |
+| 10 | Burnflower |
+| 11 | Cloud ray |
+| 12 | Spirit of the land |
+
+## Mountains
+
+| 2d12 | Encounter |
+|---:|---|
+| 2-4 | Subtable K |
+| 5-7 | Subtable J |
+| 8 | Gith |
+| 9 | Kes’trekel |
+| 10 | Elf |
+| 11 | Erdland |
+| 12 | Rock cactus |
+| 13 | Dwarf |
+| 14 | Lirr |
+| 15 | Half-giant |
+| 16 | Undead |
+| 17 | B’rohg |
+| 18 | Raider |
+| 19-21 | Subtable J |
+| 22-24 | Subtable K |
+
+## Subtable J
+
+| 1d8 | Encounter |
+|---:|---|
+| 1 | Jhakar |
+| 2 | Tigone |
+| 3 | Tul’k |
+| 4 | Brambletree |
+| 5 | Nikaal |
+| 6 | Spinewyrm |
+| 7 | Agony beetle |
+| 8 | Klar |
+
+## Subtable K
+
+| 2d10 | Encounter |
+|---:|---|
+| 2 | Zhackal |
+| 3 | T’chowb |
+| 4 | Athasian roc |
+| 5 | Id fiend |
+| 6 | Lesser fire elemental |
+| 7 | Aviarag |
+| 8 | Nightmare beast |
+| 9 | Crystal spider |
+| 10 | Lesser earth elemental |
+| 11 | Cloud ray |
+| 12 | Villichi |
+| 13 | Fire scorpion |
+| 14 | Earth drake |
+| 15 | Dune runner |
+| 16 | Air drake |
+| 17 | Fire drake |
+| 18 | Water drake |
+| 19 | Sun drake |
+| 20 | Spirit of the land |
+
+## Forest
+
+| 2d12 | Encounter |
+|---:|---|
+| 2-4 | Subtable M |
+| 5-7 | Subtable L |
+| 8 | Pterran |
+| 9 | Elf |
+| 10 | Trapping spider |
+| 11 | Lirr |
+| 12 | Erdland |
+| 13 | Halfling |
+| 14 | Kirre |
+| 15 | Renegade halfling |
+| 16 | Pterran |
+| 17 | Sloth |
+| 18 | B’rohg |
+| 19-21 | Subtable L |
+| 22-24 | Subtable M |
+
+## Subtable L
+
+| 2d8 | Encounter |
+|---:|---|
+| 2 | Bloodgrass |
+| 3 | Spinewyrm |
+| 4 | Brambletree |
+| 5 | Zombie plant |
+| 6 | Athasian sloth |
+| 7 | Critic |
+| 8 | Esperweed |
+| 9 | Blossomkiller |
+| 10 | Renegade halfling |
+| 11 | T’chowb |
+| 12 | Zhackal |
+| 13 | Poisonweed |
+| 14 | Feylaar |
+| 15 | Half-giant |
+| 16 | Agony beetle |
+
+6
 
 ---
 
 # Page 8
 
-~_———— of ft SS
+## Subtable M
 
-Subtable M (Roll 2d6)
+| 2d6 | Encounter |
+|---:|---|
+| 2 | Brain seed |
+| 3 | Crystal spider |
+| 4 | Nightmare beast |
+| 5 | Aviarag |
+| 6 | Cloud ray |
+| 7 | Fire drake |
+| 8 | Burnflower |
+| 9 | Fire scorpion |
+| 10 | Bulette |
+| 11 | Earth serpent |
+| 12 | Spirit of the land |
 
-2
+## Scrub Plains
 
-Cau anee
+| 2d12 | Encounter |
+|---:|---|
+| 2 | Subtable O |
+| 3-5 | Subtable N |
+| 6 | Pulp bee |
+| 7 | Agony beetle |
+| 8 | Thri-kreen |
+| 9 | Spinewyrm |
+| 10 | Wild mul |
+| 11 | Brambleweed |
+| 12 | Elf |
+| 13 | Jalath’gak |
+| 14 | Jhakar |
+| 15 | Bandit/raider |
+| 16 | Lirr |
+| 17 | Kes’trekel |
+| 18 | B’rohg |
+| 19 | Merchant |
+| 20 | Undead |
+| 21-23 | Subtable N |
+| 24 | Subtable O |
 
-Bee
-BES
+## Subtable N
 
-Brain seed
-Crystal spider
-Nightmare beast
-Aviarag
+| 1d20 | Encounter |
+|---:|---|
+| 1 | Lesser earth elemental |
+| 2 | Lesser fire elemental |
+| 3 | Brambletree |
+| 4 | Dwarf |
+| 5 | Trapping spider |
+| 6 | Zombie plant |
+| 7 | Spider cactus |
+| 8 | Bog wader |
+| 9 | Nikaal |
+| 10 | Locust |
+| 11 | Thrax |
+| 12 | Zhackal |
+| 13 | Id fiend |
+| 14 | Dwarf banshee |
+| 15 | Hunting cactus |
+| 16 | Rock cactus |
+| 17 | Half-giant |
+| 18 | Aviarag |
+| 19 | Fire scorpion |
+| 20 | Nightmare beast |
 
-Cloud ray
+## Subtable O
 
-Fire drake
-Burnflower
+| 1d10 | Encounter |
+|---:|---|
+| 1 | Crystal spider |
+| 2 | So-ut |
+| 3 | Fire drake |
+| 4 | Villichi |
+| 5 | Mini-kank |
+| 6 | Cloud ray |
+| 7 | Burnflower |
+| 8 | Earth drake |
+| 9 | Dune runner |
+| 10 | Spirit of the land |
 
-Fire scorpion
-Bulette
+## Salt Flats
 
-Earth serpent
-Spirit of the land
+| 2d12 | Encounter |
+|---:|---|
+| 2-4 | Subtable Q |
+| 5-7 | Subtable P |
+| 8 | Elf |
+| 9 | Erdland |
+| 10 | Undead |
+| 11 | Raider |
+| 12 | Merchant |
+| 13 | Slave |
+| 14 | Huge scorpion |
+| 15 | Id fiend |
+| 16 | T’chowb |
+| 17 | Thri-kreen |
+| 18 | B’rohg |
+| 19-22 | Subtable P |
+| 23-24 | Subtable Q |
 
-ScRUB PLAINS (Roll 2d12)
+## Subtable P
 
-2
-3-5
+| 1d10 | Encounter |
+|---:|---|
+| 1 | Lesser earth elemental |
+| 2 | Rock cactus |
+| 3 | Spirf |
+| 4 | Kes’trekel |
+| 5 | Nikaal |
+| 6 | Thri-kreen |
+| 7 | Dwarf banshee |
+| 8 | Hunting cactus |
+| 9 | Lesser fire elemental |
+| 10 | Id fiend |
 
-6
-7
-8
+## Subtable Q
 
-10
-11
-12
-13
-14
-15
-16
-7
-18
-19
-20
-21-23
-24
+| 2d10 | Encounter |
+|---:|---|
+| 2 | Nightmare beast |
+| 3 | Villichi |
+| 4 | Rock golem |
+| 5 | Mini-kank |
+| 6 | Crystal spider |
+| 7 | Megapede |
+| 8 | Fire scorpion |
+| 9 | Bulette |
+| 10 | Earth drake |
+| 11 | Aviarag |
+| 12 | Cloud ray |
+| 13 | Locusts |
+| 14 | Fire drake |
+| 15 | Burnflower |
+| 16 | Water drake |
+| 17 | Dune trapper |
+| 18 | Dune runner |
+| 19 | Salt golem |
+| 20 | Spirit of the land |
 
-Subtable O
-Subtable N
-Pulp bee
-Agony beetle
-Thri-kreen
-Spinewyrm
-Wild mul
-Brambleweed
-Elf
+## Sea of Silt
 
-Jalath’ gak
-Jhakar
-Bandit/raider
-Lirr
-Kes'trekel
-Brrohg
-Merchant
-Undead
-Subtable N
-Subtable O
+| 2d12 | Encounter |
+|---:|---|
+| 2-4 | Subtable T |
+| 5-7 | Subtable S |
+| 8 | Black silt horror |
+| 9 | Silt skimmer |
+| 10 | Floater |
+| 11 | Erdland |
+| 12 | Kes’trekel |
+| 13 | Silt runner |
+| 14 | Razorwing |
+| 15 | White silt horror |
+| 16 | Red silt horror |
+| 17 | Undead |
+| 18 | Sink worm |
+| 19-22 | Subtable S |
+| 23-24 | Subtable T |
 
-Subtable N (Roll 1420)
+## Subtable S
 
-Boece ane ene
+| 1d10 | Encounter |
+|---:|---|
+| 1 | Rock cactus |
+| 2 | Plains giant |
+| 3 | Dwarf banshee |
+| 4 | Desert giant |
+| 5 | Id fiend |
+| 6 | Brown silt horror |
+| 7 | Sand vortex |
+| 8 | Gray silt horror |
+| 9 | Villichi |
+| 10 | Beasthead giant |
 
-Reepeeeeen
-BSrIaaESH
+## Subtable T
 
-Lesser earth elemental
-Lesser fire elemental
-Brambletree
-
-Dwarf
-
-Trapping spider
-Zombie plant
-Spider cactus
-
-Bog wader
-
-Nikaal
-
-Locust
-
-Thrax
-
-Zhackal
-
-Id fiend
-
-Dwarf banshee
-Hunting cactus
-Rock cactus
-Half-giant
-
-Aviarag
-
-Fire scorpion
-Nightmare beast
-
-Subtable O (Roll 1410)
-
-1
-
-Cru aneen
-
-10
-
-Crystal spider
-So-ut
-
-Fire drake
-Villichi
-Mini-kank
-Cloud ray
-Burnflower
-Earth drake
-Dune runner
-Spirit of the land
-
-Sat Fiats (Roll 2d12)
-
-2-4
-5-7
-
-Subtable Q
-Subtable P|
-Elf
-
-Erdland
-Undead
-Raider
-Merchant
-Slave
-
-Huge scorpion
-Id fiend
-T’chowb
-Thri-kreen
-B'rohg
-Subtable P
-Subtable Q
-
-Subtable P (Roll 1d10)
-
-1
-
-eeu anaken
-
-BS
-S
-
-Lesser earth elemental
-Rock cactus
-
-Spirf
-
-Kes'trekel
-
-Nikaal
-
-Thri-kreen
-
-Dwarf banshee
-Hunting cactus
-Lesser fire elemental
-Id fiend
-
-Subtable Q (Roll 2410)
-
-Nightmare beast
-Villichi
-
-Rock golem
-Mim-kank
-Crystal spider
-Megapede
-
-Fire scorpion
-Bulette
-
-Earth drake
-Aviarag
-
-Cloud ray
-Locusts
-
-Fire drake
-Burnflower
-Water drake
-Dune trapper
-Dune runner
-Salt golem
-
-Spirit of the land
+| 1d10 | Encounter |
+|---:|---|
+| 1 | Thrax |
+| 2 | Brain seed |
+| 3 | Ruktoi |
+| 4 | Earth drake |
+| 5 | Dune runner |
+| 6 | Burnflower |
+| 7 | Cloud ray |
+| 8 | Fire drake |
+| 9 | Water drake |
+| 10 | Spirit of the land |
 
 7
-
-SEA OF SILT (Roll 2d12)
-
-2-4
-5-7
-8
-9
-10
-i
-12
-13
-14
-15
-16
-17
-18
-19-22,
-23-24
-
-Subtable T
-Subtable $
-
-Black silt horror
-Silt skimmer
-Floater
-
-Erdland
-Kes'trekel
-
-Silt runner
-Razorwing
-White silt horror
-Red silt horror
-Undead
-
-Sink worm
-Subtable $
-Subtable T
-
-Subtable S (Roll 1d10)
-
-1
-
-Cena Ron
-
-S
-
-Rock cactus
-Plains giant
-Dwarf banshee
-Desert giant
-
-Id fiend
-
-Brown silt horror
-Sand vortex
-Gray silt horror
-Villichi
-Beasthead giant
-
-Subtable T (Roll 1410)
-
-1
-
-Cau aueen
-
-Bs
-S
-
-Thrax
-Brain seed
-Ruktoi
-
-Earth drake
-Dune runner
-Burnflower
-Cloud ray
-
-Fire drake
-Water drake
-Spirit of the land
-
 ---
 
 # Page 9
@@ -4265,118 +4068,68 @@ sharp knife by anyone with the skill to do it.
 
 # Page 28
 
-CLIMATE/TERRAIN: Any
-FREQUENCY: Rate
-ORGANIZATION: Solitary
-Activity CYCLE: Day
-Diet: Carnivore
-INTELLIGENCE: High (13)
-TREASURE: Nil
-ALIGNMENT: Neutral
-No. APPEARING: 1
+# Sun Drake
 
-ARMOR CLASS: “1
-MoveMENT: 12, Fl 24(C)
-Hr Dice: 1745
-THACO: 3
+| Statistic | Value |
+|---|---|
+| Climate/Terrain | Any |
+| Frequency | Rare |
+| Organization | Solitary |
+| Activity Cycle | Day |
+| Diet | Carnivore |
+| Intelligence | High (13) |
+| Treasure | Nil |
+| Alignment | Neutral |
+| No. Appearing | 1 |
+| Armor Class | -1 |
+| Movement | 12, Fl 24(C) |
+| Hit Dice | 17+5 |
+| THAC0 | 3 |
+| No. of Attacks | 6 |
+| Damage/Attack | 2d6+6 (x4) / 5d8 / 4d4 |
+| Special Attacks | Suffocation, dehydration, swallow |
+| Special Defenses | Nil |
+| Magic Resistance | Nil |
+| Size | G (80' long, 60' wingspan) |
+| Morale | Elite (16) |
+| Level/XP Value | 17,000 |
+| Psionics Summary | Dis 2 / Sci 3 / Dev 10; PS 13; PSPs 50; Att: EW, MT, PsC; Def: IF, MBk, TW |
+| Player’s Option | #AT1; MTHAC0 16; MAC 5 |
 
-No. OF ATTACKS: 6
-DAMAGH/ATTACK: 2d6+6 (x4)/5d8/4d4
+**Telepathy:** *Sciences* — mindlink, mass domination, *(ultra blast)*;  
+*Devotions* — ego whip *(ESP)*, domination, contact *(life detection)*, repugnance, mind thrust *(inflict pain)*, psychic crush *(psychic drain)*.
 
-SPECIAL ATTACKS: Suffocation. dehydration. swallow
-SPECIAL DEFENSES: Nil
-MAcic_ RESISTANCE: Nil
-Size: G (80" long, 60°
-wingspan)
-Morate: Elite (16)
-Levet/XP_ VALUE: 17,000
+**Metapsionics:** *Sciences* — ultrablast;  
+*Devotions* — cannibalize, gird, prolong, psychic drain.
 
-PSIONICS SUMMARY: Dis 2/Sci 3/Dev 10: PS 13: PSPs 50
-Att: EW, MT, PsC; Def: IF, MBk, TW
-PLAYER'S OPTION: #ATI; MTHACO 16; MAC 5
-Telepathy: Sciences mindlink, mass domination, (ultra blast);
-Devotions~ ego whip (ESP), domination, contact (life detection),
-repugnance, mind thrust (inflict pain), psychic crush (psychic
-drain).
+**Psychometabolism:** *Sciences* — nil;  
+*Devotions* — Cannibalize, gird, iron will, prolong.
 
-Metapsionics: Sciences~ ultrablast; Devotions~ cannibalize,
-gird, prolong, psychic drain.
+The sun drake is the most powerful of the lesser drakes. It resembles a phoenix with large, curved wings that give it an almost circular appearance when flying overhead. A sun drake’s body is thin and lithe and measures about 35 feet. Its long tail adds another 20 feet to its length. The drake’s wingspan is nearly 40 feet. It has powerful hind legs and long forelegs. All four of these limbs have wicked claws that the drake strikes with in combat. The drake has a short, wide maw.
 
-(Psychometabolism: Sciences— nil; Devotions~ Cannibalize,
-gird, iron will, prolong.)
+The sun drake varies in color from red to orange to yellow. The color changes as it ages. As a drake glides in front of the sun, its wings shimmer with a ruddy glow, reminiscent of a fiery sunset.
 
-The sun drake is the most powerful of the lesser drakes. It re~
-sembles a phoenix with large, curved wings that give it an al-
-most circular appearance when flying overhead. A’ sun drake’s
-body is thin and lithe and measures about 35 feet. Its long tail
-adds another 20 feet to its length. The drake’s wingspan
+## Combat
 
-is nearly 40 feet. It has powerful hind legs and long
+The sun drake has an awesome array of attacks. It can use any or all of its attacks in a round depending on what it is fighting. The sun-drake’s most powerful physical attack is its bite, which inflicts 5-40 (5d8) points of damage. Also, a roll of 4 or more greater than the THAC0 means the opponent has been swallowed whole. Once swallowed, targets as tall as 5 feet can attack from inside. Larger creatures are limited to psionic attacks only.
 
-forelegs. All four of these limbs have wicked claws
+The drake can attack with all its claws when flying or with its foreclaws when on the ground. Each claw inflicts 8-18 (2d6+6) points of damage. The sun drake can swat its tail at an opponent for 4-16 (4d4) points of damage instead of the stun inflicted by other drakes.
 
-that the drake strikes with in combat. The drake
-has a short, wide maw.
+## Habitat/Society
 
-‘The sun drake varies in color from red to
-orange to yellow. The color changes as it /
-ages. As a drake glides in front of the sun,
-its wings shimmer with a ruddy glow,
-reminiscent of a fiery sunset.
+Sun drakes prefer to live among the highest peaks in whatever area they inhabit. They use their lairs only at night, spending their days soaring on thermals. Sun drakes are immune to all forms of attack involving heat, including the harsh rays of the Athasian sun.
 
-Combat: te sun drake has an awe-
-some array of attacks. It can use any or all
-of its attacks in a round depending on
-what it is fighting. The sun-drake’s most
-powerful physical attack is its bite,
-which inflicts 5-40 (6d8) points of dam- \
-age. Also, a roll of 4 or more greater \
-than the THACO means the opponent ‘
-has been swallowed whole. Once
-swallowed, targets as tall as 5
-feet can attack from inside.
-Larger creatures are limited to
-psionic attacks only.
+Sun drakes require little sleep, but when they sleep they set up their life detection ability and maintain it with gird while they rest.
 
-The drake can attack with all
-its claws when flying or with its
+Sun drakes are solitary creatures, but they don’t mind the company of creatures from the Elemental Plane of Air or creatures from the Elemental Plane of Fire. Each sun drake prefers only one of these types, except for the elemental drake from the appropriate plane. These creatures are hunted mercilessly by the sun drakes.
 
-foreclaws when on the ground. Each claw inflicts 8-18 (2d6+6)
-points of damage. The sun drake can swat its tail at an oppo-
-nent for 4-16 (4d4) points of damage instead of the stun in-
-flicted by other drakes.
+Sun drakes have a collection of special treasures. The collection consists of objects of whatever color the drake’s hide is, so they change their collection as they age. They might be persuaded to trade an old item for a new one that more closely matches their present color.
 
-HaGitat/Society: sun drakes prefer to live among
-the highest peaks in whatever area they inhabit. They use
-their lairs only at night, spending their days soaring on ther-
-mals. Sun drakes are immune to all forms of attack involving
-heat, including the harsh rays of the Athasian sun.
+## Ecology
 
-Sun drakes require little sleep, but when they sleep they set
-up their life detection ability and maintain it with gird while
-they rest.
+Sun drakes mate for life, but see their partner only once a year. The pair have a special psionic link that they maintain with no effort. Through this link they can call the other drake for aid. During the yearly mating flight, the female flies to her mate’s lair. She returns to her lair after mating to lay and incubate her eggs. The young sun drakes stay with their mother for the first year of their life to learn how to survive.
 
-Sun drakes are solitary creatures, but they don’t mind the
-company of creatures from the Elemental Plane of Air or crea-
-tures from the Elemental Plane of Fire. Each sun drake prefers
-only one of these types, except for the elemental drake from
-the appropriate plane. These creatures are hunted mercilessly
-by the sun drakes.
-
-Sun drakes have a collection of special treasures. The col-
-lection consists of objects of whatever color the drake’s hide is,
-so they change their collection as they age. They might be per-
-suaded to trade an old item for a new one that more closely
-matches their present color.
-
-Ecology: sun drakes mate for life, but see their partner
-only once a year. The pair have a special psionic link that they
-maintain with no effort. Through this link they can call the
-other drake for aid. During the yearly mating flight, the fe-
-male flies to her mate’s lair. She returns to her lair after mat-
-ing to lay and incubate her eggs. The young sun drakes stay
-with their mother for the first year of their life to learn how to
-survive.
+27
 
 ---
 
@@ -8173,124 +7926,67 @@ EE 7.4
 ---
 
 # Page 55
-
-Ex-slaves Herdsmen Dune Traders Ex-gladiators Nobles Templars
-CLIMATE/TERRAIN: Any land Any land Any land Any land Any land Any land
-FREQUENCY: Common Common Uncommon Uncommon Uncommon — Common
-ORGANIZATION: Tribe Douars House/ guild Tribe Varies Varies
-Activity Cycte: Day Day Day Day Day Day
-Diet: Omnivore Omnivore Omnivore Omnivore Omnivore Omnivore
-INTELLIGENCE: Average Average Very Average Average Very
-(8-10) (8-10) (11-12) (5-10) (8-10) (11-12)
-‘TREASURE: Nil Nil Ww Nil M w
-ALIGNMENT: Neutral Lawful Neutral Neutral Neutral Lawful
-e . neutral neutral
-No. APPEARING: 4-24 (4d6) 3-36 (3d12) 1-4 (1d4) 2-8 (2d4) 1-4 (1d4) 2-7 (1d6+1)
-e ARMOR CLASS: 8 9 7 6 8 7
-MoveMENT: 2 12 12 12 2 12
-Hr Dice: 242 342 5 5 3 5
-THACO: 19 19 19 16 19 18
-No. OF ATTACKS: 1 1 1 1 1 1
-Damacr/ATrAcI By weapon _ By weapon By weapon By weapon By weapon By weapon
-SPECIAL ATTACKS: Nil Nil Nil See below Nil Spells
-SPECIAL DEFENSES: Nil Nil Nil See below Nil Nil
-Macic RESISTANCE: Nil Nil Nil Nil Nil Nil
-Size: M (6 tall) M (6 tall) M (' tall) M (6 tall) M (6 tall) = -M @ tall)
-Morate: Steady Average Average Elite Average Elite
-(1-121 (8-10) (8-10) (15-16) (8-10) (15-16)
-Level/XP_ VALUE: 35 35 35 65 65 120
-PsIONIcs SUMMARY: Varies Varies Varies Varies Varies Varies
-PLAYER'S OPTION: — MAC 10 MAC 10 MAC 8 MAC 9 MAC 9 MAC 8
-
-    
+Human
+| Statistic | Ex-slaves | Herdsmen | Dune Traders | Ex-gladiators | Nobles | Templars |
+|---|---|---|---|---|---|---|
+| Climate/Terrain | Any land | Any land | Any land | Any land | Any land | Any land |
+| Frequency | Common | Common | Uncommon | Uncommon | Uncommon | Common |
+| Organization | Tribe | Douar | House/guild | Tribe | Varies | Varies |
+| Activity Cycle | Day | Day | Day | Day | Day | Day |
+| Diet | Omnivore | Omnivore | Omnivore | Omnivore | Omnivore | Omnivore |
+| Intelligence | Average (8-10) | Average (8-10) | Very (11-12) | Average (5-10) | Average (8-10) | Very (11-12) |
+| Treasure | Nil | Nil | W | Nil | M | W |
+| Alignment | Neutral | Lawful neutral | Neutral | Neutral | Neutral | Lawful neutral |
+| No. Appearing | 4-24 (4d6) | 3-36 (3d12) | 1-4 (1d4) | 2-8 (2d4) | 1-4 (1d4) | 2-7 (1d6+1) |
+| Armor Class | 8 | 9 | 7 | 6 | 8 | 7 |
+| Movement | 12 | 12 | 12 | 12 | 12 | 12 |
+| Hit Dice | 2+2 | 3+2 | 5 | 5 | 3 | 5 |
+| THAC0 | 19 | 19 | 19 | 16 | 19 | 18 |
+| No. of Attacks | 1 | 1 | 1 | 1 | 1 | 1 |
+| Damage/Attack | By weapon | By weapon | By weapon | By weapon | By weapon | By weapon |
+| Special Attacks | Nil | Nil | Nil | See below | Nil | Spells |
+| Special Defenses | Nil | Nil | Nil | See below | Nil | Nil |
+| Magic Resistance | Nil | Nil | Nil | Nil | Nil | Nil |
+| Size | M (6' tall) | M (6' tall) | M (6' tall) | M (6' tall) | M (6' tall) | M (6' tall) |
+| Morale | Steady (11-12) | Average (8-10) | Average (8-10) | Elite (15-16) | Average (8-10) | Elite (15-16) |
+| Level/XP Value | 35 | 35 | 35 | 65 | 65 | 120 |
+| Psionics Summary | Varies | Varies | Varies | Varies | Varies | Varies |
+| Player’s Option | MAC 10 | MAC 10 | MAC 8 | MAC 9 | MAC 9 | MAC 8 |  
    
   
-  
-  
-  
-  
-  
-  
-   
-   
- 
-  
- 
- 
-   
-   
-    
-  
-  
- 
-  
-       
+  ## Ex-slaves
 
-i €x-slaves
+Slavery is an integral part of the Athasian culture and crucial to the continuing economic success of the cities and villages of Athas. Slaves do most of the physical work, from common labor such as fixing a wagon wheel, to more creative labor, such as the arts, that most freemen appreciate but view the creation as beneath them. Though slavery has become so important to the freemen, it doesn’t mean these indentured individuals are well-treated. Many slaves would rather take their chances in the barren wilds than continue in the servitude of their often cruel masters. Most ex-slaves either die from dehydration or starvation or find their way to one of the hundreds of slave tribes inhabiting the Athasian wilds.
 
-Slavery is an integral part of the Athasian culture and crucial
-to the continuing economic success of the cities and villages of
-Athas. Slaves do most of the physical work, from common
-labor, such as fixing a wagon wheel, to more creative labor,
-such as the arts, that most freeman appreciate but view the
-creation as beneath them. Though slavery has become so im-
-portant to the freeman, it doesn’t mean these indentured indi-
-viduals are well-treated. Many slaves would rather take their
-chances in the barren wilds than continue in the servitude of
-their often cruel masters. Most ex-slaves either die from dehy-
-dration or starvation or find their way to one of the hundreds
-of slave tribes inhabiting the Athasian wilds.
+## Combat
 
-ComBat: the stave tribes include individuals with many
-diverse skills. Most, however, have been trained in the basics
-of combat The weapons used are as diverse as their skills
-Fach ex-slave is likely to have the following weapons:
+The slave tribes include individuals with many diverse skills. Most, however, have been trained in the basics of combat. The weapons used are as diverse as their skills. Each ex-slave is likely to have the following weapons:
 
-1d10 Damage (S-M/L)
-Club 12 1db/143
-Obsidian-tipped spear 3-4 16/148,
-Impaler 5-6 18/148,
-Obsidian long sword 7-8 1d8/1412
-Bone battle axe 9-10 18/148,
+| Weapon | 1d10 | Damage (S-M/L) |
+|---|---:|---:|
+| Club | 1-2 | 1d6/1d3 |
+| Obsidian-tipped spear | 3-4 | 1d6/1d8 |
+| Impaler | 5-6 | 1d8/1d8 |
+| Obsidian long sword | 7-8 | 1d8/1d12 |
+| Bone battle axe | 9-10 | 1d8/1d8 |
 
-For every 10 ex-slaves encountered, there is one
-5th level fighter with AC7, THACO 16, and
+For every 10 ex-slaves encountered, there is one 5th level fighter with AC 7, THAC0 16, and a 50% chance of minimal psionics, as 1st level psionicist, that acts as their sergeant. In addition to standard weapons, the sergeant carries 1-6 (1d6) throwing spears.
 
-a 50% chance of minimal psionics (as Ist level psionicist)
-that acts as their sergeant. In addition to standard weapons,
-the sergeant carries 1-6 (1d6) throwing spears. For every 50
-slaves there is also a 7th level gladiator with AC 5, THACO 14.
-and with a dejada (1d8/1d6, The Complete Gladiators Hand-
-book) in addition to any two of the above weapons. In tribes
-of 100 or more, there is one 10th level gladiator with AC 3.
-THACO 11, and a 75% chance of possessing a psionic wild tal-
-ent. This individual is the general or chief of the tribe. There
-is also a 75% chance of the tribe having an 8th level pre-
-server with AC 8. THACO 18, and Dmg 1-6 (staff), and an 8th
-level psionicist with AC 8 and THACO 16.
+For every 50 slaves there is also a 7th level gladiator with AC 5, THAC0 14, and with a dejada (1d8/1d6, *The Complete Gladiator’s Handbook*) in addition to any two of the above weapons.
 
-Habitat/Society: the slave-tribes are likely to have
-completely different cultures. Some tribes survive by farming
-and hunting in villages of 50-500 people. Others raid nearby
-villages and cities in bands of 4-24 raiders. Yet others sell their
-services to local cities and towns for food and equipment.
-Their hierarchy can be rigid with strict codes of conduct or
-they can be less structured with a more democratic system of
-politics. However, they all share the goal to survive and pros-
-per in spite of the harsh environments they are often forced to
-inhabit.
+In tribes of 100 or more, there is one 10th level gladiator with AC 3, THAC0 11, and a 75% chance of possessing a psionic wild talent. This individual is the general or chief of the tribe. There is also a 75% chance of the tribe having an 8th level preserver with AC 8, THAC0 18, and Dmg 1-6 (staff), and an 8th-level psionicist with AC 8 and THAC0 16.
 
-Slave tribe leaders usually have a military background.
-Some have been soldier-slaves, and others, gladiators. Ex-
-slaves are drawn to the natural leadership ability of such mil-
-nary types. These leaders usually possess both combat ability
-and strategic military thinking If the tribe starts to falter or
+## Habitat/Society
+
+The slave-tribes are likely to have completely different cultures. Some tribes survive by farming and hunting in villages of 50-500 people. Others raid nearby villages and cities in bands of 4-24 raiders. Yet others sell their services to local cities and towns for food and equipment. Their hierarchy can be rigid with strict codes of conduct or they can be less structured with a more democratic system of politics. However, they all share the goal to survive and prosper in spite of the harsh environments they are often forced to inhabit.
+
+Slave tribe leaders usually have a military background. Some have been soldier-slaves, and others, gladiators. Ex-slaves are drawn to the natural leadership ability of such military types. These leaders usually possess both combat ability and strategic military thinking. If the tribe starts to falter or
+
+page 54
 
 ---
 
 # Page 56
-
-— ———— EEE ll > eS
 
 enters long-term hardship as a result of poor leadership, the
 general will probably be challenged by another powerful
@@ -8452,38 +8148,6 @@ chants.
 ---
 
 # Page 57
-
-~~
-
-i
-
-mE = — s/h a,
-
- 
-   
- 
-   
-  
-  
-  
-  
-  
- 
-  
- 
- 
- 
-  
-   
- 
- 
-    
-   
-  
-  
-  
-
-°°. ee ee ee © Ge
 
 Combat: dune traders avoid conflict if possible. The
 traders have learned to treat all courteously. However, there
@@ -9845,230 +9509,69 @@ sent to protect their patron.
 
 # Page 67
 
-*“CLIMATE/TERRAIN: Special
+# Kraglings
 
-  
+| Statistic | Value |
+|---|---|
+| Climate/Terrain | Special |
+| Frequency | Very rare |
+| Organization | Band |
+| Activity/Cycle | Any |
+| Diet | Nil |
+| Intelligence | Low to Average |
+| Treasure | Q |
+| Alignment | Chaotic evil |
+| No. Appearing | 1-12 |
+| Armor Class | 6, 8 |
+| Movement | 12 |
+| Hit Dice | 3, 5 |
+| THAC0 | 17, 15 |
+| No. of Attacks | 3 |
+| Damage/Attack | 1-4/1-4/1-10, 1-6/1-6/2-20 |
+| Special Attacks | Elemental transfusion |
+| Special Defenses | Nil |
+| Magic Resistance | Nil |
+| Size | S-M (3-7 feet tall) |
+| Morale | Steady (11-12) |
+| XP Value | 175, 420 |
+| Psionics Summary | Dis 2/Sci 2/Dev 7; PS 9; PSPs 30; Att: EW, II; Def: MBk, TS |
+| Player’s Option | #AT1; MTHAC0 18; MAC 8 |
 
-FREQUENCY: Very rare
-ORGANIZATION: Band
-AcTIVITY/CYCLE Any
-Diet: Nil
+**Clairsentience:** *Sciences* — precognition; *Devotions* — feel light, feel sound.
 
-INTELLIGENCE: Low to Average
-TREAUSRE:
-ALIGNMENT: Chaotic evil
-No. APPEARNING: 1-12
-ARMOR CLASS: 6,8
-MOVEMENT: 12
-e° Hir Dice: 3,5
-THACO: 17,15
-& No. OF ATTACKS: 3
-DAMAGE/ATTACK: 1-4/1-4/1-10, 1-6/1-6/2-20
+**Telepathy:** *Sciences* — mindlink; *Devotions* — attraction, contact *(life detection)*, ego whip *(inflict pain)*, id insinuation *(invisibility)*, sight link.
 
-   
-  
-  
-  
-   
-   
-   
-  
-   
-  
-    
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-   
- 
- 
- 
- 
-   
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-     
+Kraglings are creatures who have perished from the elemental transfusion attack of a krag. Anything that dies in this manner has a 45% chance of coming back as a kragling in 1-4 days. Kraglings, like the krags who created them, are undead creatures. They come in two versions: lesser kraglings and greater kraglings. Both types are described below.
 
-SPECIAL ATTACKS: Elemental transfusion
+Kraglings look like skeletal versions of their living forms, though they also take on the appearance of their maker’s element. Sun kraglings have baked and brittle-looking bones that reflect any ambient light, while rain kragling’s bones are covered with slimy fungus or dripping molds. Other types should follow a similar type of appearance, based on the controlling element or paraelement.
 
- 
+Any creature can become a kragling if it was killed by the elemental transfusion of a krag. Silt spawn, humanoids, demihumans, humans, and even nonhumanoid monsters are all subject to the transfusion attack and thus can become kraglings. What type of kragling and how powerful it is depends on the creature’s Hit Dice.
 
-‘SPECIAL DEFENSE: Nil
+Greater kraglings are created when creatures with more than 4 Hit Dice are killed by a krag’s elemental transfusion. Lesser kraglings are created via the same process, though the creatures must have less than 4 Hit Dice to fall into this weaker category.
 
-MAGIC RESISTANCE: Nil
+Kraglings can communicate with beings of their new element and can also speak whatever languages they knew in life. They can communicate with the krags who created them through a special psionic link.
 
-SIZE: S-M (3-7 feet tall)
-MORALE: Steady (11-12)
+## Combat
 
-XP VALUE 175, 420
+Kraglings attack by claws or whatever other natural appendages they might have. Even creatures who did not have claws in life will develop them when they become kraglings. Lesser kraglings cause 1d4 points of damage with each successful claw strike, while greater kraglings cause 1d6 points of damage. Greater kraglings may occasionally use weapons, though those of magma or fire will not, since their touch eventually destroys most materials.
 
-Dis 2/Sci 2/Dev 7; PS 9; PSPs 30
-Att: EW, II; Def: MBk, TS
-“AT1; MTHACO 18; MAC 8
+The kragling’s special attack is a lesser version of the krag’s elemental transfusion delivered with the monster’s bite. The effects of the elemental transfusion are in addition to the normal damage caused by the bite: 1d10 for lesser kraglings, 2d10 for greater kraglings. In the case of the kragling, the elemental transfusion produces much more of a local effect. A magma kragling’s bite, for instance, leaves a steaming wound spattered with molten stone. The bite of a water kragling causes the wound to swell and burst with excess moisture. They can’t create other kraglings using this attack.
 
-PSIONICS ~SUMMARY:
+The elemental transfusion of a kragling has the following affect, depending on whether or not the victim made a saving throw versus death magic. For a lesser kragling, a save means that no additional effect is evident, while a failed save causes 1d4 points of additional damage from the transfusion. For a greater kragling, the transfusion causes 1d6 points of additional damage. A successful save cuts the damage in half.
 
-PLAYER’S OPTION:
+Kraglings have no control over the elements they are tied to. They are immune to their patron element and are adversely affected by diametrically opposed powers, just like the krags who created them. As with krags, priests receive a +2 bonus to turn kraglings of the same element.
 
-Clairsentience: Sciences precognition; Devotions— feel light,
-feel sound.
+When destroyed by the turning ability of a cleric, a kragling collapses into a pile of bones and the element it is tied to. In this case, the kragling is completely destroyed. When destroyed by spells or combat, a kragling will reform in 1d12 days and return to the service of its krag master.
 
-Telepathy: Sciences— mindlink; Devotions— attraction, contact
-(life detection), ego whip (inflict pain), id insinuation (invisi-
-bility), sight link.
+## Habitat/Society
 
-4 Kraglings are creatures who have perished from the elemen-
+Kraglings of low intelligence tend to mimic the actions they performed when they were alive. Kragling zhackals, for instance, continue to roam about the krag’s lair and hunt for food, even though they no longer need to eat. Kraglings with more intelligence know what they are and remember their painful deaths. Though they are aware of their actions and may even be opposed to them, the krag exercises complete control over the minds and bodies of the kraglings it created, and can command them at any time. Typical directions given to kraglings by the krags who control them include protecting the region around the krag’s lair and the lair itself, seeking out other victims ripe for transformation into kraglings, and watching for signs of powerful intruders—especially intruders aligned to a krag’s opposite element.
 
-tal transfusion attack of a krag. Anything that dies in this
-manner has a 45% chance of coming back as a kragling in 1-4
-days Kraglings, like the krags who created them, are undead
-creatures. They come in two versions lesser kraglings and
-greater Kraglings. Both types are described below.
+## Ecology
 
-Kraglings look like skeletal versions of their living forms,
-though they also take on the appearance of their maker's ele-
-ment. Sun’ kraglings have baked and brittle-looking bones
-that reflect any ambient light, while rain kragling’s bones are
-covered with slimy fungus or dripping molds. Other types
-should follow a similar type of appearance, based on the con-
-trolling element or paraélement.
+Kraglings don’t need to eat or sleep, though many will continue to pass food through their skeletal ribs in a pathetic mockery of their former lives. When not stalking prey, a kragling will almost always be found in the vicinity of its master, and more times than not in the company of other kraglings.
 
-‘Any creature can become a kragling if it was killed by the
-elemental transfusion of a krag Silt spawn, humanoids, demi-
-humans, humans, and even nonhumanoid monsters are all
-subject to the transfusion attack and thus can become
-
-kraglings. What type of kragling and how powerful it is de-
-pends on the creature’s Hit Dice.
-
-Greater kraglings are created when creatures with more
-than 4 Hit Dice are killed by a krag’s elemental transfusion.
-Lesser kraglings are created via the same process, though
-the creatures must have less than 4 Hit Dice to fall into this
-weaker category.
-
-Kraglings can communicate with beings of their new
-element and can also speak whatever languages they
-knew in life. They can communicate with the krags who
-created them through a special psionic link.
-
-Combat: Kraglings attack by claws or whatever
-other natural appendages they might have. Even crea-
-ures who did not have claws in life will develop them
-when they become kraglings. Lesser kraglings
-cause 1d4 points of damage with each successful
-
-claw strike, while greater kraglings cause
-1d6 points of damage. Greater
-kraglings may occasionally use
-
- 
-
-  
-      
-         
-       
-           
-     
- 
- 
-
-weapons, though those
-of magma or fire will
-not, since their touch
-eventually destroys
-most materials.
-
-The kragling’s
-special attack is a
-lesser version of the
-krag’s elemental
-transfusion delivered
-with the monster's
-bite. The effects of the
-elemental transfusion
-are in addition to the
-normal damage caused by
-the bite (1d10 for lesser
-kraglings, 2d10 for greater
-kraghlings). In the case of the
-kragling, the elemental
-transfusion produces
-much more of a local ef-
-fect. A magma
-kragling’s bite, for ins-
-tance, leaves a steam-
-ing wound spattered
-with molten stone.
-
-‘The bite of a water
-kragling causes the
-wound to swell and burst with excess moisture. They can’t create
-other kraglings using this attack.
-
-The elemental transfusion of a kragling has the following
-affect, depending on whether or not the victim made a saving
-throw versus death magic. For a lesser kragling, a save means
-that no additional effect is evident, while a failed save causes
-1d4 points of additional damage from the transfusion. For a
-greater kragling, the transfusion causes 1d6 points of addi-
-tional damage. A successful save cuts the damage in half.
-
-Kraglings have no control over the elements they are tied
-to. They are immune to their patron element and are adversely
-affected by diametrically opposed powers (just like the krags
-who created them). As with krags, priests receive a +2 bonus to
-turn kraglings of the same element.
-
-When destroyed by the turning ability of a cleric, a
-kragling collapses into a pile of bones and the element it is
-tied to. In this case, the kragling is completely destroyed.
-When destroyed by spells or combat, a kragling will reform in
-1d12 days and return to the service of its krag master.
-
-Habitat/Society: Kraglings of low intelligence tend to
-mimic the actions they performed when they were alive.
-Kragling zhackals, for instance, continue to roam about the
-krag’s lair and hunt for food, even though they no longer need
-to eat. Kraglings with more intelligence know what they are and
-remember their painful deaths. Though they are aware of their
-actions and may even be opposed to them, the krag exercises
-complete control over the minds and bodies of the Kraglings it
-created, and can command them at any time. Typical directions
-given to kraglings by the krags who control them include pro-
-tecting the region around the krag’s lair and the lair itself, seek-
-ing out other victims ripe for transformation into kraglings, and
-watching for signs of powerful intruders—especially intruders
-aligned to a krag’s opposite element.
-
-Ecology: Kraglings don't need to eat or sleep, though many
-will continue to pass food through their skeletal ribs in a-pathetic
-mockery of their former lives. When not stalking prey, a kragling
-will almost always be found in the vicinity of its master, and more
-times than not in the company of other kraglings.
+66
 
 ---
 
@@ -11858,314 +11361,122 @@ on Athas.
 
 # Page 80
 
-‘CLIMATE/TERRAIN: Large areas of silt
-FREQUENCY: Very rare
-ORGANIZATION: Solitary
-Activity CYCLE: Any
-DIET: silt
-INTELLIGENCE: Semi (2-4)
-‘TREASURE: Nil
-ALIGNMENT: Neutral
-NO. APPEARING: 1
+# Paraelemental Beast of Silt
 
-ARMOR CLASS: 2
-MoveEMENT: 9, Sw 15
-Hit Dice: 7
+| Statistic | Value |
+|---|---|
+| Climate/Terrain | Large areas of silt |
+| Frequency | Very rare |
+| Organization | Solitary |
+| Activity Cycle | Any |
+| Diet | Silt |
+| Intelligence | Semi (2-4) |
+| Treasure | Nil |
+| Alignment | Neutral |
+| No. Appearing | 1 |
+| Armor Class | 2 |
+| Movement | 9, Sw 15 |
+| Hit Dice | 7 |
+| THAC0 | 13 |
+| No. of Attacks | 6 |
+| Damage/Attack | 1d6 (x6) |
+| Special Attacks | See below |
+| Special Defenses | +1 magical weapon or better to hit |
+| Magic Resistance | Nil |
+| Size | L (12' across) |
+| Morale | Elite (15) |
+| Level/XP Value | 3,000 |
+| Psionics Summary | Nil |
+| Player’s Option | MAC 9 |
 
-THACO: 13
+Paraelemental beasts of silt can only be summoned in places where there are large amounts of silt. If they gain free will, they often travel to the Sea of Silt or other places where they can roam freely in their element forever.
 
-No. OF ATTACKS: 6
-DAMAGE/ATTACK: 1d6 (x6)
-SPECIAL ATTACKS: See below
+Paraelemental creatures of silt resemble the krakens of legend, except they are composed entirely of silt. They have 8 octopus-like tentacles, but their upper bodies are serpentine. Their heads are similar to those of silt drakes in size and shape. Their necks are about 7 feet long, as are their tentacles. Their tentacles do not have suction cups but are strong enough to pick up human-sized beings in their grasp and agile enough to batter opponents. A billow of fine silt dust rises like steam from their bodies.
 
-  
+## Combat
 
-SPECIAL DEFENSES: +I magical weapon or better to hit
+Paraelemental beasts of silt attack with their mouths and six of their tentacles. Their bite causes 3-18 (3d6) points of damage. Each tentacle causes 1-6 (1d6) points of damage and on a successful strike there is a 50% chance it wraps around the victim and constricts for 2-8 (2d4) points of damage each following round until the tentacle is cut loose or the victim breaks free. Any human-sized or smaller creature can be attacked by the creature with only one tentacle at a time.
 
-MAGIC RESISTANCE: Nil
-SIZE: L (12’ across)
-Morate: Elite (15)
-LevEL/XP_ VALUE: 3.000
-PsIONICS SUMMARY: Nil
+Once a victim has been grabbed, the creature attempts to pull it down into the silt where it suffocates. On a percentage roll of 1-25 neither of a victim’s arms are pinned, on a roll of 26-50 the left arm is pinned, on a roll 51-75 the right arm is pinned, and on a roll of 76-100 both arms are pinned. When both arms are pinned, the victim cannot attack. When one arm is pinned, the character’s attack rolls are at -3. When neither arm is pinned, the victim’s attack rolls are at -1. The tentacles have 18/01 Strength and any creature with Strength greater than 18/01 can negate its constriction attacks by pulling against it. When this happens, the creature bites the victim until it stops struggling. The creature does not need to make an attack roll and can automatically bite any victim held this way.
 
-PLAYER'S OPTION: MAC 9
-Paraelemental beasts of silt can only be summoned in places
-where there are large amounts of silt. If they gain free
-will, they often travel to the Sea of Silt or other
+Each tentacle has 8 hit points, in addition to the creature’s 8 HD. When it receives 8 points of damage it turns into fine silt and pours to the ground. The paraelemental beast can no longer keep mental control over its shape because of the damage it suffers.
 
-places where they can roam freely in
+The paraelemental beast of silt has the fearsome whirlpool attack. The creature can swirl about within the silt, creating a funnelling effect. The effect draws everything within a 1-foot radius per hit point it has straight down into the funnel. Once it stops spinning, the silt above closes in, trapping any creature drawn in below the surface. Victims must make eight successful Constitution rolls in a row to reach the surface before breathing in silt. Victims who breathe in silt must make a successful save vs. death magic at -3 or they die. If the save is successful, they receive 2-20 (2d10) points of damage and must continue toward the surface, attempting their remaining Constitution rolls.
 
-their element forever.
+Paraelemental beasts of silt are virtually invisible until they attack because they usually sink about in the same silt from which they are made. Only when they rise above the silt are their shapes visible.
 
-Paraelemental
-creatures of silt
-resemble the
-krackens of leg-
-end, except they
-are composed en-_
-tirely of silt. They
-have 8 octopus-
-like tentacles, but
-their upper bodies
-are serpentlike. Their
-heads are similar to those of
-silt drakes in size and shape.
-Their necks are about 7 feet long, as are
-their tentacles. Their tentacles do not have suc-
-tion cups but are strong enough to pick up human-
-sized beings in their grasp and agile enough to batter
-opponents. A billow of fine silt dust rises like steam from their
-nostrils.
+Paraelemental beasts of silt receive double damage from all wind-based attacks and no damage from attacks relating to their own para-element. Whenever in direct contact with a large quantity of silt, they can regenerate at a rate of 2 hit points per round.
 
-Combat: Paraciemental beasts of silt attack with their
-mouths and six of their tentacles. Their bite causes 3-18 (3d6)
-points of damage. Each tentacle causes 1-6 (1d6) points of
-damage and on a successful strike there is a 50% chance it
-wraps around the victim and constricts for 2-8 (2d4) points of
-damage each following round until the tentacle is cut loose or
-the victim breaks free. Any human-sized or smaller creature
-can be attacked by the creature with only one tentacle at a
-time.
+## Habitat/Society
 
-Once a victim has been grabbed, the creature attempts to
-pull it down into the silt where it suffocates. On a percentage
-roll of 1-25 neither of a victim’s arms are pinned, on a roll of
-26-50 the left arm is pinned, on a roll of 51-75 the right arm is
-pinned, and on a roll of 76-100 both arms are pinned. When
-both arms are pinned, the victim cannot attack. When one
-arm is pinned, the character's attack rolls are at -3. When nei-
-ther arm is pinned, the victim's attack rolls are at -1. The ten-
-tacles have 18/01 Strength and any creature with Strength
+Paraelemental beasts of silt are solitary creatures. They generally roam about silt-filled areas, attacking only those who attack them or those who remind them of their summoners, including most humans, humanoids, and demihumans.
 
- 
-  
-  
- 
-  
+## Ecology
 
-     
-  
-   
-  
-   
-  
-   
-  
-  
-    
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-  
-  
-  
- 
-  
-   
-  
-   
-  
-  
- 
- 
-  
- 
- 
-  
- 
- 
- 
+While paraelemental beasts of silt are unnatural extraplanar creatures, they have found a place in the ecology of Athas. They now help reduce the number of predators that roam their silt-filled homes.
 
-greater than 18/01 can negate its constriction attacks by
-pulling against it. When this happens, the creature bites the
-victim until it stops struggling. The creature does not need to
-make an attack roll and can automatically bite any victim held
-this way.
-
-Each tentacle has 8 hit points (in addition to the creature’s
-8 HD1. When it receives 8 points of damage it turns into fine
-silt and pours to the ground. The paraelemental beast can no
-longer keep mental control over its shape because of the dam-
-age it suffers.
-
-The paraelemental beast of silt has the fearsome whirlpool
-attack. The creature can swirl about within the silt, creating a ° e
-funnelling effect. The effect draws everything within a l-foot
-radius per hit point it has straight down into the funnel. Once oe
-it stops spinning, the silt above closes in, trapping any crea-
-ture drawn in below the surface. Victims must make eight suc-
-cessful Constitution rolls in a row to reach the surface before
-breathing in silt. Victims who breath in silt must make a suc-
-cessful save vs. death magic at -3 or they die. If the save is suc-
-cessful, they receive 2-20 (2dl0) points of damage and must
-continue toward the surface, attempting their remaining Con-
-stitution rolls.
-
-Paraelemental beasts of silt are virtually invisible until
-they attack because they usually slink about in the same silt
-
-from which they
-are made. Only when they
-rise above the silt are their shapes visible.
-
-Paraelemental beasts of silt receive double damage from all
-wind-based attacks and no damage from attacks relating to
-their own para-element. Whenever in direct contact with a
-large quantity of silt, they can regenerate at a rate of 2 hit
-points per round.
-
-Habitat/Society: — Paraclemental beasts of silt
-are solitary creatures. They generally roam about silt-
-filled areas, attacking only those who attack them or those
-who remind them of their summoners (including most
-humans, humanoids, and demihumans).
-
-Ecology: white paraclemental beasts of silt are
-unnatural extraplanar creatures, they have found a
-place in the ecology of Athas. They now help reduce
-number of predators that roam their silt-filled
-homes.
+79
 
 ---
 
 # Page 81
 
-CLIMATE/TERRAIN: Any surface area
+# Paraelemental Beast of Sun
 
- 
+| Statistic | Value |
+|---|---|
+| Climate/Terrain | Any surface area |
+| Frequency | Very rare |
+| Organization | Solitary |
+| Activity Cycle | Any |
+| Diet | Sunlight |
+| Intelligence | Semi (2-4) |
+| Treasure | Nil |
+| Alignment | Neutral |
+| No. Appearing | 1 |
+| Armor Class | 2 |
+| Movement | 6, Fl 36 (D) |
+| Hit Dice | 9 |
+| THAC0 | 11 |
+| No. of Attacks | 3 |
+| Damage/Attack | 3d6/2d6/2d6 |
+| Special Attacks | See below |
+| Special Defenses | +1 magical weapon or better to hit |
+| Magic Resistance | Nil |
+| Size | L (16' wingspan) |
+| Morale | Elite (15-16) |
+| Level/XP Value | 3,000 |
+| Psionics Summary | Nil |
+| Player’s Option | MAC 9 |
 
-FREQUENCY: Very rare
-ORGANIZATION: Solitary
-Activity CYCLE: Any
-Diet: Sunlight
-INTELLIGENCE: Semi (2-4)
-TREASURE: Nil
-ALIGNMENT: Neutral
-No. APPEARING: 1
-ARMOR CLASS: 2
-MOVEMENT: 6, F136 (D)
-e Hr Dic 9
-THACO: 1
-eo No. OF ATTACKS: 3
-DAMAGE/ATTACK: 3d6/2d6/2d6
-SPECIAL ATTACKS: See below
+Paraelemental beasts of sun can be summoned anywhere there is strong sunlight, of which there is no shortage in Athas. Paraelemental beasts of sun that gain free will often choose to make Athas their permanent home because of the great presence of their para-element.
 
-SPECIAL DEFENSES: +1 magical weapon or better to hit
+Paraelemental beasts of sun resemble the phoenix of legend. They are two-headed birds composed of flames sustained by the rays of the suns. Their flaming wings span 16 feet across. Their two heads work in tandem, seemingly under the control of one brain. It hurts to look directly at paraelemental beasts of sun because they radiate light even more intense than a light spell.
 
-MAGIC RESISTANCE: Nil
+## Combat
 
-Size: L (16" wingspan)
-MORALE: Elite (15-16)
-Levet/XP_ VALUE: 3,000
+Paraelemental beasts of sun attack by swooping down on their opponent and attacking them with their two talons for 2-12 (2d6) points of damage each, and with one of their beaks for 3-18 (3d6) points of damage. Opponents with resistance to magical flames suffer only half damage. The talons and beak are fiery hot and they leave terrible burns on their victims.
 
-PsIONics SUMMARY: Nil
+Flammable objects that touch these creatures ignite and burn until extinguished or totally consumed unless they successfully save vs. magical fire at a -2.
 
-PLAYER'S OPTION: MAC 9
-Paraelemental beasts of sun can be summoned any-
-where there is strong sunlight, of which there is
-no shortage in Athas. Paraelemental beasts of
-sun that gain free will often choose to make
-Athas their permanent home because of the
-great presence of their para-element.
-Paraelemental beasts of sun re-
-semble the phoenix of legend. They
-1 are two-headed birds composed of
-flames sustained by the rays of the
-suns. Their flaming wings span 16
-feet across. Their two heads work in
-tandem, seemingly under the con-
-trol of one brain. It hurts to look
-directly at paraelemental beasts of
-sun because they radiate light even
-more intense than a light spell.
+Paraelemental beasts of sun can generate intense heat from their bodies that cause sunstroke and dehydration. For each round the creature uses this attack, all victims within a 1-foot radius per hit point it has lose 1-6 (1d6) points of Constitution unless the victim make a successful save vs. breath weapon or have some special protection from heat stroke and dehydration.
 
-Combat: Paractemental beasts of sun at-
-tack by swooping down on their opponents and at-
-tacking them with their two talons for 2-12 (246) points
-of damage each, and with one of their beaks for 3-18 (3d6)
-points of damage. Opponents with resistance to magical
-flames suffer only half damage. The talons and beak are fiery
-hot and they leave terrible burns on their victims.
-Flammable objects that touch these creatures ignite and
-burn until extinguished or totally consumed unless they
-successfully save vs. magical fire at a -2.
-Paraelemental beasts of sun can generate intense heat from
-their bodies that cause sunstroke and dehydration. For
-each round the creature uses this attack, all victims within
-a Lfoot radius per hit point it has lose 1-6 (1d6) points of
-Constitution unless the victims make a successful save vs.
-breath weapon or have some special protection from heat
-stroke and dehydration.
-Paraelemental beasts of sun regenerate 3 hit points
-per round while in sunlight. When removed from sun-
-light, their regeneration powers do not function and
-they have a4 penalty to attack and damage rolls.
-‘Their flight speed is reduced by -3 for every 12 hours
-straight they are not exposed to sunlight and
-they, also lose 2-12 hit points.
-The creatures can create massive
+Paraelemental beasts of sun regenerate 3 hit points per round while in sunlight. When removed from sunlight, their regeneration powers do not function and they have a -4 penalty to attack and damage rolls. Their flight speed is reduced by -3 for every 12 hours straight they are not exposed to sunlight and they also lose 2-12 hit points.
 
-bursts of sunlight from their bodies that can blind any seeing
-opponent within a 150-foot radius unless the opponent makes
-a successful save vs. spell. All undead caught in this burst of
-light suffer 6-36 (6d6) points of damage with no savmg throw.
-When the paraelemental beasts use this power they lose 5 hit
-points because they burns up part of themselves producmg
-the light. When they reach zero hit points they explode into
-solar energy producmg the same effect as this power.
+The creatures can create massive bursts of sunlight from their bodies that can blind any seeing opponent within a 150-foot radius unless the opponent makes a successful save vs. spell. All undead caught in this burst of light suffer 6-36 (6d6) points of damage with no saving throw. When the paraelemental beasts use this power they lose 5 hit points because they burn up part of themselves producing the light. When they reach zero hit points they explode into solar energy producing the same effect as this power.
 
-Paraelemental beasts of sun are immune to all heat-based
-and fire-based attacks, both nonmagical and magical. They
-can only be hit by a +1 or better magical weapon. by creatures
-of 4 HD or greater, and by creatures with magical abilities.
-They are immune to all sleep, charm, and hold spells. Cold-
-based attacks cause them 1 additional point of damage per die
-of damage caused Darkness spells cause them 2-12 (2d6) points
-of damage and continual darkness causes them 4-24 (4d6)
-points of damage.
+Paraelemental beasts of sun are immune to all heat-based and fire-based attacks, both nonmagical and magical. They can only be hit by +1 or better magical weapon or by creatures of 4 HD or greater, and by creatures with magical abilities. They are immune to all *sleep*, *charm*, and *hold* spells. Cold-based attacks cause them 1 additional point of damage per die of damage caused. *Darkness* spells cause them 2-12 (2d6) points of damage and *continual darkness* causes them 4-24 (4d6) points of damage.
 
- 
- 
- 
- 
- 
-  
- 
-  
+## Habitat/Society
 
-Habitat/Society: Paraciemental beasts of sun
-gather in small flocks of as many as 10 whenever possible, but
-because of their rarity on the Prime Material Plane, they are
-usually encountered alone. They spend most of their time fly-
-ing high above the land, basking in solar energy. They seldom
-attack creatures except in defense or when they spot humans,
-humanoids, or demihumans that remind them of those who
-summoned them.
+Paraelemental beasts of sun gather in small flocks of as many as 10 whenever possible, but because of their rarity on the Prime Material Plane they are usually encountered alone. They spend most of their time flying high above the land, basking in solar energy. They seldom attack creatures except in defense or when they spot humans, humanoids, or demihumans that remind them of those who summoned them.
 
-EcOlOGY: Paractemental beasts of sun are among the eas-
-iest creatures to summon and outnumber all other paraele-
-mental beasts two to one. They are often spotted circling far
-overhead but are almost never seen near the ground except
+## Ecology
 
-when they are recently summoned or when they attack those
-whom they believe summoned them.
+Paraelemental beasts of sun are among the easiest creatures to summon and outnumber all other paraelemental beasts two to one. They are often spotted circling far overhead but are almost never seen near the ground except when they are recently summoned or when they attack those whom they believe summoned them.
+
+
+80
 
 ---
 
@@ -15400,319 +14711,91 @@ something in the creature that brings it out of its trance to
 ---
 
 # Page 106
+feed. It eats almost anything animal. Its diet, however, is very unusual: it eats only the bones of its victims, leaving the rest of the body behind. It wails its anger and frustration at having its physical form stranded with no means to take itself back home.
 
-— ———— i EE A + oe
+The stalking horror prefers to lair away from civilization in caves and ruins that have long been abandoned. This allows the creature the time to meditate and rest without being disturbed. Stalking horrors position their lairs in very defensible locations.
 
-feed. It eats almost anything animal. Its diet, however, is
-very unusual: it eats only the bones of its victims, leaving
-the rest of the body behind. It wails its anger and frustra-
-tion at having its physical form stranded with no means to
-take itself back home.
+## Ecology
 
-The stalking horror prefers to lair away from civilization in
-caves and ruins that have long been abandoned. This allows
-the creature the time to meditate and rest without being
-disturbed. Stalking horrors position their lairs in
-very defensible locations.
+While the stalking horror eats almost anything, it has no natural predators. Its flesh is unpalatable to beings on the Prime Material Plane. Eating the flesh of the moonbeast causes nausea and hallucinations that last 2d4 hours after which the consumer falls into a deep coma for 1d4 days. During that time the consumer has horrifying dreams of a gray and misty world with bizarre and mutated creatures that slither and crawl across the sparse landscape.
 
-Ecology: white the stalking horror
-eats almost anything, it has no natural
-predators. Its flesh is unpalatable to be-
-ings on the Prime Material Plane. Eating
-the flesh of the moonbeast causes nausea
-and hallucinations that last 2d4 hours
-after which the consumer falls into a
-deep coma for 1d4 days. During that time
-the consumer has horrifying dreams of a
-gray and misty world with bizarre and
-mutated creatures that slither and crawl
-across the sparse landscape.
+Though the flesh cannot be eaten, the hide of the creature makes excellent armor and shields. If properly treated, the hide can make leather armor with an effective AC 5. It also gives its wearer a +1 bonus on saving throws for all spells of 1st and 2nd level. Few merchants are aware of the value of the hide, since few moonbeasts have ever been killed.
 
-Though the flesh cannot be eaten, the
-hide of the creature makes excellent
-armor and shields. If properly treated, the
-hide can make leather armor with an ef-
-fective AC 5. It also gives its wearer a +1
-bonus on saving throws for all spells of Ist
-and 2nd level. Few merchants are aware of
-the value of the hide, since few moonbeasts
-have ever been killed.
+## Moonbeast Magical Items
 
-Moonstone Magical Jtems
+The moonbeast also stalks prey that have magical items strongly linked to the beast’s summoning. Each horror has at least one item to which it is bonded. These items can range from jewelry to weapons to sculptures, but they have several things in common. First, each item has a gemstone of not less than 500 gp value as an element of its construction. Second, these items have at least one powerful magical property, such as *wall of fog*, *fog cloud*, *dispel magic*, *fireball*, *lightning bolt*, *(Evard’s) black tentacles* or *cloudkill*. This power can be used once per day. The possessor of the item has 25% magic resistance. If the item is a weapon, it may have an enchantment of as much as +2. This item cannot harm the stalking horror to which it is linked. It may, however, be used against other stalking horrors.
 
-The moonbeast also stalks prey that have
-magical items strongly linked to the
-beast’s summoning. Each horror has at
-least one item to which it is bonded. These
-items can range from jewelry to weapons to
-sculptures, but they have several things in
-common. First, each item has a gemstone of
-not less than 500 gp value as an element of
-its construction. Second, these items have
-at least one powerful magical property,
-such as wall of fog, fog cloud, dispel
-magic, fireball, lightning bolt,
-(Evard’s) black tentacles or cloud-
-kill. This power can be used once
-per day The possessor of the item
-has 25% magic resistance. If the
-item is a weapon, it may have an en-
-chantment of as much as +2. This item can-
-not harm the stalking horror to which It is linked. It
-may, however, be used against other stalking horrors.
+These items also have some horrifying side effects. The owner of the item becomes very possessive of the item. The possessor attempts to stay in physical contact with the item at all times and becomes violent if it is forcibly removed. Anyone possessing such an item gradually becomes a creature of the night. After possessing the item for one continuous month, the possessor suffers a -1 penalty to all attack rolls, ability checks, and saving throws while in sunlight. The same rolls receive a +1 bonus if the character is bathed in the light of the full moon.
 
-These items also have some horrifying side effects.
-owner of the item becomes very possessive of the item. The
-possessor attempts to stay in physical contact with the item
-at all times and becomes violent if it is forcibly removed.
-Anyone possessing such an item gradually becomes a crea-
-ture of the night. After possessing the item for one continu-
-ous month, the possessor suffers a -1 penalty to all attack
-rolls, ability checks, and saving throws while in sunlight.
-The same rolls receive a +1 bonus if the character is bathed
-in the light of the full moon.
+Characters possessing these items may carry them for years before they discover their deadly link to a moonbeast.
 
-Characters possessing these items may carry them for
-years before they discover their deadly link to a moonbeast.
+Once the moonbeast has awakened and sated its appetite, it seeks out and attempts to destroy the individual possessing the item. If the moonbeast succeeds, it leaves the item for someone else to find. One sage has speculated that the moonbeast leaves the item, then returns to destroy its possessor as revenge for being summoned to Athas.
 
-@
-<
-
-The
-
- 
- 
-  
- 
- 
- 
-  
-  
- 
- 
- 
- 
-  
-  
-   
- 
- 
- 
-   
- 
- 
- 
-  
-  
- 
-
-~
-
-O° mm a i
-
-    
-   
-        
-       
-    
- 
-    
-   
-  
- 
-
-Once the moonbeast has awakened and sated its
-appetite, it seeks out and attempts to de- =
-
-stroy the individual possessing the \‘
-item. If the moonbeast succeeds, it
-leaves the item for someone else
-
-to find. One sage has specu-
-
-lated that the moonbeast \N
-leaves the item, then re-
-
-turns to destroy its pos-
-sessor as revenge for
-
-being summoned to
-
-\
-
-Athas.
-
-165
+105
 
 ---
 
 # Page 107
 
-CLIMATE/TERRAIN: Any plains
-FREQUENCY: Uncommon
-ORGANIZATION: Tribal
-Activity Cycte: Day
+# Tarek
 
-Dir: Omnivore
-INTELLIGENCE: High (13-14)
-TREASURE: P(D)
-ALIGNMENT: Lawful neutral
+| Statistic | Value |
+|---|---|
+| Climate/Terrain | Any plains |
+| Frequency | Uncommon |
+| Organization | Tribal |
+| Activity Cycle | Day |
+| Diet | Omnivore |
+| Intelligence | High (13-14) |
+| Treasure | P (D) |
+| Alignment | Lawful neutral |
+| No. Appearing | 2-12/20-60 (tribe) |
+| Armor Class | 7 |
+| Movement | 12 |
+| Hit Dice | 2 |
+| THAC0 | 19 |
+| No. of Attacks | 2 or 1 |
+| Damage/Attack | 1d4/1d4 or by weapon +2 |
+| Special Attacks | Psionics |
+| Special Defenses | Fight past death |
+| Magic Resistance | Nil |
+| Size | M (6' tall) |
+| Morale | Steady (12) |
+| Level/XP Value | 65 |
+| Psionics Summary | Dis 2 / Sci 2 / Dev 7; PSPs 30; Att: MT, PsC; Def: MBk, TS |
+| Player’s Option | #AT1; MTHAC0 18; MAC 7 |
 
- 
+**Clairsentience:** *Sciences* — true sight; *Devotions* — combat mind, martial trance, psionic sense.
 
-No. APPEARING:
+**Telepathy:** *Sciences* — mindlink; *Devotions* — contact *(ESP)*, invisibility, mind thrust *(inflict pain)*, psychic crush *(psychic blade)*.
 
-2-12/20-60 (tribe)
-ARMOR CLASS: 7
+Tareks are big, musclebound, and hairless bipeds that inhabit the hilly and mountainous areas of Athas. They have square, big-boned heads with sloping foreheads and massive brow ridges. Their flat noses have flared nostrils, and their domed muzzles are full of sharp teeth. Their powerful arms are so long that their knuckles drag along the ground. Tareks have a distinct musky odor that can be detected from as far away as 15 feet.
 
-MOVEMENT: 12
-e . Hit Dice: 2
-THACO: 19
-es No. OF ATTACKS: 2orl
-DAMAGH/ATTACK: 1d4/1d4 or by weapon +2
+Tareks move with jerky, awkward strides except when engaged in combat. Then they exhibit a style and grace usually uncommon in creatures of their size and build. To watch them engage in combat is to watch fluid motions that are as artistic as dance — unless the viewer happens to be on the receiving end of the deadly spectacle.
 
-SPECIAL ATTACKS:
-‘SPECIAL DEFENSES:
+Tareks speak their own language, as well as the common language of the Tyr region. Their voices are harsh and guttural, as fearful in tone as their appearance and just as powerful.
 
-Psionics
-Fight past death
+## Combat
 
-MAcic_ RESISTANCE: Nil
-SIZE: M (6 tall)
-Morate: Steady (12)
-LevE/XP_ VALUE: 65
+Tareks are violent and aggressive. They place great value and honor in physical prowess. Their great strength gives them a +2 damage bonus when using weapons, though their huge fists can do considerable damage on their own (1d4). While tareks will use weapons, they shun armor of any sort. Instead, they rely on their own tough hides and natural combat agility to protect them.
 
-PsIONICS SUMMARY: Dis 2/Sci 2/Dev 7; PSPs 30
-Att: MT, PsC; Def: MBk, TS
-PLAYER'S OPTION: #AT1; MTHACO 18; MAC 7
+The most common weapons employed by tarek warriors are the handfork and the heartpick. The handfork serves equally well as a parrying tool or a slicing weapon that does 1d6 points of damage. The handfork is usually made out of obsidian, but 10% of these weapons are forged from iron or steel. The heartpick, usually made of bone, is a hammerlike weapon with a serrated pick on the front and a heavy, flat head on the back. The bone heartpick inflicts 1d8 points of damage.
 
-Clairsentience: Sciences— true sight; Devotions— combat mind,
+In the wild, tareks fight in concert, making them extremely formidable opponents. They have such a developed sense of teamwork that for every tarek fighting together against the same foe, their THAC0 number improves by 1. So, two tareks fighting the same enemy have a THAC0 of 18 instead of 19, while five tareks would each have THAC0s of 14. This attack bonus is only applied when tareks team up against a single foe or group of foes, not when each tarek in the group fights a different opponent.
 
-martial trance, psionic sense.
+This attack bonus and their natural ferocity make tareks extremely popular in the gladiatorial arenas of the city-states. They are often set up as mated pairs, giving them an advantage over other gladiator teams. In rare instances, as many as six tareks are teamed against one huge opponent for special contests. The crowds love to watch tarek teams tear into a braxat or other terror from the wastes. Such contests are so popular in Nibenay that a select group of templars are assigned to keep the arena stocked with both tareks and monsters to pit them against for the monthly Festival of Ral.
 
-Telepathy: Sciences— mindlink; Devotions contact (ESP), in-
+Due to their great strength and remarkable constitutions, tareks have the ability to battle beyond the point where other creatures would succumb to wounds and other injuries. Even when dealt a fatal blow, tareks continue to fight after death. In game terms, tareks can continue to attack until they are reduced to -10 hit points without suffering any penalties. When they do take enough damage to reduce them to -10, tareks finally succumb to the damage they’ve sustained.
 
-visibility, mind thrust (inflict pain), psychic crush (psychic
-blade).
+## Habitat/Society
 
-{ Tareks are big, musclebound, and hairless bipeds that inhabit
+Tareks gather in tribes, building small communities in the hills and mountains of the Tyr region. These communities often sustain themselves by raiding, and visitors are not welcome. Unless a group of visitors include an obvious elemental cleric, tarek warriors rush out to kill or drive the intruders away. In rare instances, members of a community will be sent out to trade with merchant caravans, but few traders will blindly conduct business with these representatives. More often than not, such representatives are decoys for an unseen raiding party. More than one caravan has been taken by surprise while negotiating a deal with tarek traders.
 
-the hilly and mountainous areas of Athas. They have square,
-big-boned heads with sloping foreheads and massive brow
-ridges. Their flat noses have flared nostrils, and their domed
-muzzles are full of sharp teeth. Their powerful arms are so
-long that their knuckles drag along the ground. Tareks have a
-distinct musky odor that can be detected from as far away as
-15 feet.
+For every six tareks encountered, there will be one leader. A tarek leader has 3 HD and a THAC0 of 18. In groups of 20 or more, one tarek hero will be present. Tarek heroes have 5 HD and THAC0s of 16. A tribal community has a chief with 7 HD and a THAC0 of 14.
 
-Tareks move with jerky, awkward strides except when en-
-gaged in combat. Then they exhibit a style and grace usually
-uncommon in creatures of their size and build. To watch them
-engage in combat is to watch fluid motions that are as artistic
-as dance — unless the viewer happens to be on the receiving,
-end of the deadly spectacle.
+Tareks hate wizardly magic in all its forms. They go out of their way to destroy defilers, and they’ll even chase away preservers who use their magic in the vicinity of a tarek community. This hatred of magic translates into a strong dislike for elves, since elves often deal in the business of spell components and have an innate love for all things magical. Tarek raiders often attack elf tribes that wander too close to their territory as an automatic response to the probable proximity of wizardly magic.
 
-Tareks speak their own language, as well as the common
-language of the Tyr region. Their voices are harsh and gut-
-
-teral, as fearful in tone as their appearance and lust as
-powerful.
-
-ComBat: Tarcks are violent and aggressive. They place
-great value and honor in physical prowess. Their great
-Strength gives them a +2 damage bonus when using
-weapons, though their huge fists can do considerable
-damage on their own (1d4). While tareks will use weapons,
-they shun armor of any sort. Instead, they rely on their
-
-own tough hides and natural combat agility to protect
-them.
-
-The most common weapons employed by tarek war-
-riors are the handfork and the heartpick. The handfork
-serves equally well as a parrying tool or a slicing
-weapon that does 1d6 points of damage. The handfork
-
-is usually made out of obsidian, but 10% of these
-weapons are forged from iron or steel. The
-heartpick, usually made of bone, is a ham-
-merlike weapon with a serrated pick on
-
-the front and a heavy, flat head
-
-on the back The bone heartpick inflicts 148 points of damage.
-
-In the wild. tareks fight in concert, making them extremely
-formidable opponents. They have such a developed sense of
-teamwork that for every tarek fighting together against the
-same foe, their THACO number improves by 1. So. two tareks
-fighting the same enemy have a THACO of 18 (instead of 19),
-while five tareks would each have THACOs of 14. This attack
-bonus is only applied when tareks team up against a single foe
-or group of foes, not when each tarek in the group fights a dif-
-ferent opponent.
-
-This attack bonus and their natural ferocity make tareks
-extremely popular in the gladiatorial arenas of the city-
-states. They are often set up as mated pairs, giving them an
-advantage over other gladiator teams. In rare intstances, as
-many as six tareks are teamed against one huge opponent
-for special contests. The crowds love to watch tarek teams
-tear into a braxat or other terror from the wastes. Such con-
-tests are so popular in Nibenay that a select group of tem-
-plars are assigned to keep the arena stocked with both
-tareks and monsters to pit them against for the monthly
-Festival of Ral.
-
-Due to their great strength and remarkable constitutions,
-tareks have the ability to battle beyond the point where other
-creatures would succumb to wounds and other injuries. Even
-when dealt a fatal blow, tareks continue to fight after death.
-In game terms, tareks can continue to attack until they are re-
-duced to -10 hit points without suffering any penalties. When
-they do take enough damage to reduce them to ~10, tareks fi-
-nally succumb to the damage they've sustained.
-
-Habitat/Society: tareks gather in tribes, building
-small communities in the hills and mountains of the Tyr re-
-gion. These communities often sustain themselves by raiding,
-and visitors are not welcome. Unless a group of visitors in-
-clude an obvious elemental cleric, tarek warriors rush out to
-Kill or drive the intruders away In rare instances, members of
-a community will be sent out to trade with merchant cara-
-vans, but few traders will blindly conduct business with these
-representatives. More often than not, such representatives are
-decoys for an unseen raiding party. More than one caravan
-has been taken by surprise while negotiating a deal with tarek
-traders.
-
-For every six tareks encountered, there will be one leader.
-A tarek leader has 3 HD and a THACO of 18 In groups of 20 or
-more, one tarek hero will be present. Tarek heroes have 5 HD
-and THAC0s of 16. A tribal community has a chief with 7 HD
-and a THACO of 14.
-
-Tareks hate wizardly magic in all its forms. They go out of
-their way to destroy defilers, and they'll even chase away pre-
-servers who use their magic in the vicinity of a tarek commu-
-nity. This hatred of magic translates into a strong dislike for
-elves, since elves often deal in the business of spell compo-
-nents and have an innate love for all thing magical. Tarek
-raiders often attack elf tribes that wander too close to their
-territory as an automatic response to the probable proximity
-of wizardly magic.
-
-On the other hand, tareks have a great deal of respect for
-all types of priestly ‘magic. The elemental forces that hold
-sway over the world receive as much reverence as the violent-
-tempered tareks are capable of giving. However, tarek tribes
-tolerate only one kind of cleric in their midst—earth clerics.
-Tareks respect the earth and everything connected with its el-
-emental nature. They consider themselves to be born of the
-earth, and feel a kinship with the mountains and hills they
-choose to live among. “Solid is the tarek, strong like the earth,
-and numerous as the soil,” sing the earth clerics of the tarek
-tribes.
+On the other hand, tareks have a great deal of respect for all types of priestly magic. The elemental forces that hold sway over the world receive as much reverence as the violent-tempered tareks are capable of giving. However, tarek tribes tolerate only one kind of cleric in their midst — earth clerics. Tareks respect the earth and everything connected with its elemental nature. They consider themselves to be born of the earth, and feel a kinship with the mountains and hills they choose to live among. “Solid is the tarek, strong like the earth, and numerous as the soil,” sing the earth clerics of the tarek tribes.
 
 ---
 
@@ -16108,157 +15191,74 @@ pee ae
 
 # Page 111
 
-CLIMATE/TERRAIN: Any land
+# Thri-kreen
 
-FREQUENCY: Uncommon
-ORGANIZATION: Clutch and pack
-Activity Cycte: Constant
-DIET: Carnivore
-INTELLIGENCE: Average to high (8-14)
-‘TREASURE: Varies
-‘ALIGNMENT: Chaotic neutral
-No. APPEARING: 2d12
-ARMOR CLASS: 5
+| Statistic | Value |
+|---|---|
+| Climate/Terrain | Any land |
+| Frequency | Uncommon |
+| Organization | Clutch and pack |
+| Activity Cycle | Constant |
+| Diet | Carnivore |
+| Intelligence | Average to high (8-14) |
+| Treasure | Varies |
+| Alignment | Chaotic neutral |
+| No. Appearing | 2d12 |
+| Armor Class | 5 |
+| Movement | 18 |
+| Hit Dice | 6+3 |
+| THAC0 | 13 |
+| No. of Attacks | 5 or 2 |
+| Damage/Attack | 1d4 (x4) / 1d4+1, or 1d4+1 and by weapon |
+| Special Attacks | Paralyzation |
+| Special Defenses | Missile dodge |
+| Magic Resistance | Nil |
+| Size | L (11' long) |
+| Morale | Fanatic (17-18) |
+| Level/XP Value | 1,400 |
+| Psionics Summary | Varies |
+| Player’s Option | MAC 7 |
 
-ee MOVEMENT: 18
+The figures given above are for mature adult thri-kreen. Others have the following abilities, based on their age. They age one age category per year until they reach mature adult:
 
-ee Hi Dice: 643
-THACO: 13
-No. OF ATTACKS: 5 or2
-DAMAGH/ATTACK: 1d4 (x4)/1d4+1, or
+| Age | HD | THAC0 | XP | Claw/Bite Damage | Special Ability |
+|---|---:|---:|---:|---:|---|
+| Larva | 1+3 | 19 | 65 | 1/1 | — |
+| Child | 2+3 | 17 | 120 | 1/1 | — |
+| Young | 3+3 | 17 | 175 | 1d3/1d3 | leap |
+| Young adult | 4+3 | 15 | 270 | 1d3/1d3 | — |
+| Adult | 5+3 | 15 | 975 | 1d4/1d4+1 | venom, chatkcha |
+| Mature adult | 6+3 | 13 | 1,400 | 1d4/1d4+1 | dodge missiles |
 
-1d4+1 and by weapon
-Paralyzation
-Missile dodge
+Thri-kreen are a race of large, intelligent insects often referred to as “mantis warriors.” They are found in most areas of Athas and they prefer to roam the plains where they have hunting territories. Thri-kreen have no need of sleep and can remain active through the day and night.
 
-SPECIAL ATTACKS:
-‘SPECIAL DEFENSES:
+Mature adult thri-kreen are 7 feet tall at the shoulder and 11 feet long. Six limbs protrude from their midsection, two are used for walking and the other four end in hands. The tough, sandy-yellow exoskeleton is extremely hard. A thri-kreen has two compound eyes, usually black with highlighted eyespots, two antennae, and a complicated jaw structure that manipulates food as the thri-kreen chews. The antennae help the individual to maneuver through brush and grasslands in the darkness. They also lessen any melee combat penalty from darkness or blindness by 1; missile combat is not affected. Thri-kreen often wear harnesses and even some forms of clothing, but they never wear armor.
 
-Macic RESISTANCE: Nil
-Size: L(Y’ long)
-Morate: Fanatic (17-18)
+The two subspecies of thri-kreen found in the Tyr Region are the jeral and the to’ksa. Jeral have short necks and antennae. Their hands each have three fingers and the shells of their abdomens are segmented. To’ksa have four-fingered hands, long necks, and long antennae. They also have a long, solid shell that covers the top of the abdomen, and a thin layer of skin that covers the rest of their chitin.
 
-Level/XP_ VALUE: 1,400
+The thri-kreen native language uses several sounds found in humanoid languages, but also uses clicks and grinding sounds. While it is difficult for other creatures to speak this tongue, it is just as difficult for thri-kreen to imitate more standard speech patterns. Thri-kreen speak their own language, but some, perhaps 30%, understand common.
 
-PsIONICS SUMMARY:
-PLAYER'S OPTION :
+## Combat
 
-Varies
-MAC 7
+The majority of thri-kreen are hunters, concerned primarily with finding enough prey to support the pack. Thri-kreen hunters seldom attack other sentient beings for food, but will defend themselves if attacked. Some thri-kreen have strayed from hunting and have begun raiding; these thri-kreen are the scourge of all other creatures. Thri-kreen attack in a well-coordinated group, generally weakening their enemies with psionics and missile weapons before engaging in melee. They also stalk prey and are relentless in their pursuit. Because thri-kreen do not sleep, their ability in siege combat is superior. A raiding party can continue an assault long after their opponents have tired. Though thri-kreen can win most battles by force, they win some through attrition and endurance.
 
-  
- 
+The thri-kreen’s chitinous exoskeletons give them AC 5 naturally. Thri-kreen are immune to *charm person* and *hold person* spells. Unarmed, thri-kreen can attack with 4 claws and 1 bite attack per round. If using a weapon, thri-kreen can attack with weapon and bite. The gythka, a polearm with a blade at each end, can slash for 1-6 (1d6) points of damage against man-sized or smaller targets, or 1-10 (1d10) points of damage against larger targets. The gythka can be thrown as a spear to inflict 3-8 (1d6+2) points of damage. Thri-kreen also learn special combat maneuvers as they grow older, learning all by the time they are mature adults.
 
-The figures given above are for mature adult thri-kreen. Oth-
-ers have the following abilities, based on their age (they age
-{ one age category per year until they reach mature adult):
+**Leap:** This ability allows thri-kreen to leap 20 feet straight up or 50 feet forward. They cannot leap backward.
 
-Claw/bite Special
-HD THACO XP_ Damage Ability
-Larva 143001965 wl -
-Child 243° «17120 1/1 -
-Young, 343 «17-175. 143/143. leap
-Young adult 443 15.270 1d3/1d3 -
-Adult 543 «15975. 1d4/1d4+1 venom,
-chatkcha
-Mature adult 6+3 13 1,400 1d4/1d4+1 dodge
-missiles
+**Chatkcha:** This is a crystalline throwing wedge. A thri-kreen can throw 2 chatkcha per round, as far as 270 feet. A chatkcha causes 3-8 (1d6+2) points of damage when it hits, and returns to the thrower when it misses. Generally, only adult thri-kreen use the chatkcha. The thri-kreen ceremony of adulthood is associated with the chatkcha.
 
-Thri-kreen are a race of large, intelligent insects often re-
+**Venom:** This venom is delivered through an older thri-kreen’s bite. Anyone bitten must make a successful save vs. paralyzation or be paralyzed. Smaller than man-sized creatures are paralyzed for 2-20 (2d10) rounds, man-sized for 2-16 (2d8) rounds, large creatures for 1-8 (1d8) rounds, and huge and gargantuan creatures for only 1 round.
 
-ferred to as “mantis warriors. ” They are found in most areas
-of Athas and they prefer to roam the plains where they have
-hunting territorres. Thri-kreen have no need of sleep and
-can remain active through the day and night.
+**Dodge missiles:** A mature thri-kreen can dodge missiles fired at it with a roll of 9 or better on 1d20; they cannot dodge magical effects, only physical missiles. Magical physical missiles
 
-Mature adult thri-kreen are 7 feet tall at the shoulder
-and 11 feet long. Six limbs protrude from their midsection,
-two are used for walking and the other four end in hands.
-‘The tough, sandy-yellow exoskeleton is extremely hard. A
-thri-kreen has two compound eyes, usually black with
-
-highlighted eyespots, two antennae, and a complicated
-
-law structure that manipulates food as the thri-kreen
-chews. The antennae help the individual to maneuver
-through brush and grasslands in the darkness
-(they also lessen any melee combat penalty
-from darkness or blindness by 1; missile
-combat is not affected). Thri-kreen
-often wear harnesses and
-
-even some forms of clothing, but they never wear armor.
-
-The two subspecies of thri-kreen found in the Tyr Region
-are the jeral and the to’ksa. Jeral have short necks and anten-
-nae. Their hands each have three fingers and the shells of
-their abdomens are segmented. To’ksa have four-fingered
-hands, long necks, and long antennae They also have a long,
-solid shell that covers the top of the abdomen, and a thin layer
-of skin that covers the rest of their chitin.
-
-The thri-kreen native language uses several sounds found
-in humanoid languages, but also uses clicks and grinding
-sounds. While it is difficult for other creatures to speak this
-tongue, it is lust as difficult for thri-kreen to imitate more
-standard speech patterns. Thri-kreen speak their own lan-
-guage, but some (perhaps 30%) understand common.
-
-Combat: The majority of thri-kreen are hunters, con-
-cerned primarily with finding enough prey to support the
-pack. Thri-kreen hunters seldom attack other sentient beings
-for food, but will defend themselves if attacked. Some thri-
-kreen have strayed from hunting and have begun raiding,
-these thri-kreen are the scourge of all other creatures. Thri-
-kreen attack in a well-coordinated group, generally weaken-
-ing their enemies with psionics and missile weapons before
-engaging in melee. They also stalk prey and are relentless in
-their pursuit Because thri-kreen do not sleep, their ability in
-siege combat is superior. A raiding party can continue an as-
-sault long after their opponents have tired. Though thri-kreen
-can win most battles by force, they win some through attrition
-and endurance.
-
-The thri-kreen’s chitinous exoskeletons give them AC 5
-naturally Thri-kreen are immune to charm person and hold
-person spells. Unarmed, thri-kreen can attack with 4 claws
-and 1 bite attack per round. If using a weapon, thri-kreen can
-attack with weapon and bite. The gythka, a polearm with a
-blade at each end, can slash for 1-6 (1d6) points of damage
-against man-sized or smaller targets, or 1-10 (1d10) points of
-damage against larger targets. The gythka can be thrown as a
-spear to inflict 3-8 (1d6+2) points of damage. Thri-kreen also
-learn special combat maneuvers as they grow older, learning
-all by the time they are mature adults.
-
-Leap: This ability allows thri-kreen to leap 20 fect straight
-up or 50 feet forward. They cannot leap backward.
-
-Chatkcha: This is a crystalline throwing wedge. A thri-
-kreen can throw 2 chatkcha per round, as far as 270 feet. A
-chatkcha causes 3-8 (1d6+2) points of damage when it hits, and
-returns to the thrower when it misses. Generally, only adult
-thri-kreen use the chatkcha. The thri-kreen ceremony of
-adulthood is associated with the chatkcha.
-
-Venom: This venom is delivered through an older thri-
-kreen’s bite. Anyone bitten must make a successful save vs.
-paralyzation or be paralyzed. Smaller than man-sized crea-
-tures are paralyzed for 2-20 (2d10) rounds, man-sized for 2-16
-(2d8) rounds, large creatures for 1-8 (1d8) rounds, and huge
-and gargantuan creatures for only 1 round.
-
-Dodge missiles: A mature thri-kreen can dodge missiles
-fired at it with a roll of 9 or better on 1d20; they cannot dodge
-magical effects, only physical missiles. Magical physical mis-
+110
 
 ---
 
 # Page 112
 
-— —————————— i fF  — © oe
-
-siles (arrows, thrown axes) modify this roll by their can go about their business, confident of their sta-
+(arrows, thrown axes) modify this roll by their can go about their business, confident of their sta-
 magical bonus. tus within the group.
 Psionics: Some thri-kreen have psionic When thri-kreen are not engaged in hunting,
 wild talents. There is a 50% chance that
@@ -16267,41 +15267,6 @@ talent, described in The Complete Psion-
 ics Handbook,
 Magical items:
 Thri-kreen can use
-
-   
- 
-  
- 
- 
- 
- 
- 
- 
-  
- 
- 
-  
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
-  
- 
- 
- 
-  
-     
- 
- 
- 
- 
- 
     
 
 they make and repair weapons, teach skills to
@@ -16407,296 +15372,97 @@ cause all thri-kreen agree that a strong leader makes a strong _ also be used fo
 pack. The challenger is doing what is best for the pack, not by humanoids if care is
 seeking personal gain, and after a challenge, both individuals taken.
 
-—=
-
-oe «mr 77,
-
-    
-  
- 
-  
- 
- 
-    
-   
-   
-  
- 
- 
- 
- 
-   
- 
-
-~~
+111
 
 ---
 
 # Page 113
 
-CLIMATE/TERRAIN:
-FREQUENCY:
+| Statistic | J’ez | J’hol |
+|---|---|---|
+| Climate/Terrain | Any land | Any land |
+| Frequency | Common in the North, very rare elsewhere | Common in the North, very rare elsewhere |
+| Organization | Clutch and state | Clutch and state |
+| Activity Cycle | Constant | Constant |
+| Diet | Carnivore | Carnivore |
+| Intelligence | Average to genius (8-18) | Average to exceptional (8-16) |
+| Treasure | U (see below) | U (see below) |
+| Alignment | Any lawful | Any non-good |
+| No. Appearing | 3d12 | 3d10 |
+| Armor Class | 5 | 5 |
+| Movement | 18 | 18 |
+| Hit Dice | 6+3 | 6+3 |
+| THAC0 | 13 | 13 |
+| No. of Attacks | 5 or 2 | 5 or 2 |
+| Damage/Attack | 1d3 (x4) / 1d6+1 or 1d4+1 and by weapon | 1d4 (x4) / 1d4+1 or 1d4+1 and by weapon |
+| Special Attacks | Paralyzation | Leap |
+| Special Defenses | Missile dodge | Missile dodge |
+| Magic Resistance | Nil | Nil |
+| Size | L (9' long) | M (6' tall) |
+| Morale | Elite (15-16) | Fanatic (17-18) |
+| Level/XP Value | 1,400 | 1,400 |
+| Psionics Summary | Nil | Nil |
+| Player’s Option | MAC 6 | MAC 7 |
 
-ORGANIZATION:
-Activity CYCLE:
-Diet:
-INTELLIGENCE:
+Tohr-kreen are large, intelligent insects, very similar to thri-kreen. Tohr-kreen build permanent settlements in the lands far to the north of the Tablelands, home to Tyr and the other humanoid city-states. For many years, the tohr-kreen have sent scouts to the Tyr region. These scouts are called zik-trin’ta by other tohr-kreen, but are known as tohr-kreen to the peoples of the Tablelands. The zik-trin’ta are known as tohr-kreen in the *Monstrous Compendium* appendix for the *Dark Sun* campaign setting.
 
-‘TREASURE:
-ALIGNMENT:
-No. APPEARING:
-ARMOR CLASS:
-MOVEMENT:
-Hit Dice:
-THACO:
+The most common tohr-kreen of the north are the j’ez, who have black chitin, and the j’hol, who are smaller and have red chitin. Members of both species have aggressive natures. Both are similar in most ways to thri-kreen.
 
-No. OF ATTACKS:
-DAMAGH/ATTACK:
+## J’ez Tohr-kreen
 
-SPECIAL ATTACKS:
-SPECIAL DEFENSES:
-MAGIC RESISTANCE:
-Size:
+The figures given above are for mature adult j’ez. Others have the following abilities based on their age. They age one age category every two years until they reach mature adult:
 
-MORALE:
+| Age | HD | THAC0 | XP | Claw/Bite Damage | Special Ability |
+|---|---:|---:|---:|---:|---|
+| Larva | 1+3 | 19 | 65 | 1/1d2 | — |
+| Child | 2+3 | 17 | 120 | 1/1d3 | — |
+| Young | 3+3 | 17 | 175 | 1d3/1d4 | leap |
+| Young adult | 4+3 | 15 | 270 | 1d3/1d6 | venom |
+| Adult | 5+3 | 15 | 975 | 1d4/1d6+1 | chatkcha |
+| Mature adult | 6+3 | 13 | 1,400 | 1d4/1d6+1 | dodge missiles |
 
-LEVEI/XP VALUE:
+J’ez have black chitin and four-fingered hands. Skin stretches over their chitin and they have long antennae. J’ez also have mouths that are odd for kreen. The general arrangement is circular, and the j’ez have inward-pointing fanglike parts around the circumference of their relatively flexible mouths. Extensions reach from the sides of the mouth and help secure food to be taken in by the “fangs,” which dispense the tohr-kreen’s venom.
 
-PsIONIcs SUMMARY:
-PLAYER'S OPTION:
+## Combat
 
-Jez
+J’ez enjoy combat and war and are good military leaders. They prefer to use psionics against their opponents when possible, closing to melee when psionic attack is not an option. J’ez prefer manufactured weapons, especially the gythka, that can slash for 1-6 (1d6) points of damage against targets of man-size or smaller, or 1-10 (1d10) points of damage against a larger target. Like thri-kreen, j’ez tohr-kreen have a natural AC 5 because of their exoskeletons, and are immune to *hold person* and *charm person* spells. They learn other special abilities as they age.
 
-‘Any land
-Common in the
-North, very rare
-elsewhere
-Clutch and state
-Constant
-Carnivore
-Average to genius
-(8-18)
+**Leap:** This ability allows j’ez to leap 20 feet straight up or 50 feet forward. They cannot leap backward.
 
-U (see below)
-Any lawful
+**Venom:** A bite delivers this venom. Anyone bitten must make a successful save vs. paralyzation or be paralyzed. Smaller than man-sized creatures are paralyzed for 2-10 (2d10) rounds, man-sized for 2-8 (2d8) rounds, large creatures for 1-8 (1d8) rounds, and huge and gargantuan creatures for 1 round.
 
-3d12
+**Chatkcha:** J’ez can throw two chatkcha per round, as far as 270 feet. A chatkcha causes 3-8 (1d6+2) points of damage when it hits, and returns to the thrower when it misses.
 
-5
+**Dodge missiles:** Mature j’ez can dodge missiles fired at them with a roll of 9 or better on 1d20; they cannot dodge magical effects, only physical missiles. Magical physical missiles (arrows, thrown axes) modify this roll by their magical bonus.
 
-18
+**Psionics:** Many j’ez (50%) are psionicists. The rest have psionic wild talents (see *The Complete Psionics Handbook*).
 
-643
+**Magical and psionic items:** J’ez never use magical items, but all have at least one item with psionic powers.
 
-13
+## Habitat/Society
 
-5or2
-1d3.(x4)/1d6+1
-or Idb+1 and
-by weapon
-Paralyzation
-Missile dodge
-Nil
+J’ez usually live in rocky badlands and sandy wastes, terrain that exists throughout most of their nation in the North. J’ez are often psionicists and philosophers, but tend to be aggressive. Their philosophy requires them to remain combat capable. J’ez have mating habits and gestation periods similar to those of thri-kreen. J’ez can live to be 80 years old.
 
-L (9 long)
-Elite (15-16)
-1,400
+## Ecology
 
-Nil
+Tohr-kreen are carnivores. They build towns and cities. They work with a similar species, the zik-chil, to produce zik-trin’ta scouts.
 
-MAC 6
+J’ez architecture and art are average, but their literature is superb. Treasure carried by a j’ez is often books and gems. Substitute psionic items for any indicated magical items.
 
-J’hol
+## J’hol Tohr-kreen
 
-‘Any land
-Common in the
-North, very rare
-elsewhere
-Clutch and state
-Constant
-Carnivore
-Average to
-excentional (8-16)
-U (see below)
-Any non-good
-3d10
+The figures given are for mature adult j’hol. Others have the following abilities, based on their age. They age one age category per year until they reach mature adult:
 
-5
+| Age | HD | THAC0 | XP | Claw/Bite Damage | Special Ability |
+|---|---:|---:|---:|---:|---|
+| Larva | 1+3 | 19 | 65 | 1/1 | - |
+| Child | 2+3 | 17 | 120 | 1/1 | - |
+| Young | 3+3 | 17 | 175 | 1d3/1d3 | leap |
+| Young adult | 4+3 | 15 | 270 | 1d3/1d3 | chatkcha, kyorkcha, dodge missiles |
+| Adult | 5+3 | 15 | 975 | 1d4/1d4+1 | venom |
+| Mature adult | 6+3 | 13 | 1,400 | 1d4/1d4+1 | - |
 
-18
-
-6+3
-
-13
-
-5 or2
-
-Add (x4)/1d4+1
-or 1d4+1 and
-
-by weapon
-
-Leap
-
-Missile dodge
-Nil
-
-M (6 tall)
-Fanatic (17-18)
-1,400
-
-Nil
-
-MAC 7
-
-  
-  
-  
-   
-  
-  
-  
-  
-  
-  
-    
-    
-   
-  
-  
-   
-  
-   
-     
-    
-    
-   
-  
-  
-  
- 
- 
- 
-           
-
-Tohr-kreen are large, intelligent insects, very similar to thri-
-kreen. Tohr-kreen build permanent settlements in the lands
-
-1 far to the north of the Tablelands, home to Tyr and the other
-humanoid city-states. For many years, the tohr-kreen have
-sent scouts to the Tyr region These scouts are called zik-trin'ta
-by other tohr-kreen, but are known as tohr-kreen to the peo-
-ples of the Tablelands. The zik-trin’ta are known as tohr-kreen
-in the MONSTROUS COMPENDIUM appendix for the DARK SUN cam-
-paign setting.
-
-The most common tohr-kreen of the north are the j'ez, who
-have black chitin, and the j/hol, who are smaller and have red
-chitin. Members of both species have aggressive natures. Both
-are similar in most ways to thri-kreen.
-
-Jez Tokr-Rreen
-
-The figures given above are for mature adult j/ez. Others have
-the following abilities. based on their age (they age one age
-category every two years until they reach mature adult):
-
-Claw/bite Special
-HD THACO XP Damage Ability
-Larva 14300-1965 1/1d2 -
-Child 243° «17-120. 1/1d3. -
-Young 343. «17-175, 1d3/1d4 leap
-Young
-adult == 443-15. 270 1d3/1d6_— venom
-Adult 543. «15-975. 1d4/1d6+1 chatkcha
-Mature
-adult 6+3 131,400 1d4/1d6+1 dodge
-missiles
-
-J'ez have black chitin and four-fingered hands. Skin
-stretches over their chitin and they have long anten-
-nae. J’ez also have mouths that are odd for kreen.
-The general arrangement is circular, and the jez
-
-have inward-pointing fanglike parts around
-the circumference of their relatively
-flexible mouths. Extensions reach
-
-from the sides of the mouth and help secure food to be taken
-in by the “fangs,” which dispense the tohr-kreen’s venom.
-
-ComBat: Jez enjoy combat and war and are good mili-
-tary leaders. They prefer to use psionics against their oppo-
-nents when possible, closing to melee when psionic attack is
-not an option. J'ez prefer manufactured weapons, especially
-the gythka, that can slash for 1-6 (1d6) points of damage
-against targets of man-size or smaller, or for 1-10 (1d10) points
-of damage against a larger target. Like thri-kreen, j'ez tohr-
-kreen have a natural AC 5 because of their exoskeletons, and
-are immune to hold person and charm person spells. They learn
-other special abilities as they age.
-
-Leap: This ability allows jez to leap 20 feet straight up or
-50 feet forward. They cannot leap backward.
-
-Venom: A bite delivers this venom. Anyone bitten must
-make a successful save vs. paralyzation or be paralyzed.
-Smaller than man-sized creatures are paralyzed for 2-10
-(2d10) rounds, man-sized for 2-8 (2d8) rounds, large creatures
-
-for 1-8 (1d8) rounds, and huge and gargantuan creatures for
-1 round.
-
-Chatkcha: J’ez can throw two chatkcha per round, as far
-as 270 feet. A chatkcha causes 3-8 (1d6+2) points of damage
-when it hits, and returns to the thrower when it misses.
-
-Dodge missiles: Mature j’ez can dodge missiles fired at
-them with a roll of 9 or better on 1d20; they cannot dodge
-magical effects, only physical missiles. Magical physical mis-
-siles (arrows, thrown axes) modify this roll by their magical
-bonus.
-
-Psionics: Many j’ez (50%) are psionicists. The rest have
-psionic wild talents (see The Complete psionics Handbook).
-
-Magical and psionic items: J’ez never use magical
-items, but all have at least one item with psionic powers.
-
-Habitat/Society: jez usually live in rocky bad-
-lands and sandy wastes, terrain that exists throughout most of
-their nation in the North. J’ez are often psionicists and
-philosophers, but tend to be aggressive. Their philosophy re-
-quires them to remain combat capable. J’ez have mating
-habits and gestation periods similar to those of thri-kreen. J’ez
-can live to be 80 years old.
-
-Ecology: tohr-kreen are carnivores. They build towns
-and cities: They work with a similar species, the zik-chil, to
-produce zik-trin’ta scouts.
-
-J’ez architecture and art are average, but their literature is
-superb Treasure carried by a j’ez is often books and gems
-(substitute psionic items for any indicated magical items).
-
-J hol Tokr-Rkreen
-
-The figures given are for mature adult j’hol. Others have the
-following abilities, based on their age (they age one age cate-
-gory per year until they reach mature adult):
-
-Claw/bite Special
-HD THACO XP Damage Ability
-Larva 14300-1965 1/1 -
-Child 2430 «17—S120 yi -
-Young, 343 «17-175. 1d3/1d3. leap
-Young adult 443. 15. 270.-~—-1d3/1d3 chatkcha,
-kyorkcha.
-dodge
-missiles
-Adult 54315975. 1d4/1d4+1 venom
-
-Mature adult 6+3 B 1400 1d4/1d4+1 -
+112
 
 ---
 

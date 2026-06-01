@@ -2344,31 +2344,31 @@ a + 2 bonus to all his ability checks.
 
 # Page 41
 
-Dwarf Level Progression
 
-Saving Throws
+# Dwarf Level Progression
 
- 
+| Level | XP | HD | THACo | D | W | P | B | S |
+|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 1d8 | 19 [0] | 8 | 9 | 10 | 13 | 12 |
+| 2 | 2,200 | 2d8 | 19 [0] | 8 | 9 | 10 | 13 | 12 |
+| 3 | 4,400 | 3d8 | 19 [0] | 8 | 9 | 10 | 13 | 12 |
+| 4 | 8,800 | 4d8 | 17 [+2] | 6 | 7 | 8 | 10 | 10 |
+| 5 | 17,000 | 5d8 | 17 [+2] | 6 | 7 | 8 | 10 | 10 |
+| 6 | 35,000 | 6d8 | 17 [+2] | 6 | 7 | 8 | 10 | 10 |
+| 7 | 70,000 | 7d8 | 14 [+5] | 4 | 5 | 6 | 7 | 8 |
+| 8 | 140,000 | 8d8 | 14 [+5] | 4 | 5 | 6 | 7 | 8 |
+| 9 | 270,000 | 9d8 | 14 [+5] | 4 | 5 | 6 | 7 | 8 |
+| 10 | 400,000 | 9d8+3* | 12 [+7] | 2 | 3 | 4 | 4 | 6 |
+| 11 | 530,000 | 9d8+6* | 12 [+7] | 2 | 3 | 4 | 4 | 6 |
+| 12 | 660,000 | 9d8+9* | 12 [+7] | 2 | 3 | 4 | 4 | 6 |
 
-Level XP HD THACo| DW P B S
-1 ° 1d8 iglo] 89 10 BR
-2 2,200 2d8 19[o} 89 0 BR
-3 4,400 3d8 19[0] 89 0 BR
-4 8,800 4d8 17[+2] 67 8 w 0
-5 17,000 5d8 17[+2] 67 8 0 10
-6 35,000 6d8 17[+2] 67 8 0 10
-7 70,000 748 wits] | 45 6 7 8
-8 140,000 8d8 14[+5] 45 6 7 8
-9 270,000 ods wits] | 45 6 7 8
-10 400,000 = 9d8+3* 12[+7] 23 4 4 6
-un 530,000 gd8+6* 12[+7] 23 44 6
-12 660,000 = d8+9" 12[+7] 23 4 4 6
+**THACo:** Attack matrix row to use.  
+**Ascending AC attack bonus:** in `[ ]`.  
+`*`: Modifiers from CON no longer apply.
 
-THACo: Attack matrix row to use.
-(Ascending AC attack bonus in [].)
-*: Modifiers from CON no longer
+**Saving Throws:**  
+D: Death / poison; W: Wands; P: Paralysis / petrify; B: Breath attacks; S: Spells / rods / staves.
 
-apply.
 
 After Reaching 9th Level
 
@@ -2382,22 +2382,6 @@ times of war or disaster. A dwarf chief
 may only hire dwarven mercenaries.
 Specialists and retainers of any race
 may be hired.
-
-D: Death / poison; W: Wands;
-P: Paralysis / petrify; B: Breath
-
-attacks;
-
-S: Spells / rods / staves.
-
- 
-
- 
-
- 
-
- 
-
  
 
 40
@@ -4135,61 +4119,50 @@ Magical} Any Never breaks
 
 # Page 69
 
-Adventuring Descriptions
+# Adventuring Gear
 
-Gear Incense: burned incense may be
-intended as a symbolic offering to
+The following are the equivalent of the adventuring gear present in *Old School Essentials™* or the base B/X game. Any items not present in the original game will be described next to the table below.
 
-The following are the equivalent of the various deities or spirits, or to serve as
-adventuring gear present in Old an aid in prayer. Incense in Dark Sun
-School Essentials™ or the base B/X may be used to temporarily repel
-game. Any items not present in the undead and other malicious ethereal
-original game will be described next to beings.
+## Adventuring Gear Table
 
-the table below. Idol Amulet: Figures representing
+| Item | Cost (cp) |
+|---|---:|
+| Backpack | 5 |
+| Crowbar (Bone) | 10 |
+| Incense (Garlic) | 5 |
+| Grappling Hook (Obsidian) | 50 |
+| Hammer (Stone) | 10 |
+| Idol Amulet (Holy Symbol) | 25 |
+| Life sap (Holy Water, vial) | 50 |
+| Stone spikes (12) | 25 |
+| Lantern | 10 |
+| Mirror (hand-sized, glass) | 5 |
+| Oil (1 flask) | 2 |
+| Pole (10' long, wooden) | 1 |
+| Rations (food or water, 3 days) | 30 |
+| Rations (food or water, 1 day) | 10 |
+| Rope (50') | 1 |
+| Sack (large) | 2 |
+| Sack (small) | 1 |
+| Stakes (3) and mallet (Stone) | 15 |
+| Thieves’ tools | 25 |
+| Fire rocks (tinderbox) | 3 |
+| Torches (6) | 5 |
+| Waterskin | 20 |
+| Beer (2 pints) | 1 |
+| Rosemary (Wolfsbane) | 10 |
 
-divinity that may channel power.
+## Descriptions
 
-Sorcerer kings, elemental patrons and
-Adventuring Gear Table nature spirits have their own amulets.
-Life Sap: Extract from trees and other
+**Incense:** Burned incense may be intended as a symbolic offering to various deities or spirits, or to serve as an aid in prayer. Incense in Dark Sun may be used to temporarily repel undead and other malicious ethereal beings.
 
- 
+**Idol Amulet:** Figures representing divinity that may channel power. Sorcerer kings, elemental patrons and nature spirits have their own amulets.
 
-Item Cost (ep)
-plants and blessed by priests to use for
+**Life Sap:** Extract from trees and other plants and blessed by priests to use for medicinal purposes. It has all for all intent and purposes the same effects of holy water, plus the ability of healing 1d3 hit points upon pouring it into a wound and healing some poisons and paralysis upon drinking it. A variant of this is **Life Tree Sap**, which is way more strong and valuable, for more details, refer to *treasures, DMG*.
 
-Backpack 5 medicinal purposes. It has all for all
-Crowbar (Bone) 10 intent and purposes the same effects of
-Incense (Garlic) 5 holy water, plus the ability of healing
+**Fire Rocks:** Fire striker rocks that can create a spark of fire. Basically a non-metal tinderbox.
 
-- 7 = 1d3 hit points upon pouring it into a
-Grappling Hook (Obsidian) 5° wound and healing some poisons and
-Hammer (Stone) io paralysis upon drinking it. A variant of
-Idol Amulet (Holy Symbol) 25 this is Life Tree Sap, which is way
-Life sap (Holy Water, vial) 50 more strong and valuable, for more
-Stone spikes (12) 25 details, refer to treasures, DMG.
-Teneo = Fire Rocks: Fire striker rocks that can
-Mirror (hand-sized, glass) create a spark of fire. Basically a
-
-"8 5 non-metal tinderbox.
-
-Oil (1 flask) = Rosemary: Herb associated with
-
-Pole (10' long, wooden) 1 calming properties to “clear the mind”.
-Rations (food or water, 3 days) 30 It may be used to calm beasts, whether
-Rations (food or water, 1 day) 10 wild or domestic.
-Rope (50’) 1
-Sack (large) 2
-Sack (small) 1
-Stakes (3) and mallet (Stone) 5
-Thieves’ tools 25
-Fire rocks (tinderbox) 3
-Torches (6) 5
-Waterskin 20
-Beer (2 pints) 1
-
-Rosemary (Wolfsbane) 0
+**Rosemary:** Herb associated with calming properties to “clear the mind”. It may be used to calm beasts, whether wild or domestic.
 
 68
 
@@ -6148,64 +6121,46 @@ succesful save vs spell.
 
 # Page 99
 
-Detect Evil
+## Detect Evil
 
-Range: 120’ Duration: 1 turn per rank
-Objects enchanted for evil purposes or
-living beings with evil intentions are
-revealed by the aura.
+**Range:** 120'  
+**Duration:** 1 turn per rank
 
-e Intent only: This power does not
-grant the ability to read minds, but
-only grants a general sense of evil
-intent.
+Objects enchanted for evil purposes or living beings with evil intentions are revealed by the aura.
 
-• Definition of evil: The referee
-must decide what is “evil”. Some
-things that are potentially harmful,
-like traps, are not “evil”.
+- **Intent only:** This power does not grant the ability to read minds, but only grants a general sense of evil intent.
+- **Definition of evil:** The referee must decide what is “evil”. Some things that are potentially harmful, like traps, are not “evil”.
 
-Detect Magic & Psionics
+## Detect Magic & Psionics
 
-Range: 60’ Duration: 1 turn per rank
-Enchanted objects, areas, or creatures
-are caused to glow. Both permanent
-and temporary enchantments are
-revealed.
+**Range:** 60'  
+**Duration:** 1 turn per rank
 
- 
+Enchanted objects, areas, or creatures are caused to glow. Both permanent and temporary enchantments are revealed.
 
-Dimension Door
+## Dimension Door
 
-Range: 10’ Requirement: 3rd Rank
-Duration: N/A
-The caster or a single creature is
-instantly transferred to another
-location up to 360’ distant. The
-destination may be selected in two
-ways:
-1. Known location: A location, within
-360, known to the psionic character.
-2. An unknown location: Specified by
-a series of offsets (e.g. 120’ north, 160°
-east, 80’ up) totaling not more than
-360.
-Stipulations: The following apply:
-e If the destination is occupied: By
-a solid body, the power fails.
-e If the target is unwilling: It may
-save versus spells to resist the
-teleportation.
+**Range:** 10'  
+**Requirement:** 3rd Rank  
+**Duration:** N/A
 
-Dimension Walking
+The caster or a single creature is instantly transferred to another location up to 360' distant. The destination may be selected in two ways:
 
-Range: N/A Requirement: 3rd Rank
-Duration: 1 turn per rank
+1. **Known location:** A location, within 360', known to the psionic character.
+2. **An unknown location:** Specified by a series of offsets, e.g. 120' north, 160' east, 80' up, totaling not more than 360'.
 
-This power allows the caster to travel
-long distances by passing through a
-pocket dimension. They can travel at
-the rate of 21 miles a turn.
+**Stipulations:** The following apply:
+
+- **If the destination is occupied:** By a solid body, the power fails.
+- **If the target is unwilling:** It may save versus spells to resist the teleportation.
+
+## Dimension Walking
+
+**Range:** N/A  
+**Requirement:** 3rd Rank  
+**Duration:** 1 turn per rank
+
+This power allows the caster to travel long distances by passing through a pocket dimension. They can travel at the rate of 21 miles a turn.
 
 97
 
@@ -9680,92 +9635,32 @@ center.
 
 # Page 142
 
-Wall of Thorns
+## Wall of Thorns
 
-Duration: 1 turn per level
-Range: 80’
+**Duration:** 1 turn per level  
+**Range:** 80'
 
-A barrier of tough, thorny plants is
-conjured at a point of the caster’s
-choosing.
+A barrier of tough, thorny plants is conjured at a point of the caster’s choosing.
 
-@ Size: The wall can be any size up to
-1,200 square feet and may be
-shaped in any manner and to any
-dimensions the caster desires. For
-example, it may be a straight wall or
-curved into a protective circle.
+- **Size:** The wall can be any size up to 1,200 square feet and may be shaped in any manner and to any dimensions the caster desires. For example, it may be a straight wall or curved into a protective circle.
+- **Enveloping creatures:** Any creatures standing in a spot where the wall is conjured suffer damage equal to 1d8 plus their AC score.
+- **Pushing through:** Creatures may push through the wall, but suffer damage equal to 1d8 plus their AC score for every 10'.
+- **Ascending AC:** If using the optional rule for Ascending Armor Class (see Ascending AC, p13), the damage inflicted by the thorns is 1d8 + (19 - AAC score).
+- **Hacking through the wall:** Is possible and does not inflict damage on those breaking through. It takes 4 turns to chop through a 10' section.
+- **Fire:** The wall is unharmed by normal fire, but magical fire will burn it away completely in 2 turns.
 
-e Enveloping creatures: Any
-creatures standing in a spot where
-the wall is conjured suffer damage
-equal to 1d8 plus their AC score.
+## Weather Summoning
 
-e Pushing through: Creatures may
-push through the wall, but suffer
-damage equal to 1d8 plus their AC
-score for every 10°.
+**Duration:** Special  
+**Range:** 40 yards around the caster
 
-e Ascending AC: If using the
-optional rule for Ascending Armor
-Class (see Ascending AC, p13), the
-damage inflicted by the thorns is
-1d8 + (19 - AAC score).
+By this spell, the caster calls forth weather appropriate to the climate and season of the area he is in.
 
-e Hacking through the wall: Is
-possible and does not inflict
-damage on those breaking through.
-It takes 4 turns to chop through a
-10’ section.
-
-e Fire: The wall is unharmed by
-normal fire, but magical fire will
-burn it away completely in 2 turns.
-
-Weather Summoning
-
-Duration: Special
-
-Range: 240 yards around the caster
-By this spell, the caster calls forth
-weather appropriate to the climate and
-season of the area he is in.
-
-e Summoned Weather: The
-summoned weather is not under
-the control of the caster. It might
-last but a single turn, in the case of
-a tornado, or for hours or even days
-in other cases.
-
-Area of Effect: The area of effect
-likewise varies from about 1 square
-mile. Several casters can act in
-concert to greatly affect weather,
-controlling winds, and working
-jointly to summon very extreme
-weather conditions.
-
-e Summoning Time: Within four
-turns after the spell is cast, the
-trend of the weather to come is
-apparent-- e.g., clearing skies, gusts
-of warm or hot air, a chill breeze,
-overcast skies, etc.
-
-e Weather Arrival: Summoned
-weather arrives 1d12+5 turns after
-the spell is cast. Note that the new
-weather condition cannot be
-changed by the caster once it has
-been summoned.
-
-e Dispelling: Once the weather is
-fully summoned, it cannot be
-dispelled. If the summoning is
-successfully dispelled before it has
-been completed, the weather slowly
-reverts to its original condition.
+- **Summoned Weather:** The summoned weather is not under the control of the caster. It might last but a single turn, in the case of a tornado, or for hours or even days in other cases.
+- **Area of effect:** The area of effect likewise varies from about 1 square mile. Several casters can act in concert to greatly affect weather, controlling winds, and working jointly to summon very extreme weather conditions.
+- **Summoning Time:** Within four turns after the spell is cast, the trend of the weather to come is apparent-- e.g., clearing skies, gusts of warm or hot air, a chill breeze, overcast skies, etc.
+- **Weather Arrival:** Summoned weather arrives 1d12+5 turns after the spell is cast. Note that the new weather condition cannot be changed by the caster once it has been summoned.
+- **Dispelling:** Once the weather is fully summoned, it cannot be dispelled. If the summoning is successfully dispelled before it has been completed, the weather slowly reverts to its original condition.
 
 140
 

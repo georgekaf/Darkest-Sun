@@ -3,6 +3,23 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.0 — OSE GMG + Players Guide Continued Corrections
+
+**`OSE_Game_Masters_Guide.md`** — additional pages fixed after v0.9:
+
+- p37: Desert Giant + Plain Giant — `Wo Pio Bio Si2`→`W9 P10 B10 S12`, stat blocks reformatted bold
+- p79: City Districts generator — heavy two-column merge resolved, all 4 district tables reformatted as markdown
+- p85: Ruin Inhabitants + Unique Feature + Room Purpose — 3 tables fully rewritten
+
+**`OSE_Players_Guide.md`** — corrections from PDF source:
+
+- p4–5: Table of Contents — fully rewritten as structured markdown tables; heavy OCR garble (`cenier'`, `epee`, `PSIONICISE... cee seeeee`, `{Equipment`, `Vehiicles`) resolved
+- p25: Bard Level Progression — garbled saving throw columns corrected, `nu`→`11`, `=9d.4+4*`→`9d4+4*`, `22[+7]`→`12[+7]`, `74`→`7d4`, `ist`→`1st`, "uth Level"→"11th Level"
+- p49: Halfling Level Progression — all saving throw columns corrected, `746`→`7d6`, `wl+5]`→`14[+5]`, `YoU`→`11`, `4oUu`→`11`, garbled rows fixed
+- p70: Poison table — fully rewritten; `id2`→`1d2`, `ad4`→`1d4`, `3dio`→`3d10`, `sdio`→`5d10`, `vet`→`+2`, `no`→`110`, `oo`→`700`
+
+---
+
 ## v0.9 — OSE GMG Manual Page Corrections
 
 **`OSE_Game_Masters_Guide.md`** — combined file restructured and pages rewritten from PDF source.
@@ -63,9 +80,7 @@ tags: [kharanok, meta]
 
 ---
 
-### 🔲 Pending — Bare page number artifacts (auto-fixable, ~40 pages)
-
-Stray footer numbers left over from OCR on pages: 10, 11, 14–17, 19, 20, 29, 37, 45, 48, 56, 58–61, 63, 65–68, 70–73, 75, 78–81, 83, 85–87, 89–93
+**Page footer numbers retained** — stray page numbers preserved throughout as reference anchors. Truncated footers corrected: p17 `7`→`17`, p58 `5`→`58`, p71 `1`→`71`, p73 `13`→`73`, p75 `15`→`75`, p78 `18`→`78`.
 
 ---
 

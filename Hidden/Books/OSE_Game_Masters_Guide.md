@@ -585,100 +585,83 @@ specialized almost nonexistent forges.
 
 # Page 10
 
-Environmental
-Hazards
+# Environmental Hazards
 
-Athasian weather is harsh and as deathly
+Athasian weather is harsh and as deathly as its inhabitants. For this reason, DMs are encouraged to place challenges that come from the environment itself.
 
-as its inhabitants. For this reason, DMs
-are encouraged to place challenges that
-come from the environment itself.
+## Generating Weather
 
-Generating Weather
+See the tables below to determine the highest temperature in the day and temperature effects.
 
-See the tables below to determine the
-highest temperature in the day and
-temperature effects.
+## Day Temperatures
 
-Day Temperatures
-2d6 Descriptor F° Degrees Consumption
-2 Cool 60-79 Half
-3 Warm 80-89 -
-4 Warm 90-99 -
-5 Hot 100-109 -
-6 Hot 110-119 =
-7 VeryHot — 120-124 -
-8 Very Hot 125-129 -
-9 Very Hot 130-134 -
-10 Very Hot 135-139 -
-0 Furnace 140-149 Double
-2 Furnace 150+ Double
-Night Temperatures
-2d6 Descriptor F° Degrees Consumption
-2 Cold 40-44 Half
-3 Cold 45-49 Half
-4 Cool 60-63 Half
-5 Cool 64-67 Half
-6 Cool 68-71 Half
-7 Cool 2-75 Half
-8 Cool 76-79 Half
-9 Warm 80-87 -
-10 Warm 88-94 -
-0 Warm 95-99 ~
-2 Hot 100+ -
+| 2d6 | Descriptor | F° Degrees | Water Consumption |
+|---:|---|---:|---|
+| 2 | Cool | 60-79 | Half |
+| 3 | Warm | 80-89 | - |
+| 4 | Warm | 90-99 | - |
+| 5 | Hot | 100-109 | - |
+| 6 | Hot | 110-119 | - |
+| 7 | Very Hot | 120-124 | - |
+| 8 | Very Hot | 125-129 | - |
+| 9 | Very Hot | 130-134 | - |
+| 10 | Very Hot | 135-139 | - |
+| 11 | Furnace | 140-149 | Double |
+| 12 | Furnace | 150+ | Double |
 
-Heatstroke & Cold Damage
+## Night Temperatures
 
-Any character unprotected for extreme
-temperatures receives damage
-depending on the temperatures listed on
-tables to the left:
+| 2d6 | Descriptor | F° Degrees | Water Consumption |
+|---:|---|---:|---|
+| 2 | Cold | 40-44 | Half |
+| 3 | Cold | 45-49 | Half |
+| 4 | Cool | 60-63 | Half |
+| 5 | Cool | 64-67 | Half |
+| 6 | Cool | 68-71 | Half |
+| 7 | Cool | 72-75 | Half |
+| 8 | Cool | 76-79 | Half |
+| 9 | Warm | 80-87 | - |
+| 10 | Warm | 88-94 | - |
+| 11 | Warm | 95-99 | - |
+| 12 | Hot | 100+ | - |
 
-e Hot: 1d2 Damage Daily
+## Heatstroke & Cold Damage
 
-e Cold and Very Hot: 1d4
+Any character unprotected for extreme temperatures receives damage depending on the temperatures listed on tables to the left:
 
-Damage Daily.
-e Furnace: 1d6 Damage Daily
+- **Hot:** 1d2 Damage Daily
+- **Cold and Very Hot:** 1d4 Damage Daily.
+- **Furnace:** 1d6 Damage Daily
 
-Winds
+## Winds
 
-Roll on the table below to determine
-wind strength.
+Roll on the table below to determine wind strength.
 
-Wind Conditions
+## Wind Conditions
 
-2d6 Descriptor ‘Qiling = Weather
-2 None ° -
-3 Light 2 -
-4 Light 12 -
-5 Moderate xt -
-6 Moderate xt -
-7 Moderate x
-8 Strong x2 -
-9 Strong x2 -
-10 Storm x3 Sandstorm
-n Storm 3 Sandstorm
-12 Sirocco N/A Tornado*
+| 2d6 | Descriptor | Sailing Speed | Weather Effect |
+|---:|---|---:|---|
+| 2 | None | 0 | - |
+| 3 | Light | 1/2 | - |
+| 4 | Light | 1/2 | - |
+| 5 | Moderate | x1 | - |
+| 6 | Moderate | x1 | - |
+| 7 | Moderate | x1 | - |
+| 8 | Strong | x2 | - |
+| 9 | Strong | x2 | - |
+| 10 | Storm | x3 | Sandstorm |
+| 11 | Storm | x3 | Sandstorm |
+| 12 | Sirocco | N/A | Tornado* |
 
-*: On the Silt Sea, it causes gray death on a 20
-n radius
+`*`: On the Silt Sea, it causes gray death on a 20 miles radius.
 
- 
+**Sailing Speed:** It modifies the sailing speed of Silk Skimmers on the silt sea.
 
-Sailing Speed: It modifies the sailing
-speed of Silk Skimmers on the silt sea.
-Sandstorm: Sandstorms give a penalty
-of -4 on attack rolls and a penalty of +1
-on all Survival tasks.
+**Sandstorm:** Sandstorms give a penalty of -4 on attack rolls and a penalty of +1 on all Survival tasks.
 
-Tornado: It causes 1d6 damage to all
-unprotected characters.
+**Tornado:** It causes 1d6 damage to all unprotected characters.
 
-Gray Death: Silt Sandstorms that gives
-unprotected characters -4 on attack
-rolls, a penalty of +1 on all Survival tasks
-and increases water consumption by 2.
+**Gray Death:** Silt Sandstorms that gives unprotected characters -4 on attack rolls, a penalty of +1 on all Survival tasks and increases water consumption by 2.
 
 10
 
@@ -1176,104 +1159,67 @@ cohesion and flee from the battlefield.
 
 # Page 17
 
-°
-Sieges
+# Sieges
 
-When Sieges take place, the attacking
-side needs the use of specialized
-weapons to penetrate the enemy's
-fortress. The use of engineers is crucial
-to operate them, and their presence is
-crucial between victory or defeat.
+When Sieges take place, the attacking side needs the use of specialized weapons to penetrate the enemy’s fortress. The use of engineers is crucial to operate them, and their presence is crucial between victory or defeat.
 
-How Sieges work
+## How Sieges Work
 
-Sieges are managed the same way a mass
-combat would, with exception of siege
-weapons and how they interact with
-walls, gates and other defensive
-structures.
+Sieges are managed the same way a mass combat would, with exception of siege weapons and how they interact with walls, gates and other defensive structures.
 
-Walls
+## Walls
 
-The walls of the fort are the only thing
-protecting the defenders against the
-attacker. Their stats are listed as follows:
-Hull Points (hp)
+The walls of the fort are the only thing protecting the defenders against the attacker. Their stats are listed as follows:
 
-The wall’s structural integrity and ability
-to keep moving when damaged.
-Analogous to a character’s hit points. A
-wall that reaches o hull points is
-destroyed.
+**Hull Points (hp)**  
+The wall’s structural integrity and ability to keep moving when damaged. Analogous to a character’s hit points. A wall that reaches 0 hull points is destroyed.
 
-Armour Class (AC)
+**Armour Class (AC)**  
+The wall’s ability to resist damage from attacks.
 
-The wall’s ability to resist damage from
-attacks.
+**Price of Walls**  
+For more details regarding the price and construction walls and fortresses, see *Strongholds, p42*.
 
-Price of Walls
+## Wall Stats Table
 
-For more details regarding the price and
-construction walls and fortresses, see
-Strongholds, p42.
+| Structure | Hull Points | Armor Class |
+|---|---:|---:|
+| Wall | 40-60 | 9 [10] |
+| Tower, small | 20-30 | 8 [11] |
+| Tower, large | 30-40 | 8 [11] |
+| Gatehouse | 40-50 | 9 [10] |
 
-Wall Stats Table
+## Siege Weapons
 
-Structure — Hull Points Armor Class
-Wall 40-60 fio]
-Tower, small 20-30 8[u]
-Tower, large 30-40 8{u)
-Gatehouse 40-50 glr0]
+### Battering-Rams
 
-Siege Weapons
+Very effective against gatehouses. **Rams cost the same as closed wagon (400 cp).**
 
-Battering-Rams
+**Attack rolls:** Are made using a THACo of 19 [0] and occur at the same point in the combat sequence as missile fire.
 
-Very effective against gatehouses. Rams
-cost the same as a closed wagon (400
-cp).
+**Attack modifiers:** May be applied for weather conditions, maneuverability, etc.
 
-Attack rolls: Are made using a THACo
-of 19 [o] and occur at the same point in
-the combat sequence as missile fire.
-Attack modifiers: May be applied for
-weather conditions, maneuverability,
-ete.
+**Damage:** Deals 1d6+5 hull points damage against Gatehouses and 1d4+4 against walls.
 
-Damage: Deals 1d6+5 hull points
-damage against Gatehouses and 1d4+4
-against walls.
+### Catapults
 
-Catapults
+Fire either large rocks or flaming pitch. **Catapults cost 100 CP.**
 
-Fire either large rocks or flaming pitch.
-Catapults cost 100 CP.
+**Range:** 150-300 yards.
 
-Range: 150-300 yards.
+**Attacks roll:** Attacks with THACo 17 [+2]. Fires every 5 rounds.
 
-Attacks roll: Attacks with THACo 17
-[+2]. Fires every 5 rounds. Attack
-modifiers: May be applied for weather
-conditions, maneuverability, etc.
-Catapult Shot
+**Attack modifiers:** May be applied for weather conditions, maneuverability, etc.
 
-Inflicts 3d6 hull damage against
-structures. Shots cost 5 CP each.
-Catapult Shot, Pitch
+**Catapult Shot**  
+Inflicts 3d6 hull damage against structures. **Shots cost 5 CP each.**
 
-Sets a 10’x10’ area of a structure on fire.
-The burning does 1d6 hull points of
-damage per turn (for at least one turn)
-and will spread to other areas of the
-walls if not extinguished. A Pitch Shot
-cost 25 CP.
+**Catapult Shot, Pitch**  
+Sets a 10’×10’ area of a structure on fire. The burning does d6 hull points of damage per turn for at least one turn and will spread to other areas of the walls if not extinguished. **A Pitch Shot cost 25 CP.**
 
-Dismantling Siege Weapons
+## Dismantling Siege Weapons
 
-Disposing of the engineers operating the
-weapons or outright attacking them
-once will render them useless.
+Disposing of the engineers operating the weapons or outright attacking them once will render them useless.
 
 17
 
@@ -4910,84 +4856,45 @@ Massive Rock on Top
 
 # Page 92
 
-House Rules
+# House Rules
 
-This appendix will be written from the
-perspective of the Author talking to any
-potential DM, as it is a more personal
-piece, at least in relation to the rest of
-this book. Every table has its own share
-of house rules, a way DMs exercise their
-power as masters of the game by
-modifying, adding or removing rules to
-make their games more fun. This
-specific appendix is to showcase the
-house rules that I, the author
-(u/Lixunig8) use on the table. Some of
-these are more heretical relative to OSR
-gaming than others, but are the ones
-that I find more practical and overall
-fun, and the goal is that I can at least
-provide you with ideas for your games
-that you may find cool or appealing for
-you as a DM or your players.
+This appendix will be written from the perspective of the Author talking to any potential DM, as it is a more personal piece, at least in relation to the rest of this book. Every table has its own share of house rules, a way DMs exercise their power as masters of the game by modifying, adding or removing rules to make their games more fun. This specific appendix is to showcase the house rules that I, the author (u/Lixunig8) use on the table. Some of these are more heretical relative to OSR gaming than others, but are the ones that I find more practical and overall fun, and the goal is that I can at least provide you with ideas for your games that you may find cool or appealing for you as a DM or your players.
 
-Ascending Ability Checks
+## Ascending Ability Checks
 
-This was a mechanic introduced in 3rd
-edition onwards, which is doing ability
-checks by rolling a d2zo and adding a
-Modifier determined by the character’s
-ability score, success determined by
-whether or not the roll of the die is
-equal or higher than a number set by the
-DM, called Difficulty Check, the
-highest it is the more difficult the task
-the character is attempting to do is as
-well.
+This was a mechanic introduced in 3rd edition onwards, which is doing ability checks by rolling a d20 and adding a **Modifier** determined by the character’s ability score, success determined by whether or not the roll of the die is equal or higher than a number set by the DM, called **Difficulty Check**, the highest it is the more difficult the task the character is attempting to do is as well.
 
-Personally, | love this mechanic, it is
-simply too simple and elegant that I
+Personally, I love this mechanic, it is simply too simple and elegant that I honestly could not see my games without it, so I just added it back on my games. I did not straight up use the one used by 3rd edition onwards, as I thought it just had a power spike too high, so I am using the modifiers I read in the game *Castles and Crusades™*, which I find more fitting for *OSE™*.
 
-honestly could not see my games
-without it, so I just added it back on my
-games. | did not straight up use the one
-used by 3rd edition onwards, as I
-thought it just had a power spike too
-high, so I am using the modifiers I read
-in the game Castles and Crusades™,
-which I find more fitting for OSE™.
+## Ability Score Modifier
 
-Ability Score Modifier
+Assign each modifier to each ability score, all bonuses granted to any ability score determined by its number will be tied to the modifier, as determined by the following table.
 
-Assign each modifier to each ability
-score, all bonuses granted to any ability
-score determined by its number will be
-tied to the modifier, as determined by
-the following table.
+### Ability Score Modifier Table
 
-Ability Score Modifier Table
-Ability Score Modifier
-3 =)
-45 2
-6-8 =
-9g °
-15 #1
-16-17 +2
-18 +3
-Difficulty Checks
+| Ability Score | Modifier |
+|---:|---:|
+| 3 | -3 |
+| 4-5 | -2 |
+| 6-8 | -1 |
+| 9-12 | 0 |
+| 13-15 | +1 |
+| 16-17 | +2 |
+| 18 | +3 |
 
-The following table is to give an idea to
-DMs of what number represents what
-difficulty.
+## Difficulty Checks
 
-Difficulty Checks Table
-Task Difficulty ie
-Easy 5
-Medium 10
-Hard 5
-Heroic 20
-Legendary 25
+The following table is to give an idea to DMs of what number represents what difficulty.
+
+### Difficulty Checks Table
+
+| Task Difficulty | DC |
+|---|---:|
+| Easy | 5 |
+| Medium | 10 |
+| Hard | 15 |
+| Heroic | 20 |
+| Legendary | 25 |
 
 92
 
@@ -4995,68 +4902,21 @@ Legendary 25
 
 # Page 93
 
-Advantage & Disadvantage
+## Advantage & Disadvantage
 
-Introduced in sth edition, rolling with
-advantage means rolling the dice two
-times and choosing the highest result,
-while rolling with disadvantage is the
-opposite, rolling the dice two times and
-choosing the lowest result. Simple,
-elegant, it is useful to use instead of
-bonuses and penalties, which is why I
-use it.
+Introduced in 5th edition, rolling with advantage means rolling the dice two times and choosing the highest result, while rolling with disadvantage is the opposite, rolling the dice two times and choosing the lowest result. Simple, elegant, it is useful to use instead of bonuses and penalties, which is why I use it.
 
-Critical Hits
+## Critical Hits
 
-Old School Essentials™ have these in a
-way. Rolling a 20 on an attack roll equals
-an automatic hit, while rolling a1 means
-automatically failing. I personally love
-the idea of critical hits, which is why use
-the following variant instead:
+*Old School Essentials™* have these in a way. Rolling a 20 on an attack roll equals an automatic hit, while rolling a 1 means automatically failing. I personally love the idea of critical hits, which is why use the following variant instead:
 
-Critical hit: On a natural roll of 20, the
-attacker deals the maximum amount of
-damage possible, while adding a second
-damage roll plus all damage modifiers
-(e.g: A fighter with 14 STR attacks with a
-sword and roll a natural 20. The damage
-dealt is 9(1d8+STR) plus an additional
-roll of 1d8+STR.
+**Critical hit:** On a natural roll of 20, the attacker deals the maximum amount of damage possible, while adding a second damage roll plus all damage modifiers, e.g. a fighter with 14 STR attacks with a sword and roll a natural 20. The damage dealt is 9 (1d8+STR) plus an additional roll of 1d8+STR.
 
-Critical Breakage
+## Critical Breakage
 
-Critical breakage is a ruling that allows
-for more brutal attacks at the cost of
-one’s weapon. Basically, whenever an
-attacker with a weapon rolls a natural
-20, aside from applying the damage
-done by critical hit, he gets to roll for
-damage a third time at the cost of
-breaking the weapon (no matter the
+Critical breakage is a ruling that allows for more brutal attacks at the cost of one’s weapon. Basically, whenever an attacker with a weapon rolls a natural 20, aside from applying the damage done by critical hit, he gets to roll for damage a third time at the cost of breaking the weapon, no matter the material, and adding it all together for a devastating and brutal attack!
 
-material) and adding it all together for a
-devastating and brutal attack!
-
-This is a way to provide players with the
-choice of spending resources ina
-meaningful and dramatic way. Maybe
-they are facing an opponent way more
-powerful than they are, in which this
-rule may give them a chance of surviving
-by spending something arguably of less
-worth than their lives.
-
- 
-
- 
-
- 
-
- 
-
- 
+This is a way to provide players with the choice of spending resources in a meaningful and dramatic way. Maybe they are facing an opponent way more powerful than they are, in which this rule may give them a chance of surviving by spending something arguably of less worth than their lives.
 
 93
 

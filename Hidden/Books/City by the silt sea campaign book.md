@@ -431,7 +431,7 @@ Level 12 Con 12 forsaken elf quickly realized that the tribe was turning
 Hit Points 29 Intl8 against him. He left a short time later, followed by jive of the
 THACO 17(18 with dagger) Wis 13 young elves that had accompanied him to Giustenal.
 No. of Attacks 1 Chal3 These five have come to be known as the Loyal, and they are
-Damage/Attack: Id4—1 (bone dagger) ironically respected by elves from all tribes for their honesty
+Damage/Attack: 1d4—1 (bone dagger) ironically respected by elves from all tribes for their honesty
 Wizard Spells: 4 1st level, 4 2nd level, 4 3rd level, 4 4th and integrity, though some doubt the cause to which they
 levek, 4 5th level, 1 6th level have committed themselves.
 Now Jessix and his companions roam the Giustenal
@@ -897,7 +897,7 @@ movement penalties), though they may still pull wagons.
 Magma Forests
 Even slowly picking one's way through the jagged plains
 is a dangerous and agonizing experience. For every turn Occasionally a traveler will come across huge columns of
-spent moving through them, creatures take Id4 points of smooth rock jutting up to 15 feet into the air, with bases
+spent moving through them, creatures take 1d4 points of smooth rock jutting up to 15 feet into the air, with bases
 25
 
 Chapter Two: Giustenal Environs
@@ -1019,7 +1019,7 @@ Anyone experienced with stonemasonry can easily tell Sinking into the silt can b
 where later sections were added on. The original walls against the wall nearest the sea is as deep as 20 feet in
 were not built to counter warfare, and those who added to places, and a traveler trying to climb it will plunge ldlO
 them later simply built on top of the existing base. The feet into the dust. If the traveler sinks completely, he takes
-walls lack crenallation, apparently designed more by arti- Id4 points of choking damage immediately and begins
+walls lack crenallation, apparently designed more by arti- 1d4 points of choking damage immediately and begins
 sans than military architects. The only protected firing drowning (see pages 120-121 of the Player's Handbook).
 positions are the tall towers placed at each corner. Power- The traveler can walk out of the dust if he keeps his wits
 28
@@ -1057,7 +1057,7 @@ rooftops is called the Silt Road, and even the elves of the priest who looks ove
 Silt Stalkers tribe say that only the mad or the desperate Unfortunately, the walls are ruined in many places
 will attempt to walk its danger-strewn length. and avoiding the holes, gaps, and broken sections
 requires careful negotiation. Whenever an explorer walks
-The Silt Road atop the silt-covered walls, the DM must roll Id4—1 to
+The Silt Road atop the silt-covered walls, the DM must roll 1d4—1 to
 determine the number of hazards hidden within the next
 Many believe that fabulous treasures lie only inches 120 feet. After determining this number, the DM should
 beneath the silt carpet that covers most of Giustenal's roll that many survival (Silt Sea) or Intelligence—4 profi-
@@ -1438,7 +1438,7 @@ points of damage. Blinded. The biting smoke clouds the eyes and over-
 In addition, whenever a character fails a proficiency comes the victim's natural resistance. The individual
 check, he then needs to make a direction sense check must make a saving throw versus breath weapon or be
 (Wisdom +1 for those with the skill, Wisdom —2 for blinded for ldlO minutes. Success means that the victim
-those without it). A successful check means the character is blind for Id4 minutes. Unless another character takes
+those without it). A successful check means the character is blind for 1d4 minutes. Unless another character takes
 keeps to the course. A failure means the character loses the lead or the blinded character decides to wait out the
 his way, and the number of remaining survival checks is blindness, the number of remaining survival checks
 increased by one. If a character fails three direction sense increases by 1 d4 for those who made the save and 1 d6 for
@@ -2189,12 +2189,12 @@ the images but able to keep their senses. If t\\ey fail, the cracked on both sid
 images overwhelm them and they can't stop thinking lava flows from the west wall and exits through the east.
 about them. These characters suffer —4 penalties to The heat and lava make for difficult crossing unless mag-
 attack and damage rolls, to other saving throws and profi- ical or psionic precautions are taken. Every round spent
-ciency checks, and to their Armor Classes until they can near the lava cause Id4 points of damage from the
+ciency checks, and to their Armor Classes until they can near the lava cause 1d4 points of damage from the
 overcome the mental illness. This can be done naturally intense heat.
 hy making a new saving throw (using the penalty, one save The river is 25 feet wide and 6 feet deep. Ropes strung
 allowed each day) or through the use of psychic surgery. across it must make a saving throw versus magical fire
 Tunnel C. This tunnel once stretched from the (l 0) every round. Failure indicates that the rope has burst
-Groaning City to other subterranean cities now buried into flame and breaks apart in Id4—1 rounds (on a roll
+Groaning City to other subterranean cities now buried into flame and breaks apart in 1d4—1 rounds (on a roll
 by the earthquakes of the past. Vertical tunnels lead up of 1, the rope breaks immediately). Characters that fall
 to the surface and down to Kragmorta and New Giuste- into the lava take 6d6 damage every round until they
 nal. All of the orb receptacles in this tunnel are empty. climb free. A Strength check at —2 is required to pull
