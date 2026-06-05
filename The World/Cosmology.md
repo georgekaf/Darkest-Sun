@@ -2,6 +2,7 @@
 title: "Cosmology"
 icon: "scroll-old"
 ---
+
 ## **Cosmology**
 
 Athas is a world where planar travel is very difficult, or at least travel to other planes connected with the wider multiverse. This does not mean that there are no other planes in Athas, however, but it does mean these would be vastly different from other worlds.

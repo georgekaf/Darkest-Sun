@@ -17,37 +17,37 @@ Compiled from all book sources.
 
 ### Ingested
 
-| Poison | Cost (CP) | Save Mod | Onset | Effect (Save) | Effect (Fail) | Source |
-|--------|-----------|----------|-------|--------------|--------------|--------|
-| Inix slumber | 10 | +5 | 2d4 rds | 1d6 dmg | 3d6 dmg | Inix |
-| Elf Scent | 35 | +5 | 1d8 rds | 1d6 dmg | 4d6 dmg | Elf (?) |
-| Kank taint | 250 | +4 | 1d2 rds | 3d6 dmg | 5d6 dmg | Kank |
-| Purple grass extract | 600 | +3 | Instant | 4d6 dmg | 6d6 dmg | Purple grass |
-| Templar's ultimatum | 1,200 | varies | 1d4 turns | 5d6 dmg | Death | (synthetic) |
+| Poison               | Cost (CP) | Save Mod | Onset     | Effect (Save) | Effect (Fail) | Source       |
+| -------------------- | --------- | -------- | --------- | ------------- | ------------- | ------------ |
+| Inix slumber         | 10        | +5       | 2d4 rds   | 1d6 dmg       | 3d6 dmg       | Inix         |
+| Elf Scent            | 35        | +5       | 1d8 rds   | 1d6 dmg       | 4d6 dmg       | Elf (?)      |
+| Kank taint           | 250       | +4       | 1d2 rds   | 3d6 dmg       | 5d6 dmg       | Kank         |
+| Purple grass extract | 600       | +3       | Instant   | 4d6 dmg       | 6d6 dmg       | Purple grass |
+| Templar's ultimatum  | 1,200     | varies   | 1d4 turns | 5d6 dmg       | Death         | (synthetic)  |
 
 ### Inhaled
 
-| Poison | Cost (CP) | Save Mod | Onset | Effect (Save) | Effect (Fail) |
-|--------|-----------|----------|-------|--------------|--------------|
-| Brain seed powder | 10 | +8 | Instant | None | 1 turn paralysis |
-| Fordorran | 350 | +2 | Instant | 1 rd paralysis | 2 turns paralysis |
-| Gaj poison gas | varies | +0 | Instant | 2 rds paralysis | 3 turns paralysis |
-| Poison weed gas | 1,500 | +0 | Instant | 3 rds paralysis | 4 turns paralysis |
+| Poison            | Cost (CP) | Save Mod | Onset   | Effect (Save)   | Effect (Fail)     |
+| ----------------- | --------- | -------- | ------- | --------------- | ----------------- |
+| Brain seed powder | 10        | +8       | Instant | None            | 1 turn paralysis  |
+| Fordorran         | 350       | +2       | Instant | 1 rd paralysis  | 2 turns paralysis |
+| Gaj poison gas    | varies    | +0       | Instant | 2 rds paralysis | 3 turns paralysis |
+| Poison weed gas   | 1,500     | +0       | Instant | 3 rds paralysis | 4 turns paralysis |
 
 ---
 
 ## Campaign Poisons (Shadowdark — Rules/Poisons.md)
 
-| Name | Rarity | Delivery | Effect |
-|------|--------|----------|--------|
-| Aminiita root | Common | Eat | DC 12 CON or 3d6 dmg |
-| Bluewort | Common | Injure | DC 12 CON or paralyzed 1d4 rds |
-| Drowsy Dust | Uncommon | Touch (Eyes) | DC 12 CON or deep sleep 1d4 hrs |
-| Ether of Idos | Uncommon | Inhale | DC 12 CON or waking nightmares 1d4 rds |
-| Kingslayer oil | Uncommon | Eat | DC 18 CON or delayed onset (1hr) → 0 HP |
-| Nuzule oil | Rare | Injure | DC 15 CON or unconscious 3 rds |
-| Truth-speak oil | Rare | Touch | DC 18 CON or gibber truths 1 hr |
-| Vapor of Leng | Rare | Inhale | DC 15 CON or INT 3 for 1d4 hrs |
+| Name            | Rarity   | Delivery     | Effect                                  |
+| --------------- | -------- | ------------ | --------------------------------------- |
+| Aminiita root   | Common   | Eat          | DC 12 CON or 3d6 dmg                    |
+| Bluewort        | Common   | Injure       | DC 12 CON or paralyzed 1d4 rds          |
+| Drowsy Dust     | Uncommon | Touch (Eyes) | DC 12 CON or deep sleep 1d4 hrs         |
+| Ether of Idos   | Uncommon | Inhale       | DC 12 CON or waking nightmares 1d4 rds  |
+| Kingslayer oil  | Uncommon | Eat          | DC 18 CON or delayed onset (1hr) → 0 HP |
+| Nuzule oil      | Rare     | Injure       | DC 15 CON or unconscious 3 rds          |
+| Truth-speak oil | Rare     | Touch        | DC 18 CON or gibber truths 1 hr         |
+| Vapor of Leng   | Rare     | Inhale       | DC 15 CON or INT 3 for 1d4 hrs          |
 
 ---
 

@@ -2,15 +2,16 @@
 title: "Fighter"
 icon: "file"
 ---
+
 ## **Fighter**
 
 Dust-caked caravan guards holding the line against raiders, scarred slave-soldiers drilled in the armies of the sorcerer-kings, elven archers vanishing across the dunes, or mercenary captains who carve survival from steel, tactics, and grit.
 
 ---
 
-`@Weapons`: All weapons
+Weapons: All weapons
 
-`@Armor`: All armor and shields
+Armor: All armor and shields
 
 **Hit Points**: 1d8 per level
 
@@ -24,10 +25,12 @@ Dust-caked caravan guards holding the line against raiders, scarred slave-soldie
 
 **Leadership.** While you are not dead or dying, all characters in your group gain a +2 bonus to morale checks.
 
-##### **Talents**
+---
+
+## **Talents**
 
 | **2d6** | **Effect** |
-|---|---|
+| --- | --- |
 | 2 | Gain Weapon Mastery with one additional weapon type |
 | 3-6 | +1 to melee and ranged attacks |
 | 7-9 | +2 to Strength, Dexterity, or Constitution stat |

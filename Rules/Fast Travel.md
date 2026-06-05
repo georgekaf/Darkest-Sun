@@ -2,6 +2,7 @@
 title: "Fast Travel"
 icon: "scroll-old"
 ---
+
 ## Fast Travel
 
 ### OVERVIEW
@@ -19,7 +20,7 @@ The GM should factor in the travel method (mounted, sailing, etc.), distance, an
 When needing a specific time length, roll 2d6 per estimated week of travel to determine how many days the journey takes.
 
 | FAST TRAVEL |  |
-|---|---|
+| --- | --- |
 | **Time Needed** | **Min. Rations** |
 | A few days | 1-3 |
 | About a week | 3 |

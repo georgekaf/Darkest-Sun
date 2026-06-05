@@ -2,15 +2,16 @@
 title: "Ranger"
 icon: "file"
 ---
+
 ## **Ranger**
 
 Skilled trackers, stealthy wanderers, and peerless warriors who call the wilds their home.
 
 ---
 
-`@Weapons`: Dagger,  longbow, longsword, shortbow, shortsword, spear, staff
+Weapons: Dagger,  longbow, longsword, shortbow, shortsword, spear, staff
 
-`@Armor`: Leather armor, chainmail
+Armor: Leather armor, chainmail
 
 **Hit Points**: 1d8 per level
 
@@ -26,20 +27,22 @@ Skilled trackers, stealthy wanderers, and peerless warriors who call the wilds t
 
 **Herbalism.** Make an INT check to prepare an herbal remedy you choose. If you fail, you can’t make that remedy again until you successfully rest. Unused remedies expire in 3 rounds.
 
-##### **Herbal Remedy**
+## **Herbal Remedy**
 
 | **DC** | **Effect** |
-|---|---|
+| --- | --- |
 | 11 | **Salve**. Heals 1 HP |
 | 12 | **Stimulant**. You can’t be surprised for 10 rounds |
 | 13 | **Foebane**. You get ADV on attacks and damage against one creature type you choose for 1d6 rounds |
 | 14 | **Restorative**. Ends one poison or disease |
 | 15 | **Curative**. Equivalent to a Potion of Healing |
 
-##### **Ranger Talents**
+---
 
-| **2d6** | **Effect** |
-|---|---|
+## Talents
+
+| **d6** | **Effect** |
+| --- | --- |
 | 2 | You deal d12 damage with one weapon type you choose |
 | 3-6 | +1 to melee or ranged attacks and damage |
 | 7-9 | +2 to Strength, Dexterity, or Intelligence stat |

@@ -3,6 +3,35 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.1 — LegendKeeper JSON Sync
+
+**Source:** `Darkest Sun.json` exported 2026-06-05 (exportId `j53w7j70`, 148 resources)
+
+**Script:** `json_to_obsidian.py` — full rewrite; handles ProseMirror nodes: `paragraph`, `heading`, `rule`, `bulletList`, `orderedList`, `listItem`, `blockquote`, `panel` (→ Obsidian callout), `table` (with header separator), `taskList` (→ `- [ ]`/`- [x]`), `mediaSingle`/`media` (→ image embed), `mention` (→ plain text), `layoutSection`/`layoutColumn` (transparent), `bodiedExtension` (`block-secret` → callout), `extension`/`inlineExtension` (skipped). Marks: `strong`, `em`, `underline`.
+
+**131 files written** across:
+
+- `Journal/` — 26 session entries (01. FREEDOM → 25. Black Wind, Fire and Steel)
+- `Classes/` — 11 class files (Druid, Fighter, Wizard, Ranger, Necromancer, etc.) + index
+- `Rules/` — Hex Crawling, Food & Water, Conditions, Vision & Darkness, Luck Tokens, Poisons, Mounts, Misery, Downtime Activities, Downtime, Fast Travel, Shadowdark RPG, Βασικοί Όροι, Χαρακτήρες, Μάχη, Δημιουργία Χαρακτήρων, Defiling, Psionics, Ancestries + 8 ancestry files
+- `The World/` — 17 lore files (Greek + English)
+- `Map/` — 16 location files (city-states, forts, settlements)
+- `Languages/` — Languages index + Halfling (Rhulka)
+- `Kharanok- The Altar of Dust/` — 13 location pages
+- `Campaign Map/` — 3 pages (Campaign Map, Misery & Sorrow, Ras'Godai Monastery)
+- Root — Darkest Main, Timeline, Character - Soldier, Advancement, Πλάσματα της Ερήμου, 00. Welcome to Darkest Sun, Untitled
+
+**Protected (untouched):** `NPCs/`, `Monsters/`, `Hidden/`, `greek/`
+
+**Stale root files to delete** (superseded by subdirectory paths):
+- `obsidian/Misery.md` → now `Rules/Misery.md`
+- `obsidian/Mounts.md` → now `Rules/Mounts.md`
+- `obsidian/Downtime Activities.md` → now `Rules/Downtime Activities.md`
+- `obsidian/Old Quarry Yard.md` → now `Kharanok- The Altar of Dust/Old Quarry Yard.md`
+- `obsidian/Journal/14. TRADERS OF ASSASSINS-.md` → now `Journal/14. TRADERS OF ASSASSINS.md`
+
+---
+
 ## v1.0 — OSE GMG + Players Guide Continued Corrections
 
 **`OSE_Game_Masters_Guide.md`** — additional pages fixed after v0.9:

@@ -2,16 +2,17 @@
 title: "Poisons"
 icon: "flask"
 ---
+
 ## Poisons
 
-Tinctures, powders, oils, and gases. Poisons come in all varieties and virulences, distilled from countless flowers, creatures, and fungi. They are almost always difficult to procure and illegal to possess. 
+Tinctures, powders, oils, and gases. Poisons come in all varieties and virilities, distilled from countless flowers, creatures, and fungi. They are almost always difficult to procure and illegal to possess. 
 
 Poison users must pass a DC 12 DEX check while employing them or poison themselves by mistake (trained users only poison themselves on a natural 1). 
 
 Only living creatures of LV 10 or less are affected by poisons.
 
 | d8 | Name | Rarity | Delivery | Effect |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | 1 | Aminiita root | Common | Eat | DC 12 CON or 3d6 damage |
 | 2 | Bluewort | Common | Injure | DC 12 CON or paralyzed 1d4 rds |
 | 3 | Drowsy Dust | Uncommon | Touch (Eyes) | DC 12 CON or deep sleep for 1d4 hours |

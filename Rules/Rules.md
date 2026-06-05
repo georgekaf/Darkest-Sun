@@ -1,5 +1,4 @@
 ---
 title: "Rules"
-icon: "sword"
+icon: "scroll-old"
 ---
-

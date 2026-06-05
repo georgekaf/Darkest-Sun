@@ -22,14 +22,14 @@ Compiled from all book sources. On Athas, potions are drawn from magic fruits (O
 
 ## Other Consumables
 
-| Item | Effect | Source |
-|------|--------|--------|
-| **Tree of Life Sap** | Heals 1d6+6 HP, cures all ailments/diseases (not curses). Heals defiled land (5×5). 2d8 dmg to undead when thrown | GMG p.68 |
-| **Life Sap (Holy Water variant)** | Heals 1d3 HP in wound. Heals some poisons and paralysis | OSE Players Guide p.69 |
-| **Life Tree Sap** | Stronger variant of Life Sap (see DMG treasures) | OSE Players Guide p.69 |
-| **Mountain spider venom potion** | Cures paralysis (brewed by skilled priest/defiler/preserver) | MC2 p.107 |
-| **Id fiend blood potion** | Increases psionic abilities (brewed by psionic researchers) | ToD p.52 |
-| **Magic fruit (generic)** | 1d8 per Tohr-kreen encounter | ToD p.89 |
+| Item                              | Effect                                                                                                            | Source                 |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| **Tree of Life Sap**              | Heals 1d6+6 HP, cures all ailments/diseases (not curses). Heals defiled land (5×5). 2d8 dmg to undead when thrown | GMG p.68               |
+| **Life Sap (Holy Water variant)** | Heals 1d3 HP in wound. Heals some poisons and paralysis                                                           | OSE Players Guide p.69 |
+| **Life Tree Sap**                 | Stronger variant of Life Sap (see DMG treasures)                                                                  | OSE Players Guide p.69 |
+| **Mountain spider venom potion**  | Cures paralysis (brewed by skilled priest/defiler/preserver)                                                      | MC2 p.107              |
+| **Id fiend blood potion**         | Increases psionic abilities (brewed by psionic researchers)                                                       | ToD p.52               |
+| **Magic fruit (generic)**         | 1d8 per Tohr-kreen encounter                                                                                      | ToD p.89               |
 
 ## Crafting
 

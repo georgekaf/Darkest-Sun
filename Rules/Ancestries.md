@@ -2,18 +2,25 @@
 title: "Ancestries"
 icon: "scroll-old"
 ---
-### **DWARVES**
+
+# Dwarf
 
 Determined and single-minded, dwarves pursue personal “focuses” they must fulfill before death, fearing undeath otherwise. Stocky and sturdy, they excel at labor and craftsmanship, living stubbornly against Athas’ brutality.
 
-**Languages:** Common, Dwarf.
+# Elf
 
-#### **DWARF FEATURES**
+The dunes and steppes of Athas are home to thousands of tribes of nomadic elves. While each tribe is very different culturally, the elves within them remain a race of long-limbed sprinters given to theft, raiding, and warfare.
 
----
+An Athasian elf stands between 6 and 7 feet tall. They are slender, lean, and generally in terrific physical condition. Their features are deeply etched into their weather-toughened faces, and their skin made rugged by the windblown sands and baking sun of the wilderness.
 
-**Stout.** Start with +2 HP. Roll hit points per level with advantage.
+# Half-Elf
 
-**Stubborn Mind.** You cannot choose the Wizard class. You have advantage on checks vs. psionics.
+# Half-Giant
 
-**Focus.** Once per day, when you take an action that directly advances your sworn task (oath), gain advantage on that action.
+# Halfling
+
+# Human
+
+# Mul
+
+# Thri-Kreen

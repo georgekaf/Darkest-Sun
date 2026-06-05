@@ -2,9 +2,10 @@
 title: "Bounty Hunter"
 icon: "file"
 ---
+
 # Bounty Hunter
 
-Relentless Athasian trackers who mark their quarry, hound them across silt and sun, and bring them back dead or alive. Masters of nets, bolas, and grappling.
+Relentless Athasian trackers who mark their quarry, hounds them across silt and sun, and brings them back dead or alive. Masters of nets, bolas, and grappling.
 
 ---
 
@@ -18,7 +19,7 @@ Relentless Athasian trackers who mark their quarry, hound them across silt and s
 
 **Hunter's Armor. **You own a personalized suit of hunter armor built from leather, bone, chitin, obsidian, cord-spools, trophy hooks, restraint clips, and scavenged metal. It is your badge, your tool rack, and your protection in the wastes.
 
-Your armor is AC 13 and your DEX modifier.
+You armor is AC 13 and your DEX modifier.
 
 Your armor begins with **one Fitting**. You gain one additional Fitting at **4th, 7th, and 10th level**.
 
@@ -29,19 +30,19 @@ If your Hunter's Armor is lost or destroyed, you lose access to its Fittings unt
 While a creature is your quarry:
 
 - You have Advantage to gain information about and track your quarry.
-- Your attacks against your quarry critical hit on a 19 or 20.
-- Your attacks against your quarry ignore cover and deal +1d6 damage.
-- You have advantage on attacks made with bolas, nets, whips, and checks to grapple, shove, trip, or restrain.
+- Your attacks have advantage against your quarry and deal and additional +1d4 damage.
 
 **Dead or Alive.** If your blow would drop a creature to 0 HP, you may choose for it to fall unconscious (stable) instead.
 
-## Bounty Hunter Talents
+---
+
+##  Talents
 
 | 2d6 | Effect |
-|---|---|
+| --- | --- |
 | 2 | 1/day, ignore all damage from one attack that hits you while wearing your Bounty Armor. |
-| 3-6 | +1 to melee and ranged attacks and damage |
-| 7-9 | +2 points to distribute to stats |
+| 3-6 | +1 to melee and ranged attacks |
+| 7-9 | 2 points to distribute to stats |
 | 10-11 | Quarry damage die improves by one step. |
 | 12 | Choose a talent |
 
@@ -50,8 +51,8 @@ While a creature is your quarry:
 Choose one Fitting each time you gain this feature. Unless a fitting says otherwise, you can choose each fitting only once.
 
 | d8 | Hunter Fitting | Effect |
-|---|---|---|
-| 1 | **Reinforced Carapace** | Gain +1 AC while wearing your Bounty Armor. You can choose this fitting up to two times. |
+| --- | --- | --- |
+| 1 | **Reinforced Carapace** | Gain +2 AC while wearing your Bounty Armor. |
 | 2 | **Locking Bracers** | You have advantage on checks to keep hold of a creature you are grappling, restraining or netting. |
 | 3 | **Heat Resistant** | You have advantage on CON checks to resist heat, thirst, exhaustion, and forced marches. |
 | 4 | **Obsidian Ablator** | 1/day, when you take damage from a melee attack, reduce the damage by 1d8. |

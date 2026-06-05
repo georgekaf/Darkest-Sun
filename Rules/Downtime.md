@@ -2,6 +2,7 @@
 title: "Downtime"
 icon: "scroll-old"
 ---
+
 You gain 1 **Downtime point** each time you don't participate in an adventure. 
 
 - 1 DT = 1 XP
