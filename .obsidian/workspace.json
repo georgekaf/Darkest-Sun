@@ -13,15 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden/Potions.md",
+                "file": "Hidden/Books/City by the Silt Sea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Potions"
+              "title": "City by the Silt Sea"
+            }
+          },
+          {
+            "id": "3e13e49d0e2611ab",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/cannibal-cave-nogrid-water.png"
+              },
+              "icon": "lucide-image",
+              "title": "cannibal-cave-nogrid-water"
+            }
+          },
+          {
+            "id": "21a43e2d94692f76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/01. Obsidian Mines AKA The Cannibal Caves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. Obsidian Mines AKA The Cannibal Caves"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sul nok",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hidden/Potions.md",
+                "file": "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/01. Obsidian Mines AKA The Cannibal Caves.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Potions"
+              "title": "Outline of 01. Obsidian Mines AKA The Cannibal Caves"
             }
           }
         ],
@@ -169,55 +196,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0a442bc43a4b374",
+  "active": "b6588f68b5c79977",
   "lastOpenFiles": [
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/9b29cccb-3bca-4c51-997d-2121b5c6f789.png",
+    "Hidden/Kharanok- The Altar of Dust/Kharanok The Altar of Dust.md",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/01. Obsidian Mines AKA The Cannibal Caves.md",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/Pasted image 20260623235041.png",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/Pasted image 20260623235041.png",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/cannibal-cave-nogrid-water.png",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/cannibal-cave-nogrid-water.webp",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/cannibal-cave-nogrid.jpg",
+    "Hidden/Books/Veiled Alliance.md",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok",
     "Hidden/Poisons.md",
-    "Hidden/Potions.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Untitled.canvas",
-    "CHANGELOG.md",
     "Rules/Poisons.md",
+    "Hidden/Books/OSE_Players_Guide.md",
+    "Hidden/Books/City by the Silt Sea.md",
+    "Hidden/Books/OSE_Game_Masters_Guide.md",
+    "Hidden/Kharanok- The Altar of Dust/NPCs/Elder Yethras.md",
+    "Classes/Ranger.md",
+    "Hidden/Kharanok- The Altar of Dust/NPCs/Muuton.md",
+    "Hidden/Kharanok- The Altar of Dust/NPCs/Dorak.md",
+    "Hidden/Kharanok- The Altar of Dust/NPCs/Breck.md",
+    "Hidden/Kharanok- The Altar of Dust/NPCs/Jessareen.md",
+    "Hidden/Kharanok- The Altar of Dust/NPCs/Jessix the Wanderer.md",
+    "Hidden/Kharanok- The Altar of Dust/Quests/Act 1 - Eyes Open.md",
+    "Hidden/Kharanok- The Altar of Dust/Quests/Set 5 - The Water Problem.md",
+    "Hidden/Kharanok- The Altar of Dust/Storage Pits.md",
+    "Hidden/Kharanok- The Altar of Dust/Quests/Act 2 - Clear the Mountain.md",
+    "Hidden/Kharanok- The Altar of Dust/Quests/Final - Restock the Pens.md",
+    "Hidden/Kharanok- The Altar of Dust/Quests/Set 3 - Open the Roads.md",
+    "Hidden/Kharanok- The Altar of Dust/Quests/Act 4 - Bring the Traders.md",
+    "Hidden/Kharanok- The Altar of Dust/Quests/Act 3 - Open the Roads.md",
+    "Kharanok- The Altar of Dust/Quests/Side - The Fighting Pit.md",
+    "Kharanok- The Altar of Dust/Lower Caves (Sealed).md",
+    "CHANGELOG.md.tmp.2508.610e11596960",
+    "Hidden/Summaries",
+    "CHANGELOG.md.tmp.65192.8ea4c7cf091b",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled 1.base",
     "Hidden",
-    "Rules/Rules.md",
-    "Hidden/Kharanok- The Altar of Dust/Quests/Kharanok Quest Chain.md",
-    "Hidden/greek/Kharanok- The Altar of Dust/Lower Caves (Sealed).md",
-    "Hidden/greek/Kharanok- The Altar of Dust/Pens.md",
-    "Hidden/greek/Kharanok- The Altar of Dust/The Cistern.md",
-    "Hidden/greek/Kharanok- The Altar of Dust/Main Gate.md",
-    "Hidden/greek/Kharanok- The Altar of Dust/Traders.md",
     "Kharanok- The Altar of Dust/CHANGELOG.md.tmp.46904.ccedd9fa776e",
     "Kharanok- The Altar of Dust/CHANGELOG.md.tmp.45244.c36afe203192",
-    "Hidden/Books/OSE_Players_Guide.md",
-    "Hidden/Books/OSE_Game_Masters_Guide.md",
-    "Hidden/Books/Monstrous_Compendium_II.md",
-    "Hidden/Books/Guide_to_Shadowdark_Monster_Statistics.md",
-    "Hidden/Books/City by the Silt Sea.md",
-    "Hidden/Books/City by the silt sea campaign book.md",
-    "Hidden/Books/Terrors_of_the_Desert.md",
-    "Hidden/Books",
-    "New folder",
-    "Hidden/Kharanok- The Altar of Dust/Quests/Final - Restock the Pens.md",
-    "Hidden/Kharanok- The Altar of Dust/Quests/Act 6 - Restock.md",
-    "Hidden/Kharanok- The Altar of Dust/Quests/Act 5 - The Water Problem.md",
-    "Hidden/Kharanok- The Altar of Dust/Quests/Act 4 - Bring the Traders.md",
-    "Hidden/greek/NPCs/Φρέιχα.md",
-    "NPCs/Freiha.md",
-    "Hidden/Kharanok- The Altar of Dust/Quests/Act 3 - Open the Roads.md",
-    "Hidden/Kharanok- The Altar of Dust/Quests/Act 2 - Clear the Mountain.md",
-    "Kharanok- The Altar of Dust/CHANGELOG.md.tmp.39944.e9f295513432",
-    "greek/NPCs/Τζέσαρην.md.tmp.47964.190c7597c6ef",
-    "greek/NPCs/Μούουτον.md.tmp.47964.6822696bff9b",
     "ChatGPT Image Nov 2, 2025, 11_23_01 AM.png",
     "ChatGPT Image Nov 2, 2025, 01_25_35 PM.png",
     "ChatGPT Image Nov 2, 2025, 11_28_39 AM.png",
     "ChatGPT Image Nov 2, 2025, 12_04_43 PM.png",
-    "ChatGPT Image Nov 2, 2025, 02_35_18 PM.png",
-    "ChatGPT Image Nov 2, 2025, 02_34_21 PM.png",
-    "ChatGPT Image Nov 2, 2025, 02_34_34 PM.png",
-    "Pasted image 20251104014111.png",
-    "ChatGPT Image Nov 3, 2025, 01_15_01 AM.png",
-    "ChatGPT Image Nov 3, 2025, 01_14_56 AM.png",
     "Untitled 4.canvas",
     "Untitled 1.canvas",
     "Book with empty pages.canvas",

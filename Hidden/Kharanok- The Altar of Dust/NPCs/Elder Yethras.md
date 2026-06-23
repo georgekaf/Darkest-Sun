@@ -6,7 +6,7 @@ icon: "person"
 
 # Elder Yethras
 
-**Role:** Half-elf village council head — de facto sole leader
+**Role:** Human village council head — de facto sole leader
 **Found at:** [[Shade Houses]]
 **Faction:** Kharanok Local
 

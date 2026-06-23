@@ -3,6 +3,33 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.2 — Below Kharanok, MC2 pp119-130, Greek Arena
+
+**New location: Below Kharanok**
+- `Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/` — full location with map images (cave grid/no-grid, water overlay, POI visual guide, 12 numbered points of interest)
+- North Entrance, River Walk, Bridge Crossing, Main Excavation, West Galleries, Deep Lake, Lower Pools, Foreman's Office, Barracks, Storehouse, Workshop, South Access Shaft
+
+**New books: 28 Dark Sun novels/expansions**
+- `Hidden/Books/` — Air Earth Fire Water, Arcane Shadows, Asticlian Gambit, Beyond the Prism Pentad, Black Flames, Black Spine, City State of Tyr, Dark Sun Box Set Original, Defilers and Preservers, Dragon Kings, Dragon's Crown, Dune Trader, Elves of Athas, Forest Maker, Freedom, Marauders of Nibenay, Merchant House of Amketch, Mind Lords of the Last Sea, Monstrous Compendium Appendix II, Psionic Artifacts of Athas, Road to Urik, Slave Tribes, The Complete Gladiator's Handbook, The Ivory Triangle, The Will and the Way, Thri-Kreen of Athas, Valley of Dust and Fire, Veiled Alliance, Windriders of the Jagged Cliffs
+
+**Monstrous Compendium II expanded**
+- pp119-130: t'liz undead (Nevarli, Kedomir), Athasian wraith (Nikolos, Crimson Knights), xerichous, thinking zombie (Evirdel Ironhand, Claktor Bloodfist, Beli Iton, Levgar Giantslayer), special undead powers & weaknesses tables
+
+**NPC fixes**
+- `Elder Yethras.md`: Half-elf → Human
+- `Jessix the Wanderer.md`: Added `- [City by the silt sea]` subtitle
+- `Dorak.md`: Removed stray blank line after frontmatter
+
+**Greek**
+- `greek/Kharanok- The Altar of Dust/Quests/Πλαινό - Η Αρένα.md` — new Greek quest file (Arena)
+
+**Housekeeping**
+- `Classes/Ranger.md`: Trailing newline fix
+- `Hidden/Books/OSE_Players_Guide.md`: Blank line fix
+- Deleted stale `Untitled.md`
+
+---
+
 ## v1.1 — LegendKeeper JSON Sync
 
 **Source:** `Darkest Sun.json` exported 2026-06-05 (exportId `j53w7j70`, 148 resources)

@@ -3,7 +3,6 @@ title: "Dorak"
 tags: [kharanok, npc, local]
 icon: "person"
 ---
-
 # Dorak
 
 **Role:** Ex-mine foreman — keeper of the oldest and most dangerous knowledge in Kharanok

@@ -4,7 +4,7 @@ tags: [kharanok, npc, outsider]
 icon: "person"
 ---
 
-# Jessix the Wanderer
+# Jessix the Wanderer - [City by the silt sea]
 
 **Role:** Elf rogue-preserver — mountain guide, information broker, outside investigator
 **Found at:** Arrives at [[Hidden/Kharanok- The Altar of Dust/Main Gate]], Set 2
