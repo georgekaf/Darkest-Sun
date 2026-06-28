@@ -33,7 +33,7 @@ Two of three sentries abandoned their posts. The remaining sentry [[Oren|Oren]] 
 
 Breck works the gate alone. It stands open between 3rd and 5th hour — no cover. The former guard captain was bribed to leave posts open on specific nights but is untouchable (council member's brother-in-law).
 
-**Goal:** Recruit 3 guards, expose the former captain, establish a shift rota.
+**Goal:** Recruit at least 1 warband (20 people) guards, expose the former captain, establish a shift rota.
 
 **Clues:**
 - Two candidates: half-giant woman (last caravan, nowhere to go), young mul gladiator (lost sponsor)

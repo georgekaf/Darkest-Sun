@@ -311,7 +311,7 @@ With  the  Cleansing  Wars  ended,  the  age  of  the  Sorcerer-Kings  began.  U
 
 Before  the  century  of  rampage  ended,  Dregoth  advanced toward  dragonhood  himself.  He  did  this  without  the  help of  the  others,  and  it  was  evident  that  he  was  right  behind Borys in terms of personal power. Dregoth, unlike the other sorcerer-kings,  proudly  displayed  the  scaly  skin  and  elongated  skull  that  he  had  recently  developed.  He  became obsessed with draconic images and ordered his followers to add  them  to  every  building  in  Giustenal.  The  seven remaining sorcerer-kings grew concerned, especially at the thought of having another mad dragon to deal with.
 
-## Chapter One:Giustenal'sHistory
+## Chapter One: Giustenal's History
 
 Abalach-Re  of  Raam  was  the  closest  to  Giustenal  and perhaps  felt  the  most  threatened.  She  contacted  the other  kings  and  joined  with  them  in  a  dark  conspiracy. Their  plan  was  as  ruthless  and  direct  as  their  rule  had ever  been.  They  would  teleport  into  Dregoth  s  city  and slay him on his ivory throne. It was to be done with little fanfare  and  with  sudden  efficiency.  Dregoth  was  slain along  with  thousands  of  bystanders.  They  leveled Giustenal  in  their  fury,  burying  the  would-be  dragon beneath  the  ruins  of  his  own  shattered  palace.
 
@@ -449,7 +449,7 @@ Jessix  (formerly  Jessix  Twilightcatcher)  is  a  mysterious figure  who  roam
 
 Now  Jessix  and  his  companions  roam  the  Giustenal environs  and  do  their  best  to  protect  travelers  from  the terrible  dangers  that  abound  in  this  accursed  region.  Perhaps  Jessix  is  trying  to  pay  penance  for  Slinnasia  s  death, or  maybe  his  very  nature  beckons  him  to  protect  the  vulnerable.  In  either  case,  should  a  party  find  themselves  in
 
-## Chapter Two:Giustenal Environs
+## Chapter Two: Giustenal Environs
 
 need  of  assistance  within  a  20-mile  radius  of  Giustenal, there  is  a  5%  chance  that  Jessix  and  the  Loyal  will  be near enough to help.
 

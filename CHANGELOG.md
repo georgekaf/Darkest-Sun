@@ -3,6 +3,22 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.3 — Shadowdark PDF → Markdown Import
+
+**New Markdown files from PDF conversion**
+- `Shadowdark RPG - V4-4.md`
+- `Cursed Scroll 1 - Diablerie V4-3.md`
+- `Cursed Scroll 2 - Red Sands V2-2.md`
+- `Cursed Scroll 3 - Midnight Sun V3-5.md`
+- `Cursed Scroll 4 - River of Night V1.md` (+ horizontal pages version)
+- `Cursed Scroll 5 - Dwellers in the Deep V1.md`
+- `Cursed Scroll 6 - City of Masks V1-1.md` (+ horizontal pages version)
+- `Player's Guide to the Western Reaches V1.md`
+
+All 10 PDFs converted via pdfplumber, paginated with separators, and imported into vault.
+
+---
+
 ## v1.2 — Below Kharanok, MC2 pp119-130, Greek Arena
 
 **New location: Below Kharanok**

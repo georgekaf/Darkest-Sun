@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden/Books/City by the Silt Sea.md",
+                "file": "Hidden/Books/City State of Tyr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "City by the Silt Sea"
+              "title": "City State of Tyr"
             }
           },
           {
@@ -39,16 +39,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/01. Obsidian Mines AKA The Cannibal Caves.md",
+                "file": "Hidden/Books/Beyond the Prism Pentad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Obsidian Mines AKA The Cannibal Caves"
+              "title": "Beyond the Prism Pentad"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sul nok",
+                "query": "Baazrag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +100,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/01. Obsidian Mines AKA The Cannibal Caves.md",
+                "file": "Hidden/Books/City State of Tyr.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01. Obsidian Mines AKA The Cannibal Caves"
+              "title": "Outline of City State of Tyr"
             }
           }
         ],
@@ -196,11 +196,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6588f68b5c79977",
+  "active": "a0a442bc43a4b374",
   "lastOpenFiles": [
+    "CHANGELOG.md.tmp.42728.d179f0fb9e83",
+    "CHANGELOG.md",
+    "Hidden/Books/Monstrous_Compendium_II.md",
+    "Hidden/Books/Monstrous Compendium Appendix II.md",
+    "Hidden/Books/City by the Silt Sea.md",
+    "Hidden/Books/Beyond the Prism Pentad.md",
+    "Hidden/Books/Asticlian Gambit.md",
+    "Hidden/Kharanok- The Altar of Dust/Quests/Act 1 - Eyes Open.md",
+    "Kharanok- The Altar of Dust/Old Quarry Yard.md",
+    "Kharanok- The Altar of Dust/Main Gate.md",
+    "Kharanok- The Altar of Dust/Lower Caves (Sealed).md",
+    "Kharanok- The Altar of Dust/Kharanok- The Altar of Dust.md",
+    "NPCs/Abalach-Re.md",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/01. Obsidian Mines AKA The Cannibal Caves.md",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/9b29cccb-3bca-4c51-997d-2121b5c6f789.png",
     "Hidden/Kharanok- The Altar of Dust/Kharanok The Altar of Dust.md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/01. Obsidian Mines AKA The Cannibal Caves.md",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/Pasted image 20260623235041.png",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/Pasted image 20260623235041.png",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/cannibal-cave-nogrid-water.png",
@@ -212,7 +225,6 @@
     "Hidden/Poisons.md",
     "Rules/Poisons.md",
     "Hidden/Books/OSE_Players_Guide.md",
-    "Hidden/Books/City by the Silt Sea.md",
     "Hidden/Books/OSE_Game_Masters_Guide.md",
     "Hidden/Kharanok- The Altar of Dust/NPCs/Elder Yethras.md",
     "Classes/Ranger.md",
@@ -220,17 +232,6 @@
     "Hidden/Kharanok- The Altar of Dust/NPCs/Dorak.md",
     "Hidden/Kharanok- The Altar of Dust/NPCs/Breck.md",
     "Hidden/Kharanok- The Altar of Dust/NPCs/Jessareen.md",
-    "Hidden/Kharanok- The Altar of Dust/NPCs/Jessix the Wanderer.md",
-    "Hidden/Kharanok- The Altar of Dust/Quests/Act 1 - Eyes Open.md",
-    "Hidden/Kharanok- The Altar of Dust/Quests/Set 5 - The Water Problem.md",
-    "Hidden/Kharanok- The Altar of Dust/Storage Pits.md",
-    "Hidden/Kharanok- The Altar of Dust/Quests/Act 2 - Clear the Mountain.md",
-    "Hidden/Kharanok- The Altar of Dust/Quests/Final - Restock the Pens.md",
-    "Hidden/Kharanok- The Altar of Dust/Quests/Set 3 - Open the Roads.md",
-    "Hidden/Kharanok- The Altar of Dust/Quests/Act 4 - Bring the Traders.md",
-    "Hidden/Kharanok- The Altar of Dust/Quests/Act 3 - Open the Roads.md",
-    "Kharanok- The Altar of Dust/Quests/Side - The Fighting Pit.md",
-    "Kharanok- The Altar of Dust/Lower Caves (Sealed).md",
     "CHANGELOG.md.tmp.2508.610e11596960",
     "Hidden/Summaries",
     "CHANGELOG.md.tmp.65192.8ea4c7cf091b",
