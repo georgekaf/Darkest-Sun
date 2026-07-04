@@ -20,7 +20,7 @@ icon: "eye"
 **Hints:**
 - [[Oren|Oren]] is oddly nervous when asked about the other two sentries — he changes the subject.
 - The two deserters didn't go far. One is drinking in the [[Shade Houses]], the other is camped a half-day out, too ashamed to return. Both can be persuaded.
-- Mirror polish is in the [[Storage Pits]] — [[Yelka|Yelka]] controls access and will ask a favour.
+- Mirror polish is in the [[Storage Pits]] — [[Kallia Yelka|Kallia Yelka]] controls access and will ask a favour.
 - During the live signal test, players spot dust-movement in the eastern pass that doesn't look like weather.
 
 **Leads to:** [[Set 2 - Clear the Mountain]] (dust-movement is first gith sign). Also plants the seed for Set 3 quest 3-C when players learn Oren has been sending covert signals.

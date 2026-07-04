@@ -13,14 +13,14 @@ icon: "droplet"
 **Quest Giver:** [[Elder Yethras|Elder Yethras]]
 **Location:** [[Hidden/Kharanok- The Altar of Dust/The Cistern]]
 
-**Situation:** The Cistern water turns black at the ancient water-level marking labelled "do not drink" — and does so more frequently as the village grows. [[Yelka|Yelka]] insists it is mineral runoff. [[Dorak|Dorak]] quietly says it is neither.
+**Situation:** The Cistern water turns black at the ancient water-level marking labelled "do not drink" — and does so more frequently as the village grows. [[Kallia Yelka|Kallia Yelka]] insists it is mineral runoff. [[Dorak|Dorak]] quietly says it is neither.
 
-**Goal:** Determine the cause, assess whether it is safe, and stop it. Requires access to the spring channel below the Cistern — which Yelka has been blocking.
+**Goal:** Determine the cause, assess whether it is safe, and stop it. Requires access to the spring channel below the Cistern — which Kallia Yelka has been blocking.
 
 **Hints:**
 - The ancient marking, translated using the Lower Cave seal text from 2-B: *"When the deep thing stirs, the water remembers it."*
 - The darkening is not contamination — it is the water reacting to the thing behind the [[Hidden/Kharanok- The Altar of Dust/Lower Caves (Sealed)|Lower Cave seal]]. The reinforced seal does not fully stop the resonance.
-- [[Yelka|Yelka]] blocked access to the spring channel because she found a second, older sealed chamber down there three months ago and told no one. She sealed it herself out of fear.
+- [[Kallia Yelka|Kallia Yelka]] blocked access to the spring channel because she found a second, older sealed chamber down there three months ago and told no one. She sealed it herself out of fear.
 - The solution requires the [[Altar of Dust]] priests to perform a rite re-establishing the spiritual link between the Altar smoke and the underground water. The rite needs: a live flame from the lower depths (players must descend), water from the mountain's highest visible spring, and [[Dorak|Dorak]]'s original sealing formula.
 
 **Leads to:** The underground connection between [[Hidden/Kharanok- The Altar of Dust/The Cistern]] and the [[Hidden/Kharanok- The Altar of Dust/Lower Caves (Sealed)|Lower Caves]] is now mapped. 5-B and 5-C can proceed.
@@ -31,14 +31,14 @@ icon: "droplet"
 **Quest Giver:** [[Breck|Breck]]
 **Location:** [[Hidden/Kharanok- The Altar of Dust/The Cistern]]
 
-**Situation:** [[Yelka|Yelka]] has been granting double water rations to politically aligned families while shorting others. Two households have sick members — listed as seasonal fever, actually dehydration. [[Yelka|Yelka]] controls the access ledger and will destroy it if directly threatened.
+**Situation:** [[Kallia Yelka|Kallia Yelka]] has been granting double water rations to politically aligned families while shorting others. Two households have sick members — listed as seasonal fever, actually dehydration. [[Kallia Yelka|Kallia Yelka]] controls the access ledger and will destroy it if directly threatened.
 
-**Goal:** Gather proof without tipping off [[Yelka|Yelka]], expose her to [[Elder Yethras|Elder Yethras]] in a way the aligned families cannot override, remove her, and install a replacement the village will accept.
+**Goal:** Gather proof without tipping off [[Kallia Yelka|Kallia Yelka]], expose her to [[Elder Yethras|Elder Yethras]] in a way the aligned families cannot override, remove her, and install a replacement the village will accept.
 
 **Hints:**
 - Proof is not only in the ledger — the sick families' water vessels can be weighed against recorded rations, showing a systematic five-month shortfall.
 - The replacement candidate: a young half-elf apprentice who has been keeping her own shadow ledger because she suspected something was wrong.
-- [[Yelka|Yelka]], when cornered, offers what she found in the spring channel (from 5-A) as a bargaining chip — share it in exchange for a quiet exit rather than public shaming. She is not malicious. She is very afraid of whatever is in that second chamber.
+- [[Kallia Yelka|Kallia Yelka]], when cornered, offers what she found in the spring channel (from 5-A) as a bargaining chip — share it in exchange for a quiet exit rather than public shaming. She is not malicious. She is very afraid of whatever is in that second chamber.
 - [[Elder Yethras|Yethras]] afterward: *"How many other things in this village are held together by someone's private fear?"*
 
 **Leads to:** Water distribution becomes fair. Village morale visibly improves. Freiha and the traders extend their stay.
@@ -46,10 +46,10 @@ icon: "droplet"
 ---
 
 ## 5-C: The Spring Is Weakening
-**Quest Giver:** New Cistern overseer (Yelka's replacement)
+**Quest Giver:** New Cistern overseer (Kallia Yelka's replacement)
 **Location:** [[Hidden/Kharanok- The Altar of Dust/The Cistern]] → Black Spine cliff face
 
-**Situation:** With Yelka gone, the new overseer takes an honest measurement: the underground spring is producing less water each month. At current demand it will be critically short within two months. Old village maps show a secondary spring that "went dry" generations ago.
+**Situation:** With Kallia Yelka gone, the new overseer takes an honest measurement: the underground spring is producing less water each month. At current demand it will be critically short within two months. Old village maps show a secondary spring that "went dry" generations ago.
 
 **Goal:** Find the secondary spring in the Black Spine cliff face, clear whatever is blocking or diverting its flow, and connect it to the Cistern channel.
 

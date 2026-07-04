@@ -42,7 +42,7 @@ Act 6: Restock ◄── Act 5: The Water Problem ◄── Act 4: Bring the Tra
 | [[Breck\|Breck]] | Last gate guard. Bitter, loyal. | [[Hidden/Kharanok- The Altar of Dust/Main Gate]] |
 | [[Sira\|Sira]] | Head herder. Blunt, knows the mountain trails. | [[Hidden/Kharanok- The Altar of Dust/Pens]] |
 | [[Dorak\|Dorak]] | Ex-mine foreman. Knows what they found — won't say yet. | [[Old Quarry Yard]] |
-| [[Yelka\|Yelka]] | Cistern overseer. Too efficient. Something is off. | [[Hidden/Kharanok- The Altar of Dust/The Cistern]] |
+| [[Kallia Yelka\|Kallia Yelka]] | Cistern overseer. Too efficient. Something is off. | [[Hidden/Kharanok- The Altar of Dust/The Cistern]] |
 | [[Oren\|Oren]] | Watch Tower sentry. The corrupt one. | [[Watch Tower]] |
 
 ### Outside NPCs

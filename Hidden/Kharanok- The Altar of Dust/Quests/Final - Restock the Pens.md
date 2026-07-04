@@ -41,7 +41,7 @@ These are seeds for the **next arc**:
 - **The thing behind the seal** — intelligent, patient, and not finished
 - **[[Dorak|Dorak]]'s clay tablet** — foreign script, very old, taken from the [[Storage Pits]]
 - **[[Hidden/Kharanok- The Altar of Dust/NPCs/Jessareen|Jessareen]]'s questions** — she has been tracking something moving through the Black Spine passes and didn't explain why
-- **The second sealed chamber** — what [[Yelka|Yelka]] found below the [[Hidden/Kharanok- The Altar of Dust/The Cistern|Cistern]] and sealed out of fear
+- **The second sealed chamber** — what [[Kallia Yelka|Kallia Yelka]] found below the [[Hidden/Kharanok- The Altar of Dust/The Cistern|Cistern]] and sealed out of fear
 
 ---
 

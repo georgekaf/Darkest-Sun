@@ -15,7 +15,7 @@
 | **Breck** | Scarred human male, the last gate guard. Bitter about being abandoned, loyal to the village. | Main Gate |
 | **Sira** | Young mul woman, head herder. Blunt, worried, knows the mountain trails better than anyone inside the walls. | Pens |
 | **Dorak** | Old dwarf, ex-mine foreman. Hasn't entered the quarry in years. Knows exactly what they found — won't say yet. | Old Quarry Yard (edge) |
-| **Yelka** | Middle-aged human woman, Cistern overseer. Efficient. Too efficient. Something is off. | The Cistern |
+| **Kallia Yelka** | Middle-aged human woman, Cistern overseer. Efficient. Too efficient. Something is off. | The Cistern |
 | **Oren** | Nervous young male elf, Watch Tower sentry (the corrupt one — players may not know this yet). | Watch Tower |
 
 **Outside NPCs (Pass Through or Can Be Found)**
@@ -59,7 +59,7 @@ Complete all three before Set 2 unlocks. Elder Yethras gives the opening briefin
 **Hints:**
 - Oren is grateful for help but oddly nervous when players ask about the other two sentries. He changes the subject.
 - The two deserters didn't go far — one is drinking in the Shade Houses, the other left with a caravan but is camped a half-day out, too ashamed to come back. Both can be persuaded.
-- The mirror repair requires black mineral polish found in the Storage Pits — Yelka controls access and will ask a favour in return.
+- The mirror repair requires black mineral polish found in the Storage Pits — Kallia Yelka controls access and will ask a favour in return.
 - During the live signal test, players spot dust-movement in the eastern pass that doesn't look like weather.
 
 **Leads to:** Set 2 (the dust-movement spotted during the test is the first sign of gith activity). Also triggers 3-C when players learn Oren has been sending covert signals.
@@ -249,11 +249,11 @@ Complete all three before Set 5 unlocks. Players will likely need to travel to N
 
 **Hints:**
 - Jessareen knows Freiha and will arrange a meeting — but she also wants something: news from the mountain roads. She has been tracking reports of something moving in the Black Spine passes and wants the players' direct account of what they found. She does not explain why.
-- Freiha's conditions are achievable. The stone stall requires Dorak's help (he knows the quarry). The Storage Pit access requires Yelka's sign-off (which leads directly into Set 5 complications).
+- Freiha's conditions are achievable. The stone stall requires Dorak's help (he knows the quarry). The Storage Pit access requires Kallia Yelka's sign-off (which leads directly into Set 5 complications).
 - Freiha mentions, off-hand, that someone in Nibenay has been asking questions about Kharanok's cistern specifically — a psionic trader. She doesn't know the name but the description matches the person from 3-B.
 - Once Freiha returns, two smaller traders follow within two weeks. Kharanok's market begins to function again.
 
-**Leads to:** The Cistern's role as a bottleneck becomes unavoidable. Yelka's stonewalling on Storage Pit access triggers Set 5.
+**Leads to:** The Cistern's role as a bottleneck becomes unavoidable. Kallia Yelka's stonewalling on Storage Pit access triggers Set 5.
 
 ---
 
@@ -284,14 +284,14 @@ Complete all three (or at least 5-A and 5-C) before Set 6 unlocks. These can be 
 ### 5-A: The Water Is Darkening
 **Quest Giver:** Elder Yethras, who can no longer deny the problem now that Freiha and visiting traders are complaining.
 
-**Situation:** The Cistern water has been turning black at the water-level marking the old texts label "do not drink." It clears by morning but the frequency is increasing. The Altar of Dust priests believe it is a spiritual warning. Yelka insists it is mineral runoff. Dorak, quietly, says it is neither.
+**Situation:** The Cistern water has been turning black at the water-level marking the old texts label "do not drink." It clears by morning but the frequency is increasing. The Altar of Dust priests believe it is a spiritual warning. Kallia Yelka insists it is mineral runoff. Dorak, quietly, says it is neither.
 
-**Goal:** Determine what is causing the darkening, whether it is safe or a genuine threat, and stop it. This requires access to the spring channel below the Cistern — which Yelka has been blocking.
+**Goal:** Determine what is causing the darkening, whether it is safe or a genuine threat, and stop it. This requires access to the spring channel below the Cistern — which Kallia Yelka has been blocking.
 
 **Hints:**
 - The ancient water-level marking translates (with the text from the Lower Cave seal, now available after 2-B) as: "When the deep thing stirs, the water remembers it."
 - The darkening is not the water being contaminated. It is the water reacting to something moving in the cave system below — specifically, to the thing behind the Lower Cave seal. The seal, even reinforced, does not fully stop the resonance.
-- Yelka has been blocking access to the spring channel because she found something down there three months ago and reported it to no one. She sealed the access herself. What she found was a second, smaller sealed chamber — older than the first — with markings she doesn't understand.
+- Kallia Yelka has been blocking access to the spring channel because she found something down there three months ago and reported it to no one. She sealed the access herself. What she found was a second, smaller sealed chamber — older than the first — with markings she doesn't understand.
 - The solution requires the Altar of Dust priests to perform a specific rite that re-establishes the spiritual link between the Altar smoke and the underground water. The rite requires three things: a live flame from the lower depths (players must go down), an offering of water from the mountain's highest visible spring, and the original sealing formula (which Dorak has).
 
 **Leads to:** The underground connection between the Cistern and the Lower Caves is now mapped. This becomes permanently useful information. 5-B and 5-C can now proceed.
@@ -299,16 +299,16 @@ Complete all three (or at least 5-A and 5-C) before Set 6 unlocks. These can be 
 ---
 
 ### 5-B: The Overseer Is Corrupt
-**Quest Giver:** Breck, who has been quietly tracking which households are running short on water and cross-referencing with which ones have aligned with Yelka politically.
+**Quest Giver:** Breck, who has been quietly tracking which households are running short on water and cross-referencing with which ones have aligned with Kallia Yelka politically.
 
-**Situation:** Yelka has been granting double rations to allied families while shorting others. Two families have sick members — dehydration-related, though the village healer has been calling it a seasonal fever. Yelka controls the access ledger and will destroy it if threatened. She has a faction of four council-aligned families backing her.
+**Situation:** Kallia Yelka has been granting double rations to allied families while shorting others. Two families have sick members — dehydration-related, though the village healer has been calling it a seasonal fever. Kallia Yelka controls the access ledger and will destroy it if threatened. She has a faction of four council-aligned families backing her.
 
-**Goal:** Gather proof of the ration manipulation without Yelka destroying the ledger, expose her to Elder Yethras in a way that the four aligned families cannot simply override, remove her from the position, and install a replacement the village will accept.
+**Goal:** Gather proof of the ration manipulation without Kallia Yelka destroying the ledger, expose her to Elder Yethras in a way that the four aligned families cannot simply override, remove her from the position, and install a replacement the village will accept.
 
 **Hints:**
 - The proof is not just in the ledger — the sick families' water vessels can be weighed and compared against recorded rations, showing a systematic shortfall going back five months.
-- The replacement candidate Breck has in mind is a young half-elf apprentice who has been keeping her own shadow ledger because she suspected what was happening. She has every entry Yelka tried to hide.
-- Yelka, when cornered, reveals what she found in the spring channel (from 5-A) as a bargaining chip — she will share it in exchange for being allowed to leave quietly instead of being publicly shamed. She is not malicious. She is afraid. What she found in that chamber frightened her badly enough that she has been trying to hoard the water as if preparing for something she cannot name.
+- The replacement candidate Breck has in mind is a young half-elf apprentice who has been keeping her own shadow ledger because she suspected what was happening. She has every entry Kallia Yelka tried to hide.
+- Kallia Yelka, when cornered, reveals what she found in the spring channel (from 5-A) as a bargaining chip — she will share it in exchange for being allowed to leave quietly instead of being publicly shamed. She is not malicious. She is afraid. What she found in that chamber frightened her badly enough that she has been trying to hoard the water as if preparing for something she cannot name.
 - Elder Yethras, after the confrontation, says to the players: "How many other things in this village are held together by someone's private fear?"
 
 **Leads to:** Water distribution is now fair and trustworthy. The village morale noticeably improves. Freiha and the other traders extend their stay.
@@ -316,7 +316,7 @@ Complete all three (or at least 5-A and 5-C) before Set 6 unlocks. These can be 
 ---
 
 ### 5-C: The Spring Is Weakening
-**Quest Giver:** The new Cistern overseer (Yelka's replacement), who finds the actual flow measurement after taking over.
+**Quest Giver:** The new Cistern overseer (Kallia Yelka's replacement), who finds the actual flow measurement after taking over.
 
 **Situation:** The underground spring is producing less water each month. At the current improved-demand rate (more people staying, more traders, the pens being restocked), it will be critically insufficient within two months. A second source is needed.
 

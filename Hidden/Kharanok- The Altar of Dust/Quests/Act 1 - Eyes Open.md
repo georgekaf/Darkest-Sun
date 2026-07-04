@@ -20,7 +20,7 @@ Two of three sentries abandoned their posts. The remaining sentry [[Oren|Oren]] 
 **Clues:**
 - Oren is nervous when asked about the deserters — changes the subject
 - One deserter drinking in [[Shade Houses]], one camped a half-day out, ashamed
-- Mirror polish in [[Storage Pits]] — [[Yelka|Yelka]] controls access, wants a favour
+- Mirror polish in [[Storage Pits]] — [[Kallia Yelka|Kallia Yelka]] controls access, wants a favour
 - During the signal test: dust-movement in the eastern pass — not weather
 
 **Reward:** Warning system restored. Player sees first gith sign → Act 2.

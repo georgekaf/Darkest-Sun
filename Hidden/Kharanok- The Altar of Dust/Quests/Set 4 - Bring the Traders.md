@@ -38,11 +38,11 @@ icon: "coins"
 
 **Hints:**
 - [[Hidden/Kharanok- The Altar of Dust/NPCs/Jessareen|Jessareen]] arranges the meeting — but she wants something too: a direct account of what players found in the Black Spine passes. She does not explain why. She has been tracking movement reports.
-- The stone stall requires [[Dorak|Dorak]]'s help (he knows the [[Old Quarry Yard|quarry]]). The [[Storage Pits]] access requires [[Yelka|Yelka]]'s sign-off — which immediately surfaces friction with Set 5.
+- The stone stall requires [[Dorak|Dorak]]'s help (he knows the [[Old Quarry Yard|quarry]]). The [[Storage Pits]] access requires [[Kallia Yelka|Kallia Yelka]]'s sign-off — which immediately surfaces friction with Set 5.
 - Freiha mentions someone in Nibenay has been asking questions specifically about Kharanok's cistern — a psionic trader. The description matches the figure from 3-B.
 - Once Freiha returns, two smaller traders follow within two weeks. The [[Hidden/Kharanok- The Altar of Dust/Traders]] district begins functioning.
 
-**Leads to:** Cistern problems can no longer be avoided. Yelka's stonewalling on Storage Pit access triggers [[Set 5 - The Water Problem]].
+**Leads to:** Cistern problems can no longer be avoided. Kallia Yelka's stonewalling on Storage Pit access triggers [[Set 5 - The Water Problem]].
 
 ---
 

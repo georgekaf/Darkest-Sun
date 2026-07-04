@@ -1,10 +1,10 @@
 ---
-title: "Yelka"
+title: "Kallia Yelka"
 tags: [kharanok, npc, local]
 icon: "person"
 ---
 
-# Yelka
+# Kallia Yelka
 
 **Role:** Cistern overseer — corrupt administrator, keeper of a second secret
 **Found at:** [[Hidden/Kharanok- The Altar of Dust/The Cistern]]
@@ -14,7 +14,7 @@ icon: "person"
 
 ## Background
 
-Yelka was exceptional at her job before she found the second sealed chamber. Three months ago, following a blocked drain into the spring channel, she descended further than she had before and discovered a hairline crack in a lower vault wall. Something behind the crack looked back. She closed it herself, packed it with mortar, told no one. Since then she has run the cistern with rigid, airless control — perfect records, strict procedures, no variance. The corruption was not calculated. It was a frightened woman doing the only thing that felt like safety: controlling what she could, giving advantages to people who could protect her, maintaining a surface so ordered that nothing could reach up through it. She blocked access to the spring channel so no one else would find what she found. The ration-skimming, the political favouritism — none of it started as malice. It started as fear.
+Kallia Yelka was exceptional at her job before she found the second sealed chamber. Three months ago, following a blocked drain into the spring channel, she descended further than she had before and discovered a hairline crack in a lower vault wall. Something behind the crack looked back. She closed it herself, packed it with mortar, told no one. Since then she has run the cistern with rigid, airless control — perfect records, strict procedures, no variance. The corruption was not calculated. It was a frightened woman doing the only thing that felt like safety: controlling what she could, giving advantages to people who could protect her, maintaining a surface so ordered that nothing could reach up through it. She blocked access to the spring channel so no one else would find what she found. The ration-skimming, the political favouritism — none of it started as malice. It started as fear.
 
 ---
 

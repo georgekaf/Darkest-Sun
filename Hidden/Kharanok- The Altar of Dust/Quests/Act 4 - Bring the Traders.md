@@ -38,11 +38,11 @@ Freiha ran Kharanok's only permanent stall selling an elixir. She left 2 years a
 
 **Clues:**
 - Jessareen arranges the meeting — wants something in return: a direct account of what players found in the Black Spine passes. She has been tracking movement reports
-- The stone stall needs [[Dorak|Dorak]]'s help ([[Old Quarry Yard|quarry]] knowledge). Storage Pits access needs [[Yelka|Yelka]]'s sign-off — immediately surfaces friction
+- The stone stall needs [[Dorak|Dorak]]'s help ([[Old Quarry Yard|quarry]] knowledge). Storage Pits access needs [[Kallia Yelka|Kallia Yelka]]'s sign-off — immediately surfaces friction
 - Freiha mentions someone in Nibenay asking about Kharanok's cistern — a psionic trader matching the Act 3 description
 - Once Freiha returns, two smaller traders follow within two weeks. The [[Hidden/Kharanok- The Altar of Dust/Traders]] district begins functioning
 
-**Reward:** Traders start coming back. Yelka's stonewalling triggers Act 5.
+**Reward:** Traders start coming back. Kallia Yelka's stonewalling triggers Act 5.
 
 ---
 

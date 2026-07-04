@@ -101,7 +101,7 @@ icon: "tree"
 | [[Kharanok- The Altar of Dust/NPCs/Jessix the Wanderer|Jessix]] | Elf guide | Act 2 |
 | [[Kharanok- The Altar of Dust/NPCs/Muuton|Muuton]] | Sky Singer chief | Act 3 |
 | [[Kharanok- The Altar of Dust/NPCs/Jessareen|Jessareen]] | Bard, Nibenay contact | Act 4 |
-| [[NPCs/Yelka|Yelka]] | Cistern overseer | Act 5 |
+| [[NPCs/Kallia Yelka|Kallia Yelka]] | Cistern overseer | Act 5 |
 
 ---
 

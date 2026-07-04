@@ -32,7 +32,7 @@ Give players something to notice and reward them when they do.
 - **Breck** speaks in shorter sentences when tired; at his best he's terse, at his worst he's monosyllabic
 - **Sira** produces the folio physically rather than narrating from memory
 - **Dorak** goes quiet on specific topics — not all topics, only the ones that matter
-- **Yelka** never stands at the south end of the cistern
+- **Kallia Yelka** never stands at the south end of the cistern
 - **Oren** asks a question back when he wants to change the subject
 
 When players notice these and act on them, they're doing good roleplay. Reward it with something real.
@@ -58,7 +58,7 @@ These people know each other and have opinions. Use those opinions as hooks.
 - Breck respects Sira and will say so, bluntly: *"She's been right about everything."*
 - Sira thinks Yethras is a coward — she won't say "coward," she'll say *"He already knew. He just didn't act."*
 - Dorak trusts nobody easily, but will volunteer one unprompted positive thing about a player who has helped him: a single sentence, once, not repeated
-- Yelka respects efficiency above everything and will acknowledge it in anyone — including players who handle her removal cleanly
+- Kallia Yelka respects efficiency above everything and will acknowledge it in anyone — including players who handle her removal cleanly
 
 These are not neutral observations. They are hooks and complications.
 
@@ -68,7 +68,7 @@ These are not neutral observations. They are hooks and complications.
 
 **Oren** can be more interesting than a straightforward arrest. If players decide to use him rather than arrest him, he is a motivated, frightened, useful asset. He has the handler's name, the merchant house connection, and a strong survival instinct. Play that honestly — he is not brave or heroic, but he is functional when he has something to lose.
 
-**Yelka** is not a villain. She found something terrifying, made bad choices, and has been alone with the consequences for three months. If players handle her exposure with care rather than publicly destroying her, she will cooperate fully with the cistern restoration. Her knowledge of the lower vault is operationally important; her emotional state is just a person who made frightened choices and knows it.
+**Kallia Yelka** is not a villain. She found something terrifying, made bad choices, and has been alone with the consequences for three months. If players handle her exposure with care rather than publicly destroying her, she will cooperate fully with the cistern restoration. Her knowledge of the lower vault is operationally important; her emotional state is just a person who made frightened choices and knows it.
 
 ---
 

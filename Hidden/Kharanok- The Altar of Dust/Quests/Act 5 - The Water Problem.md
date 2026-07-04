@@ -13,14 +13,14 @@ icon: "droplet"
 **Quest Giver:** [[Elder Yethras|Elder Yethras]]
 **Location:** [[Hidden/Kharanok- The Altar of Dust/The Cistern]]
 
-The Cistern water turns black at the ancient water-level marking labelled "do not drink" — and does so more frequently as the village grows. Yelka insists it is mineral runoff. Dorak quietly says it is neither.
+The Cistern water turns black at the ancient water-level marking labelled "do not drink" — and does so more frequently as the village grows. Kallia Yelka insists it is mineral runoff. Dorak quietly says it is neither.
 
-**Goal:** Determine the cause. Assess safety. Stop it. Requires access to the spring channel below — which Yelka has been blocking.
+**Goal:** Determine the cause. Assess safety. Stop it. Requires access to the spring channel below — which Kallia Yelka has been blocking.
 
 **Clues:**
 - Ancient marking, translated using Lower Cave seal text from Act 2: *"When the deep thing stirs, the water remembers it."*
 - The darkening is the water reacting to the thing behind the [[Hidden/Kharanok- The Altar of Dust/Lower Caves (Sealed)|Lower Cave seal]]. The reinforced seal does not fully stop the resonance
-- Yelka blocked access because she found a second, older sealed chamber down there three months ago. She sealed it herself out of fear
+- Kallia Yelka blocked access because she found a second, older sealed chamber down there three months ago. She sealed it herself out of fear
 - Solution: [[Altar of Dust]] priests must perform a rite re-establishing the spiritual link. Needs: a live flame from the lower depths, water from the mountain's highest visible spring, Dorak's original sealing formula
 
 **Reward:** Underground connection between Cistern and Lower Caves mapped. Threads for Hook 2 and Hook 3 revealed.
@@ -31,14 +31,14 @@ The Cistern water turns black at the ancient water-level marking labelled "do no
 **Quest Giver:** [[Breck|Breck]]
 **Location:** [[Hidden/Kharanok- The Altar of Dust/The Cistern]]
 
-Yelka grants double water rations to politically aligned families while shorting others. Two households have sick members — listed as seasonal fever, actually dehydration. Yelka controls the access ledger and will destroy it if directly threatened.
+Kallia Yelka grants double water rations to politically aligned families while shorting others. Two households have sick members — listed as seasonal fever, actually dehydration. Kallia Yelka controls the access ledger and will destroy it if directly threatened.
 
-**Goal:** Gather proof without tipping Yelka off. Expose her. Remove her. Install a replacement.
+**Goal:** Gather proof without tipping Kallia Yelka off. Expose her. Remove her. Install a replacement.
 
 **Clues:**
 - Proof is not only in the ledger — the sick families' water vessels can be weighed against recorded rations, showing a systematic five-month shortfall
 - Replacement candidate: a young half-elf apprentice keeping her own shadow ledger
-- Yelka, cornered, offers what she found in the spring channel as a bargaining chip — share it in exchange for a quiet exit. She is not malicious. She is very afraid
+- Kallia Yelka, cornered, offers what she found in the spring channel as a bargaining chip — share it in exchange for a quiet exit. She is not malicious. She is very afraid
 - Yethras afterward: *"How many other things in this village are held together by someone's private fear?"*
 
 **Reward:** Water distribution fair. Village morale improves. Freiha and the traders extend their stay.
@@ -46,7 +46,7 @@ Yelka grants double water rations to politically aligned families while shorting
 ---
 
 ### Hook 3: The Spring Is Weakening
-**Quest Giver:** New Cistern overseer (Yelka's replacement)
+**Quest Giver:** New Cistern overseer (Kallia Yelka's replacement)
 **Location:** [[Hidden/Kharanok- The Altar of Dust/The Cistern]] → Black Spine cliff face
 
 Honest measurement: the underground spring produces less water each month. Critically short within two months. Old maps show a secondary spring that "went dry" generations ago.

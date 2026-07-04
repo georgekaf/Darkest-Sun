@@ -3,7 +3,24 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
-## v1.3 — Shadowdark PDF → Markdown Import
+## v1.6 — Session Prep Folder
+
+**New `Hidden/Session prep/`**
+- `Session Prep 2-7-2026.md` — session notes (2 July 2026)
+- `Session Prep 10-7-2026.md` — session notes (10 July 2026)
+
+---
+
+## v1.5 — NPC Rename: Yelka → Kallia Yelka
+
+**NPC renamed**
+- `Hidden/Kharanok- The Altar of Dust/NPCs/Yelka.md` → `Kallia Yelka.md`
+- All references updated: quest files (Act 1/4/5/6, Set 1/4/5, Kharanok Quest Chain, Final, Structure Tree), Roleplay Tips, Kharanok_Quest_Chain.md, Greek link in `Γέλκα.md`, CHANGELOG.md
+- Workspace.json path auto-updated by Obsidian
+
+---
+
+## v1.4 — Shadowdark PDF → Markdown Import
 
 **New Markdown files from PDF conversion**
 - `Shadowdark RPG - V4-4.md`
@@ -269,7 +286,7 @@ All 10 PDFs converted via pdfplumber, paginated with separators, and imported in
 ## v0.1 — Initial Commit
 
 **NPC pages (English)**
-- Created `Kharanok- The Altar of Dust/NPCs/` with 9 NPC files: Elder Yethras, Breck, Sira, Dorak, Yelka, Oren, Jessix the Wanderer, Muuton, Jessareen
+- Created `Kharanok- The Altar of Dust/NPCs/` with 9 NPC files: Elder Yethras, Breck, Sira, Dorak, Kallia Yelka, Oren, Jessix the Wanderer, Muuton, Jessareen
 - Created `Roleplay Tips.md` with generic GM guidance for running Kharanok NPCs
 - Each NPC file includes: Background, Agenda, Wants & Needs, Goals, Roleplay Notes, Relationships
 

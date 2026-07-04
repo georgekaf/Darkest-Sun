@@ -84,7 +84,7 @@ The Pens are restocked. Kharanok has food, water, trade, security, and a functio
 - The thing behind the seal — intelligent, patient, not finished
 - Dorak's clay tablet — foreign script, very old
 - Jessareen's questions — tracking something in the Black Spine passes
-- The second sealed chamber — what Yelka found below the Cistern
+- The second sealed chamber — what Kallia Yelka found below the Cistern
 
 ---
 
