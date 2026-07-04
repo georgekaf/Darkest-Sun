@@ -19,6 +19,19 @@ All 10 PDFs converted via pdfplumber, paginated with separators, and imported in
 
 ---
 
+## v1.3 — AI Battlemaps, Foundry Macros, Prompt Library
+
+**`.gitignore` added** — ignores `Untitled.md` globally (covers root + subdirectory copies)
+
+**New `Gists/` folder**
+- `Psionicist Foundry macros.md` — Shadowdark macros: Psionicist "Improved" (active effect + level bonus to attacks/checks), Defensive Flurry (roll attack as AC for 1 round via ActiveEffect), Reset Defensive Flurry
+**AI image generation pipeline**
+- `Prompts for nano banana pro 2.md` — prompt library referencing 3 battlemap scenes via embedded PNG + TXT pairs
+- Root images: `cave inside.png`, `desert night.png`, `temple.png` — no-grid JRPG combat maps (Greg Capullo / Gerald Brom / Darkest Dungeon style)
+- Root prompts: `cave inside.txt`, `desert night.txt`, `temple.txt` — matching prompt texts (underground cavern, desert wastes night, obsidian temple interior)
+
+---
+
 ## v1.2 — Below Kharanok, MC2 pp119-130, Greek Arena
 
 **New location: Below Kharanok**

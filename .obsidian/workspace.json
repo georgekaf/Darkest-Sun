@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden/Books/City State of Tyr.md",
+                "file": "Hidden/Prompts for nano banana pro 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "City State of Tyr"
+              "title": "Prompts for nano banana pro 2"
             }
           },
           {
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Baazrag",
+                "query": "random encounters",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,8 +100,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hidden/Books/City State of Tyr.md",
+                "file": "Hidden/Prompts for nano banana pro 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of City State of Tyr"
+              "title": "Outline of Prompts for nano banana pro 2"
             }
           }
         ],
@@ -198,53 +197,53 @@
   },
   "active": "a0a442bc43a4b374",
   "lastOpenFiles": [
-    "CHANGELOG.md.tmp.42728.d179f0fb9e83",
-    "CHANGELOG.md",
+    "temple.txt",
+    "desert night.png",
+    "desert night.txt",
+    "cave inside.png",
+    "cave inside.txt",
+    "temple.png",
+    "Rules/Βασικοί Όροι.md",
+    "Hidden/Prompts for nano banana pro 2.md",
+    "Hidden/Books/Veiled Alliance.md",
+    "Hidden/Books/Slave Tribes.md",
+    "Hidden/Books/Psionic Artifacts of Athas.md",
+    "Hidden/Books/OSE_Players_Guide.md",
     "Hidden/Books/Monstrous_Compendium_II.md",
-    "Hidden/Books/Monstrous Compendium Appendix II.md",
-    "Hidden/Books/City by the Silt Sea.md",
-    "Hidden/Books/Beyond the Prism Pentad.md",
-    "Hidden/Books/Asticlian Gambit.md",
+    "Rules/Hex Crawling.md",
+    "Hidden/Books/shadowdark/Cursed Scroll 6 - City of Masks V1-1 (Horizontal Pages).md",
+    "Hidden/Books/shadowdark/Cursed Scroll 2 - Red Sands V2-2.md",
     "Hidden/Kharanok- The Altar of Dust/Quests/Act 1 - Eyes Open.md",
-    "Kharanok- The Altar of Dust/Old Quarry Yard.md",
-    "Kharanok- The Altar of Dust/Main Gate.md",
-    "Kharanok- The Altar of Dust/Lower Caves (Sealed).md",
-    "Kharanok- The Altar of Dust/Kharanok- The Altar of Dust.md",
-    "NPCs/Abalach-Re.md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/01. Obsidian Mines AKA The Cannibal Caves.md",
+    "Hidden/Kharanok- The Altar of Dust/NPCs/Roleplay Tips.md",
+    "Hidden/Kharanok- The Altar of Dust/NPCs/Elder Yethras.md",
+    "Kharanok_Quest_Chain.md",
+    "Hidden/Books/City State of Tyr.md",
+    "Hidden/Books/Black Spine.md",
+    "CHANGELOG.md",
+    "Gists/Untitled.md",
+    "Gists/Psionicist Foundry macros.md",
+    "Hidden/Kharanok- The Altar of Dust/NPCs/Dorak.md",
+    "Gists",
+    "Hidden/Kharanok- The Altar of Dust/NPCs/Muuton.md",
+    "Hidden/Kharanok- The Altar of Dust/The Cistern.md",
+    "Hidden/Kharanok- The Altar of Dust/Altar of Dust.md",
+    "Hidden/Kharanok- The Altar of Dust/NPCs/Yelka.md",
+    "Hidden/Kharanok- The Altar of Dust/NPCs/Oren.md",
+    "CHANGELOG.md.tmp.42728.d179f0fb9e83",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/9b29cccb-3bca-4c51-997d-2121b5c6f789.png",
-    "Hidden/Kharanok- The Altar of Dust/Kharanok The Altar of Dust.md",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/Pasted image 20260623235041.png",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/Pasted image 20260623235041.png",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/cannibal-cave-nogrid-water.png",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/cannibal-cave-nogrid-water.webp",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/cannibal-cave-nogrid.jpg",
-    "Hidden/Books/Veiled Alliance.md",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok",
-    "Hidden/Poisons.md",
-    "Rules/Poisons.md",
-    "Hidden/Books/OSE_Players_Guide.md",
-    "Hidden/Books/OSE_Game_Masters_Guide.md",
-    "Hidden/Kharanok- The Altar of Dust/NPCs/Elder Yethras.md",
-    "Classes/Ranger.md",
-    "Hidden/Kharanok- The Altar of Dust/NPCs/Muuton.md",
-    "Hidden/Kharanok- The Altar of Dust/NPCs/Dorak.md",
-    "Hidden/Kharanok- The Altar of Dust/NPCs/Breck.md",
-    "Hidden/Kharanok- The Altar of Dust/NPCs/Jessareen.md",
     "CHANGELOG.md.tmp.2508.610e11596960",
     "Hidden/Summaries",
     "CHANGELOG.md.tmp.65192.8ea4c7cf091b",
     "Untitled.canvas",
     "Untitled.base",
-    "Untitled 1.base",
-    "Hidden",
-    "Kharanok- The Altar of Dust/CHANGELOG.md.tmp.46904.ccedd9fa776e",
-    "Kharanok- The Altar of Dust/CHANGELOG.md.tmp.45244.c36afe203192",
     "ChatGPT Image Nov 2, 2025, 11_23_01 AM.png",
-    "ChatGPT Image Nov 2, 2025, 01_25_35 PM.png",
-    "ChatGPT Image Nov 2, 2025, 11_28_39 AM.png",
-    "ChatGPT Image Nov 2, 2025, 12_04_43 PM.png",
     "Untitled 4.canvas",
     "Untitled 1.canvas",
     "Book with empty pages.canvas",
