@@ -66,3 +66,7 @@ When a folder holds a numbered sequence of files whose names don't sort correctl
 
 ## Changelog discipline
 See `AGENTS.md` → "Changelog Rules" for the base rule (bump = new version with everything since last bump; never retroactively edit an already-bumped version). In-session refinement: if a version was bumped and then immediately superseded by a closely-related follow-up before anything else referenced it, they can be merged into one entry on request — but once a version is a genuine, separate unit of work (or something else has been bumped after it), don't merge backward.
+
+**Scope: obsidian/ only.** `CHANGELOG.md` tracks changes to files *inside* the `obsidian/` vault. Work in `transcripts and summaries/` (Περίληψη files, `fixes/*.json`, `session_schedule.md`, `summary_rules.md`, raw transcripts) does **not** get a changelog entry on its own, even in the same work session — that directory isn't part of this vault. If a single pass touches both, only the obsidian-side portion is changelog-worthy; describe that part on its own rather than bundling in the non-obsidian work.
+
+**Committed changes only.** Don't bump the changelog for edits sitting uncommitted in the working tree — `git status`/`git diff` first. Only bump once the obsidian-side changes are actually committed.

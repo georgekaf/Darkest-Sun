@@ -3,6 +3,21 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.11 — Truncation Bug Recovery + ep.1/ep.6 Naming Fixes
+
+**Real corruption found and fixed:** the editing tool used for several recent commits was silently clipping long lines (~150 chars) and saving the literal text `[...]` in their place. Found 7 truncated lines in `0003 - Session Prep 16-7-2026.md` and 1 in `0002 - Session Prep 10-7-2026.md`. Recovered the full original text for all 8 from git history (`git show` on pre-truncation commits) — no content guessed or invented, all restored verbatim from prior commits.
+
+**Naming fixes** (continuing the Foundry-canon verification pass):
+- `Επεισόδιο 1- «Βωμός της Σκόνης»`: Zarakai → **Zharakai**
+- `Επεισόδιο 6- «Θυσία στη Φωτιά»`: Zarakai → **Zharakai**
+- `Altar of Dust, Session ad1- «Find the... GOAT!»`: Quel Nas → **Quel Nash**
+
+**Session preps (`0002`, `0003`):** the "water spirits want a companion" thread re-sourced — the actual explicit request (a permanent guardian-caretaker, protected by the spirits, no food needed) is in ep.6, after a second fire-priest drowning settled the original debt, not just inferred from Duunesh's ep.1 death.
+
+**`GUIDELINES.md`:** added the "committed changes only" changelog rule (don't bump ahead of what's actually committed) alongside the existing obsidian-only scope rule.
+
+---
+
 ## v1.10 — Obsidian Mines Canon Layout + New Vault Guidelines
 
 **`Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves.md`** established as the canonical map reference:
