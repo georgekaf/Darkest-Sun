@@ -1,0 +1,67 @@
+---
+title: "Session Prep — 16 Ιουλίου 2026 (ad3 «Minecraft in Kharanok»)"
+tags: [kharanok, session-prep, altar-of-dust]
+---
+
+# Session Prep — 16 Ιουλίου 2026 (ad3)
+
+*Day starts at Macro 20, 24 King's Ages, Day 110. Continuing from ad2: party about to enter the Kharanok mines with Dorak.*
+
+## Goals
+- Guide the party into the Kharanok mines with Dorak
+- Explore deposits, deal with whatever Dorak is avoiding
+
+## Related Quests
+- [[Act 1 - Eyes Open]]
+- [[Act 2 - Clear the Mountain]]
+
+## Done
+- Entered and explored the mines with Dorak
+- Learned how Crystal Dust forms
+- Killed 2 Bulette
+- Found and fought Dorak's former Gith captors (8 total) — 7 killed, 1 captured alive
+- Delivered scraps for the gate's basic repair (50 scraps)
+- Obtained an obsidian piece for the watchtower's signal mirror
+- Recovered Dorak's hidden tools, harvested Bulette meat/scraps
+- Found a broken elevator and a vast ancient tunnel network deeper in
+
+## Summary
+- Visited an elderly couple (Thracian/Martina) — not talkative, granddaughter Ranisa did the talking
+- Kalia confronted Gur-da about food rations; Parias negotiated a double water ration for the half-giant
+- Dorak led them into the mines, explained how Crystal Dust forms
+- Dorak grew evasive, eventually led them to the richest deposit — an old Gith watch-point
+- 2 Bulette ambushed — killed after some coordination trouble
+- Found Dorak's former Gith captors (8), fought them — 7 killed, 1 captured; revealed Dorak was their escaped slave, called "traitor"
+- Dorak showed a second door, the ancient tunnel network, and a broken elevator (needs tar)
+- Beheaded the dead Gith as a warning, took Dorak's hidden tools, harvested Bulette meat/scraps, recovered 10 Crystal Dust
+- Delivered scraps to Roi for the gate's basic repair; Breck ordered to start work
+- Roi mentioned the tar source: two brothers (one named Durex) trading Cromlin↔Nibenay near ruined Giustenal; also mushroom fields deeper in the caves
+- Episode ends with the party resting in Kharanok, captive Gith held for interrogation next session
+
+## Not done / left unfinished
+- Deeper mine levels — party chose not to risk going past the broken elevator this session
+- Level 1 storage rooms (near where Dorak was held captive) — left mostly unexplored
+- Dream-being / "the key" mystery — not addressed at all this session, still exactly where it was after ad2
+- Captive Gith — taken alive but not yet interrogated, deferred to next session
+- Syggra herd + stolen Kank — not touched this session at all (mine exploration took priority)
+
+## Left to do
+- **Captive Gith interrogation** (explicit hook for next session). Planned answers: if pressed generally — Kharanok's Gith aren't leaving the tunnels "that easily," and there are other entrances deeper in; if asked about the creature living down there — "the moon and the beast," corroborating (not revealing for the first time) that the dream-entity is a **moonbeast**.
+- **The dream-being ("the moonbeast") / "the key" mystery** — Dorak triggered it by having the party camp atop the quarry before ad2; the moonbeast reached out that night. Still fully unresolved, no progress since the dream.
+- **Broken elevator** — needs tar to glue the cut ropes (Durex, Cromlin↔Nibenay trade route) **and** someone who actually knows how to work the tar and do the repair, not just the material itself. Nobody's been found/recruited for that yet.
+- **Missing Syggra herd** — 4/10 recovered in ad1, 1 of the remaining 6 has since died → **5 left to recover**, located in a cave (Wild Kank nest) near a Gith camp neutral toward Kharanok, ~2 miles from Kharanok. GM has cave maps ready.
+- **The stolen Food Producing Kank** — traded by the hostile Gith to the Aarakocra; party doesn't know the Aarakocra village location yet. Options: track/steal it back, or take a replacement from the Wild Kank nest instead (submissive without their queen). GM will upload Aarakocra village maps soon.
+- **Gate fortification** — basic repair done (50 scraps spent), full fortification needs 200 more scraps. Obsidian piece for the watchtower's signal mirror also secured (Act 1 Hook 1 progress).
+- **10 Crystal Dust recovered from the mines** — but the village has nobody who knows alchemy to actually brew healing potions from it. Need to find/recruit an alchemist.
+- **Still no warband recruited to man the gate and watchtower** — original Act 1 Hook 1/Hook 2 task, never fulfilled. Breck and Oren are still each working their post alone; scraps/materials are being handled, but nobody's actually been recruited for shifts.
+- Ranisa's unconfirmed lore rumors (Quor Anok giant, underground river network, Kharanok's "Lighthouse" nickname) — not yet investigated
+- **Gith counter-attack on Kharanok** — no countdown/timer mechanic exists in any tracked doc yet — open question, unresolved as of this writing.
+- No date/session yet scheduled for ad4 — `session_schedule.md` doesn't list one
+
+## GM map reference — Level 1 storage rooms (unrevealed to players)
+Left mostly unexplored in ad3, near where Dorak was held captive:
+- A door hidden behind some crates leads to the old quartermaster chambers — locked from the other side.
+- In the second storage room (the one with the elevator shaft), a hidden passage on the right side of the room leads to an old teleportation room — works one way only.
+- The quartermaster chambers connect to stairs leading down to **Level 2**.
+- The barracks are next to the quartermaster chambers.
+- Behind two illusionary walls (from the barracks) is the same teleportation circle room reachable via the hidden passage above — two separate hidden routes to the same room.

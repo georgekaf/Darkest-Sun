@@ -1,52 +1,51 @@
+---
+title: "Session Prep — 9 Ιουλίου 2026 (ad2 «Feathers and horns»)"
+tags: [kharanok, session-prep, altar-of-dust]
+---
 
-Food is the most important
-Players must continue roam the mountain tops and search for the missing rest of the herd and the missing Kank
+# Session Prep — 9 Ιουλίου 2026 (ad2)
 
-Other Kanks can be found inside the cave near the Gith settlement
+*Day starts at Macro 13, 24 King's Ages, after 13th hour*
 
-We need cave battle maps.
+## Goals
+- Continue roaming the mountain tops, search for the remaining herd + Kank
+- Other Kanks can be found inside the cave near the Gith settlement
+- ~~The rest of the 5 female Syggra are in the cave~~ — superseded, see `Session Prep 16-7-2026.md` for corrected count (5 of 6 remaining, 1 since died)
+- Needed cave battle maps; ~5 scene maps for the Kank home; ~5 scene maps for the Aarakocra mountaintop home (kidnapped Kank traded from the Gith)
+- In a Kank battle, the Wild food-producing Kanks would heal the soldier Kanks
 
-The rest of the 5 female Syggra are  in the cave. Can be found after the beat the Kanks soldiers that probably live in there.
+## Related Quests
+- [[Act 1 - Eyes Open]]
+- [[Act 2 - Clear the Mountain]]
 
-We need ~5 scene maps that are the home of Kank.
-We need ~5 scene maps of mountain tops that are the home of Aaracokra that have the kidnapped Kank after they traded with the Gith
-In case of a battle with Kanks, Wild the food producing Kanks will be healing the soldier Kanks
+## Done
+- Entered the cave — found it emptied of Gith bodies
+- Fought and defeated 5 of 7 Aarakocra who'd moved in (2 fled)
+- Convinced Dorak to guide the party partway into the Kharanok mines after camping a night atop the quarry, as he told them to
+- Got a lore dump from Ranisa (elders too frail to meet directly)
 
-Day starts at Macro 13, 24 Kings Ages, after 13th hour
+## Summary
+- Sira gave torches only after the party re-promised to return the remaining Syggra
+- Sepsis joined the party (Necromancer, translates for Shaka)
+- The cave was cleared of Gith bodies — 7 Aarakocra ambushed the party instead
+- Brutal fight: Rhugor dropped twice, Relo lost fingers and nearly died, Sepsis nearly died in a net — both saved by "kiss of life"
+- Parias's ghost-form (Erebus) proved key, immune to the Aarakocra
+- 5 of 7 Aarakocra killed, 2 fled; party retreated without searching deeper
+- Kalia rewarded the party with more storage/water after the fight
+- Sira gave wool to repair Rhugor's shield
+- Dorak refused to open the mine at first, agreed to guide partway on the condition the party first camp a night atop the quarry
+- That night, the moonbeast trapped beneath Kharanok reached out: the whole party shared one dream, it rebuilding Kharanok from their memories, says "the key" holds it captive — vague deal offered, no answer yet
+- Ranisa relayed lore: Kharanok = "ninth shelter," Quor Anok = "eighth," Kharanok maybe once called "the Lighthouse," a giant with spirit companions may live in Quor Anok, underground rivers may connect to Nibenay
+- Episode ends with the party about to enter the mines
 
-┌─────────────────────────┐
-│ K H A R A N O K                   │
-│ Quest Line Structure            │
-└─────────────────────────┘
-┌───────────────┴───────────────┐
-│ START HERE                                    │
-│ ⧖ - FO - Players arrive at Kharanok
-└───────────────┬───────────────┘
-┌───────────────▼──────────────────┐
-│ ACT 1: EYES OPEN                                 │
-│ "What's broken?"                                   │
-│───────────────────────────────────│
+## Not done / left unfinished
+- Main stated goal failed — party did not recover any more Syggra or the Kank this session (cave was a dead end, Aarakocra fight instead)
+- Cave never searched deeper — party retreated after the Aarakocra fight
+- Dream-being's vague deal — no answer given yet, no follow-up
 
-│ ├─ ⧖ **_-_** Hook 1: Tower Is Blind  
-Two of three sentries abandoned their posts. The remaining sentry Oren is sleep-deprived. Signal mirrors cracked. Beacon fire untested for months.  
-  
-Task: Players must bring back Obsidian from the mines, Dorak won’t go near them without protection  
-Task: Players must recruit at least a warband to help with shifts
+## Left to do
+- Syggra/Kank recovery — unresolved this session (see `Session Prep 16-7-2026.md` for corrected numbers)
+- The dream-being / "the key" mystery — no follow-up yet
+- Ranisa's lore rumors — not investigated
 
-  
-│ ├─ ⧖ **_-_** Hook 2: Guards Have Deserted  
-Breck works the gate alone. Oren works the watchtower alone as well. It stands open between 3rd and 5th hour — no cover. Need people for shifts  
-  
-Task: Players must recruit at least a warband to help with shifts  
-Task: Players need 50 scraps in order to patch the gate. 200 More to fortify.  
-
-│ └─ ⧖ **_-_** Hook 3: Herder Knows Something  
-Sira tracked strange signs for weeks — dust trails, claw marks, dragging sounds. Reported to Yethras but she was dismissed. She keeps secret records now. Will share only if players take her seriously and return their missing animals (10 Syggra were missing, 1 Food Producing Kank) .
-
-  
-Task: Players must return 10 or more Syggra  
-Task: Players must return at least 1 Kank, Food Producing  
-
-Players raided a nearby Gith establishment, killed 1 Syggra, and returned 4, they are missing at least 5 more and the Kank.
-
-
+Continued in `Session Prep 16-7-2026.md` (ad3).

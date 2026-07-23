@@ -3,6 +3,32 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.8 — Altar of Dust Continuity Pass (Session Preps, Quests, NPCs)
+
+**Session prep files unified** — `Hidden/Session prep/Session Prep <date>.md` (ad1, ad2, ad3) rewritten to a single shared format: Goals → Related Quests → Done → Not done/left unfinished → Summary → Left to do. Format documented in `summary_rules.md` for future preps.
+
+**ad3 prep (16-7-2026) filled in from GM Discord planning:**
+- Corrected Syggra count: 4/10 recovered ad1, 1 of remaining 6 has since died → 5 left, located in a Wild Kank nest cave near a Gith camp neutral toward Kharanok
+- Stolen Food Producing Kank: traded by hostile Gith to the Aarakocra, not yet recovered
+- Captive Gith's planned interrogation answers — corroborates (doesn't first-reveal) that the dream-entity is a **moonbeast**
+- Gate/watchtower status: 50/200 scraps, obsidian piece secured for signal mirror, warband for shifts still never recruited
+- New open threads: 10 Crystal Dust recovered but no alchemist to brew potions; elevator needs tar *and* someone who can work it
+- New GM map reference section: unexplored Level 1 storage rooms — hidden door behind crates → locked quartermaster chambers → stairs to Level 2; hidden passage in the elevator-shaft storage room → one-way teleportation room; barracks next to quartermaster; two illusionary walls as a second route into the same teleportation circle room
+
+**`Kharanok- The Altar of Dust/Quests/Act 1 - Eyes Open.md`** — progress notes added to all 3 hooks (watchtower mirror, gate repair, Syggra/Kank) reflecting ad1–ad3 actual play.
+
+**`Kharanok- The Altar of Dust/Quests/Act 2 - Clear the Mountain.md`** — Hook 2 ("The Seal Is Failing") restructured: the shared-dream path confirmed as the real, in-progress path. Quest Giver is [[Dorak]] — he doesn't know what's trapped down there, but he's the one who sets the trigger, refusing to guide anyone deeper without first making them camp a night atop the quarry; it was during one such night (before ad2) that the moonbeast reached out. The physical-investigation path (exterior seal markings chipped from outside) is reassigned from Dorak to Oren, consistent with his established treachery.
+
+**NPC corrections:**
+- `Dorak.md` — background rewritten: he's a former gith slave forced to work the mines (matches his ad3 reveal), not the original written "30-year seal-keeper" — that framing conflicted with actual play and is removed. Added relationship note on the quarry-camping test he sets and what it actually triggered.
+- `Oren.md` — sharpened: he broke the watchtower's obsidian signal mirror specifically (not just misused it), core motivation reframed as plain cowardice/wanting peace of mind
+
+**`session_schedule.md`** (transcripts and summaries) — added missing ad3 row (Thursday, July 16, 2026), footer note updated to cover the full ad1–ad3 player pool.
+
+**Obsidian Journal headers fixed** — `Altar of Dust, Session ad1/ad2` headers still had the old wrong names "Rougor"/"Saka" (character_roster.md had already corrected these everywhere else) — fixed to "Rhugor"/"Shaka".
+
+---
+
 ## v1.7 — LegendKeeper Resync (2026-07-23 export)
 
 **Source:** `Darkest Sun.json` exported 2026-07-23, moved in from `Downloads/`; prior 2026-06-05 export kept as `Darkest Sun.json.bak-2026-06-05`

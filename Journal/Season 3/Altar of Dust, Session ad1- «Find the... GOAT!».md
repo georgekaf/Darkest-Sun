@@ -3,7 +3,7 @@ title: "Altar of Dust, Session ad1- «Find the... GOAT!»"
 icon: "file"
 ---
 
-**Ομάδα:** Altar of Dust (Relo, Rougor, Ugo, Parias, Saka)  | **Ημερομηνία:** 2 Ιουλίου 2026
+**Ομάδα:** Altar of Dust (Relo, Rhugor, Ugo, Parias, Shaka)  | **Ημερομηνία:** 2 Ιουλίου 2026
 
 ## Περίληψη
 

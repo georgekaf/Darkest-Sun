@@ -3,7 +3,7 @@ title: "Altar of Dust, Session ad2- «Feathers and horns»"
 icon: "file"
 ---
 
-**Ομάδα:** Altar of Dust (Relo, Rougor, Parias, Saka, Sepsis) | **Ημερομηνία:** 9 Ιουλίου 2026
+**Ομάδα:** Altar of Dust (Relo, Rhugor, Parias, Shaka, Sepsis) | **Ημερομηνία:** 9 Ιουλίου 2026
 
 ## Περίληψη
 

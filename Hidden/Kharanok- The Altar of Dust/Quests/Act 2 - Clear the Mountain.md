@@ -29,20 +29,18 @@ A gith raiding band camps in the only caravan route into Kharanok. They hit cara
 ---
 
 ### Hook 2: The Seal Is Failing
-**Quest Giver:** [[Dorak|Dorak]] (speaks after players deliver Hook 3 report from Act 1)
+**Quest Giver:** [[Dorak|Dorak]] — he doesn't know what's down there, but he's the one who set the trigger
 **Location:** [[Hidden/Kharanok- The Altar of Dust/Lower Caves (Sealed)|Lower Caves]]
 
-Something tests the seal from both inside and outside. Dorak won't approach — but gives players the original sealing instructions on a stone kept hidden for thirty years.
+Something ancient, intelligent, and patient is trapped deep beneath Kharanok. There are two paths to this hook — use whichever the table has actually followed.
 
-**Goal:** Reinforce the seal using Dorak's instructions. Identify what claws from inside and who visits from outside.
+**Path A — Shared Vision (confirmed, in progress as of ad2):** Dorak told the party to camp on top of the quarry before he'd guide them further into the mine. That night, the entity — a **moonbeast** — reached out: the whole party dreamed the same dream, the moonbeast taking the shape of a Syggra the party had killed, rebuilding Kharanok from their memories, unsure if it "got it right." It doesn't remember how long it's been trapped (thousands of years) and says something/someone called **"the key"** holds it captive — if the keeper dies, it stops too. A player offered a vague deal: find what holds it, don't destroy it, use it to send the entity home. It said it would think it over and would be watching. **No follow-up since — fully open.**
 
-**Clues:**
-- Dorak's stone: *"Do not bring light. Do not speak names. Do not look at what stands behind the door."*
-- What tests from inside is intelligent, patient, and very old. It cannot break the seal alone — needs exterior markings removed. Someone has been slowly chipping them
-- That someone left the boot-print found in Act 1 Hook 3
-- Confronting Oren early accelerates revelation but tips him off
+**Path B — Physical investigation (not yet touched, needs a different owner):** ~~Dorak no longer fits this path~~ — he was never the seal's keeper; he's a former gith slave with no personal history with the entity, though he's sensed something old and wrong deeper in the tunnels he's never explained (see [[Dorak]]). If the party pursues this route instead of/alongside the dream, **Oren** is the better fit for "someone chipping the exterior markings from outside" — he's already the confirmed insider (bribed to break the signal mirror, feeding gith info); tying him to seal-tampering as another job for his handler is consistent with his established treachery. The boot-print clue from Act 1 Hook 3 still points to him.
 
-**Reward:** Immediate threat contained. Feeds into Act 5 (the [[Hidden/Kharanok- The Altar of Dust/The Cistern|Cistern]] darkening is connected to what is below).
+**Goal:** Identify what's trapped down there and what/who "the key" is. Decide whether to free it, use it, or leave it sealed.
+
+**Reward:** Immediate threat understood (not necessarily resolved). Feeds into Act 5 (the [[Hidden/Kharanok- The Altar of Dust/The Cistern|Cistern]] darkening is connected to what is below).
 
 ---
 
