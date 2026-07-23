@@ -3,6 +3,18 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.7 — LegendKeeper Resync (2026-07-23 export)
+
+**Source:** `Darkest Sun.json` exported 2026-07-23, moved in from `Downloads/`; prior 2026-06-05 export kept as `Darkest Sun.json.bak-2026-06-05`
+
+**Script fix:** `json_to_obsidian.py` had hardcoded sandbox paths (`/sessions/sleepy-peaceful-pascal/mnt/...`) left over from a previous environment — `SRC`/`VAULT` updated to `D:\Darkest Sun\Darkest Sun.json` / `D:\Darkest Sun\obsidian`.
+
+**164 files written** across Rules, Classes, The World, Kharanok- The Altar of Dust, Campaign Map, and root (Darkest Sun.md, Advancement.md, Psionics.md, Character - Soldier.md, Untitled.md).
+
+**Protected (untouched, verified):** `NPCs/` (46 files), `Monsters/` (28 files), `Hidden/`, `greek/`, `Books/` — 0 protected_skipped reported since the new export doesn't touch those resource IDs.
+
+---
+
 ## v1.6 — Session Prep Folder
 
 **New `Hidden/Session prep/`**

@@ -3,8 +3,6 @@ title: "Thief"
 icon: "file"
 ---
 
-# **Thief**
-
 Rooftop assassins, grinning con artists, or cloaked cat burglars who can pluck a gem from the claws of a sleeping demon and sell it for twice its worth.
 
 ---
@@ -17,21 +15,27 @@ Armor: Leather armor
 
 ---
 
-**Backstab**. If you hit a creature who is unaware of your attack, you deal an extra weapon die of damage. Add additional weapon dice of damage equal to half your level (round down).
+# Class Features
 
-**Thievery.** You are adept at thieving skills and have the necessary tools of the trade secreted on your person (they take up no gear slots).
+> ### Backstab
+> 
+> If you hit a creature who is unaware of your attack, you deal an extra weapon die of damage. Add additional weapon dice of damage equal to half your level (round down).
 
-You are trained in the following tasks and have advantage on any associated checks:
-
-- Climbing
-- Sneaking and hiding
-- Applying disguises
-- Finding and disabling traps
-- Delicate tasks such as picking pockets and opening locks
+> ### Thievery
+> 
+> You are adept at thieving skills and have the necessary tools of the trade secreted on your person (they take up no gear slots).
+> 
+> You are trained in the following tasks and have advantage on any associated checks:
+> 
+> - Climbing
+> - Sneaking and hiding
+> - Applying disguises
+> - Finding and disabling traps
+> - Delicate tasks such as picking pockets and opening locks
 
 ---
 
-## **Talents**
+# **Talents**
 
 | **2d6** | **Effect** |
 | --- | --- |

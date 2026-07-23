@@ -3,8 +3,6 @@ title: "Gladiator"
 icon: "file"
 ---
 
-# **Gladiator**
-
 Blood-soaked arena killers, slave-pit champions, scarred duelists, and desert brawlers trained to survive pain, spectacle, and impossible odds. A gladiator does not simply fight - they endure, perform, and refuse to die while the crowd screams for blood.
 
 ---
@@ -17,17 +15,27 @@ Armor: Leather armor, shields
 
 ---
 
-**Flourish.** 3/day, regain 1d6 hit points when you hit an enemy with a melee attack.
+# Class Features
 
-**Implacable.** You have advantage on Constitution checks to resist injury, poison, or endure extreme environments.
+> ### Flourish
+> 
+> 3/day, regain 1d6 hit points when you hit an enemy with a melee attack.
 
-**Last Stand.** You get up from dying with 1 HP on a natural d20 roll of 18-20. Once per day, automatically pass this check.
+> ### Implacable
+> 
+> You have advantage on Constitution checks to resist injury, poison, or endure extreme environments.
 
-**Relentless.** While you are dying, you may forgo making d20 checks to get up with 1 HP. If you do, you remain conscious. Each time you take damage in this state, lose 1 death timer round.
+> ### Last Stand
+> 
+> You get up from dying with 1 HP on a natural d20 roll of 18-20. Once per day, automatically pass this check.
+
+> ### Relentless
+> 
+> While you are dying, you may forgo d20 rolls to rise from dying. If you do, you remain conscious and can act. Each time you take damage in this state, lose 1 death timer round.
 
 ---
 
-## **Talents**
+# Talents
 
 | **2d6** | **Effect** |
 | --- | --- |

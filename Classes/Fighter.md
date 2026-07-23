@@ -3,31 +3,39 @@ title: "Fighter"
 icon: "file"
 ---
 
-## **Fighter**
-
 Dust-caked caravan guards holding the line against raiders, scarred slave-soldiers drilled in the armies of the sorcerer-kings, elven archers vanishing across the dunes, or mercenary captains who carve survival from steel, tactics, and grit.
 
 ---
 
-Weapons: All weapons
+**Weapons:** All weapons
 
-Armor: All armor and shields
+**Armor:** All armor and shields
 
 **Hit Points**: 1d8 per level
 
 ---
 
-**Hauler**. Add your Constitution modifier, if positive, to your gear slots.
+# Class Features
 
-**Weapon Mastery.** Choose one type of weapon, such as longswords. You gain +1 to attack and damage with that weapon type. In addition, add half your level to these rolls (round down).
+> ### Hauler
+> 
+> Add your Constitution modifier, if positive, to your gear slots.
 
-**Grit**. Choose Strength or Dexterity. You have advantage on checks of that type to overcome an opposing force, such as kicking open a stuck door (Strength) or slipping free of rusty chains (Dexterity).
+> ### Weapon Mastery
+> 
+> Choose one type of weapon, such as longswords. You gain +1 to attack and damage with that weapon type. In addition, add half your level to these rolls (round down).
 
-**Leadership.** While you are not dead or dying, all characters in your group gain a +2 bonus to morale checks.
+> ### Grit
+> 
+> Choose Strength or Dexterity. You have advantage on checks of that type to overcome an opposing force, such as kicking open a stuck door (Strength) or slipping free of rusty chains (Dexterity).
+
+> ### Leadership
+> 
+> While you are not dead or dying, all characters in your group gain a +2 bonus to morale checks.
 
 ---
 
-## **Talents**
+# Talents
 
 | **2d6** | **Effect** |
 | --- | --- |

@@ -3,46 +3,40 @@ title: "Hex Crawling"
 icon: "file"
 ---
 
-Hexes are 12-miles across.
+Hexes are 6-miles across.
 
-Terrain impacts the number of hexes PCs can enter per day.
+Terrain impacts the number of miles a PCs can travel per hour.
 
 PCs can undertake tasks while traveling, and they may encounter harsh weather or points of interest.
-
-Random encounter checks are based on the number of hexes the group enters.
 
 PCs and their mounts can travel for up to 8 hours a day.
 
 ## Hex Visibility
 
-#### **Hexes per Day**
+The PCs can see the terrain and points of interest in all adjacent hexes. They can also see major terrain features, such as mountains, from any hex while their visibility is not hindered. PCs can try to enter an adjacent hex they can't see into, but they bounce off it if they don't have enough available movement.
 
-- Walking: 2 Hexes
-- Mounted: 4 Hexes
-- Sailing: 8 Hexes
+Some conditions in the PCs' current hex can affect the visibility of surrounding hexes:
 
-### **Wilderness Adventuring**
+# Travel Procedure
 
-1. The GM determines the weather (temperature & wind)
-2. The PCs make task checks in any order they choose.
-3. The PCs choose a direction to travel and a number of hexes to move. They move accordingly.
-4. Refer to Entering
-5. Generate the hex's danger level 
-6. Roll a d6. On a 1, the hex has a point of interest
-7. Generate visible surrounding hexes
-8. Check for a random encounter every other hex using the hex's danger level.
+1. **Weather. **The GM determines the weather (temperature & wind)
+2. **Visibility.** The PCs make task checks in any order they choose.
+3. **Travel Method.** The PCs decide their mode of travel.
+4. **Travel Speed.** The PCs decide whether to move at normal speed or push.
+5. **Traveling**. The PCs move, expending as much available movement as they want. Update the visible hexes as they travel.
+6. **Points of Interest.** 
+7. **Traveling Encounters.** Generate the hex's danger level. Check for a random encounter every other hex using the hex's danger level. Check for and trigger random encounters while the PCs travel.
 
 ### Terrain Key
 
 | Terrain | Travel ( Miles per Hour) |
 | --- | --- |
-| Road | 3.5 |
-| Trail | 3.0 |
-| <u>Silt skimmer sailing in moderate wind</u> | <u>3.0</u> |
-| Gravel / Uneven | 2.0 |
-| Sand Wastes | 1.5 |
+| Road or Clear Trail | 3 |
+| Silt skimmer sailing in moderate wind | 3 |
+| Gravel / Uneven | 2 |
+| Sand Wastes | 2 |
 | Rocky Badlands / Mountain Trail | 1 |
-| Mountain Climb | 0.5 |
+| Mountain Climb | 1 |
 | Silt Sea | 1 |
 
 Weather
@@ -50,16 +44,16 @@ The current weather lasts until the end of the next rest, unless an encounter ch
 
 Temperature / 2d6
 2: Inferno. You take 1d6 damage each hour of travelling.
-3-7: Very Hot. Must Consume one extra ration this day. DISADV on CON checks to avoid exhaustion.
-8-9: Hot. DISADV on CON checks to avoid exhaustion.
+3-6: Very Hot. Must Consume one extra ration this day. DISADV on CON checks to avoid exhaustion.
+7-9: Hot. DISADV on CON checks to avoid exhaustion.
 10-11: Warm.
 12: Cool. ADV on CON checks to avoid exhaustion.
 
 #### **Wind / 2d6**
 
 - **2: Sandstorm.** Travel is impossible.
-- **3-7: Driving.** Visibility reduced to Double Near distance. DISADV on WIS checks to avoid encounters. Double Sailing Speed.
-- **6-9: Gusty. Normal Sailing Speed.**
+- **3-6: Driving.** Visibility reduced to Double Near distance. DISADV on WIS checks to avoid encounters. Double Sailing Speed.
+- **7-9: Gusty. Normal Sailing Speed.**
 - **10-11: Breeze.  **Too Weak for sailing.
 - **12: None.**
 

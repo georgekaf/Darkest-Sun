@@ -7,12 +7,12 @@ Muls are hardy hybrids born of dwarven and human parentage, engineered primarily
 
 ---
 
-07. Languages**.** Common.
+> **Languages.** Common.
 
-**Tough.** When you roll hit points, reroll any 1s. You have advantage on Constitution checks.
+> **Tough.** When you roll hit points, reroll any 1s. You have advantage on Constitution checks.
 
-**Unbroken Endurance.** You can go up to 48 hours without food, water, or sleep. After this, you must eat, drink, and sleep for 8 hours or suffer exhaustion.
+> **Unbroken Endurance.** You can go up to 48 hours without food, water, or sleep. After this, you must eat, drink, and sleep for 8 hours or suffer exhaustion.
 
-**Carrying Capacity**. Mul can carry an extra 3 gear slots.
+> **Carrying Capacity**. Mul can carry an extra 3 gear slots.
 
-**Slave-Born.** Most muls begin life as slaves, laborers, or gladiators. Even free muls often carry the stigma of the pits, mines, or arenas.
+> **Slave-Born.** Most muls begin life as slaves, laborers, or gladiators. Even free muls often carry the stigma of the pits, mines, or arenas.

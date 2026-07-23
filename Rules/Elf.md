@@ -9,12 +9,12 @@ An Athasian elf stands between 6 and 7 feet tall. They are slender, lean, and ge
 
 ---
 
-07. Languages**:** Common and Elvish.
+> **Languages**. Common and Elvish.
 
-**Farsight.** You get a +1 bonus to attack rolls with ranged weapons or +1 bonus to spellcasting.
+> **Farsight.** You get a +1 bonus to attack rolls with ranged weapons or +1 bonus to spellcasting.
 
-**Runners.** When you use your action to move, you may move double the normal distance. You have advantage on checks involving long-distance travel on foot.
+> **Runners.** When you use your action to move, you may move double the normal distance. You have advantage on checks involving long-distance travel on foot.
 
-**Never Ride.** Elves refuse to ride animals unless wounded or near death. Among elves, the custom is simple: keep up or be left behind.
+> **Never Ride.** Elves refuse to ride animals unless wounded or near death. Among elves, the custom is simple: keep up or be left behind.
 
-**Wasteland Ambusher.** Advantage on Initiative checks.
+> **Wasteland Ambusher.** Advantage on Initiative checks.

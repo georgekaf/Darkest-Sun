@@ -5,13 +5,13 @@ icon: "file"
 
 | Ancestry | Human / Half-Elf | Dwarf/ Mul | Elf | Half-Giant | Halfling | Thri-Kreen |
 | --- | --- | --- | --- | --- | --- | --- |
-| Bard [UC] |  |  |  |  |  |  |
-| Bounty Hunter [UC] |  |  |  |  |  |  |
+| Bard |  |  |  |  |  |  |
+| Bounty Hunter |  |  |  |  |  |  |
 | Druid |  |  |  |  |  |  |
 | Fighter |  |  |  |  |  |  |
 | Gladiator |  |  |  |  |  |  |
 | Necromancer |  |  |  |  |  |  |
-| Priest, Air |  |  |  |  |  |  |
+| Priest |  |  |  |  |  |  |
 | Psionicist [UC] |  |  |  |  |  |  |
 | Ranger |  |  |  |  |  |  |
 | Thief |  |  |  |  |  |  |

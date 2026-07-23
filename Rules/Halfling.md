@@ -7,10 +7,10 @@ Athasian halflings are primitive yet resourceful hunters. Unlike typical fantasy
 
 ---
 
-07. Languages**.** Halfling
+> **Languages.** Halfling
 
-**Stealthy.** Once per day, you can become invisible for 3 rounds.
+> **Stealthy.** Once per day, you can become invisible for 3 rounds.
 
-**Agile.** When a creature larger than human-sized attacks you, it has disadvantage on melee attack roll.
+> **Agile.** When a creature larger than human-sized attacks you, it has disadvantage on melee attack roll.
 
-**Brutalize.** You may use an action to mutilate, display, or ritually mark the corpse. Enemies allied with the victim who can see this must immediately make a morale check. Mindless, fearless, or uncomprehending creatures are unaffected.
+> **Brutalize.** You may use an action to mutilate, display, or ritually mark the corpse. Enemies allied with the victim who can see this must immediately make a morale check. Mindless, fearless, or uncomprehending creatures are unaffected.

@@ -3,8 +3,6 @@ title: "Ranger"
 icon: "file"
 ---
 
-## **Ranger**
-
 Skilled trackers, stealthy wanderers, and peerless warriors who call the wilds their home.
 
 ---
@@ -17,17 +15,40 @@ Armor: Leather armor, chainmail
 
 ---
 
-**Wayfinder**. You have advantage on checks associated with:
+# Class Features
 
-- Navigation
-- Tracking
-- Bushcraft
-- Stealth
-- Wild animals
+> ### Wayfinder
+> 
+> You have advantage on checks associated with:
+> 
+> - Navigation
+> - Tracking
+> - Bushcraft
+> - Stealth
+> - Wild animals
 
-**Herbalism.** Make an INT check to prepare an herbal remedy you choose. If you fail, you can’t make that remedy again until you successfully rest. Unused remedies expire in 3 rounds.
+> ### Herbalism
+> 
+> Make an INT check to prepare an **herbal remedy** you choose. If you fail, you can’t make that remedy again until you successfully rest. Unused remedies expire in 3 rounds.
+> 
 
-## **Herbal Remedy**
+---
+
+# Talents
+
+| **d6** | **Effect** |
+| --- | --- |
+| 2 | You deal d12 damage with one weapon type you choose |
+| 3-6 | +1 to melee or ranged attacks and damage |
+| 7-9 | +2 to Strength, Dexterity, or Intelligence stat |
+| 10-11 | You gain ADV on Herbalism checks for a remedy you choose |
+| 12 | Choose a talent or +2 points to distribute to stats |
+
+---
+
+# **Herbal Remedies**
+
+You begin with the following herbal remedies.
 
 | **DC** | **Effect** |
 | --- | --- |
@@ -38,13 +59,3 @@ Armor: Leather armor, chainmail
 | 15 | **Curative**. Equivalent to a Potion of Healing |
 
 ---
-
-## Talents
-
-| **d6** | **Effect** |
-| --- | --- |
-| 2 | You deal d12 damage with one weapon type you choose |
-| 3-6 | +1 to melee or ranged attacks and damage |
-| 7-9 | +2 to Strength, Dexterity, or Intelligence stat |
-| 10-11 | You gain ADV on Herbalism checks for a remedy you choose |
-| 12 | Choose a talent or +2 points to distribute to stats |

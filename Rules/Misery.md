@@ -9,7 +9,7 @@ icon: "file-lines"
 | 2 | Banished from hometown |
 | 3 | Betrayed by a loved one |
 | 4 | Cursed by a vengeful witch |
-| 5 | Disiherited or disowned |
+| 5 | Disinherited or disowned |
 | 6 | Escaped slavery |
 | 7 | Running away due to a scandal |
 | 8 | Framed for a crime |

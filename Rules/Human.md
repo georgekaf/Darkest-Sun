@@ -7,8 +7,8 @@ Humans are adaptable, resourceful survivors thriving across Athas, whether in op
 
 ---
 
-**Languages:** Common and one additional common language.
+> **Languages:** Common and one additional common language.
 
-**Ambitious.** Humans can make an additional talent roll at 1st level.
+> **Ambitious.** Humans can make an additional talent roll at 1st level.
 
-**Diplomats.** You may reroll a reaction check when dealing with creatures you can understand. You know one additional common or rare language.
+> **Diplomats.** You may reroll a reaction check when dealing with creatures you can understand. You know one additional common or rare language.
