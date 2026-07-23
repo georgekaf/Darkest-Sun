@@ -3,6 +3,16 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.12 — Session Prep Detail Pass (ad1–ad3)
+
+More detail added across all three session preps:
+
+- **ad2 (`0002`):** nat 20 stabilize rolls for Rhugor/Shaka saving Relo and Sepsis; Dorak's camping condition reframed as "see for yourselves what happens at night"; explicit note that players have no way of knowing what a moonbeast is (in-fiction knowledge gap, not just "unresolved")
+- **ad3 (`0003`):** the Gith captors were trying to ambush Kharanok again through the subterranean caves when found; the party staked the beheaded Gith's heads on spikes as a deterrent (not just "beheaded as a warning"); captive Gith's planned answer clarified — "moon" and "beast" as two separate words, not a single "moonbeast" reveal
+- Minor formatting cleanup (blank line after frontmatter removed) across `0001`–`0003`
+
+---
+
 ## v1.11 — Truncation Bug Recovery + ep.1/ep.6 Naming Fixes
 
 **Real corruption found and fixed:** the editing tool used for several recent commits was silently clipping long lines (~150 chars) and saving the literal text `[...]` in their place. Found 7 truncated lines in `0003 - Session Prep 16-7-2026.md` and 1 in `0002 - Session Prep 10-7-2026.md`. Recovered the full original text for all 8 from git history (`git show` on pre-truncation commits) — no content guessed or invented, all restored verbatim from prior commits.

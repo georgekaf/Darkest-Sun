@@ -2,7 +2,6 @@
 title: "Session Prep — 2 Ιουλίου 2026 (ad1 «Find the... GOAT!»)"
 tags: [kharanok, session-prep, altar-of-dust]
 ---
-
 # Session Prep — 2 Ιουλίου 2026 (ad1)
 
 *Day starts at Macro 13, 24 King's Ages, 6th hour*
