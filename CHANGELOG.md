@@ -3,6 +3,20 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.10 — Obsidian Mines Canon Layout + New Vault Guidelines
+
+**`Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves.md`** established as the canonical map reference:
+- New **Room Connections** section tracing the full layout from the POI map image (1→2→3 fork into either 4/5/6/7 via the water, or 8/9/10/11/12 via the built room complex)
+- New **Hidden Connections** section: crate-hidden door from Storehouse (#10) to Foreman's Office/quartermaster (#8, locked from the other side, stairs down to Level 2); hidden passage in the elevator-shaft storage room to a one-way teleportation room; two illusionary walls from the Barracks (#9) as a second route to that same teleportation room
+- Deep Lake (#6) POI expanded with Crystal Dust formation lore: shards deposited by water, recoverable when it dries at noon, quality gradient (cloudy/mineral-heavy near the lake, clearer higher-grade deeper in where Bulette roam and the passage narrows)
+- Elevator/tar cross-reference fixed to a proper `[[wikilink]]`
+
+**`0003 - Session Prep 16-7-2026.md`** — "party chose not to risk going past the broken elevator" corrected: it wasn't a choice, gith can jump the shaft but players need the (broken) mechanical elevator. GM map reference section trimmed to point at the now-canonical cave file instead of duplicating the room details.
+
+**New `obsidian/GUIDELINES.md`** — vault-wide editing conventions, independent from `summary_rules.md`: wikilinks over backticks for in-vault refs, one-canonical-source-per-topic pattern, NPC background correction protocol, quest Act/Hook progress-note pattern, session prep format (inlined), file naming for ordered series, LegendKeeper JSON→Obsidian sync workflow, changelog discipline.
+
+---
+
 ## v1.9 — Session Prep Files Renamed for Sort Order
 
 `Hidden/Session prep/` files were sorting wrong alphabetically ("10-7" and "16-7" both sort before "2-7"). Renamed with a 4-digit numeric prefix reflecting session order:

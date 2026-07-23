@@ -11,12 +11,14 @@
             "id": "3e13e49d0e2611ab",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/cannibal-cave-nogrid-water.png"
+                "file": "Hidden/Session prep/0003 - Session Prep 16-7-2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "cannibal-cave-nogrid-water"
+              "icon": "lucide-file",
+              "title": "0003 - Session Prep 16-7-2026"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hidden/Session prep/Session Prep 16-7-2026.md",
+                "file": "Hidden/Session prep/0003 - Session Prep 16-7-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session Prep 16-7-2026"
+              "title": "Outline of 0003 - Session Prep 16-7-2026"
             }
           }
         ],
@@ -181,25 +183,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6588f68b5c79977",
+  "active": "3e13e49d0e2611ab",
   "lastOpenFiles": [
-    "CHANGELOG.md.tmp.18544.9931094ffdb1",
-    "Hidden/Session prep/0002 - Session Prep 10-7-2026.md.tmp.18544.ea499ed4a8f0",
+    "CHANGELOG.md.tmp.18544.79de7359fbc5",
+    "GUIDELINES.md.tmp.18544.6b786f764bfa",
+    "GUIDELINES.md.tmp.18544.01d4c4436c70",
+    "GUIDELINES.md.tmp.18544.8d6b3632e0b0",
+    "GUIDELINES.md.tmp.18544.7bbb9cabedc2",
+    "GUIDELINES.md",
+    "GUIDELINES.md.tmp.18544.7c8d4f8af331",
+    "Hidden/Session prep/0003 - Session Prep 16-7-2026.md.tmp.18544.a2615694204e",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/01. Obsidian Mines AKA The Cannibal Caves.md",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/01. Obsidian Mines AKA The Cannibal Caves.md.tmp.18544.b72660972459",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/01. Obsidian Mines AKA The Cannibal Caves.md.tmp.18544.534f08127377",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/01. Obsidian Mines AKA The Cannibal Caves.md.tmp.18544.1f658e4e8579",
+    "Hidden/Session prep/0003 - Session Prep 16-7-2026.md.tmp.18544.9bc5f3d8ddf2",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/cannibal-cave-nogrid-water.png",
+    "Hidden/Session prep/Session Prep 16-7-2026.md",
     "Hidden/Session prep/0003 - Session Prep 16-7-2026.md",
     "Hidden/Session prep/0002 - Session Prep 10-7-2026.md",
     "Hidden/Session prep/0001 - Session Prep 2-7-2026.md",
-    "CHANGELOG.md.tmp.18544.9c3606f4a304",
-    "CHANGELOG.md.tmp.18544.f63934c8bbf8",
-    "Hidden/Kharanok- The Altar of Dust/NPCs/Dorak.md.tmp.18544.cc8b0de0e67f",
-    "Hidden/Session prep/Session Prep 10-7-2026.md.tmp.18544.a03369c68176",
-    "Hidden/Session prep/Session Prep 10-7-2026.md.tmp.18544.43aa0b128ae7",
-    "Hidden/Session prep/Session Prep 16-7-2026.md.tmp.18544.51b277ed6c6f",
-    "Hidden/Kharanok- The Altar of Dust/Quests/Act 2 - Clear the Mountain.md.tmp.18544.c8d222749b69",
-    "CHANGELOG.md.tmp.18544.9a73fdc2f965",
-    "Hidden/Session prep/Session Prep 16-7-2026.md.tmp.18544.cf566bd118a3",
     "Hidden/Session prep/Session Prep 10-7-2026.md",
     "Hidden/Session prep/Session Prep 2-7-2026.md",
-    "Hidden/Session prep/Session Prep 16-7-2026.md",
     "Journal/Season 3/Altar of Dust, Session ad1- «Find the... GOAT!».md",
     "Hidden/Prompts for nano banana pro 2.md",
     "Untitled.md",
@@ -217,15 +222,12 @@
     "Journal/Season 2/52. Chasing (Offstream) Recap..md",
     "Journal/Season 2/49.5. Defilement & Zone of Truth.md",
     "Journal/Season 2/48. -Dreams.md",
-    "Journal/Season 2.md",
-    "Journal/Season 1/25. Black Wind, Fire and Steel.md",
     "desert night.png",
     "cave inside.png",
     "temple.png",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/9b29cccb-3bca-4c51-997d-2121b5c6f789.png",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/Pasted image 20260623235041.png",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/Pasted image 20260623235041.png",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/cannibal-cave-nogrid-water.png",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/cannibal-cave-nogrid-water.webp",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/cannibal-cave-nogrid.jpg",
     "Untitled.canvas",
