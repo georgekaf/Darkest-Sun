@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0a442bc43a4b374",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hidden/Session prep/Session Prep 16-7-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session Prep 16-7-2026"
-            }
-          },
-          {
             "id": "3e13e49d0e2611ab",
             "type": "leaf",
             "state": {
@@ -197,6 +183,11 @@
   },
   "active": "b6588f68b5c79977",
   "lastOpenFiles": [
+    "CHANGELOG.md.tmp.18544.9931094ffdb1",
+    "Hidden/Session prep/0002 - Session Prep 10-7-2026.md.tmp.18544.ea499ed4a8f0",
+    "Hidden/Session prep/0003 - Session Prep 16-7-2026.md",
+    "Hidden/Session prep/0002 - Session Prep 10-7-2026.md",
+    "Hidden/Session prep/0001 - Session Prep 2-7-2026.md",
     "CHANGELOG.md.tmp.18544.9c3606f4a304",
     "CHANGELOG.md.tmp.18544.f63934c8bbf8",
     "Hidden/Kharanok- The Altar of Dust/NPCs/Dorak.md.tmp.18544.cc8b0de0e67f",
@@ -206,8 +197,6 @@
     "Hidden/Kharanok- The Altar of Dust/Quests/Act 2 - Clear the Mountain.md.tmp.18544.c8d222749b69",
     "CHANGELOG.md.tmp.18544.9a73fdc2f965",
     "Hidden/Session prep/Session Prep 16-7-2026.md.tmp.18544.cf566bd118a3",
-    "Hidden/Session prep/Session Prep 16-7-2026.md.tmp.18544.8356175b2570",
-    "Hidden/Session prep/Session Prep 16-7-2026.md.tmp.18544.3c733c67e687",
     "Hidden/Session prep/Session Prep 10-7-2026.md",
     "Hidden/Session prep/Session Prep 2-7-2026.md",
     "Hidden/Session prep/Session Prep 16-7-2026.md",
@@ -230,9 +219,6 @@
     "Journal/Season 2/48. -Dreams.md",
     "Journal/Season 2.md",
     "Journal/Season 1/25. Black Wind, Fire and Steel.md",
-    "Journal/Season 1/24. DEMONS FROM THE PAST.md",
-    "Journal/Season 1/23. SEARCH AND DESTROY.md",
-    "Journal/Season 1/22. RETURN OF THE GIANTS.md",
     "desert night.png",
     "cave inside.png",
     "temple.png",

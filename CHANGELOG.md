@@ -3,6 +3,17 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.9 — Session Prep Files Renamed for Sort Order
+
+`Hidden/Session prep/` files were sorting wrong alphabetically ("10-7" and "16-7" both sort before "2-7"). Renamed with a 4-digit numeric prefix reflecting session order:
+- `Session Prep 2-7-2026.md` → `0001 - Session Prep 2-7-2026.md`
+- `Session Prep 10-7-2026.md` → `0002 - Session Prep 10-7-2026.md`
+- `Session Prep 16-7-2026.md` → `0003 - Session Prep 16-7-2026.md`
+
+Internal cross-reference in `0002` (pointed to the old ad3 filename) updated to match.
+
+---
+
 ## v1.8 — Altar of Dust Continuity Pass (Session Preps, Quests, NPCs)
 
 **Session prep files unified** — `Hidden/Session prep/Session Prep <date>.md` (ad1, ad2, ad3) rewritten to a single shared format: Goals → Related Quests → Done → Not done/left unfinished → Summary → Left to do. Format documented in `summary_rules.md` for future preps.
