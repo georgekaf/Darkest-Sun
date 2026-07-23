@@ -5,7 +5,7 @@ tags: [kharanok, meta]
 
 ## v1.13 — Below Kharanok: Full 31-Level Dyson MegaDelve Build-Out
 
-**New: `Below Kharanok/02.` through `31.`** — stub pages for all 31 areas of Dyson Logos's "Dyson MegaDelve" map pack, each with source map images, a Dyson blog source link, a parsed flavor-text summary (fetched from each area's actual Dyson post), and a Connections section. `01. Obsidian Mines AKA The Cannibal Caves` (already played/keyed) is unchanged and remains the entrance.
+**New: `Below Kharanok/02.` through `31.`** — stub pages for all 31 areas of Dyson Logos's "Dyson MegaDelve" map pack, each with source map images, a Dyson blog source link (shown both as a markdown link and as visible canonical `dysonlogos.blog` plain text — the original `rpgcharacters.wordpress.com` links all 301-redirect there), a parsed flavor-text summary (fetched from each area's actual Dyson post), and a Connections section. `01. Obsidian Mines AKA The Cannibal Caves` (already played/keyed) is unchanged and remains the entrance.
 
 **Numbering:** areas ordered 01–31 by actual walkthrough connectivity, not raw visual position — built from a full connection graph (passages, staircases, collapsed/impassable routes, shafts) supplied over the session, then cross-checked against Dyson's own original node map (OCR'd) and corrected where it revealed missed edges (e.g. Marble Hall ↔ Venomous Hall, Necropolis ↔ Crypts direct, Mushroom Cavern ↔ Hematite Mines, Ogre Base ↔ Mushroom Cavern).
 
