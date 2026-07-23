@@ -3,6 +3,22 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.13 — Below Kharanok: Full 31-Level Dyson MegaDelve Build-Out
+
+**New: `Below Kharanok/02.` through `31.`** — stub pages for all 31 areas of Dyson Logos's "Dyson MegaDelve" map pack, each with source map images, a Dyson blog source link, a parsed flavor-text summary (fetched from each area's actual Dyson post), and a Connections section. `01. Obsidian Mines AKA The Cannibal Caves` (already played/keyed) is unchanged and remains the entrance.
+
+**Numbering:** areas ordered 01–31 by actual walkthrough connectivity, not raw visual position — built from a full connection graph (passages, staircases, collapsed/impassable routes, shafts) supplied over the session, then cross-checked against Dyson's own original node map (OCR'd) and corrected where it revealed missed edges (e.g. Marble Hall ↔ Venomous Hall, Necropolis ↔ Crypts direct, Mushroom Cavern ↔ Hematite Mines, Ogre Base ↔ Mushroom Cavern).
+
+**Floors:** areas grouped into 8 depth floors (user-supplied), documented in `Below Kharanok.md`.
+
+**Harpy Tower correction:** originally connected to the Necropolis (campaign guess); Dyson's own source text places it above the dwarven city instead, linked by a (destroyed) staircase down to Gates of the City — realigned to match Dyson's source, Necropolis connection removed.
+
+**New: `Wandering Monster Tables/`** — backup pages for Dyson's die-drop encounter tables for the Mushroom Cavern and Under the Mushroom Cave, cross-linked from both area pages.
+
+**Geography:** dungeon situated in the Blackspine Mountains; Obsidian Mines confirmed as the entrance below Kharanok itself; Necropolis of Bryn Mynnyd's surface exit specifically leads to Quor'Anok, other surface exits lead elsewhere in the range.
+
+---
+
 ## v1.12 — Session Prep Detail Pass (ad1–ad3)
 
 More detail added across all three session preps:
