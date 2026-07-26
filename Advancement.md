@@ -11,6 +11,10 @@ Story awards are on a scale from 1 to 3 and the are awarded to the group
 
 You gain xp equal to the combined level of all enemies you have defeated in a battle, split among all the participants (PC and Hirelings) equally.
 
+**No challenge, no XP.** First work out the party's average level. Any single enemy whose level is half the party's average level (rounded down) or lower counts as no real challenge and is worth 0 XP — it isn't added to the combined total at all. Example: average party level 4, a level-2 enemy is exactly half, so it contributes nothing.
+
+Only enemies above that threshold count. This is intentional: as the party levels up, easy fights stop paying out, and you have to keep seeking tougher threats to keep advancing.
+
 # Role-Playing Awards
 
 ## Dwarf

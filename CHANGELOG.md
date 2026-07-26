@@ -3,6 +3,22 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.14 — Below Kharanok Distances + ad4 Session Prep + Advancement Fix
+
+**`Below Kharanok.md`** — merged in a standalone isometric-map page (created then folded back into the main hub): embedded overview image, link to the interactive pan/zoom HTML (`kharanok dungeon/isometric-map/index.html`), and a new **General Info** section with a full distance table (mi/ft/km) for every connection in the dungeon graph, plus a short read on which links run longest/shortest and why.
+
+**New `isometric-map-labeled.png`** — rendered from the interactive HTML via headless Chrome (scale forced to 1, header/zoom controls stripped) so all 31 pin labels are baked into a single static image; replaces the earlier unlabeled embed.
+
+**Distance methodology:** pin pixel-positions read off the isometric layout, scaled against the "~6 miles top to bottom" footprint claim (≈8.11 ft/px) — explicitly flagged as a schematic estimate, not surveyed geography, since the node layout itself is user-supplied. Distance-table links use full `[[wikilink]]`s to each numbered area's note.
+
+**New: `Hidden/Session prep/0004 - Session Prep 25-7-2026.md`** — ad4 "It's Raining Bats and Bugs" (25 July 2026): captive Gith interrogation and release, Kalia's rope refusal (she'd already given the party Zephyr, a new NPC priest of air ally, and had nothing left to offer), a wild kank fight over drunk Syggra in kank territory, a near-fatal giant bat swarm ambush, and Parias's shadow-spell ghost transformation ("Erebos") saving an unconscious Gur-da by possessing a kank. 3 of 5 missing Syggra recovered alive, 2 died in the fighting; the Kank itself was never recovered, only consolation Feed Globules.
+
+**`01. Obsidian Mines AKA The Cannibal Caves.md`** — South Access Shaft (#12) given a concrete depth split: ~180m/590ft rope elevator, then ~1,735m/5,693ft of rock-carved staircase (~10,200 steps) to make up the full 1.92km shaft. Also added the in-world reason the site keeps the "Obsidian Mines" name despite also yielding Crystal Dust: Crystal Dust mining/trading is illegal, so the obsidian vein is the cover story.
+
+**`Advancement.md` (Hunter Mode)** — clarified the XP rule that was previously just "combined enemy level, split evenly": any enemy at half the party's average level (rounded down) or lower is "no challenge" and worth zero XP, per actual table-play precedent.
+
+---
+
 ## v1.13 — Below Kharanok: Full 31-Level Dyson MegaDelve Build-Out
 
 **New: `Below Kharanok/02.` through `31.`** — stub pages for all 31 areas of Dyson Logos's "Dyson MegaDelve" map pack, each with source map images, a Dyson blog source link (shown both as a markdown link and as visible canonical `dysonlogos.blog` plain text — the original `rpgcharacters.wordpress.com` links all 301-redirect there), a parsed flavor-text summary (fetched from each area's actual Dyson post), and a Connections section. `01. Obsidian Mines AKA The Cannibal Caves` (already played/keyed) is unchanged and remains the entrance.

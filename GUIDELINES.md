@@ -70,3 +70,8 @@ See `AGENTS.md` → "Changelog Rules" for the base rule (bump = new version with
 **Scope: obsidian/ only.** `CHANGELOG.md` tracks changes to files *inside* the `obsidian/` vault. Work in `transcripts and summaries/` (Περίληψη files, `fixes/*.json`, `session_schedule.md`, `summary_rules.md`, raw transcripts) does **not** get a changelog entry on its own, even in the same work session — that directory isn't part of this vault. If a single pass touches both, only the obsidian-side portion is changelog-worthy; describe that part on its own rather than bundling in the non-obsidian work.
 
 **Committed changes only.** Don't bump the changelog for edits sitting uncommitted in the working tree — `git status`/`git diff` first. Only bump once the obsidian-side changes are actually committed.
+
+**Mandatory pre-bump checklist — run both checks, in order, every single time, before writing a single line of a new version entry:**
+1. `git log --oneline -1 -- CHANGELOG.md` and `git status --short` (inside `obsidian/`) — if the current top version in the file isn't actually committed yet, don't create a new version on top of it; merge the new content into that same still-open entry instead.
+2. For every file/change about to be listed, confirm its path is literally inside `obsidian/` — if any item lives in `transcripts and summaries/` (or anywhere else outside the vault), drop it from the entry entirely, don't just leave it in "for context."
+Skipping either check and bumping anyway is exactly the mistake that keeps happening — both checks are cheap, do them first, not as a correction after the fact.

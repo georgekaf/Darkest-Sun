@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/01. Obsidian Mines AKA The Cannibal Caves.md",
+                "file": "Journal/Season 3/Altar of Dust, Session ad3- «Minecraft in Kharanok».md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Obsidian Mines AKA The Cannibal Caves"
+              "title": "Altar of Dust, Session ad3- «Minecraft in Kharanok»"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/01. Obsidian Mines AKA The Cannibal Caves.md",
+                "file": "Journal/Season 3/Altar of Dust, Session ad3- «Minecraft in Kharanok».md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01. Obsidian Mines AKA The Cannibal Caves"
+              "title": "Outline of Altar of Dust, Session ad3- «Minecraft in Kharanok»"
             }
           }
         ],
@@ -171,34 +171,43 @@
   },
   "active": "3e13e49d0e2611ab",
   "lastOpenFiles": [
-    "CHANGELOG.md.tmp.18544.ed817456bf06",
-    "CHANGELOG.md.tmp.18544.79a7ca4b7d98",
-    "fvtt-Scene-below-kharanok-dTdwzHW5BWB70EGc.json",
+    "GUIDELINES.md.tmp.29124.de072cfe78f5",
+    "CHANGELOG.md.tmp.29124.e9c70f556ef4",
+    "CHANGELOG.md.tmp.29124.dad31139289b",
+    "CHANGELOG.md.tmp.29124.fb69c6247c60",
+    "Hidden/Session prep/0004 - Session Prep 25-7-2026.md.tmp.29124.5701cd649be9",
+    "Hidden/Session prep/0004 - Session Prep 25-7-2026.md.tmp.29124.e99ddfaffc57",
+    "Hidden/Session prep/0004 - Session Prep 25-7-2026.md.tmp.29124.eb8170ed1dfc",
+    "Hidden/Session prep/0004 - Session Prep 25-7-2026.md.tmp.29124.2214b07a169c",
+    "Advancement.md.tmp.29124.c99244157dc9",
+    "Hidden/Session prep/0004 - Session Prep 25-7-2026.md.tmp.29124.2b363762da2b",
+    "Hidden/Session prep/0004 - Session Prep 25-7-2026.md.tmp.29124.2187af9c7cbd",
+    "Journal/Season 3/Επεισόδιο 14- «Traders and Killers...».md",
+    "Hidden/Session prep/0004 - Session Prep 25-7-2026.md",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/Below Kharanok - Athasian Names.md",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/Below Kharanok.md",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/isometric-map-labeled.png",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/Below Kharanok - Isometric Map.md",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/the-whole-megadelve-isometric-complete.png",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/01. Obsidian Mines AKA The Cannibal Caves.md",
+    "Journal/Season 2/29-43. Το Πέρασμα του Kemalok.md",
+    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/02. The Rat-Folk Tunnels/02. The Rat-Folk Tunnels.md",
+    "Journal/Season 1/26-43. Το Πέρασμα του Kemalok (Season 1 Finale — Γέφυρα προς Season 2).md",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/07. Lost River Cave (West)/07. Lost River Cave (West).md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/fvtt-Scene-below-kharanok-dTdwzHW5BWB70EGc.json",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/Below Kharanok.md.tmp.18544.ddc5b1ba9165",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/24. The Water Temple/water-temple-grid.jpg",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/24. The Water Temple/water-temple-production.jpg",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/24. The Water Temple/24. The Water Temple.md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/24. The Water Temple",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/31. The Harpy Tower/harpy-tower-grid.jpg",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/31. The Harpy Tower/harpy-tower-production.jpg",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/31. The Harpy Tower/31. The Harpy Tower.md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/31. The Harpy Tower",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/19. The Necropolis of Bryn Mynnyd/necropolis-of-bryn-mynnyd-production.jpg",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/19. The Necropolis of Bryn Mynnyd/necropolis-of-bryn-mynnyd-grid.jpg",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/19. The Necropolis of Bryn Mynnyd/19. The Necropolis of Bryn Mynnyd.md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/19. The Necropolis of Bryn Mynnyd",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/26. The Hematite Mines/east-mines-production.jpg",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/26. The Hematite Mines/east-mines-grid.jpg",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/26. The Hematite Mines/26. The Hematite Mines.md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/26. The Hematite Mines",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/23. Home of the Muck Dwellers/muck-dwellers-production.jpg",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/23. Home of the Muck Dwellers/muck-dwellers-grid.jpg",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/23. Home of the Muck Dwellers/23. Home of the Muck Dwellers.md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/23. Home of the Muck Dwellers",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/28. Giant Citadel – North/28. Giant Citadel – North.md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/28. Giant Citadel – North",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/21. The Crypts/21. The Crypts.md",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/22. Lost River/22. Lost River.md",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/18. The Flooded Mines/18. The Flooded Mines.md",
@@ -208,15 +217,6 @@
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/16. The Iron Halls/16. The Iron Halls.md",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/30. Under the Mushroom Cave/30. Under the Mushroom Cave.md",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/13. The Hall of Bronze/13. The Hall of Bronze.md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/11. The Mithril Hall/11. The Mithril Hall.md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/14. The Marble Hall/14. The Marble Hall.md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/12. Gates of the City/12. Gates of the City.md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/06. Lost River Cave (East)/06. Lost River Cave (East).md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/05. The Mushroom Cavern/05. The Mushroom Cavern.md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/04. The Goblin Caves/04. The Goblin Caves.md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/03. The Ogre Base/03. The Ogre Base.md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/02. The Rat-Folk Tunnels/02. The Rat-Folk Tunnels.md",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/08. The Morlock Retreat/08. The Morlock Retreat.md",
     "Untitled.canvas",
     "Untitled 4.canvas",
     "Untitled 1.canvas",
