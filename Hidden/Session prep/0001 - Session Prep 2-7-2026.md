@@ -4,7 +4,7 @@ tags: [kharanok, session-prep, altar-of-dust]
 ---
 # Session Prep — 2 Ιουλίου 2026 (ad1)
 
-*Day starts at Macro 13, 24 King's Ages, 6th hour*
+*109th day, year 24 of 190th King's Age, 6th hour (Merchant: K.A. 190.24 – Friend's Vengeance – Macro 19th; Draxian: al-Nar-Thur, eighth Or'Dom, Nar'Ai, Year of Friend's Vengeance, 190th Or'Zar)*
 
 ## Goals
 - Introduce Elder Yethras and Kharanok
