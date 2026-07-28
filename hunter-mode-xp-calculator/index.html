@@ -1,0 +1,905 @@
+<title>Hunter Mode — XP Calculator</title>
+<style>
+  :root {
+    --bg: #0c0906;
+    --bg-2: #150f0a;
+    --surface: #1c140d;
+    --surface-2: #261a10;
+    --surface-3: #1f160e;
+    --border: #40291a;
+    --text: #e7d9bc;
+    --text-dim: #a8916f;
+    --text-faint: #6e5b41;
+    --accent: #c53a1f;
+    --accent-strong: #e0501f;
+    --accent-ink: #180500;
+    --good: #7c9250;
+    --good-bg: #21280f;
+    --no: #8a7454;
+    --no-bg: #241b10;
+    --rule: #33210f;
+    --radius: 3px;
+    --font-display: "Big Caslon", "Copperplate", "Rockwell", "Iowan Old Style", "Georgia", serif;
+    --font-body: -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+
+  :root[data-theme="light"] {
+    --bg: #e8d6a8;
+    --bg-2: #dfc890;
+    --surface: #f2e3bd;
+    --surface-2: #e9d5a4;
+    --surface-3: #ecdcb4;
+    --border: #b8965c;
+    --text: #2c1c0e;
+    --text-dim: #5a3e22;
+    --text-faint: #85694a;
+    --accent: #9c2b14;
+    --accent-strong: #7d2110;
+    --accent-ink: #fbeecb;
+    --good: #4b6428;
+    --good-bg: #d7dfb2;
+    --no: #7d6642;
+    --no-bg: #ddc98f;
+    --rule: #cbab6c;
+  }
+
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+      --bg: #e8d6a8;
+      --bg-2: #dfc890;
+      --surface: #f2e3bd;
+      --surface-2: #e9d5a4;
+      --surface-3: #ecdcb4;
+      --border: #b8965c;
+      --text: #2c1c0e;
+      --text-dim: #5a3e22;
+      --text-faint: #85694a;
+      --accent: #9c2b14;
+      --accent-strong: #7d2110;
+      --accent-ink: #fbeecb;
+      --good: #4b6428;
+      --good-bg: #d7dfb2;
+      --no: #7d6642;
+      --no-bg: #ddc98f;
+      --rule: #cbab6c;
+    }
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background:
+      radial-gradient(circle 380px at 82% -6%, color-mix(in srgb, var(--accent) 35%, transparent), transparent 70%),
+      radial-gradient(ellipse 1100px 600px at 10% 0%, color-mix(in srgb, var(--accent) 8%, transparent), transparent),
+      var(--bg);
+    color: var(--text);
+    font-family: var(--font-body);
+    line-height: 1.45;
+  }
+
+  .wrap {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem 5rem;
+  }
+
+  header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.75rem 1.5rem;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 1.25rem;
+    margin-bottom: 2rem;
+  }
+
+  h1 {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: clamp(1.6rem, 2.6vw, 2.15rem);
+    margin: 0;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-wrap: balance;
+  }
+
+  h1 .rule-name {
+    color: var(--accent-strong);
+    text-shadow: 0 0 18px color-mix(in srgb, var(--accent) 55%, transparent);
+  }
+
+  .tagline {
+    color: var(--text-dim);
+    font-size: 0.92rem;
+    max-width: 48ch;
+    margin: 0;
+  }
+
+  .layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(320px, 0.9fr);
+    gap: 1.75rem;
+    align-items: start;
+  }
+
+  @media (max-width: 860px) {
+    .layout { grid-template-columns: 1fr; }
+  }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+  }
+
+  .card + .card { margin-top: 1.5rem; }
+
+  .card h2 {
+    font-family: var(--font-display);
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin: 0 0 0.2rem;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+
+  .card h2 .step {
+    font-family: var(--font-body);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    color: var(--accent-ink);
+    background: var(--accent);
+    border-radius: 999px;
+    width: 1.5rem;
+    height: 1.5rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex: none;
+  }
+
+  .card .hint {
+    color: var(--text-faint);
+    font-size: 0.82rem;
+    margin: 0 0 1.1rem;
+  }
+
+  .rows {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .row {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 0.6rem;
+    align-items: center;
+  }
+
+  .row.monster-row {
+    grid-template-columns: auto 1fr 1fr auto;
+  }
+
+  .row .idx {
+    font-variant-numeric: tabular-nums;
+    color: var(--text-faint);
+    font-size: 0.8rem;
+    width: 1.4rem;
+    text-align: right;
+  }
+
+  label.field {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+
+  label.field span {
+    font-size: 0.7rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+  }
+
+  input[type="number"] {
+    font: inherit;
+    font-variant-numeric: tabular-nums;
+    background: var(--bg-2);
+    border: 1px solid var(--border);
+    color: var(--text);
+    border-radius: 5px;
+    padding: 0.5rem 0.6rem;
+    width: 100%;
+  }
+
+  input[type="number"]:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+
+  button {
+    font: inherit;
+    cursor: pointer;
+  }
+
+  .icon-btn {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-dim);
+    border-radius: 5px;
+    width: 2.1rem;
+    height: 2.1rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+    line-height: 1;
+    transition: border-color 0.15s, color 0.15s;
+    flex: none;
+  }
+
+  .icon-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .icon-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+  .add-row {
+    margin-top: 0.85rem;
+    background: transparent;
+    border: 1px dashed var(--border);
+    color: var(--text-dim);
+    border-radius: 5px;
+    padding: 0.55rem 0.9rem;
+    font-size: 0.85rem;
+    width: 100%;
+    text-align: left;
+    transition: border-color 0.15s, color 0.15s, background 0.15s;
+  }
+
+  .add-row:hover { border-color: var(--accent); color: var(--accent-strong); background: color-mix(in srgb, var(--accent) 6%, transparent); }
+  .add-row:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+  /* encounters (nested cards, one battle each) */
+  .encounters { display: flex; flex-direction: column; gap: 1rem; }
+
+  .encounter-card {
+    background: var(--surface-3);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    padding: 1rem 1.1rem 1.1rem;
+  }
+
+  .encounter-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.6rem;
+    margin-bottom: 0.7rem;
+  }
+
+  .encounter-head .name {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: 0.88rem;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+  }
+
+  .encounter-add-row {
+    margin-top: 0.6rem;
+    background: transparent;
+    border: 1px dashed var(--rule);
+    color: var(--text-faint);
+    border-radius: 5px;
+    padding: 0.4rem 0.75rem;
+    font-size: 0.78rem;
+    width: 100%;
+    text-align: left;
+    transition: border-color 0.15s, color 0.15s, background 0.15s;
+  }
+
+  .encounter-add-row:hover { border-color: var(--accent); color: var(--accent-strong); background: color-mix(in srgb, var(--accent) 6%, transparent); }
+  .encounter-add-row:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+  /* results column */
+  .summary-card {
+    background: linear-gradient(165deg, var(--surface-2), var(--surface));
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.5rem;
+    position: sticky;
+    top: 1.5rem;
+  }
+
+  .summary-card h2 {
+    font-family: var(--font-display);
+    font-size: 1rem;
+    margin: 0 0 1rem;
+    color: var(--text-dim);
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+
+  .stat-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.9rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .stat {
+    background: var(--bg-2);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 0.7rem 0.85rem;
+  }
+
+  .stat .label {
+    font-size: 0.68rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    margin-bottom: 0.3rem;
+  }
+
+  .stat .value {
+    font-variant-numeric: tabular-nums;
+    font-size: 1.35rem;
+    font-weight: 600;
+    font-family: var(--font-display);
+  }
+
+  .stat.headline {
+    grid-column: 1 / -1;
+    background: color-mix(in srgb, var(--accent) 14%, var(--bg-2));
+    border-color: color-mix(in srgb, var(--accent) 45%, var(--rule));
+  }
+
+  .stat.headline .value {
+    font-size: 2.1rem;
+    color: var(--accent-strong);
+  }
+
+  .stat.headline .label { color: var(--text-dim); }
+
+  .breakdown {
+    border-top: 1px solid var(--rule);
+    padding-top: 1rem;
+  }
+
+  .breakdown > h3:first-child { margin-top: 0; }
+
+  .breakdown h3 {
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    margin: 1.1rem 0 0.5rem;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+    gap: 0.5rem;
+  }
+
+  .breakdown h3 .sub {
+    color: var(--text-dim);
+    font-weight: 600;
+    text-transform: none;
+    letter-spacing: 0;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .table-scroll { overflow-x: auto; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+  }
+
+  th {
+    text-align: left;
+    font-size: 0.68rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    font-weight: 600;
+    padding: 0 0.4rem 0.4rem 0;
+  }
+
+  td {
+    padding: 0.4rem 0.4rem 0.4rem 0;
+    border-top: 1px solid var(--rule);
+    font-variant-numeric: tabular-nums;
+    vertical-align: middle;
+  }
+
+  td.num, th.num { text-align: right; }
+
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.72rem;
+    font-weight: 600;
+    padding: 0.18rem 0.55rem;
+    border-radius: 999px;
+  }
+
+  .pill.counts { background: var(--good-bg); color: var(--good); }
+  .pill.no-challenge { background: var(--no-bg); color: var(--no); }
+
+  .pill::before {
+    content: "";
+    width: 0.4rem;
+    height: 0.4rem;
+    border-radius: 50%;
+    background: currentColor;
+  }
+
+  .row-muted td:not(.pillcell) { color: var(--text-faint); }
+
+  .empty-note {
+    color: var(--text-faint);
+    font-size: 0.85rem;
+    padding: 0.5rem 0;
+  }
+
+  .rule-footnote {
+    margin-top: 1.2rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--rule);
+    font-size: 0.78rem;
+    color: var(--text-faint);
+  }
+
+  .rule-footnote code {
+    background: var(--bg-2);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: 0.05rem 0.35rem;
+    font-size: 0.78rem;
+  }
+
+  .theme-toggle {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-dim);
+    border-radius: 999px;
+    padding: 0.35rem 0.8rem;
+    font-size: 0.78rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; }
+  }
+</style>
+
+<div class="wrap">
+  <header>
+    <div>
+      <h1><span class="rule-name">Hunter Mode</span> — XP Calculator</h1>
+      <p class="tagline">Weak kills stop paying out. XP is figured per encounter — enter each battle separately, with the enemy levels fought in it.</p>
+    </div>
+    <button class="theme-toggle" id="themeToggle" type="button" aria-label="Toggle color theme">◐ Theme</button>
+  </header>
+
+  <div class="layout">
+    <div class="col-left">
+      <section class="card" aria-labelledby="players-heading">
+        <h2 id="players-heading"><span class="step">1</span> Party levels</h2>
+        <p class="hint">One row per player character. Hirelings share the payout below but don't count toward the average.</p>
+        <div class="rows" id="playerRows"></div>
+        <button class="add-row" id="addPlayer" type="button">+ Add player</button>
+      </section>
+
+      <section class="card" aria-labelledby="hirelings-heading">
+        <h2 id="hirelings-heading"><span class="step">2</span> Hirelings sharing the XP</h2>
+        <p class="hint">Optional. Counted in the split, not in the party average.</p>
+        <div class="row">
+          <label class="field" style="grid-column: 1 / -1; max-width: 220px;">
+            <span>Number of hirelings</span>
+            <input type="number" id="hirelingCount" min="0" step="1" value="0" inputmode="numeric" />
+          </label>
+        </div>
+      </section>
+
+      <section class="card" aria-labelledby="encounters-heading">
+        <h2 id="encounters-heading"><span class="step">3</span> Encounters</h2>
+        <p class="hint">One card per battle. Inside each, one row per distinct enemy level fought in that fight — e.g. "4 wild kank, level 2" is one row.</p>
+        <div class="encounters" id="encountersContainer"></div>
+        <button class="add-row" id="addEncounter" type="button">+ Add encounter</button>
+      </section>
+    </div>
+
+    <aside class="col-right">
+      <div class="summary-card" aria-live="polite">
+        <h2>Result</h2>
+        <div class="stat-grid">
+          <div class="stat">
+            <div class="label">Average party level</div>
+            <div class="value" id="statAvg">—</div>
+          </div>
+          <div class="stat">
+            <div class="label">No-challenge at</div>
+            <div class="value" id="statThreshold">—</div>
+          </div>
+          <div class="stat headline">
+            <div class="label">XP per participant (all encounters)</div>
+            <div class="value" id="statPerHead">—</div>
+          </div>
+        </div>
+
+        <div class="breakdown" id="breakdownContainer"></div>
+
+        <div class="rule-footnote">
+          Encounters tallied: <strong id="footEncounters">0</strong> ·
+          combined pool: <strong id="footTotal">0</strong> ·
+          split among <strong id="footHeads">0</strong> each time<br />
+          Rule: XP is figured <strong>per encounter</strong>. Average party level is rounded down first; within each encounter, an enemy at <code>level ≤ floor(avg ÷ 2)</code> contributes <code>0</code>, everything else contributes its own level × count. Each encounter's pool is split evenly and rounded down on its own, then the per-encounter shares are added up for the total below.
+        </div>
+      </div>
+    </aside>
+  </div>
+</div>
+
+<script>
+  (function () {
+    "use strict";
+
+    var playerRows = document.getElementById("playerRows");
+    var hirelingInput = document.getElementById("hirelingCount");
+    var encountersContainer = document.getElementById("encountersContainer");
+
+    var DEFAULT_PLAYERS = [3, 3, 4, 5, 5];
+    var DEFAULT_ENCOUNTERS = [
+      [{ level: 2, count: 4 }],
+      [{ level: 2, count: 11 }, { level: 3, count: 4 }]
+    ];
+
+    var encounterCounter = 0;
+
+    function makeIcon(symbol) {
+      var s = document.createElement("span");
+      s.setAttribute("aria-hidden", "true");
+      s.textContent = symbol;
+      return s;
+    }
+
+    function addPlayerRow(value) {
+      var row = document.createElement("div");
+      row.className = "row";
+
+      var idx = document.createElement("span");
+      idx.className = "idx";
+      row.appendChild(idx);
+
+      var label = document.createElement("label");
+      label.className = "field";
+      var span = document.createElement("span");
+      span.textContent = "Level";
+      var input = document.createElement("input");
+      input.type = "number";
+      input.min = "0";
+      input.step = "1";
+      input.inputMode = "numeric";
+      input.value = value != null ? value : 1;
+      input.addEventListener("input", recalc);
+      label.appendChild(span);
+      label.appendChild(input);
+      row.appendChild(label);
+
+      var removeBtn = document.createElement("button");
+      removeBtn.type = "button";
+      removeBtn.className = "icon-btn";
+      removeBtn.setAttribute("aria-label", "Remove player");
+      removeBtn.appendChild(makeIcon("✕"));
+      removeBtn.addEventListener("click", function () {
+        row.remove();
+        renumberPlayers();
+        recalc();
+      });
+      row.appendChild(removeBtn);
+
+      playerRows.appendChild(row);
+      renumberPlayers();
+    }
+
+    function renumberPlayers() {
+      var rows = playerRows.querySelectorAll(".row");
+      rows.forEach(function (r, i) {
+        r.querySelector(".idx").textContent = (i + 1) + ".";
+      });
+    }
+
+    function addMonsterRowTo(rowsContainer, level, count) {
+      var row = document.createElement("div");
+      row.className = "row monster-row";
+
+      var idx = document.createElement("span");
+      idx.className = "idx";
+      row.appendChild(idx);
+
+      var levelLabel = document.createElement("label");
+      levelLabel.className = "field";
+      var levelSpan = document.createElement("span");
+      levelSpan.textContent = "Level";
+      var levelInput = document.createElement("input");
+      levelInput.type = "number";
+      levelInput.min = "0";
+      levelInput.step = "1";
+      levelInput.inputMode = "numeric";
+      levelInput.value = level != null ? level : 1;
+      levelInput.addEventListener("input", recalc);
+      levelLabel.appendChild(levelSpan);
+      levelLabel.appendChild(levelInput);
+      row.appendChild(levelLabel);
+
+      var countLabel = document.createElement("label");
+      countLabel.className = "field";
+      var countSpan = document.createElement("span");
+      countSpan.textContent = "Count";
+      var countInput = document.createElement("input");
+      countInput.type = "number";
+      countInput.min = "0";
+      countInput.step = "1";
+      countInput.inputMode = "numeric";
+      countInput.value = count != null ? count : 1;
+      countInput.addEventListener("input", recalc);
+      countLabel.appendChild(countSpan);
+      countLabel.appendChild(countInput);
+      row.appendChild(countLabel);
+
+      var removeBtn = document.createElement("button");
+      removeBtn.type = "button";
+      removeBtn.className = "icon-btn";
+      removeBtn.setAttribute("aria-label", "Remove enemy group");
+      removeBtn.appendChild(makeIcon("✕"));
+      removeBtn.addEventListener("click", function () {
+        row.remove();
+        renumberRows(rowsContainer);
+        recalc();
+      });
+      row.appendChild(removeBtn);
+
+      rowsContainer.appendChild(row);
+      renumberRows(rowsContainer);
+    }
+
+    function renumberRows(rowsContainer) {
+      var rows = rowsContainer.querySelectorAll(".row");
+      rows.forEach(function (r, i) {
+        r.querySelector(".idx").textContent = (i + 1) + ".";
+      });
+    }
+
+    function addEncounter(groups) {
+      encounterCounter++;
+
+      var card = document.createElement("div");
+      card.className = "encounter-card";
+
+      var head = document.createElement("div");
+      head.className = "encounter-head";
+
+      var name = document.createElement("span");
+      name.className = "name";
+      name.textContent = "Encounter";
+      head.appendChild(name);
+
+      var removeBtn = document.createElement("button");
+      removeBtn.type = "button";
+      removeBtn.className = "icon-btn";
+      removeBtn.setAttribute("aria-label", "Remove encounter");
+      removeBtn.appendChild(makeIcon("✕"));
+      removeBtn.addEventListener("click", function () {
+        card.remove();
+        renumberEncounters();
+        recalc();
+      });
+      head.appendChild(removeBtn);
+
+      card.appendChild(head);
+
+      var rows = document.createElement("div");
+      rows.className = "rows";
+      card.appendChild(rows);
+
+      var addGroupBtn = document.createElement("button");
+      addGroupBtn.type = "button";
+      addGroupBtn.className = "encounter-add-row";
+      addGroupBtn.textContent = "+ Add enemy level";
+      addGroupBtn.addEventListener("click", function () {
+        addMonsterRowTo(rows, 1, 1);
+        recalc();
+      });
+      card.appendChild(addGroupBtn);
+
+      encountersContainer.appendChild(card);
+
+      var initial = (groups && groups.length) ? groups : [{ level: 1, count: 1 }];
+      initial.forEach(function (g) { addMonsterRowTo(rows, g.level, g.count); });
+
+      renumberEncounters();
+      return card;
+    }
+
+    function renumberEncounters() {
+      var cards = encountersContainer.querySelectorAll(".encounter-card");
+      cards.forEach(function (c, i) {
+        c.querySelector(".name").textContent = "Encounter " + (i + 1);
+      });
+    }
+
+    function readPlayers() {
+      var inputs = playerRows.querySelectorAll("input[type=number]");
+      var levels = [];
+      inputs.forEach(function (inp) {
+        var v = parseFloat(inp.value);
+        if (!isNaN(v) && v > 0) levels.push(v);
+      });
+      return levels;
+    }
+
+    function readGroupsFrom(rowsContainer) {
+      var rows = rowsContainer.querySelectorAll(".row");
+      var groups = [];
+      rows.forEach(function (r) {
+        var inputs = r.querySelectorAll("input[type=number]");
+        var level = parseFloat(inputs[0].value);
+        var count = parseFloat(inputs[1].value);
+        if (!isNaN(level) && !isNaN(count) && count > 0) {
+          groups.push({ level: level, count: count });
+        }
+      });
+      return groups;
+    }
+
+    function buildGroupRow(g, qualifies, xp) {
+      var tr = document.createElement("tr");
+      if (!qualifies) tr.className = "row-muted";
+
+      var tdLevel = document.createElement("td");
+      tdLevel.textContent = "Lv " + g.level;
+      tr.appendChild(tdLevel);
+
+      var tdCount = document.createElement("td");
+      tdCount.className = "num";
+      tdCount.textContent = "×" + g.count;
+      tr.appendChild(tdCount);
+
+      var tdPill = document.createElement("td");
+      tdPill.className = "pillcell";
+      var pill = document.createElement("span");
+      pill.className = "pill " + (qualifies ? "counts" : "no-challenge");
+      pill.textContent = qualifies ? "counts" : "no challenge";
+      tdPill.appendChild(pill);
+      tr.appendChild(tdPill);
+
+      var tdXp = document.createElement("td");
+      tdXp.className = "num";
+      tdXp.textContent = xp;
+      tr.appendChild(tdXp);
+
+      return tr;
+    }
+
+    function recalc() {
+      var players = readPlayers();
+      var hirelings = parseFloat(hirelingInput.value);
+      if (isNaN(hirelings) || hirelings < 0) hirelings = 0;
+      var heads = players.length + hirelings;
+
+      var avgRaw = players.length ? players.reduce(function (a, b) { return a + b; }, 0) / players.length : 0;
+      var avg = Math.floor(avgRaw);
+      var threshold = Math.floor(avg / 2);
+
+      var encounterCards = encountersContainer.querySelectorAll(".encounter-card");
+      var breakdownContainer = document.getElementById("breakdownContainer");
+      breakdownContainer.innerHTML = "";
+
+      function makeEmptyNote(text) {
+        var p = document.createElement("p");
+        p.className = "empty-note";
+        p.textContent = text;
+        return p;
+      }
+
+      var grandPool = 0;
+      var grandPerHead = 0;
+      var encountersWithGroups = 0;
+
+      if (!encounterCards.length) {
+        breakdownContainer.appendChild(makeEmptyNote("Add an encounter to see the breakdown."));
+      } else {
+        encounterCards.forEach(function (card, i) {
+          var rowsContainer = card.querySelector(".rows");
+          var groups = readGroupsFrom(rowsContainer);
+          if (!groups.length) return;
+          encountersWithGroups++;
+
+          var pool = 0;
+          var tbody = document.createElement("tbody");
+          groups.forEach(function (g) {
+            var qualifies = g.level > threshold;
+            var xp = qualifies ? g.level * g.count : 0;
+            pool += xp;
+            tbody.appendChild(buildGroupRow(g, qualifies, xp));
+          });
+
+          var perHead = heads > 0 ? Math.floor(pool / heads) : 0;
+
+          grandPool += pool;
+          grandPerHead += perHead;
+
+          var h3 = document.createElement("h3");
+          var h3Label = document.createElement("span");
+          h3Label.textContent = "Encounter " + (i + 1);
+          var h3Sub = document.createElement("span");
+          h3Sub.className = "sub";
+          h3Sub.textContent = "pool " + pool + " · " + perHead + " each";
+          h3.appendChild(h3Label);
+          h3.appendChild(h3Sub);
+          breakdownContainer.appendChild(h3);
+
+          var scroll = document.createElement("div");
+          scroll.className = "table-scroll";
+          var table = document.createElement("table");
+          var thead = document.createElement("thead");
+          thead.innerHTML = "<tr><th>Level</th><th class=\"num\">Count</th><th>Challenge</th><th class=\"num\">XP</th></tr>";
+          table.appendChild(thead);
+          table.appendChild(tbody);
+          scroll.appendChild(table);
+          breakdownContainer.appendChild(scroll);
+        });
+
+        if (!encountersWithGroups) {
+          breakdownContainer.appendChild(makeEmptyNote("Add at least one enemy level to an encounter to see the breakdown."));
+        }
+      }
+
+      document.getElementById("statAvg").textContent = players.length ? avg : "—";
+      document.getElementById("statThreshold").textContent = players.length ? ("≤ " + threshold) : "—";
+      document.getElementById("statPerHead").textContent = heads > 0 ? grandPerHead : "—";
+      document.getElementById("footEncounters").textContent = encountersWithGroups;
+      document.getElementById("footTotal").textContent = grandPool;
+      document.getElementById("footHeads").textContent = heads;
+    }
+
+    document.getElementById("addPlayer").addEventListener("click", function () {
+      addPlayerRow(1);
+      recalc();
+    });
+
+    document.getElementById("addEncounter").addEventListener("click", function () {
+      addEncounter();
+      recalc();
+    });
+
+    hirelingInput.addEventListener("input", recalc);
+
+    DEFAULT_PLAYERS.forEach(addPlayerRow);
+    DEFAULT_ENCOUNTERS.forEach(function (groups) { addEncounter(groups); });
+    recalc();
+
+    var themeToggle = document.getElementById("themeToggle");
+    var root = document.documentElement;
+    themeToggle.addEventListener("click", function () {
+      var current = root.getAttribute("data-theme");
+      var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+      var effectiveCurrent = current || (prefersDark ? "dark" : "light");
+      root.setAttribute("data-theme", effectiveCurrent === "dark" ? "light" : "dark");
+    });
+  })();
+</script>

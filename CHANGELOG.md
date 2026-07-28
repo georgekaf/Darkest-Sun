@@ -3,6 +3,30 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.15 — Hunter Mode XP Calculator + New Rules Pages + ad5 Session Prep
+
+**New: `hunter-mode-xp-calculator/index.html`** — interactive tool for the Hunter Mode XP rule: enter party levels, hireling count, and enemy groups (level + count) for a live breakdown of which groups clear the half-average-level threshold, the total XP pool, and XP per participant (rounded down). Styled with an Athasian palette — obsidian-black grounds, crimson/blood-orange sun accent, bone-toned text — in place of the earlier generic amber theme.
+
+**`Advancement.md`** — linked the new calculator from the Hunter Mode section.
+
+**New Rules/ pages:**
+- **`Water Sources.md`** — worldbuilding constraint: any two water sources (oases, wells, springs) must be at least 24 miles apart.
+- **`Renown.md`** — fame/infamy tracking system (Cursed Scroll 6 — City of Masks): starts at CHA modifier, gained/lost through public events, four tiers with carousing/reaction bonuses.
+- **`Awarding XP.md`** — documents the Hunter Mode XP system in use (per-encounter, combined enemy level split evenly, half-average-level-or-under enemies worth 0 XP), links the new calculator.
+- **`Taming Wild Kank.md`** — the soothing-sound technique from actual play (ad5) for calming wild kank instead of fighting them (DC 18 CHA).
+- **`The Merchants' Code.md`** — the seven-point code merchant-house members are expected to uphold.
+- **`Psicrystals.md`** — homebrew psicrystal/psionic blade supplement (creation, attunement, loss/destruction, rarity tiers, blade properties).
+- **`Portal Activation.md`** — Crystal Dust cost for the one-way teleportation room below Kharanok's Obsidian Mines (10 to activate, 1 per use).
+- **`Rules.md`** — index updated to link all of the above.
+
+**`Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves.md`** — added the portal's Crystal Dust activation cost to the Barracks (#9) teleportation-room note.
+
+**New: `Hidden/Session prep/0005 - Session Prep 26-7-2026.md`** — ad5 "The Bug Whisperers... Finally!" (26 July 2026): new PC Ranni (Elf Priest) joins after healing Gur-da; heat/sandstorm forces a mining detour instead of the planned kank hunt; two Gith scouts caught and interrogated (Relo withholds his identity as "the nobody," Shaka eats a heart to intimidate), survivor released with a trade-or-else ultimatum; a Land Shark (Bulette) ambush fought off and left wounded; sandstorm-shelter rumors from refugees Aiwin and Kia; afternoon kank hunt ends in taming instead of a fight (2 kank led home peacefully instead of the 1 originally needed), Relo voted MVP.
+
+**New: `Hidden/Pending Worldbuilding Issues.md`** — GM-only tracker for open worldbuilding questions; first entry flags an unresolved question around The Loyal/Jessix the Wanderer.
+
+---
+
 ## v1.14 — Below Kharanok Distances + ad4 Session Prep + Advancement Fix
 
 **`Below Kharanok.md`** — merged in a standalone isometric-map page (created then folded back into the main hub): embedded overview image, link to the interactive pan/zoom HTML (`kharanok dungeon/isometric-map/index.html`), and a new **General Info** section with a full distance table (mi/ft/km) for every connection in the dungeon graph, plus a short read on which links run longest/shortest and why.

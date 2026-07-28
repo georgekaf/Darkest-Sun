@@ -2,7 +2,7 @@
 title: "Advancement"
 icon: "file-lines"
 ---
-
+[]()
 # Story Awards
 
 Story awards are on a scale from 1 to 3 and the are awarded to the group
@@ -14,6 +14,10 @@ You gain xp equal to the combined level of all enemies you have defeated in a ba
 **No challenge, no XP.** First work out the party's average level. Any single enemy whose level is half the party's average level (rounded down) or lower counts as no real challenge and is worth 0 XP — it isn't added to the combined total at all. Example: average party level 4, a level-2 enemy is exactly half, so it contributes nothing.
 
 Only enemies above that threshold count. This is intentional: as the party levels up, easy fights stop paying out, and you have to keep seeking tougher threats to keep advancing.
+
+**Figured per encounter, not per session.** Each battle gets its own combined-level pool, split and rounded down on its own, right after that fight ends — don't pool every enemy from the whole session together and split once at the end. A session with three separate fights means three separate splits.
+
+**Calculator:** [hunter-mode-xp-calculator/index.html](file:///D:/Darkest%20Sun/obsidian/hunter-mode-xp-calculator/index.html) — enter party levels, hirelings, and enemy groups (level + count) for a live XP breakdown.
 
 # Role-Playing Awards
 

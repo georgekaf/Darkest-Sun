@@ -2,7 +2,6 @@
 title: "Altar of Dust, Session ad3- «Minecraft in Kharanok»"
 icon: "file"
 ---
-
 **Ομάδα:** Altar of Dust (Parias, Gur-da, Ugo, Cypoul, Shaka, Vareth) | **Ημερομηνία:** 16 Ιουλίου 2026
 
 ## Περίληψη
