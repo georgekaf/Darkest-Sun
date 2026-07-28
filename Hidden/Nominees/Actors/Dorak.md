@@ -27,7 +27,7 @@ An elderly or late-middle-aged desert man with weathered, stone-dust skin, deep 
 ## Stat Block or Rules Notes
 None yet.
 
-**Token art prompt (Banana Pro / image-gen reference):**
+## Token art prompt (Banana Pro / image-gen reference):
 > Full-body character token of Dorak, an old Athasian ex-mine foreman from Kharanok, standing in a still, guarded neutral token pose. Elderly or late-middle-aged desert man, weathered stone-dust skin, deep lines around the eyes and mouth, heavy brow, rough beard or gray stubble, tired sunken eyes, expression flat and unreadable. He should look like someone who has carried a secret for thirty years and survived by saying as little as possible. He wears old quarry-worker clothing: faded dust-stained tunic, patched leather apron or work vest, wrapped forearms, heavy belt with quarry tools, bone chisel, stone hammer, measuring cord, old gloves, and worn boots covered in pale quarry dust. He carries or has strapped to him a flat scratched sealing stone, wrapped partly in cloth, treated like a burden rather than a treasure. No ornate armor, no heroic weapon, no magical glow. His body language should be quiet and closed: shoulders slightly hunched, hands still, gaze lowered or fixed past the viewer, posture of a man who does not want to approach what he knows is below. He should feel practical, damaged, watchful, and reluctant, not theatrical or mystical. Dark Sun inspired, gritty desert fantasy realism. Full body visible from head to feet, clear silhouette, centered character, neutral transparent or plain background, suitable for a VTT token, no environment, no scene, no action pose.
 
 ### Manner and Voice

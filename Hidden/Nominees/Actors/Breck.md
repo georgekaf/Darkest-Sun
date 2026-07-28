@@ -85,7 +85,7 @@ None confirmed from actual play. Design doc holds an unused hook: a former guard
 ## Stat Block or Rules Notes
 None yet.
 
-**Token art prompt (Banana Pro / image-gen reference):**
+## Token art prompt (Banana Pro / image-gen reference):
 > Full-body character token of Breck, a hardened Athasian village gate guard, standing upright in a neutral token pose. Middle-aged man with sunburned tan skin, dust-caked face, cracked lips, rough stubble, tired suspicious eyes, square jaw, short practical dark hair, blunt severe expression. Worn patched leather armor over simple desert clothes, faded sand-colored guard cloak, wrapped forearms, dusty boots, battered belt, small toll pouch, bone or obsidian utility knife, old spear or polearm held at rest. No metal shine, no ornate decoration, no heroic knight look. He should look exhausted but disciplined, loyal out of habit rather than idealism, bitter from being the last guard still holding his post. Practical, grounded, stern local security figure, Dark Sun inspired, gritty desert fantasy realism. Full body visible from head to feet, clear silhouette, centered character, neutral transparent or plain background, suitable for a VTT token, no environment, no scene, no action pose.
 
 ## Sources

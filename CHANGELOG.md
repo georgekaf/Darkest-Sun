@@ -3,6 +3,12 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.18 — Token Art Prompt Heading Fix
+
+**`Hidden/Nominees/Actors/`** — `Kalia.md`, `Elder Yethras.md`, `Dorak.md`, `Sira.md`, `Breck.md`: "Token art prompt (Banana Pro / image-gen reference):" changed from a bold inline label to a proper `##` heading. `Nominees/README.md` workflow rule updated to match.
+
+---
+
 ## v1.17 — Session Prep Date Fixes
 
 **`Hidden/Session prep/0001` through `0004`** — day-context lines updated to the full Merchant/Draxian calendar format already used in `0005`. `0001`/`0002` also had a stale placeholder ("Macro 13") corrected to the actual computed date (Macro 19th, day 109). `0002` further updated to note the session spans two in-game days — starts 109th day, runs into the night of the 110th, when the party first encounters the entity beneath Kharanok in a shared dream.

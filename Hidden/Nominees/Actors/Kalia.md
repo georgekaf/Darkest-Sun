@@ -27,7 +27,7 @@ A middle-aged desert woman with a controlled, rigid posture, a tired face, sharp
 ## Stat Block or Rules Notes
 None yet.
 
-**Token art prompt (Banana Pro / image-gen reference):**
+## Token art prompt (Banana Pro / image-gen reference):
 > Full-body character token of Yelka, an Athasian cistern overseer and village administrator from Kharanok, standing in a rigid neutral token pose. Middle-aged desert woman, controlled posture, tired face, sharp professional eyes, dry lips, tightly bound hair, severe expression held together by discipline and fear. She should look efficient, clipped, and precise, not openly villainous. She wears practical administrative desert clothing: clean but worn linen layers, sand-colored robe or long vest, narrow belt with keys, wax tablets or ledger case, bone stylus, small water-measure tokens, sealed ration pouch, and simple sandals or wrapped boots. Her clothes are neater than most villagers but not wealthy or ornate. No jewelry except maybe one small official token or cistern key. No armor, no weapon focus, no heroic pose. Her body language should suggest rigid control under pressure: shoulders tight, hands close to her ledger or key ring, stance slightly guarded, as if she is always keeping people away from something behind her. She looks exhausted, frightened, and defensive beneath a layer of bureaucratic authority. Dark Sun inspired, gritty desert fantasy realism. Full body visible from head to feet, clear silhouette, centered character, neutral transparent or plain background, suitable for a VTT token, no environment, no scene, no action pose.
 
 ### Manner and Voice
