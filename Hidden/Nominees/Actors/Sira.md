@@ -83,7 +83,13 @@ Per design doc: keeps secret tracking records on the "something ancient" threat,
 - The three-marked-locations investigation (eastern cliff base, dry-wash gully near the sealed entrance, disturbed ground at Old Quarry Yard) has not surfaced explicitly in actual play — flag as still-open GM material rather than assuming it's resolved.
 
 ## Stat Block or Rules Notes
-None yet.
+- Medium humanoid, neutral
+- Level: 4
+- Armor Class: 13
+- Hit Points: 18
+- Movement: near
+- Strength +1, Dexterity +2, Constitution +1, Intelligence +1, Wisdom +3, Charisma +0
+- Alignment: Neutral
 
 ## Token art prompt (Banana Pro / image-gen reference):
 > Full-body character token of Sira, a hardened Athasian head herder and mountain trail specialist from Kharanok, standing in a neutral token pose. Lean, weathered desert woman, sun-darkened skin, sharp observant eyes, practical expression, blunt and unsentimental, not aggressive but clearly tired of being ignored. Dusty braided or tied-back hair, wind-burned face, cracked lips, wiry build from years working pens and mountain trails. She wears practical herder's clothing built for desert and rocky terrain: patched hide vest or light leather armor, wrapped arms, rough cloth layers, sand-colored scarf, worn utility belt, animal-handling rope, small bone knife, trail markers, and a battered leather folio strapped across her chest or held at her side. Dusty boots, knee wraps, no shiny metal, no ornate decoration, no noble or magical look. She should look like someone who tracks signs others miss: claw marks, dust trails, animal patterns, and hidden mountain paths. Serious, precise, grounded, competent, field-intelligence scout and livestock protector. Dark Sun inspired, gritty desert fantasy realism. Full body visible from head to feet, clear silhouette, centered character, neutral transparent or plain background, suitable for a VTT token, no environment, no scene, no action pose.

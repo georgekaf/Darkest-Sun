@@ -25,7 +25,12 @@ Kharanok's ex-mine foreman, guiding the party into the Obsidian Mines while hidi
 An elderly or late-middle-aged desert man with weathered, stone-dust skin, deep lines around the eyes and mouth, a heavy brow, rough beard or gray stubble, and tired, sunken eyes with a flat, unreadable expression — someone who has carried a secret for thirty years and survived by saying as little as possible. Wears old quarry-worker clothing: a faded, dust-stained tunic, a patched leather apron or work vest, wrapped forearms, a heavy belt hung with quarry tools, a bone chisel, a stone hammer, a measuring cord, old gloves, and worn boots pale with quarry dust. He carries a flat, scratched sealing stone, wrapped partly in cloth, treated like a burden rather than a treasure — not displayed, just endured. No ornate armor, no heroic weapon, no magical glow. His body language is quiet and closed — shoulders slightly hunched, hands still, gaze lowered or fixed past the viewer, the posture of a man who does not want to approach what he knows lies below. Practical, damaged, watchful, reluctant — nothing theatrical or mystical about him.
 
 ## Stat Block or Rules Notes
-None yet.
+- Level: 4
+- Armor Class: 12
+- Hit Points: 20
+- Movement: near
+- Strength +2, Dexterity +0, Constitution +2, Intelligence +2, Wisdom +2, Charisma -1
+- Alignment: Neutral
 
 ## Token art prompt (Banana Pro / image-gen reference):
 > Full-body character token of Dorak, an old Athasian ex-mine foreman from Kharanok, standing in a still, guarded neutral token pose. Elderly or late-middle-aged desert man, weathered stone-dust skin, deep lines around the eyes and mouth, heavy brow, rough beard or gray stubble, tired sunken eyes, expression flat and unreadable. He should look like someone who has carried a secret for thirty years and survived by saying as little as possible. He wears old quarry-worker clothing: faded dust-stained tunic, patched leather apron or work vest, wrapped forearms, heavy belt with quarry tools, bone chisel, stone hammer, measuring cord, old gloves, and worn boots covered in pale quarry dust. He carries or has strapped to him a flat scratched sealing stone, wrapped partly in cloth, treated like a burden rather than a treasure. No ornate armor, no heroic weapon, no magical glow. His body language should be quiet and closed: shoulders slightly hunched, hands still, gaze lowered or fixed past the viewer, posture of a man who does not want to approach what he knows is below. He should feel practical, damaged, watchful, and reluctant, not theatrical or mystical. Dark Sun inspired, gritty desert fantasy realism. Full body visible from head to feet, clear silhouette, centered character, neutral transparent or plain background, suitable for a VTT token, no environment, no scene, no action pose.
@@ -98,7 +103,12 @@ He found a very old parchment on a Gith raider with instructions for reaching th
 - Potential future hook: develop the escape story, or have a Gith patrol specifically hunt him down as a subplot.
 
 ## Stat Block or Rules Notes
-None yet.
+- Level: 4
+- Armor Class: 12
+- Hit Points: 20
+- Movement: near
+- Strength +2, Dexterity +0, Constitution +2, Intelligence +2, Wisdom +2, Charisma -1
+- Alignment: Neutral
 
 ## Sources
 - Title: Altar of Dust, Sessions ad2, ad3, ad4, ad5

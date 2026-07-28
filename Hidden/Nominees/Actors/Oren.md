@@ -81,7 +81,12 @@ Design doc marks him "the corrupt one" and places a bootprint matching his boot 
 - If pursued, the bootprint clue would tie Oren personally to the disturbed-ground signs Sira has been tracking — a possible convergence point between Hook 1 and Hook 3.
 
 ## Stat Block or Rules Notes
-None yet.
+- Level: 4
+- Armor Class: 13
+- Hit Points: 16
+- Movement: near
+- Strength +0, Dexterity +2, Constitution +0, Intelligence +1, Wisdom +1, Charisma +2
+- Alignment: Chaotic
 
 ## Sources
 - Title: Altar of Dust, Sessions ad1, ad2

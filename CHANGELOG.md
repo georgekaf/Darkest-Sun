@@ -3,6 +3,12 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.19 — Nominee Actor Stat Blocks
+
+**`Hidden/Nominees/Actors/`** — `Breck.md`, `Sira.md`, `Dorak.md`, `Oren.md`, `Elder Yethras.md`, `Kalia.md`: filled in `## Stat Block or Rules Notes` (AC, HP, Movement, ability modifiers, Alignment, Level) for all six nominee actors. `Dorak.md` had a duplicate `## Stat Block or Rules Notes` heading from an earlier layout glitch — both filled identically pending cleanup.
+
+---
+
 ## v1.18 — Token Art Prompt Heading Fix
 
 **`Hidden/Nominees/Actors/`** — `Kalia.md`, `Elder Yethras.md`, `Dorak.md`, `Sira.md`, `Breck.md`: "Token art prompt (Banana Pro / image-gen reference):" changed from a bold inline label to a proper `##` heading. `Nominees/README.md` workflow rule updated to match.

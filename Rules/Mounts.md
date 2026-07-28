@@ -33,3 +33,5 @@ Set of bone plate armor designed to be placed on a mount. It affords the mount t
 ### **Mounts**
 
 **Erdlu** AC 11, HP 15, 1 beak +4 (1d6) MV double near, S +3, D +1, C +2, I -3, W +1, Ch-1, AL N, LV 3
+
+**Kank** — on established trade routes, kank can travel 5 miles per 8-hour stretch.
