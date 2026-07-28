@@ -3,6 +3,20 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.16 — Kharanok Nominees: Quest-Giver Actors, The Loyal Faction, Obsidian Mines Location
+
+**New: `Hidden/Nominees/`** — draft actor proposals for the MK-Sandbox repo, per [[Living Campaign]]'s Guest GM Entry Guidelines. Not canon until submitted and approved upstream (submission URL: https://github.com/fchrysoulas/MK-Sandbox/issues).
+
+**New actor files (canonical actor template):** `Elder Yethras.md`, `Breck.md`, `Sira.md`, `Dorak.md`, `Oren.md`, `Kalia.md` (field update to existing `actor-kalia`, folding in her maiden name Yelka and cistern-overseer duties as the same person, not a separate NPC). Each includes a Player-Safe appearance paragraph, a preserved raw Banana Pro token-art prompt under Stat Block/Rules Notes, and — for Yethras and Kalia — a GM-written sample introduction scene under Manner and Voice.
+
+**`Nominees/README.md`** — index of nominated actors plus a new workflow-rules section for how appearance prompts and intro scenes get folded into actor files (natural prose for `### Appearance`, raw prompt preserved verbatim as a labeled blockquote, single `## Stat Block or Rules Notes` header, template shape re-checked after each edit).
+
+**New: `Hidden/Nominees/Factions/The Loyal.md`** — faction proposal (update to existing `faction-the-loyal`) adding "Vindicate Jessix's name" to doctrine/goals and the Slinnasia-witness backstory to sources, since the existing JSON's doctrine/goals never captured the band's actual motive. Confirmed the existing `followers: 5` count is already correct, no change needed there. README.md updated with a new Factions index section.
+
+**New: `Hidden/Nominees/Locations/Obsidian Mines.md`** — location proposal (new entry, no existing `location-obsidian-mines` in MK-Sandbox) for Below Kharanok Level 1: room layout, connections, hidden teleportation route, Crystal Dust mechanics, and dangers, pulled from the level's own map page plus `location-kharanok`'s mining fields and sessions ad3–ad5. Notes the ad4 Syggra-recovery cave is a separate, unnamed cave outside this level's keyed area. README.md updated with a new Locations index section.
+
+---
+
 ## v1.15 — Hunter Mode XP Calculator + New Rules Pages + ad5 Session Prep
 
 **New: `hunter-mode-xp-calculator/index.html`** — interactive tool for the Hunter Mode XP rule: enter party levels, hireling count, and enemy groups (level + count) for a live breakdown of which groups clear the half-average-level threshold, the total XP pool, and XP per participant (rounded down). Styled with an Athasian palette — obsidian-black grounds, crimson/blood-orange sun accent, bone-toned text — in place of the earlier generic amber theme.
