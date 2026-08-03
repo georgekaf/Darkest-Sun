@@ -3,6 +3,30 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.21 — ad6 GM Corrections, Salt Gathering Rules, ad7 Prep
+
+A pass of GM corrections against ad6, the rules page one of them called for, and the next session's prep opened on the corrected timeline.
+
+**`Rules/Salt Gathering.md` (new, draft)** — ad6 reached the Salt Sea and the party discussed harvesting salt, but there were no rules for it, so nothing happened. Proposed: 1 hour per character for 1 load on a **DC 12 CON** check, disadvantage during peak heat, DC 16 and half yield bare-handed; 1 load preserves one large creature's meat for 2 weeks against one day unsalted; shore salt is dirtier than inland-flat salt unless rinsed; open flats are highly visible, so roll wandering encounters as travelling rather than camped. **Marked draft pending GM approval** — the numbers are a proposal, not canon. Linked from `Rules/Rules.md`.
+
+**ad6 timeline corrected** — the session runs **days 115–117**, not 114. Days 113 and 114 were downtime after ad5 (day 112). The party set out on the 115th; heat pinned them at Zharvek through all of the 116th, so they searched the ruins, left only in the evening, and marched back overnight, reaching Kharanok at dawn on the **117th**. The Done list in `0006` had the earth-spirit ambush recorded *before* the departure it followed — reordered to the actual sequence. Date line recomputed to Macro 25th / al-Qor-Keth.
+
+**ad6 factual corrections:**
+- **The oasis spirits' terms were refused.** Earlier drafts recorded a compromise being reached, with the party resting and drinking while Rhazek waited outside. No deal was struck — the offer was a means of getting the fire priest alone and close to the spirits, and the party turned it down and left. Downstream text that assumed they had rested there was removed.
+- **No salt was gathered.** "Gathered salt to preserve meat" was an intention discussed, never an action performed.
+- **House Markon, not "House Marku", and no causal claim.** The survivors report that Markon's people passed through earlier and that Gith trouble worsened after they left. They assert no connection between the two; the earlier phrasing had the caravan *triggering* the raid.
+- **Rensort survivors are northeast, at Quel'Nash** — previously recorded as scattered south.
+
+**`Hidden/Zharvek Continuity Conflict.md` reassessed** — the House Markon correction above materially strengthens the case that both campaigns describe one place. Each independently reports the same causal chain: House Markon visits Zharvek → Gith trouble escalates after they leave. The Markon sessions show that escalation as a live, unexplained mystery (Talek Vos rides to investigate it in ep.19); ad6 shows its endpoint, a sacked village. Option 1 (coincidental name) downgraded to weakest as a result, Option 4 strengthened. Also noted: the ad6 account is hearsay from starving refugees, which remains a cheap escape hatch on direction or identity if one is ever wanted. Decision still **left open**.
+
+**`summary_rules.md`** — three new standing rules, all from this pass: stated terms are not a struck deal (require explicit acceptance in the transcript before writing «συμβιβασμός»/«συμφωνία», and don't carry the benefits over either); a discussed intention is not a performed action (find the transcript line showing execution, not just intent); and where the transcript gives an NPC's motive for an offer, write it, or a trap reads as a good-faith concession.
+
+**New: `Hidden/Session prep/0007 - Session Prep 3-8-2026.md`** — opened for the next Altar of Dust session, starting on the **117th day** (Macro 27th; al-Dun-Du, eighth Or'Dom, Nar'Ai), the morning the party arrives back at Kharanok from Zharvek. Goals carried over from ad6's "Left to do" per the established pattern: the Obsidian trade destination (now untouched two sessions running), the Crystal Dust pond, settling the 7 new arrivals (Tzala as a crafter, 3 would-be fighters, 2 laborers), and one of the two standing rumor leads. The continuity line carries the wounded earth spirit forward as a live threat — it is still at large and has already shown it will take stragglers on that road — alongside the unanswered Gith ultimatum and the loose Bulette. Post-session sections left empty pending play. **Filename date is provisional** (3-8-2026 placeholder), to be renamed once the real session date is known.
+
+**Naming question still open:** `Quel Nas` (the destroyed Dune Runners village) and `Quel'Nash` appear as separate names in the corpus. Same place with drifting spelling or two places — undecided, and `fixes/` treatment depends on the answer.
+
+---
+
 ## v1.20 — ep.18/ep.19 Summaries, ad6 Session Prep, Name-Authority Reorder
 
 Most of this entry covers `transcripts and summaries/`, which sits outside the vault but feeds it.
@@ -35,9 +59,9 @@ Most of this entry covers `transcripts and summaries/`, which sits outside the v
 
 **Not yet tracked:** `Journal/Season 3/Επεισόδιο 15- «Fear of the Dark!».md` and `Επεισόδιο 16- «An offer you can't refuse...».md` exist in the vault but have never been committed.
 
-**New: `Hidden/Session prep/0006 - Session Prep 31-7-2026.md`** — ad6 "The Sand Also Rises" (31 July 2026): Goals carried over from ad5's "Left to do" (Obsidian trade destination, Crystal Dust pond, the southeast old-god-believers and southern Rensort-survivor rumor leads). Extreme heat pushes the party south to the Salt Sea instead; a spirit-guarded oasis demands Rhazek (a fire-server) be surrendered as atonement, settled by leaving him outside unshaded and waterless for the day; ruined **Zharvek** searched, a giant legless snake killed, and 7 exhausted survivors — including **Tzala**, a self-taught alchemist — recruited back to Kharanok by posing as emissaries of the Cannibal King. A corrupted earth spirit nearly buries Shaka on the night march, then resurfaces and kills one of the new laborers. All three ad5 goals close unmet and roll forward. New PC **Rhazek** (slos/Giannis) present; Rhugor and Ranni absent.
+**New: `Hidden/Session prep/0006 - Session Prep 31-7-2026.md`** — ad6 "The Sand Also Rises" (31 July 2026): Goals carried over from ad5's "Left to do" (Obsidian trade destination, Crystal Dust pond, the southeast old-god-believers and the Rensort-survivor lead northeast at Quel'Nash). Extreme heat pushes the party south to the Salt Sea instead; a spirit-guarded oasis demands Rhazek (a fire-server) be surrendered as atonement and the party refuses its terms outright; ruined **Zharvek** searched, a giant legless snake killed, and 7 exhausted survivors — including **Tzala**, a self-taught alchemist — recruited back to Kharanok by posing as emissaries of the Cannibal King. A corrupted earth spirit nearly buries Shaka on the night march, then resurfaces and kills one of the new laborers. All three ad5 goals close unmet and roll forward. New PC **Rhazek** (slos/Giannis) present; Rhugor and Ranni absent.
 
-**Zharvek cross-campaign conflict — flagged, deliberately unresolved.** ad6's Zharvek is an abandoned ruin south of Kharanok toward the Salt Sea, sacked ~day 100. House Markon's Zharvek (s3 ep.11/13/19) is a thriving inn-town northeast toward Nibenay, still standing as of ep.19 — opposite direction, incompatible timeline. Recorded as an open hook in both `Session prep/0006`'s "Left to do" and `transcripts and summaries/locations.md`; no retcon applied to either campaign.
+**New: `Hidden/Zharvek Continuity Conflict.md`** — standalone write-up of the **Zharvek cross-campaign conflict**, linked from `Hidden/Pending Worldbuilding Issues.md` as a one-line tracker entry. ad6's Zharvek is an abandoned ruin south of Kharanok toward the Salt Sea, sacked ~day 100; House Markon's Zharvek (s3 ep.11/13/19) is a thriving inn-village northeast toward Nibenay under Damak, still standing as of ep.19 — opposite direction, and intact nine days *after* ad6 says it fell. The entry lays out a side-by-side comparison, the Gith thread common to both accounts, and four candidate resolutions (coincidental name / retcon ad6 / retcon Markon / make the contradiction diegetic) with costs for each. **Decision: left deliberately unresolved**, no retcon applied to either campaign; also cross-flagged in `Session prep/0006`'s "Left to do" and `transcripts and summaries/locations.md`.
 
 ---
 

@@ -8,3 +8,4 @@ icon: "scroll-old"
 - [[Awarding XP]]
 - [[Taming Wild Kank]]
 - [[Water Sources]]
+- [[Salt Gathering]]
