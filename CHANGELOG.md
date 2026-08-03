@@ -3,6 +3,14 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.22 — Terrain Glossary
+
+**`Rules/Hex Crawling.md` — new Terrain Glossary section**, with the region map (`Rules/tyr region and beyond.png`, copied into the vault) embedded as its source. Records the canonical terrain vocabulary from the map legend — 14 terrain types and 7 marker types — so our own maps use those names rather than invented synonyms. Spells out the distinction that keeps getting blurred: **Rocky Badlands** are sharp, broken terrain (gullies, twisting canyon mazes) ringing the feet of mountains, around Tyr, the Tablelands and the ranges; **Stony Barrens** are flat weathered bedrock shelves or hard-packed red earth, out in open desert away from mountains. Not interchangeable — badlands vertical and broken, barrens flat and hard.
+
+*Two open items noted in the page rather than decided:* Stony Barrens has no travel-speed row (proposed as Gravel/Uneven, 2 miles/hour, pending a ruling), and the Terrain Key says "Sand Wastes" where the map legend says "Sandy Wastes" — the map spelling flagged as canonical but the table row left alone.
+
+---
+
 ## v1.21 — ad6 GM Corrections, Salt Gathering Rules, ad7 Prep
 
 A pass of GM corrections against ad6, the rules page one of them called for, and the next session's prep opened on the corrected timeline.

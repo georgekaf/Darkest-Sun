@@ -39,6 +39,27 @@ Some conditions in the PCs' current hex can affect the visibility of surrounding
 | Mountain Climb | 1 |
 | Silt Sea | 1 |
 
+### Terrain Glossary
+
+The canonical terrain vocabulary is the legend of *The Tyr Region and Beyond* map. Use these names on our own maps rather than inventing synonyms.
+
+![[tyr region and beyond.png]]
+
+**Terrain types:** Mountains · Rocky Badlands · Stony Barrens · Sandy Wastes · Dust Sink · Salt Flats · Mud Flat · Forest · Grassland · Scrub Plains · Boulder Fields · Lava Caldera · Lake · Obsidian Plain
+
+**Map markers:** City · Village · Fort · Ruins · Oasis · Special Interest · Road
+
+The two most often confused:
+
+| Terrain | Description | Where |
+| --- | --- | --- |
+| **Rocky Badlands** | Sharp, broken terrain — gullies and twisting canyon mazes. | Rings the feet of mountains; typically around Tyr, the Tablelands, and the mountain ranges. |
+| **Stony Barrens** | Flat, weathered bedrock shelves or hard-packed red earth — rockier desert, gravelly underfoot. | Open desert, away from the mountains. |
+
+These are **not** interchangeable. Badlands are vertical and broken (canyons, gullies) and sit against mountains; barrens are flat and hard (bedrock shelf, packed earth) and sit out in the desert.
+
+**Travel speed:** Rocky Badlands has its own row above (1 mile/hour). Stony Barrens has no row yet — treat it as **Gravel / Uneven** (2 miles/hour) unless ruled otherwise. Note also that the Terrain Key says "Sand Wastes" while the map legend says "Sandy Wastes" — same terrain, and the map spelling is the canonical one.
+
 Weather
 The current weather lasts until the end of the next rest, unless an encounter changes the weather. During the night Temperature and Wind falls by one degree.
 
