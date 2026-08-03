@@ -3,6 +3,44 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.20 — ep.18/ep.19 Summaries, ad6 Session Prep, Name-Authority Reorder
+
+Most of this entry covers `transcripts and summaries/`, which sits outside the vault but feeds it.
+
+### Episode summaries
+
+**New: `Περίληψη - s3 ep.18 - Royal Necropolis.md`** — Dune Runners, 105th day (Macro 15th, al-Dun-Keth). Written from the full diarized transcript, then merged with a user-supplied corrected draft: sarcophagus-crack timing, Viole's reasoning, the Spider Witch's walked-back curse promise, Pogona's wasp-shift motive, and the near-death climax. **Mirabel confirmed a PC** (Aquarellah's replacement for the dead Dardanne), not an NPC companion.
+
+**New: `Περίληψη - s3 ep.19 - Bloody Red Oasis.md`** — House Markon (Ougk, Banga-Ranga, Mirage, Sando Feet), 113th day (Macro 23rd, al-Qor-Traa). Source video transcribed and diarized via `fast_transcribe_speakers.py`, then passed through `fix_transcript.py`. The Red Oasis formally handed over by the Black Wake; a dracolisk kills a House Kapoul caravan and petrifies Mirage; Melketh fails a Restoration and keeps her overnight; **Siemhouk's first direct appearance** ends in a bargain — the party descends beneath Nibenay against **Zwuun** in exchange for free access to build the Dark Lens, with the Dark Lens revealed as aimed specifically at Borys, not the Sorcerer Kings at large. Zwuun established as born of Defiler and Preserver blood spilled in the old-city sewers, immune to both magic and psionics.
+
+**`Περίληψη - s3 ep.17 - Blood Omen.md`** — reconciled against an external human-written draft found in `Downloads/`, resolved discrepancy-by-discrepancy: sarcophagi origin phrasing, Neriah's mount purchase, Doren's profit-share offer, Varek/Zarron's "Pirate King" title, and the two-front siege plan. A merged copy was written back alongside the Downloads original, which was left untouched.
+
+### Name authority and reference files
+
+**Canonical NPC name priority reordered** — MK-Sandbox promoted to first, ahead of the GM's live Foundry chat text, with the Actor compendium export last. Applied to the `fix_transcript.py` docstring and `summary_rules.md`. The priority governs **name spelling only**; plot facts still come exclusively from the verified raw transcript, since MK-Sandbox stops at `day-0112`/ep.17. MK-Sandbox is also now documented as strictly **read-only** — never written to, even where its records are stale.
+
+**Stale paths corrected** — `fix_transcript.py` pointed at a non-existent `C:/Users/giorg/projects/MK-Sandbox`, and `summary_rules.md` at a non-existent `D:\Darkest Sun\foundry-exports`. Both repointed to their real `K:` locations.
+
+**"Sando o'feet" → "Sando Feet"** — the apostrophe spelling was invented. Corrected across `character_roster.md`, `player_characters.md`, and the ep.6/8/9 summaries; `fixes/sando_ofeet.json` replaced by `fixes/sando_feet.json`.
+
+**`fixes/`** — new entries for `karad_vath`, `talek_vos`, `ranni`, `aiwin`, `rensort`. A corrupted regex in `shadow_king.json` was repaired (a prior global rename had eaten into the pattern). The old duplicate monolithic `K:\Darkest Sun\fix_transcript.py` was deleted in favour of the modular `fixes/*.json` system.
+
+**`character_roster.md` / `session_schedule.md`** — Mirabel added as a PC; **Rhazek** (slos/Giannis, fire Priest) added, previously misspelled "Razek"; attendance rows added for ep.18, ep.19 and ad6, with ep.16/17/19 corrected against the authoritative player list.
+
+**`summary_rules.md`** — a batch of new standing rules drawn from corrections made during writing: NPC offers must reflect their final walked-back position; incapacitated characters cannot act until the transcript shows recovery; every named-NPC scene with substantial dialogue gets its own paragraph in the first draft; the full Merchant/Draxian date line is mandatory and never abbreviated to "Day N"; and several Greek register/redundancy constraints.
+
+### Vault
+
+**`Journal/` flattened duplicates removed** — the 27 loose episode files at the top of `Journal/` (`01. FREEDOM` → `25. Black Wind, Fire and Steel`, plus `12.5 STONE DOOR` and the stray hyphenated `14. TRADERS OF ASSASSINS-.md`) were deleted, along with the four index pages `Journal.md`, `Season 1.md`, `Season 2.md` and `Season 3.md`. These were stale copies left behind after the journal was reorganized into `Journal/Season 1/` (26 entries), `Journal/Season 2/` (7) and `Journal/Season 3/` (19) — no content was lost, the season subfolders hold the current versions. 214 lines removed in total.
+
+**Not yet tracked:** `Journal/Season 3/Επεισόδιο 15- «Fear of the Dark!».md` and `Επεισόδιο 16- «An offer you can't refuse...».md` exist in the vault but have never been committed.
+
+**New: `Hidden/Session prep/0006 - Session Prep 31-7-2026.md`** — ad6 "The Sand Also Rises" (31 July 2026): Goals carried over from ad5's "Left to do" (Obsidian trade destination, Crystal Dust pond, the southeast old-god-believers and southern Rensort-survivor rumor leads). Extreme heat pushes the party south to the Salt Sea instead; a spirit-guarded oasis demands Rhazek (a fire-server) be surrendered as atonement, settled by leaving him outside unshaded and waterless for the day; ruined **Zharvek** searched, a giant legless snake killed, and 7 exhausted survivors — including **Tzala**, a self-taught alchemist — recruited back to Kharanok by posing as emissaries of the Cannibal King. A corrupted earth spirit nearly buries Shaka on the night march, then resurfaces and kills one of the new laborers. All three ad5 goals close unmet and roll forward. New PC **Rhazek** (slos/Giannis) present; Rhugor and Ranni absent.
+
+**Zharvek cross-campaign conflict — flagged, deliberately unresolved.** ad6's Zharvek is an abandoned ruin south of Kharanok toward the Salt Sea, sacked ~day 100. House Markon's Zharvek (s3 ep.11/13/19) is a thriving inn-town northeast toward Nibenay, still standing as of ep.19 — opposite direction, incompatible timeline. Recorded as an open hook in both `Session prep/0006`'s "Left to do" and `transcripts and summaries/locations.md`; no retcon applied to either campaign.
+
+---
+
 ## v1.19 — Nominee Actor Stat Blocks
 
 **`Hidden/Nominees/Actors/`** — `Breck.md`, `Sira.md`, `Dorak.md`, `Oren.md`, `Elder Yethras.md`, `Kalia.md`: filled in `## Stat Block or Rules Notes` (AC, HP, Movement, ability modifiers, Alignment, Level) for all six nominee actors. `Dorak.md` had a duplicate `## Stat Block or Rules Notes` heading from an earlier layout glitch — both filled identically pending cleanup.
