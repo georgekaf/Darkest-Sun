@@ -3,6 +3,33 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.23 — Mind Seal, Breck Promoted to the Veiled Alliance, ad6 Human-Fix Merge, MK-Sandbox Viewer
+
+**`Rules/Mind Seal.md` (new)** — a worn ward against the prying mind. While worn, the wearer's thoughts cannot be read and they can neither send nor receive telepathic messages; psionic creatures still sense that *something* is blocking them, so the wearer is concealed but not hidden — the seal announces its own presence. Linked from `Rules/Rules.md`.
+
+**`Hidden/Nominees/Actors/Breck.md` — promoted to a senior Veiled Alliance member and restatted as a level 10 Fighter.** Kharanok's last gate guard is now the **Warden of the Kharanok chain**, the ranking Alliance figure east of Nibenay, under the veil-name **"Breck of the Open Gate"** — built in the naming style of the existing agents (Saren of the Dry Leaves, Melketh the Blind Seer, Hessan Under-the-Sack). Deliberately not a preserver: the faction's own doctrine opens with "protect preservers and those who shelter them" and calls for using "overlooked workers to move messages," so a veteran soldier with no arcane signature holding the only road in fits the doctrine better than another hidden wizard. Stat block benchmarked against Melketh, the existing *senior* handler at level 5 — Breck at level 10, AC 15, HP 62, two attacks, plus **Hold the Line** (DC 15 Strength to get past him in a gateway), which turns the character into a mechanic.
+
+Nothing in the Confirmed Facts block changed; the promotion reframes what is already recorded rather than contradicting it. The ad1 refusal to let Relo pass becomes screening rather than stubbornness, and the dormant "corrupt former captain" hook becomes load-bearing — the captain was selling Alliance transits, which is why Breck wants him found and cannot be seen looking. All new material sits in secret goals, GM-Only Secrets and a sourced GM-revision entry.
+
+*Continuity consequence recorded in the nominee's Proposed Developments, not applied:* `faction-veiled-alliance-nibenay` lists its presence as Nibenay, Kheth's Field, Black-Thread Hollow and Thornmouth — **Kharanok is not among them** — and no `actor-breck` record exists in `actors/`. Both live in MK-Sandbox, which was **not written to**. Also noted in the file: `actor-oren` and `actor-elder-yethras` are proposed ids, since those two are nominees themselves; `actor-melketh-blind-seer`, `actor-saren-dry-leaves` and the faction id resolve to real records.
+
+**`transcripts and summaries/Περίληψη - ad6 - The Sand Also Rises.md` — human-fixed body merged** from `Downloads/ad6 - human fixed.txt`. Six of eight body paragraphs differed, amounting to five substantive edits plus one repeated name fix:
+
+- **Relo, not Rello** — 8 occurrences in the body and one in the roster line. Every other Altar of Dust summary, `character_roster.md`, `player_characters.md` and MK-Sandbox (`actor-relo`) already used Relo; ad6 was the lone outlier.
+- **Kanks** — the party returned **with** two kanks, instead of one. Previously written as returning *the two kanks the Gith were holding*, which is a different event.
+- **The warning's direction reversed** — sent **to the Gith, from** the Cannibal King and Lord Parias, not *to* those two. Consistent with Relo later announcing himself an emissary of the Cannibal King.
+- **Zharvek was spotted to the east**, not the north.
+- **Relo, not Vareth**, fails to frighten the giant snake with projected mental images — Relo is the psion; Vareth casts Magic Missiles later in the same paragraph.
+- **"άπoδο" dropped** from the snake's description; the word also carried a Latin `o` in place of a Greek `ο`.
+
+The download was body text only, so the header, roster line, `## Περίληψη` heading and the full calendar line were preserved and the body transplanted beneath them. Two missing accents in the fixed text were repaired (`αντι` → `αντί`, `ανατολικα` → `ανατολικά`). Previous version kept alongside as `.bak`.
+
+*Two of these corrections resolve standing contradictions with `Hidden/Session prep/0006`,* which already recorded 2 kank brought back alive and a Gith ultimatum sent — both of which the old summary text contradicted and the corrected text now agrees with.
+
+**New: `tools/mk-sandbox-viewer.html`, `tools/mk-sandbox-viewer-bundled.html`, `tools/build-viewer.py`** — an offline reader for the read-only MK-Sandbox, built outside the vault. The bundled file carries all 597 records (518 json + 79 md) baked in, so it opens with no folder picking and no server. Renders records as prose rather than raw JSON, with a Tree and Raw view alongside. Cross-references resolve: all **1167** ids including the 676 defined inside parent records, entity names linked inside prose, path references, campaign-day numbers linked to that day's event bundle and report, and provenance tokens that nothing defines (`gm-input-*`) linked to a citation list. Twelve colour schemes including five drawn from `resources/faction-banner-prompts.md` (Nibenay, Kharanok, House Shom, Veiled Alliance, Silt Stalkers), a statistics panel, viewer history, back/forward navigation and `#path` deep links. `build-viewer.py --check` reports broken references without writing anything; MK-Sandbox is only ever read.
+
+---
+
 ## v1.22 — Terrain Glossary
 
 **`Rules/Hex Crawling.md` — new Terrain Glossary section**, with the region map (`Rules/tyr region and beyond.png`, copied into the vault) embedded as its source. Records the canonical terrain vocabulary from the map legend — 14 terrain types and 7 marker types — so our own maps use those names rather than invented synonyms. Spells out the distinction that keeps getting blurred: **Rocky Badlands** are sharp, broken terrain (gullies, twisting canyon mazes) ringing the feet of mountains, around Tyr, the Tablelands and the ranges; **Stony Barrens** are flat weathered bedrock shelves or hard-packed red earth, out in open desert away from mountains. Not interchangeable — badlands vertical and broken, barrens flat and hard.

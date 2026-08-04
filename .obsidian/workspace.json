@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "413565541a229beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hidden/Books/Black Spine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Black Spine"
+            }
+          },
+          {
             "id": "640f6ecdc07f758b",
             "type": "leaf",
             "state": {
@@ -31,7 +45,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +66,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -152,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hidden/Zharvek Continuity Conflict.md",
+                "file": "Hidden/Books/Black Spine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Zharvek Continuity Conflict"
+              "title": "Outline"
             }
           }
         ],
@@ -179,8 +196,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e13e49d0e2611ab",
+  "active": "9c82933e2cb771a7",
   "lastOpenFiles": [
+    "CHANGELOG.md.tmp.52000.3719679bdafc",
+    "Rules/Mind Seal.md.tmp.52000.4d3d366fde2d",
+    "CHANGELOG.md.tmp.52000.2946732e9009",
+    "Hidden/Nominees/Actors/Breck.md.tmp.52000.6070a67f75b3",
+    "Hidden/Nominees/Actors/Breck.md.tmp.52000.bfa629c36c76",
     "CHANGELOG.md.tmp.33940.a66682723026",
     "CHANGELOG.md.tmp.33940.987d0a4fa5fd",
     "Rules/Hex Crawling.md.tmp.33940.1cb64974a260",
@@ -188,12 +210,7 @@
     "Rules/Hex Crawling.md.tmp.33940.8c02bbdf29a7",
     "Rules/Hex Crawling.md.tmp.33940.8b7ef97a2ae9",
     "CHANGELOG.md.tmp.33940.6cd59e065485",
-    "CHANGELOG.md.tmp.33940.ec25d8891fe5",
-    "CHANGELOG.md.tmp.33940.ad8c8e57ab3f",
     "Hidden/Session prep/0007 - Session Prep 3-8-2026.md",
-    "Hidden/Session prep/0007 - Session Prep 3-8-2026.md.tmp.33940.d76a49b47762",
-    "CHANGELOG.md.tmp.33940.3631dd80679b",
-    "CHANGELOG.md.tmp.33940.eba5e88591fc",
     "Rules/Salt Gathering.md",
     "Journal/Season 3/Επεισόδιο 15- «Fear of the Dark!».md",
     "Journal/Season 3/Altar of Dust, Session ad1- «Find the... GOAT!».md",

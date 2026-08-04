@@ -9,3 +9,4 @@ icon: "scroll-old"
 - [[Taming Wild Kank]]
 - [[Water Sources]]
 - [[Salt Gathering]]
+- [[Mind Seal]]
