@@ -121,6 +121,12 @@ Its signature trick is not illusion but **substitution**: it garbles what other 
 - Existing actor or faction ID: `actor-kataal-the-mover`
   - Attitude: **Unresolved**
   - Reason: Two psychic entities under and over one dead city — one preserving a single mind, one consuming thousands. **The module never puts them in the same sentence.** See [[Kataal the Mover]].
+- Player character: **Ranni** (Altar of Dust; no sandbox actor record — the sandbox holds no player-character actors)
+  - Attitude: **Contacted — first live target of the campaign**
+  - Reason: **Day 117 (ad7).** Ranni stepped onto the activated gate plate under Kharanok and was transported alone to a structure above the Giustenal ruins, inside the Caller's five-mile search net. Waiting hidden for the gate to relight, she heard the voice of a childhood friend she lost to the sandstorms — telling her *not to meddle with things she does not know*, asking *why she left her*. **GM truth, unknown to the players: that was the Caller reaching out, not proximity or fear.** It is the textbook pattern from Confirmed Facts — a dead voice drawn out of the victim's own mind, warning and accusation before any attack, fear built slowly. It also matches her account of time: minutes that felt like hours, and difficulty even memorising the place.
+  - Corroboration: the bound cave creature under Kharanok independently told Relo the same day that something came **through** the gate — a thing that hunts people to replace its dead and *sounds like the voices of thousands of dead*, which it had heard once before thousands of years ago and could not itself face. That is this entity, described from the other side.
+  - Status of the contact: **incomplete.** Ranni returned through the gate before the orchestration could develop, and she did not die inside the walls — so nothing was taken. Under its own rules the Caller does not forget a mind that answered.
+  - Cross-reference: [[The Loyal - Varesh]] — one of the Loyal shouted "JESSIX, SOMEONE IS HERE!" in the same moment. Two separate things noticed Ranni at Giustenal that day; only one of them is the Caller.
 
 ## Knowledge
 - Subject: **Everything its victims knew**
@@ -194,9 +200,16 @@ Sweeping five miles of desert for a mind that answers, every hour of every day.
   - Printed page: —
   - Source type: official
   - Id note: `actor-dregoth`, `actor-kataal-the-mover`, `actor-guvaano-twilightcatcher`, `location-giustenal-ruins` resolve to real sandbox/vault records. `actor-caller-in-darkness`, `actor-nallan`, `actor-abdaleem` are proposed ids from this batch.
+- Title: Darkest Sun — Altar of Dust, ad7 "City by the Silt Sea"
+  - Section: Ranni's transit through the Kharanok gate to Giustenal; the voice of the dead childhood friend; the cave creature's account of what came through the gate
+  - Printed page: —
+  - Source type: campaign-original (actual play, 7 August 2026, in-world day 117)
+  - Adaptation note: The Caller is never named in play. The identification is GM truth, recorded in `Hidden/Session prep/0007 - Session Prep 7-8-2026.md` and `CHANGELOG.md`, and unknown to the players.
 
 ## Unresolved Questions
 - **Do Dregoth and the Caller know about each other?** The single biggest open question in the set.
 - Whether the "undeceive it" resolution is adopted.
 - What its relationship is, if any, to [[Kataal the Mover]].
 - Whether individual absorbed souls can still be reached.
+- **Why Ranni answered at all.** By its printed rules the Caller probes only full psionicists and wild talents. Either Ranni has an undeclared wild talent, or the gate opening on the far side is itself what drew the probe. This needs a GM decision before the party returns to Giustenal — it decides whether she is a target or was merely nearest.
+- Whether the Caller can follow a mind it has touched **back through the gate**, or whether its reach still ends at the five-mile net around the ruins. The cave creature says an energy passed **through** the gate into Kharanok; the printed source gives the Caller no such range.
