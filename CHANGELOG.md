@@ -3,6 +3,16 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.26 — Prep 0007 Renamed to the Real Play Date
+
+**`Hidden/Session prep/0007 - Session Prep 3-8-2026.md` → `Hidden/Session prep/0007 - Session Prep 7-8-2026.md`.** The session was prepped for 3 August and played on the 7th. The filename, the `title:` field and the H1 heading all now carry 7 Αυγούστου 2026, the date the game actually happened, and the "*Actually played on Friday, 7 August 2026.*" line under the calendar block was removed as redundant. Git records this as a delete plus an add of the new file.
+
+**`transcripts and summaries/summary_rules.md` — the prep-file rule reversed.** The rule added alongside v1.24 said to keep the scheduled filename and note the real date at the top, which left prep files recording when play was *planned* instead of when it *occurred*. It now reads: if a session slips, rename the prep file, its `title:` and its heading to the real play date.
+
+**`.obsidian/workspace.json`** — Obsidian UI state only (open panes and tabs), no content.
+
+---
+
 ## v1.25 — Sylvar Canonical, The Loyal Filed as a Band, Two GM Truths Behind ad7
 
 **Canonical spelling: Sylvar, not Silvar.** The ad7 newcomer's name is spelled **Sylvar** and was corrected everywhere it had already landed — the episode summary (17 places), the working transcript (12), `character_roster.md`, `session_schedule.md`, `Hidden/Session prep/0007`, and the v1.24 entry below. `fixes/silvar.json` was renamed to **`fixes/sylvar.json`** with its target updated, so the ASR variants «Σίλβαρ» / «Σίλβαν» / «Σίλβαρντ» now normalise to Sylvar on every future pass. Fixer re-run to idempotency; `repair_artifacts.py --dry-run` clean.
