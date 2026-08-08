@@ -6,7 +6,7 @@
 
 **Page References:** Campaign Book p. 11
 
-**Number:** 5 named members (unnamed individuals)
+**Number:** 5 members — unnamed in the source, named here as campaign-original: [[Varesh]] (thief, scout), [[Nyrra]] (preserver), [[Kethen]] (thief), [[Saelis]] (preserver, youngest), [[Tharek]] (fighter, skirmisher)
 
 ---
 

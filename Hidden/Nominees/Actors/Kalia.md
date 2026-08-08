@@ -7,6 +7,23 @@ visibility: mixed
 
 # Actor: Kalia (née Yelka) (update to existing actor-kalia, revision 3)
 
+## Current record in mk-sandbox
+
+*Read-only snapshot of `mk-repos/mk-sandbox/actors/kalia.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+
+| Field | Current value |
+|---|---|
+| `id` | actor-kalia |
+| `name` | Kalia |
+| `actorType` | named-npc |
+| `status` | active |
+| `role` | Resource distributor and emerging leader in Kharanok |
+| `locationId` | location-kharanok |
+| `description` | Kalia's husband died during the gith invasion. By Day 109, she had assumed a stronger role distributing Kharanok's scarce resources and rewarded useful survivors with additional water. Her exact authority within the settlement council remains unresolved. |
+| `goals[]` | **Distribute Kharanok's scarce resources among survivors during reconstruction.** — priority 5, progress 0, status active |
+| `sourceRefs[]` | Darkest Sun Campaign Record - Day 109 — Kharanok resource distribution and mine expedition preparations (pp. ?) |
+| `simulation` | {"proposalMode": "eligible", "reason": "Standard NPC may be evaluated during GM-invoked simulation windows when relevant."} |
+
 ## One-Sentence Summary
 Pragmatic rations and cistern steward who quietly organized Kharanok's council after her husband's death — and put Elder Yethras forward as its face.
 

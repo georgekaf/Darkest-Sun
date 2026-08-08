@@ -10,3 +10,4 @@ icon: "scroll-old"
 - [[Water Sources]]
 - [[Salt Gathering]]
 - [[Mind Seal]]
+- [[Identifying Magic Items]]

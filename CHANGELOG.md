@@ -3,6 +3,53 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.24 — ad7 «City by the Silt Sea», Teleport Gates Under Kharanok, Sylvar Joins, Prep 0007 Filled
+
+**`transcripts and summaries/Περίληψη - ad7 - City by the Silt Sea.md` (new)** — the Altar of Dust session of Friday 7 August 2026, covering the whole of in-world **day 117** (Macro 27th · al-Dun-Du · eighth Or'Dom · Nar'Ai), verified against both calendars and continuous with ad6's closing line. Party: Relo, Shaka, Cypoul, Ranni and the newly arrived Sylvar. The session establishes three things that change the campaign's reach: a **hidden room under the Kharanok mines holding two hexagonal Gith gate-plates**, the **working mechanics of those gates** (10 handfuls of Crystal Dust to activate both ends, 5 per trip to keep one open, otherwise it transports once and dies), and the confirmed destination of the intact plate — **Giustenal**, reached and returned from by Ranni within minutes. Also recorded: Breck revealed as an old Veiled Alliance member carrying Sadira's request for support to House Markon; a cache of 30–40 leather scrolls read by Zephyr in Draxian; and a second contact from the cave creature, which now wears Kalia's form, rejects Relo's earlier offer, and warns that something came *through* the gate — a thing that hunts people to replace its dead and sounds like the screaming of thousands.
+
+**`Hidden/Session prep/0007 - Session Prep 3-8-2026.md` — completed.** Done, Not done, Summary and Left to do filled from the finished summary; Goals left untouched as the record of what was planned. The real play date (7 August) is noted at the top rather than renaming the file. Standing failures carried forward explicitly: the 3 obsidian shards remain unsold for a third session, the Crystal Dust pond is still unharvested, and neither ad5 rumor lead was followed.
+
+**`transcripts and summaries/npc_roster.md` — new "Altar of Dust / Kharanok" section.** The ad campaign's NPCs had no home in the roster and were scattered or absent. Now recorded: **Dorak** (last miner of Kharanok, ex-Gith slave, admits half the corpses in the canyon are his — and **deliberately teaches the new workers wrong** so nobody learns the craft and takes his job, marked as a permanent trait); **Breck**; **Tzala**; **Zephyr**; and **the cave creature**, which **has no gender** and is written in the neuter throughout, borrowing a different form each contact.
+
+**`transcripts and summaries/character_roster.md` / `session_schedule.md`** — **Sylvar (DarkRhapsode)** added to the Altar of Dust group: elderly traveller out of Nibenay, druid by the abilities he uses, and the only halfling-speaker present, which makes him **Shaka's interpreter from ad7 on**. DarkRhapsode plays Altar of Dust only and appears in neither the House Markon nor the Dune Runners tables.
+
+**Six new `fixes/*.json` rules** — `relo`, `dorak`, `kalia`, `tzala`, `silvar`, `sandbloom`. All boundary-anchored regex, census-checked against the whole corpus for Greek-word collisions before being applied; the fixer was re-run to idempotency and `repair_artifacts.py --dry-run` reports no artifacts. Four of these names had been passing through the pipeline untouched for six sessions.
+
+**`transcripts and summaries/summary_rules.md` — eight new rules**, each from a correction made during this write-up rather than collected afterwards:
+
+- **Transitional scenes are never dropped, not even for length** — the "how we got from A to B" is a scene, not filler, and the 400–700 word figure is a target, not a ceiling. Closing check added: for every pair of consecutive paragraphs, can you explain how the characters got from one to the next?
+- **What was said and what was translated are not the same thing** — when a line passes through an interpreter, record both levels, never just the polite version as the speaker's words.
+- **A momentary casting posture is not a lasting state** — eyes closed to reach for The Way, then walking normally, is not "walking with his eyes closed".
+- **Short scene-breaking shouts get capitals** inside quotes («ΤΕΛΟΣ! ΣΤΑΜΑΤΗΣΤΕ!»), for real shouts only.
+- **Colloquial one-word retorts** (κανόνισε, άσε μας) are written as meaning, not carried into indirect speech as words.
+- **Crafting *threads* → «ίνες»**, never «κλωστή», which reads as sewing thread rather than a harvested resource.
+- **User-confirmed permanent traits also go to `npc_roster.md`** when the subject is an NPC, including stated motives and gender rules.
+- **Session prep files are written in English** (only the header date is Greek) and are filled in from the finished summary after each ad session.
+
+**Source verification — the Ghodan tar pits.** *City by the Silt Sea*, Giustenal Environs → The Tar Mine, places Durex and Haltham Ghodan's operation **about two miles due south of Cromlin**, House Shom's trading village, with caravans to Cromlin twice a month. The ad7 party briefly placed the brothers at Giustenal and Dorak corrected them in play; the summary follows the book and its Σημειώσεις record that ad3's «πηγές έξω από το ερειπωμένο Giustenal» is an NPC statement by Roi that the source does not support. ad3 was left as written.
+
+**`Hidden/Nominees/` — 101 new actor sheets**, taking the nominee set well beyond Kharanok. `README.md` was restructured to match, splitting Actors into campaign groups:
+
+- **Black Spine (DSE2)** — the full NPC cast of the seven-adventure campaign, sourced from `Hidden/Books/Black Spine.md` and grouped by adventure: Tenpug's band (Tenpug, Raxxon, Arcus, Danya, Lynth, Roi, Sala and the rest, plus the three chieftains the source leaves unnamed), Cry Vengeance (Vakskra, Askai, Kalisore, Drak, Jacles), Zigath's Nest (Zigath, Haza, Toogo, Durdon, Tormar, the Hejkin Preserver), Yathazor's Square of Gurdek, and onward. Stat blocks are **Shadowdark**, with the printed 2e line preserved in each file under *Conversion note*. Several are updates to existing sandbox records rather than new actors — including **Raxxon**, whose spelling supersedes the printed "Rakskon", **Danya**, flagged campaign-divergent, and **Zigath**, flagged for an appearance conflict.
+- **City by the Silt Sea / Giustenal** — Jessix the Wanderer, Jessareen, Slinnasia, the Caller in Darkness, Dregoth, the Lich-Queen, Durex and Haltham Ghodan, Captain Gaff, Abdaleem, Mon-Adderath, Taraskir the Lion, the Spirit of Kragmorta, Eevuu Silt Stalker, Guvaano Twilightcatcher and others.
+- **`Hidden/Nominees/Actors/Kalia.md`** gained a *Current record in mk-sandbox* block — a read-only snapshot of `actors/kalia.json` (revision 3) at the top of the sheet, so every proposal in the file is legible as a change *against stated current values* rather than as free-floating text. mk-sandbox itself was not written to.
+- **`_sandbox-comparison.md` and `check_against_sandbox.py`** now travel with the nominees, so a sheet claiming to update an existing actor can be checked against the real record before submission.
+
+**The Loyal, named and statted.** The Campaign Book gives Jessix five followers and no names. Five campaign-original members now exist as both player-facing NPC pages and nominee actor sheets: **Varesh** (thief, scout), **Nyrra** (preserver), **Kethen** (thief), **Saelis** (preserver, youngest) and **Tharek** (fighter, skirmisher), each with appearance, manner, goals, relationships, GM-only secrets and a token-art prompt. Levels are set from what the band survived rather than from their youth — **Thief 6, Fighter 5, Preserver 5** — reasoned from two Giustenal expeditions (the first into Dregoth's templar chambers, the second the one that killed Slinnasia) and permanent work in a Danger 5 region, while staying below Jessix. Every file states plainly that the names are campaign-original and that the source leaves all five unnamed. `NPCs/The Loyal.md` now lists them.
+
+**`Hidden/BookLocations/Giustenal Maps.md` + `Giustenal Maps/` (7 images)** — a GM-side index matching every Giustenal map on hand to the location page it serves, including a player handout with no keys or insets. The maps are fan cartography from athas.org, not the printed poster maps, and the page states the precedence rule outright: **where they disagree with the book, the book wins.** Originals stay in `athas.org/` with their own descriptions and image-generation prompts.
+
+**Two continuity conflicts written up**, both reached through the mandatory cross-campaign pass and both pointed to from `Hidden/Pending Worldbuilding Issues.md`:
+
+- **`Hidden/Vareth Continuity Conflict.md`** — Vareth stands in two campaigns on the same in-world day: at Zharvek with Altar of Dust in ad6, and in the Nibenay undercity with House Markon in s3 ep.20, both on day 116. **Resolved** (2026-08-05): the campaign leader ruled Agis teleported him, and no dates moved. Left open for the GM: how often Agis will do that, since it quietly collapses the distance between the two campaigns.
+- **`Hidden/Dhojakt Continuity Conflict.md`** — mk-sandbox's `actor-dhojakt` credits his mother's spells (or the Pristine Tower) for his transformation; the GM at the table in s3 ep.20 said **Nibenay** did it and the mother resisted. **Open** (2026-08-06).
+
+**`Rules/Identifying Magic Items.md` (new)**, linked from `Rules/Rules.md`.
+
+**`The World/NPC Roster - WIP.md`** — Siemhouk's Greek phonetic gloss («Σιέμ Χουκ») dropped in favour of the Latin name alone, per the standing rule that established names keep their Latin form inside Greek text.
+
+---
+
 ## v1.23 — Mind Seal, Breck Promoted to the Veiled Alliance, ad6 Human-Fix Merge, MK-Sandbox Viewer
 
 **`Rules/Mind Seal.md` (new)** — a worn ward against the prying mind. While worn, the wearer's thoughts cannot be read and they can neither send nor receive telepathic messages; psionic creatures still sense that *something* is blocking them, so the wearer is concealed but not hidden — the seal announces its own presence. Linked from `Rules/Rules.md`.
