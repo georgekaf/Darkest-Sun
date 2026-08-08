@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -14,7 +14,7 @@ Kharanok's last remaining gate guard — bitter, loyal, holding the gate mostly 
 - Subtype: named-npc
 - Control: autonomous
 - Status: active
-- Faction or allegiance: Kharanok village (public) — [[Veiled Alliance of Nibenay]] (`faction-veiled-alliance-nibenay`), senior member, **secret**
+- Faction or allegiance: Kharanok village (public) — [[Veiled Alliance of Nibenay]] (`faction-veiled-alliance-nibenay`), senior member. **No longer secret from the party: he told them himself on day 117 (ad7).** Still secret from the village, and his *rank* is still secret from everyone.
 - Alliance role: Warden of the Kharanok chain — the ranking Alliance figure east of Nibenay, answerable only to the handler tier ([[Melketh the Blind Seer]])
 - Veil-name: "Breck of the Open Gate"
 - Current location: Kharanok (Main Gate)
@@ -41,7 +41,19 @@ Known as the one who still shows up to guard the gate even though the watch has 
 - ad3: the party delivered 50 scraps for basic gate repair; Breck was given the order to start the work. Full fortification still needs 200 more scraps ([[0003 - Session Prep 16-7-2026]]).
 - Design doc quest-giver credit: Act 1, Hook 1 (with Yethras) and Hook 2 ("The Guards Have Deserted").
 
-*(Alliance rank and level are a GM revision, not actual play — see Sources. Nothing above is contradicted by it: a warden posted to a gate behaves exactly like a stubborn guard who will not leave his post.)*
+### ad7, day 117 — the session that changed this record
+
+- **He had been shadowing Dorak all morning, and for days before that.** When the party's interrogation of the old miner turned violent, Breck was already in the room and nobody had noticed — **no one saw his torch approach.** He stopped the scene with a single shout, spoke to Dorak like a man who has had the same conversation many times, and told the party that five against one is a little unfair.
+- **He revealed himself as Veiled Alliance** — an old member, years without contact — who came to Kharanok to keep an eye on things here. This is the first time any of it is public to the party.
+- **He has received a message from [[Sandira|Sadira]]: House Markon needs the Alliance's support.** He carries it as a live obligation.
+- He told the party the **gith were not only after Crystal Dust** but a way to reach whatever lies deeper in the caves, and that the hexagonal plates are **gates**.
+- **He asked them to re-hide the passage and to keep it from Kalia**, and promised to keep Dorak quiet with broy rather than threats — *"he is not a bad man, his heart is just sometimes in the wrong place."*
+- **He left them the gith hide** rather than keeping it: if the Veiled Alliance judged them worthy, they would know what to do with it themselves.
+- **Relo confronted him** — Kalia had been looking for both him and Dorak all morning and he was nowhere to be found, so he had better have been down there only to track Dorak; from now on he would be watched. Breck, dryly: watch as much as you like. Then, more calmly: he has been in Kharanok for years, and if he wanted to harm the place or its people he would not be doing what he is doing. **His aim was to keep what is hidden down there out of the wrong hands' plans.**
+- **He took the three new recruits for the watch** — the village had only two guards, one at the tower and one at the gate — and by nightfall was greeting the party at the entrance with one of them already under his supervision.
+- **The Nibenay briefing.** Asked what deadline the Alliance had given, he answered that trouble around Nibenay is multiplying, pirates and road-bandits strike more often than ever, and something is being prepared. Taking on whatever hides in Nibenay — or the Sorcerer King himself — is **suicide**: not they, not the party, and not what is left of the Alliance can face something at the level of a god. It would take an army, or **another Sorcerer King as an ally**. He added the legend that the Sorcerer Kings once conspired to kill one of their own, and that beyond Borys, who guards Rajaat, there may be others willing to oppose them.
+
+*(Alliance rank and level are a GM revision, not actual play — see Sources. Nothing above is contradicted by it: a warden posted to a gate behaves exactly like a stubborn guard who will not leave his post, and ad7 shows him moving unseen through a mine and stopping five armed people with his voice.)*
 
 ## Goals
 1. Description: Hold the Kharanok gate with too few hands and get it properly repaired.
@@ -107,6 +119,18 @@ Known as the one who still shows up to guard the gate even though the watch has 
 - Existing actor or faction ID: actor-elder-yethras
   - Attitude: Deferential in public, watchful in private
   - Reason: Breck routes decisions through Yethras (ad1) — partly discipline, partly because a warden who is seen to defer is a warden nobody examines.
+- Proposed actor ID: `actor-dorak`
+  - Attitude: **Handler, not jailer**
+  - Reason: He has been watching the old miner for days and manages him with broy and patience rather than threats. He interrupted the party's interrogation to protect him, then handed the party the hide Dorak had taken. **ad7.**
+- Existing actor or faction ID: `actor-kalia`
+  - Attitude: **Deliberately kept uninformed**
+  - Reason: He asked the party to make sure nothing about the gate room reaches her, while accepting the recruits from her watch roster the same day. **ad7.**
+- **Sandira** (House Markon, Nibenay)
+  - Attitude: **Obligation received**
+  - Reason: Her message asking for Alliance support is the reason he is no longer dormant. **ad7.**
+- Player character: **Relo** (Mpelos)
+  - Attitude: **Openly watched, and unbothered**
+  - Reason: Relo declared he would be watching him; Breck told him to watch as much as he likes. The party's most capable mind is now pointed at Kharanok's most capable man. **ad7.**
 
 ## Knowledge
 - Subject: Former guard captain's alleged bribery (design doc only)
@@ -131,8 +155,18 @@ Known as the one who still shows up to guard the gate even though the watch has 
   - Truth status: true
   - Secret: yes
 
+## Knowledge — added from ad7
+- Subject: The gates beneath Kharanok
+  - Claim: The hexagonal plates in the hidden chamber are gates, and the gith were digging toward whatever lies deeper, not merely toward Crystal Dust.
+  - Source: his own surveillance, and Dorak
+  - Learned day: before 117 · Confidence: certain · Truth status: true — the party has since used one · Secret: **he asked that it be kept from Kalia**
+- Subject: The Alliance's assessment of Nibenay
+  - Claim: Raids are multiplying and something is being prepared; a Sorcerer King cannot be faced without an army or another Sorcerer King; the Kings once conspired to kill one of their own, and beyond Borys others may be willing to oppose them.
+  - Source: Alliance channels, and Sadira's message
+  - Learned day: recent, delivered day 117 · Confidence: high · Truth status: consistent with everything else on record · Secret: no — he told Relo plainly
+
 ## Current Activity
-Guarding the Main Gate, overseeing repair work as scraps arrive — and using the repair as cover to make the gate genuinely defensible for the first time in years.
+Guarding the Main Gate and now **training the three new recruits** onto the watch roster — the first time in years the gate has had hands to spare. Overseeing repair work as scraps arrive, and using the repair as cover to make the gate genuinely defensible. Managing Dorak quietly. Sitting on Sadira's request for support, unanswered.
 
 ## GM-Only Secrets
 - **Breck is a level 10 fighter.** He is comfortably the most dangerous person in Kharanok, and possibly the most dangerous the party has met without knowing it. The exhaustion is real; the incompetence is theatre.
@@ -141,10 +175,15 @@ Guarding the Main Gate, overseeing repair work as scraps arrive — and using th
 - **Exposure cost:** if Breck is burned, the entire eastern route between Nibenay and the Altar of Dust collapses, and every preserver who has passed through Kharanok in fifteen years becomes traceable. He will kill to prevent this, and it is the one thing that would put him against the party.
 - The unused "corrupt captain" hook is now load-bearing: the captain was not merely greedy, he was selling Alliance transits. Breck wants him found. Breck cannot be seen looking.
 - He genuinely likes Kharanok. If the village and the chain ever demand opposite things, the GM should treat that as his breaking point, not a formality.
+- **The party believes he holds the object that binds the cave creature — and has not asked him.** The creature told Relo it felt the holder of its binding among the people in the mine that day; the party's own reasoning ("who new went into the mine today?") lands on Breck, with **no confirmation whatsoever**. They decided to leave the conversation for another day. Prep 0007 records it as an open thread: *"Breck was not questioned about the key, though they suspect him."* Whether he actually holds it is a GM decision that has not been made.
+- **What was revealed in ad7 was his membership, not his rank.** The party now knows he is Veiled Alliance; they do not know he is the Warden of the Kharanok chain, that he refused the handler tier, or that he is a level 10 fighter. The reveal spent the smallest of the three secrets.
+- He let five armed people see that he could stand in a room with them unnoticed and stop them with a shout. That was a choice.
 
 ## Proposed Developments
-- The "corrupt former captain" thread is now the natural way to reveal him — the party investigating it will eventually find someone else already investigating it.
-- A reveal-under-pressure scene: the party sees him fight properly, once, and has to reconcile it with the man who complains about scraps.
+- ~~The "corrupt former captain" thread is now the natural way to reveal him~~ — **overtaken by ad7.** He revealed his Alliance membership himself, on his own timing, in a mine. The captain thread is now a thread he can *use* with the party rather than the mechanism that exposes him.
+- A reveal-under-pressure scene: the party sees him fight properly, once, and has to reconcile it with the man who complains about scraps. **Still unspent** — ad7 showed them he is careful, not that he is dangerous.
+- **Sadira's request is an unanswered obligation sitting in Kharanok.** It links this village directly to the House Markon campaign, and Breck is the link. Nothing has been decided about what he does with it.
+- **The binding question is the party's next move on him**, by their own decision to leave it for later.
 - **Continuity consequence, not yet applied:** `faction-veiled-alliance-nibenay` lists `presence` as Nibenay, Kheth's Field, Black-Thread Hollow and Thornmouth — **Kharanok is not among them**. Promoting Breck extends Alliance reach to Kharanok and to the Altar of Dust route. That record lives in `mk-repos/mk-sandbox` (read-only) and has **not** been edited; it needs a GM event/ruling to add `location-kharanok` to the faction's presence, plus an `actor-breck` record, which does not currently exist in `actors/`.
 - If the Alliance ever needs Kharanok's gate closed against Nibenay, Breck is the one who can do it — a very large lever the campaign has not yet pulled.
 
@@ -192,9 +231,22 @@ Guarding the Main Gate, overseeing repair work as scraps arrive — and using th
   - Printed page: —
   - Source type: GM decision (nominee revision, 4 August 2026)
   - Adaptation note: Faction id, doctrine, veil-name style and peer actors taken from `factions/veiled-alliance-nibenay.json` and the existing Alliance actor records; class conventions from [[Fighter]]. Not yet reflected in mk-sandbox.
-  - Id note: `actor-melketh-blind-seer`, `actor-saren-dry-leaves` and `faction-veiled-alliance-nibenay` resolve to real sandbox records. `actor-oren` and `actor-elder-yethras` are **proposed** ids — like Breck himself, those two exist only as nominees.
+  - Id note: `actor-melketh-blind-seer`, `actor-saren-dry-leaves` and `faction-veiled-alliance-nibenay` resolve to real sandbox records. `actor-oren`, `actor-elder-yethras` and `actor-dorak` are **proposed** ids — like Breck himself, those exist only as nominees. **`actor-breck` still does not exist in `actors/`** — verified 2026-08-09.
+- Title: Darkest Sun — Altar of Dust, ad7 "City by the Silt Sea"
+  - Section: the hidden gate room; the interrupted interrogation; the Veiled Alliance reveal; the recruits; the Nibenay briefing
+  - Printed page: —
+  - Source type: campaign-original (actual play, 7 August 2026, in-world day **117**)
+  - Adaptation note: The largest single change to this record. Membership is now public to the party; rank and level are not.
+- Title: `obsidian/Hidden/Session prep/0007 - Session Prep 7-8-2026.md`
+  - Section: Done; Left open
+  - Printed page: —
+  - Source type: GM record
+  - Adaptation note: Source for the unasked question about the binding — *"Breck was not questioned about the key, though they suspect him."*
 
 ## Unresolved Questions
+- **Does Breck hold the object that binds the cave creature?** The party assumes so on thin reasoning and has not asked. No GM decision on record.
+- What he does with **Sadira's request** — answer it, sit on it, or hand it to the party.
+- Whether the recruits are a genuine relief or a screen he now controls.
 - Whether the corrupt-captain hook will ever be raised at the table.
 - What the Alliance originally sent him to Kharanok to guard — the route, or something already inside the village.
 - Whether Elder Yethras suspects. She has never once asked why a man that capable is content to hold a gate.
