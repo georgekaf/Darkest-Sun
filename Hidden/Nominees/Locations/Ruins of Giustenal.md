@@ -50,6 +50,12 @@ A ruined city on the Sea of Silt coast, half-buried in silt and ringed by boilin
 ## Player-Safe Arrival Description
 From a rise: an enormous abandoned city half-sunk in mud, dragon statues standing before it, lakes of tar boiling further out. The light is blinding and the heat is not the heat of the deep desert. *(Ranni's account, day 117.)*
 
+## Party Contact To Date
+
+**[[Ranni]] is the only player character who has ever been here.** Day 117, alone, for a few minutes, hidden and too frightened to memorise the ground — she could not fix the gate structure's position relative to the city. No other PC has set foot in the ruins.
+
+Everything the party believes about this place therefore rests on **one frightened witness who was there briefly and by accident**, plus Zephyr's reading of the scrolls. That includes the belief that people live there, which comes from a single shout she heard while leaving.
+
 ## Physical Features
 *Existing, retained:* partly buried by silt and bordered by tar pits · northern sections sank into the ancient sea · Dregoth's ruined palace and tower · access to the ancient under-regions.
 
