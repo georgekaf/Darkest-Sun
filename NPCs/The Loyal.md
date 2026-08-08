@@ -6,7 +6,7 @@
 
 **Page References:** Campaign Book p. 11
 
-**Number:** 5 members — unnamed in the source, named here as campaign-original: [[Varesh]] (thief, scout), [[Nyrra]] (preserver), [[Kethen]] (thief), [[Saelis]] (preserver, youngest), [[Tharek]] (fighter, skirmisher)
+**Number:** 5 members — unnamed in the source, named here as campaign-original: [[The Loyal - Varesh]] (thief, scout), [[The Loyal - Nyrra]] (preserver), [[The Loyal - Kethen]] (thief), [[The Loyal - Saelis]] (preserver, youngest), [[The Loyal - Tharek]] (fighter, skirmisher)
 
 ---
 

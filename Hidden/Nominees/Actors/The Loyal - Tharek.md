@@ -5,7 +5,7 @@ authorGM: ""
 visibility: mixed
 ---
 
-# Actor: Tharek
+# Actor: The Loyal — Tharek
 
 ## One-Sentence Summary
 The Loyal's skirmisher — the one who learned to fight because somebody in the band had to, and who now stands between his companions and whatever comes out of the ruins by pure reflex.

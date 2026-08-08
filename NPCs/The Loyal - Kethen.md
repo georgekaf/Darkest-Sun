@@ -1,4 +1,4 @@
-# Kethen
+# The Loyal — Kethen
 
 **Role:** Male Elf Thief — quick-handed and irreverent, the way [[The Loyal]] get into places that were sealed.
 

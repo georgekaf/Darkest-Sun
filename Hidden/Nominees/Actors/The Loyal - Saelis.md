@@ -5,7 +5,7 @@ authorGM: ""
 visibility: mixed
 ---
 
-# Actor: Saelis
+# Actor: The Loyal — Saelis
 
 ## One-Sentence Summary
 The youngest of the Loyal and the only one who still says out loud that saving travelers one at a time will add up — a preserver whose idealism the others protect as carefully as they protect him.

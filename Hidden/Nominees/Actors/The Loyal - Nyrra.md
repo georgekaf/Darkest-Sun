@@ -5,7 +5,7 @@ authorGM: ""
 visibility: mixed
 ---
 
-# Actor: Nyrra
+# Actor: The Loyal — Nyrra
 
 ## One-Sentence Summary
 The Loyal's severe young preserver, who enforces Jessix's rule against defiling more rigidly than Jessix does, and who says almost nothing until something comes out of the tar.

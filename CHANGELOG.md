@@ -3,6 +3,23 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.25 — Sylvar Canonical, The Loyal Filed as a Band, Two GM Truths Behind ad7
+
+**Canonical spelling: Sylvar, not Silvar.** The ad7 newcomer's name is spelled **Sylvar** and was corrected everywhere it had already landed — the episode summary (17 places), the working transcript (12), `character_roster.md`, `session_schedule.md`, `Hidden/Session prep/0007`, and the v1.24 entry below. `fixes/silvar.json` was renamed to **`fixes/sylvar.json`** with its target updated, so the ASR variants «Σίλβαρ» / «Σίλβαν» / «Σίλβαρντ» now normalise to Sylvar on every future pass. Fixer re-run to idempotency; `repair_artifacts.py --dry-run` clean.
+
+**The Loyal now file as a band.** The five followers were renamed to a shared prefix — `The Loyal - Varesh`, `- Nyrra`, `- Kethen`, `- Saelis`, `- Tharek` — across both the player-facing `NPCs/` pages and the `Hidden/Nominees/Actors/` sheets, with headings updated to match (`# The Loyal — Varesh`, `# Actor: The Loyal — Varesh`). `NPCs/The Loyal.md` links were repointed. **Jessix keeps his own name**: he leads the band, he is not filed inside it.
+
+**`Hidden/Nominees/README.md` — Batch E added** under City by the Silt Sea, listing the five with the note that the source leaves them unnamed and that names, personalities, appearances and levels are campaign-original (Thief 6, Fighter 5, Preserver 5, all below Jessix). The batch total now reads **36 City by the Silt Sea actor nominees** — 31 from the source, 5 campaign-original.
+
+**`Hidden/Session prep/0007` — two GM truths recorded**, both marked as unknown to the players:
+
+- **The Caller in Darkness reached out to Ranni.** The voice on the far side of the gate, speaking as the childhood friend she lost to the sandstorms, was the Caller making contact — not a coincidence of proximity. Its warning and its accusation ("why did you leave me") are the Caller wearing a dead voice, which is what it does. This is also what the cave creature felt come through the gate: the thing that hunts people to replace its dead and sounds like the screaming of thousands.
+- **One of the Loyal saw Ranni** in the moment before she teleported back — the shout of "JESSIX, SOMEONE IS HERE!" was that member calling their leader. Varesh is put forward as the natural candidate, being the band's scout, but the GM may assign it to whoever suits the next scene. The consequence holds either way: Jessix now knows something appeared inside the ruins out of nothing and vanished the same way, and the Loyal will be watching that spot when the party comes through.
+
+The episode summary was deliberately **not** changed for either — both are GM-side and unconfirmed in play, and its Σημειώσεις already flag the shouted name as probably Jessix.
+
+---
+
 ## v1.24 — ad7 «City by the Silt Sea», Teleport Gates Under Kharanok, Sylvar Joins, Prep 0007 Filled
 
 **`transcripts and summaries/Περίληψη - ad7 - City by the Silt Sea.md` (new)** — the Altar of Dust session of Friday 7 August 2026, covering the whole of in-world **day 117** (Macro 27th · al-Dun-Du · eighth Or'Dom · Nar'Ai), verified against both calendars and continuous with ad6's closing line. Party: Relo, Shaka, Cypoul, Ranni and the newly arrived Sylvar. The session establishes three things that change the campaign's reach: a **hidden room under the Kharanok mines holding two hexagonal Gith gate-plates**, the **working mechanics of those gates** (10 handfuls of Crystal Dust to activate both ends, 5 per trip to keep one open, otherwise it transports once and dies), and the confirmed destination of the intact plate — **Giustenal**, reached and returned from by Ranni within minutes. Also recorded: Breck revealed as an old Veiled Alliance member carrying Sadira's request for support to House Markon; a cache of 30–40 leather scrolls read by Zephyr in Draxian; and a second contact from the cave creature, which now wears Kalia's form, rejects Relo's earlier offer, and warns that something came *through* the gate — a thing that hunts people to replace its dead and sounds like the screaming of thousands.

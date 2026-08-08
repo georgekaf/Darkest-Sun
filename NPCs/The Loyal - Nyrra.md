@@ -1,4 +1,4 @@
-# Nyrra
+# The Loyal — Nyrra
 
 **Role:** Female Elf Preserver — the quiet, severe spellcaster of [[The Loyal]].
 

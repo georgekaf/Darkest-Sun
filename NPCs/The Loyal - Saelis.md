@@ -1,4 +1,4 @@
-# Saelis
+# The Loyal — Saelis
 
 **Role:** Male Elf Preserver — youngest of [[The Loyal]] and the most openly idealistic.
 

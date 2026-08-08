@@ -93,7 +93,12 @@ NPCs of the *City by the Silt Sea* boxed set, sourced from `Hidden/Books/City by
 **Batch D — Dregoth's circle + New Giustenal (9)**
 [[Dregoth]] · [[Absalom]] · [[Mon-Adderath]] · [[Mosak Eggstealer]] · [[Freiha]] · [[Gatlakk]] · [[Casskka]] · [[Lodgden]] · [[Kria]]
 
-**Total: 31 City by the Silt Sea actor nominees.** Complete.
+**Batch E — the Loyal (5, campaign-original names)**
+[[The Loyal - Varesh]] · [[The Loyal - Nyrra]] · [[The Loyal - Kethen]] · [[The Loyal - Saelis]] · [[The Loyal - Tharek]]
+
+The source names only Jessix and leaves his five followers unnamed ("five young elves called the Loyal"). These five are **campaign-original**: names, personalities, appearances and levels. Levels set from what the band survived — Thief 6, Fighter 5, Preserver 5, all below Jessix.
+
+**Total: 36 City by the Silt Sea actor nominees** (31 from the source, 5 campaign-original). Complete.
 
 *Excluded by scope:* the ten sorcerer-kings other than Dregoth (Abalach-Re, Andropinis, Borys, Hamanu, Kalak, Lalali-Puy, Nibenay, Rajaat, Tectuktitlay) — setting-wide rather than CbtSS-specific.
 

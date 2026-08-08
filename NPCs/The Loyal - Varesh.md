@@ -1,4 +1,4 @@
-# Varesh
+# The Loyal — Varesh
 
 **Role:** Male Elf Thief — scout of [[The Loyal]], Jessix's eyes on the road.
 

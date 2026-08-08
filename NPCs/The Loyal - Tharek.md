@@ -1,4 +1,4 @@
-# Tharek
+# The Loyal — Tharek
 
 **Role:** Male Elf Fighter — skirmisher of [[The Loyal]], the one who stands in front.
 

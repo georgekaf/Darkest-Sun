@@ -5,7 +5,7 @@ authorGM: ""
 visibility: mixed
 ---
 
-# Actor: Varesh
+# Actor: The Loyal — Varesh
 
 ## One-Sentence Summary
 The scout of the Loyal — a lean, watchful elf thief who has walked the Giustenal environs so long that he reads the ruins the way other people read weather, and who argues for withdrawal more often than any of the others.

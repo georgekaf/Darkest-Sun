@@ -5,7 +5,7 @@ authorGM: ""
 visibility: mixed
 ---
 
-# Actor: Kethen
+# Actor: The Loyal — Kethen
 
 ## One-Sentence Summary
 The Loyal's thief and lockbreaker — irreverent, quick-handed, the reason the first expedition reached Dregoth's templar chambers, and completely silent on the subject of the second.
