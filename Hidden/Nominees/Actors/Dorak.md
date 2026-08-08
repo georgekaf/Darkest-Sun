@@ -76,6 +76,18 @@ The one who knows the mines best and will not talk about what is down there unti
 - **The only person in Kharanok who can operate the gate** — he prepared and lit it, and he stays behind to work it.
 - The ability to train miners, which he is exercising dishonestly.
 - Stubborn physical resilience well past what his age suggests.
+- **A lion's-head medallion of almost fire-red gemstone that casts fireball.** *(GM-only — see below. Undeclared, unproposed as an artifact record, and the reason an old miner survived being cornered by five armed adventurers without ever looking desperate.)*
+- **Twenty barrels of Crystal Dust.** *(GM-only.)* The party believes the supply is scarce.
+
+## Proposed Artifact Record
+
+**None exists.** `mk-sandbox/artifacts/` holds 29 records and **no lion medallion** — verified 2026-08-09. Propose `artifact-lion-medallion` (name TBD), with:
+
+- Form: lion's head, cut from a gemstone of an almost fire-red colour
+- Power: casts **fireball**
+- Binding: **bonded to the moonbeast beneath Kharanok** — it is the object the creature wants brought to it
+- Custody: **Dorak**, undeclared
+- Related: the nearby **Temple of the Lion** (`location-lion-temple`) is a half-buried ancient temple dedicated to a forgotten lion-creature, and `artifact-taraskirs-lion-armor` and Tenpug's lion-headed guard statues use the same iconography. **Whether the medallion belongs to that tradition is an open GM question, not an assertion.**
 
 ## Relationships
 - Existing actor or faction ID: `faction-black-spine-gith` (or equivalent gith warband faction)
@@ -86,7 +98,10 @@ The one who knows the mines best and will not talk about what is down there unti
   - Reason: Breck has shadowed him for days, ended the party's interrogation of him, took the hide off him, and keeps him quiet with broy rather than threats. **ad7.** See [[Breck]].
 - Player character: **Relo** (Mpelos)
   - Attitude: **Resentful, and bound anyway**
-  - Reason: Relo threatened to read his mind and put a stone needle to him, then offered to leave Kharanok with him. He refused the first and laughed at the second — and still lit the gate for him. **ad7.**
+  - Reason: Relo threatened to read his mind and put a stone needle to him, then offered to leave Kharanok with him. He refused the first and laughed at the second — and still lit the gate for him. **ad7.** *(GM-only: Relo is an elf, and Dorak dislikes elves. The refusal was not only about the road.)*
+- **The moonbeast beneath Kharanok** (no id — no record exists)
+  - Attitude: **Bound to him, and he has never said so**
+  - Reason: **GM-only.** The medallion he carries is the thing that binds it. It felt him in the mine on day 117 and told Relo so, without naming him.
 - Player character: **Shaka** (Proskopos)
   - Attitude: **Creditor**
   - Reason: Promised him a share of anything valuable. Unpaid. **ad7.**
@@ -115,6 +130,7 @@ The one who knows the mines best and will not talk about what is down there unti
   - Source: found on a dead or captured gith raider
   - Learned day: unconfirmed · Confidence: high · Truth status: **unconfirmed** — he has never tested the route · Secret: **yes**
   - **Note (ad7):** he reached the gate chamber by moving crates in the old ambush room, and Breck says the hide came off the gith who ambushed him. Whether the parchment and the hide are the same document, or whether this route is the one the parchment described, has not been established.
+  - **GM truth: his account of the leather parchment is a lie.** See GM-Only Secrets. The party's version of where the hide came from reached them through Breck, not through Dorak.
 - Subject: The Ghodan brothers' tar pits
   - Claim: They are outside Cromlin, not at Giustenal.
   - Source: local knowledge · Learned day: pre-campaign · Confidence: certain · Truth status: **true — it matches the printed source** · Secret: no
@@ -123,11 +139,22 @@ The one who knows the mines best and will not talk about what is down there unti
 Working the gate chamber at the Kharanok end, training two workers badly, and producing Crystal Dust — thirty-two pieces on day 117 alone.
 
 ## GM-Only Secrets
+
+*(GM disclosure, 2026-08-09. None of this is player-known.)*
+
+- **He holds the medallion, and the medallion is what binds the moonbeast.** A lion's-head medallion cut from an almost fire-red gemstone, which **casts fireball**, and which has **bonded with the moonbeast beneath Kharanok**. This is the single most important fact on this record.
+  - **The party is hunting the wrong man.** The moonbeast told Relo it felt the holder of its binding among the people in the mine that day. The party reasoned "who new went into the mine today?" and landed on **Breck**. It was Dorak — who was in that mine before any of them, who had been there alone all morning, and who **pocketed something** the instant they walked in on him.
+  - Everything the creature offered Relo — *bring me what binds me and I will show you the road* — therefore runs through the frightened old man the party already threatened, already failed to pay, and already left in sole charge of their gate.
+  - See [[Breck]], whose record carries the party's mistaken suspicion, and [[Relo]], who received the creature's offer.
+- **The moonbeast is looking for him specifically.** *(GM disclosure, 2026-08-09.)* It is not casting about for whoever happens to be nearby — it is hunting the man who carries its binding. **Old magic keeps it from leaving the caves under Kharanok**, but confinement does not blunt its psionic reach: it can still work on people's minds, and has, repeatedly — the gith captive in ad4 who was told he was blessed and that "the moon" was calling him, and Relo twice. Dorak walks into those tunnels almost daily, carrying the one thing it wants.
+- **He lied about the leather parchment.** His account of the gith hide is false. Breck's version — that Dorak took it off the gith who ambushed him — is what the party believes, and it came from Breck, not from Dorak. What the truth is remains a GM decision; that the account is a lie does not.
+  - This bears directly on the older secret below: the parchment he found on a gith raider, describing the route to the teleportation circles room, was never something he intended to share.
+- **The twenty barrels of Crystal Dust.** He has them. He told the party their supply would not stretch to both plates, watched them scrape together ten handfuls and then fifteen more, and sent them digging — while twenty barrels existed. The gate's scarcity is manufactured, and it is the reason they keep needing him.
+- **He is teaching the new workers incorrectly on purpose.** If it comes out, it costs him the only leverage he has — and it is the smallest of his three deceptions, not the largest.
+- **He dislikes elves.** Not a quirk: Relo is an elf, Ranni is an elf, and the man who runs their only route out of Kharanok would rather not be seen travelling with one. He laughed the offer off in ad7 and the party read it as a joke.
 - He is a former gith slave who escaped. This was revealed at the table in ad3, so it is very likely player-known rather than a true hidden secret. What happened during his enslavement and escape has never been detailed.
-- **He is teaching the new workers incorrectly on purpose.** The party does not know. If it comes out, it costs him the only leverage he has.
-- **He said he wants to leave and then refused to use the one thing that could take him anywhere.** Either he is more frightened than he admits, or leaving is not actually what he wants — it is what he says instead of what he wants.
+- **He said he wants to leave and then refused to use the one thing that could take him anywhere.** Read against the medallion, that stops being a contradiction: he is not staying because he is frightened of the gate. He is staying because of what he is holding.
 - The canyon bodies are his. Nobody at the table followed up on that, and it is the most exposed thing he has ever said.
-- His secret parchment about the teleportation circles may have already been overtaken by events, or may point somewhere the party has not been. **Undecided.**
 
 ## Proposed Developments
 All unapproved.
@@ -173,8 +200,12 @@ All unapproved.
   - Adaptation note: **No `actor-dorak` record exists** — verified 2026-08-09. This remains a new-actor proposal.
 
 ## Unresolved Questions
-- Whether his enslaved backstory is meant to stay GM-only or is already common table knowledge post-ad3 — still needs a status check.
+- **How did Dorak come by the medallion?** A lion's-head fireball gemstone in the hands of a mine foreman who cannot read is not explained by anything on record.
+- **Does he know what it is bonded to?** He has been in those tunnels for years and the creature has been reaching into minds down there since at least ad4.
+- **What is the truth about the leather parchment**, given his account of it is a lie.
+- Where the twenty barrels are, and what he intends them for.
+- Whether the medallion needs an `artifact-` record before the party can ever take it — see Proposed Artifact Record.
+- Whether his enslaved backstory is meant to stay GM-only or is already common table knowledge post-ad3.
 - **Is the teleportation-circles parchment the same document as the gith hide, or a separate lead?**
-- Why a man who says he wants to leave refused to step onto a working gate.
 - What the party owes him, and what happens when they keep not paying it.
 - Whether anyone ever asks about the bodies in the canyon.

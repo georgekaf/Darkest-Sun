@@ -101,6 +101,7 @@ Known as the one who still shows up to guard the gate even though the watch has 
 - Complete informal record of who has entered and left Kharanok, held entirely in memory.
 - A compartmented contact chain running west toward Nibenay; he knows his links and no more, by doctrine.
 - One cached kit — a real weapon, travel water, and forged transit tokens — buried outside the walls, never brought inside.
+- **A [[Mind Seal]]** *(GM-only)* — worn against the skin. Thoughts cannot be read; he can neither send nor receive telepathic messages. It is how a man with no arcane training has run an Alliance chain for fifteen years inside a village with psionicists passing through it.
 - Authority to grant or refuse safe passage through Kharanok on the Alliance's behalf.
 
 ## Relationships
@@ -175,7 +176,13 @@ Guarding the Main Gate and now **training the three new recruits** onto the watc
 - **Exposure cost:** if Breck is burned, the entire eastern route between Nibenay and the Altar of Dust collapses, and every preserver who has passed through Kharanok in fifteen years becomes traceable. He will kill to prevent this, and it is the one thing that would put him against the party.
 - The unused "corrupt captain" hook is now load-bearing: the captain was not merely greedy, he was selling Alliance transits. Breck wants him found. Breck cannot be seen looking.
 - He genuinely likes Kharanok. If the village and the chain ever demand opposite things, the GM should treat that as his breaking point, not a formality.
-- **The party believes he holds the object that binds the cave creature — and has not asked him.** The creature told Relo it felt the holder of its binding among the people in the mine that day; the party's own reasoning ("who new went into the mine today?") lands on Breck, with **no confirmation whatsoever**. They decided to leave the conversation for another day. Prep 0007 records it as an open thread: *"Breck was not questioned about the key, though they suspect him."* Whether he actually holds it is a GM decision that has not been made.
+- **The party believes he holds the object that binds the cave creature. He does not. [[Dorak]] does.** *(GM disclosure, 2026-08-09.)* The creature told Relo it felt the holder of its binding among the people in the mine that day; the party reasoned "who new went into the mine today?" and landed on Breck. The real holder is the old miner who had been down there alone since morning and pocketed something when they walked in on him — a lion's-head medallion of almost fire-red gemstone that casts fireball and is bonded to the creature.
+  - **Breck is therefore an innocent man under surveillance by the party's psionicist**, while the actual holder works their gate unwatched. Prep 0007 records the thread as open: *"Breck was not questioned about the key, though they suspect him."*
+  - He has been shadowing Dorak for days and manages him personally. **Whether Breck knows what Dorak carries is not established** — and it is the most interesting unanswered question on this record.
+- **He wears a [[Mind Seal]], and it is why the mission has survived fifteen years.** *(GM disclosure, 2026-08-09.)* His thoughts cannot be read and he cannot be reached telepathically. **The moonbeast cannot detect him.**
+  - This is the second half of the joke the party is standing inside: the entity beneath Kharanok is hunting the holder of its binding and is **blind to the one man the party suspects**, while the actual holder — Dorak — walks past it almost daily, unshielded.
+  - It also explains ad7 mechanically. Relo swept the area with The Way looking for activity akin to his own and found the creature. He did not find Breck, who was in the same mine, watching him.
+  - **Rules interaction to confirm:** `Rules/Mind Seal.md` says a psionic creature *"can still sense that something is blocking them — they learn a seal is present, but not what lies behind it."* Read strictly, the moonbeast perceives a hole rather than a person. Whether it has noticed that hole, and what it makes of it, is an open GM decision — a blank spot that walks around a village is itself information.
 - **What was revealed in ad7 was his membership, not his rank.** The party now knows he is Veiled Alliance; they do not know he is the Warden of the Kharanok chain, that he refused the handler tier, or that he is a level 10 fighter. The reveal spent the smallest of the three secrets.
 - He let five armed people see that he could stand in a room with them unnoticed and stop them with a shout. That was a choice.
 
@@ -244,7 +251,7 @@ Guarding the Main Gate and now **training the three new recruits** onto the watc
   - Adaptation note: Source for the unasked question about the binding — *"Breck was not questioned about the key, though they suspect him."*
 
 ## Unresolved Questions
-- **Does Breck hold the object that binds the cave creature?** The party assumes so on thin reasoning and has not asked. No GM decision on record.
+- ~~**Does Breck hold the object that binds the cave creature?**~~ **Answered 2026-08-09: no — Dorak does.** The open question is now whether **Breck knows**, given he has been watching Dorak for days.
 - What he does with **Sadira's request** — answer it, sit on it, or hand it to the party.
 - Whether the recruits are a genuine relief or a screen he now controls.
 - Whether the corrupt-captain hook will ever be raised at the table.

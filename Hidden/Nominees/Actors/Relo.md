@@ -152,7 +152,7 @@ In Kharanok, planning the return trip through the gate to Giustenal.
 
 ## Proposed Developments
 All unapproved.
-- The party assumes **Breck** holds the creature's binding. Relo is the one who declared he would watch him — the confrontation is already set up and does not need prompting.
+- The party assumes **Breck** holds the creature's binding. **They are wrong — [[Dorak]] holds it** *(GM disclosure, 2026-08-09: a lion's-head medallion of almost fire-red gemstone, casts fireball, bonded to the creature)*. Relo has pointed his surveillance at the wrong man and threatened the right one, twice, without ever finding out. The creature's price — *bring me what binds me* — is currently in the pocket of the person operating his only route out of Kharanok.
 - The creature's road "runs through where the energy came from" points at Giustenal, which is also where the Caller found Ranni. Two threads, one destination.
 
 ## Stat Block or Rules Notes
