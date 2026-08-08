@@ -25,7 +25,7 @@ visibility: mixed
 
 **Proposed changes, all unapproved:**
 
-1. **`role` says "Psionic".** The sheet says **Necromancer** — shadow magic and soul work, not The Way. Propose correcting to "Necromancer Altar of Dust adventurer", or confirming he is both.
+1. **`role` says "Psionic" and it is wrong. GM ruling, 2026-08-09: Parias is a Necromancer.** Correct the field to **"Necromancer Altar of Dust adventurer"**. The sheet agrees — Gates, Reap The Soul, Lamentation, Staff of Omid — and so does play: his ad4 kill is a beam of shadow, not The Way.
 2. **`lastConfirmedDay: 110` is stale.** He is in the ad5 party on **day 112**.
 3. `goals[]` empty; no ancestry, class, level or stat block; no relationships.
 4. **He is the highest-level character in the party at 7**, and the record does not say so.
@@ -112,7 +112,7 @@ All unapproved. If the party takes the gate to Giustenal — a city of two thous
 - Title: Darkest Sun — Altar of Dust, ad5 · campaign-original, in-world day **112**
 
 ## Unresolved Questions
-- **Psionic or necromancer?** The sandbox role and the sheet disagree.
+- ~~**Psionic or necromancer?**~~ **Answered 2026-08-09 by GM ruling: Necromancer.** The sandbox `role` field is wrong and needs correcting.
 - **What is Erebos?**
 - Whether Parias and Sepsis have a shared history, given the identical class.
 - Why he has been absent since day 112.

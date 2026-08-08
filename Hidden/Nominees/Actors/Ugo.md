@@ -87,7 +87,7 @@ Unknown. The world record has him inactive at Kharanok since day 109.
 ## GM-Only Secrets
 - **This is a continuity hole, not a retired character.** A named PC left the roster mid-day with no death, no departure and no explanation, and has been quietly advancing ever since. That is either an unrecorded absence to be explained or a character due to walk back in.
 - **Phase** on his sheet is unexplained, exactly as Telekinetic Grasp is on Gur-da's. Both are half-giants with an ability their class does not obviously grant.
-- The Caller in Darkness **ignores half-giants**. Whatever else he is, he is safe at Giustenal.
+- **Ugo has never been to Giustenal.** *(GM confirmation, 2026-08-09.)* [[Ranni]] is the only player character who has been there. Wherever his missing days went, they did not go there — and the Caller in Darkness **ignores half-giants**, so if he ever does go, it will not target him.
 
 ## Proposed Developments
 All unapproved.

@@ -75,11 +75,12 @@ Nothing distinctive recorded.
 Unconfirmed since day 115. Presumed in Kharanok.
 
 ## GM-Only Secrets
-- **Telekinetic Grasp on his sheet is unexplained in play.** Under the Caller in Darkness's selection rules, a psionic ability would matter — but the Caller **ignores half-giants entirely**, so it protects him rather than exposing him. Worth knowing before the party goes back through the gate.
+- **Gur-da has never been to Giustenal.** *(GM confirmation, 2026-08-09.)* [[Ranni]] is the only player character who has ever stood in those ruins. Nothing below describes anything he has done — only what would be true if he went.
+- **Telekinetic Grasp on his sheet is unexplained in play.** A psionic ability would normally mark a character under the Caller in Darkness's selection rules — but the Caller **ignores half-giants entirely**, so if he ever did go, it would not look at him.
 - He has been unconscious twice in four sessions. A third time without a healer present is a real possibility.
 
 ## Proposed Developments
-All unapproved. If the party splits at Giustenal, he is the safest member to send into the ruins — the Caller will not look at him.
+All unapproved, and none of it has happened. Should the party ever take him through the gate, he is the member the Caller cannot target.
 
 ## Stat Block or Rules Notes
 - System: **Shadowdark** — sheet `fvtt-Actor-gur-da-B2g7JbeYF7Y0X4GT.json`

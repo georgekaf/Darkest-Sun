@@ -27,7 +27,8 @@ visibility: mixed
 
 1. `goals[]` empty; no ancestry, class, level or stat block. Propose **Human Necromancer 4** from the sheet.
 2. **`role` calls him an interpreter.** Interpreting has since passed to Relo and then to Sylvar. Propose either recording *which* language he interprets, or dropping the label.
-3. **`lastConfirmedDay: 110` appears correct** — he does not appear in ad4 (111), ad5 (112), ad6 (115) or ad7 (117). **Propose reviewing `status: active`**, which is the same situation that got Ugo marked inactive.
+3. **`lastConfirmedDay: 110` is correct** — he does not appear in ad4 (111), ad5 (112), ad6 (115) or ad7 (117).
+4. **`status` must change from `active` to `inactive`. GM ruling, 2026-08-09: Sepsis's inactivity is correct.** This matches the precedent already set on `actor-ugo`, whose record carries the note *"absent from the later rosters; no death or departure was confirmed."* Propose the same note shape here, keyed to day 110.
 
 ## One-Sentence Summary
 A necromancer with the highest Charisma in the party and no confirmed appearance in seven in-world days — the second of two soul-workers in a party that is about to walk into a city made of the dead.
@@ -35,7 +36,7 @@ A necromancer with the highest Charisma in the party and no confirmed appearance
 ## Classification
 - Subtype: player-character — sandbox shape `actorType: agent` + `controlType: player-character`
 - Control: player-character — party *Altar of Dust*
-- Status: **active in the record; unconfirmed in play since day 110.**
+- Status: **inactive** *(GM ruling, 2026-08-09)* — the sandbox record still says `active` and needs correcting. No death or departure was ever confirmed; he is simply not in play.
 - Current location: Kharanok (`location-kharanok`)
 - Role: Necromancer — and interpreter, per the existing record
 
@@ -81,7 +82,7 @@ Not recorded.
 Nothing recorded.
 
 ## Current Activity
-Unknown. The record says Kharanok and active; play says nothing since day 110.
+None. **Inactive since day 110** by GM ruling. The record still reads `active` at Kharanok until the field is corrected.
 
 ## GM-Only Secrets
 - **Death Sense and River of Death in the ruins of Giustenal** is the strongest untouched hook in the party's roster. The city is two thousand years of murdered dead and a group consciousness formed from them; a necromancer who senses death would not need to be told something is wrong there.
@@ -109,7 +110,7 @@ All unapproved. Either his absence gets an in-world explanation or the record sh
   - Adaptation note: The only confirmed appearances.
 
 ## Unresolved Questions
-- **Where is he, in-world?** Seven days unaccounted for, no departure recorded.
-- Should `status` become inactive, as Ugo's did on the same evidence?
+- **Where is he, in-world?** Seven days unaccounted for, no departure recorded. Being inactive is now confirmed; *why* is not.
+- ~~Should `status` become inactive, as Ugo's did on the same evidence?~~ **Answered 2026-08-09 by GM ruling: yes.**
 - What language he interprets — the role field asserts it without saying.
 - Whether the HP 13/16 on the sheet reflects a real injury from day 110.
