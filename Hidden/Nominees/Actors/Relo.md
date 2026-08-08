@@ -5,14 +5,42 @@ authorGM: "Ghost"
 visibility: mixed
 ---
 
-# Actor: Relo
+# Actor: Relo (update to existing actor-relo, revision 4)
+
+*(Revision of existing actor `actor-relo`. The sandbox record is a stub: it has no ancestry, no class, no stat block, no goals, no relationships and no knowledge. Everything below is a change **against these values**.)*
+
+## Current record in mk-sandbox
+
+*Read-only snapshot of `mk-repos/mk-sandbox/actors/relo.json` (revision 4, updated 2026-08-04, event-traced to `event-day-0117-dawn-001`).*
+
+| Field | Current value |
+| --- | --- |
+| `id` | actor-relo |
+| `actorType` | agent |
+| `controlType` | player-character |
+| `partyName` | Altar of Dust |
+| `role` | Psionic Altar of Dust adventurer |
+| `status` / `canonStatus` | active / campaign-original |
+| `locationId` | location-kharanok |
+| `factionId`, `routeId` | null |
+| `goals[]` | **empty** |
+| `simulation` | proposalMode `excluded` — "Player characters act only through GM-confirmed table play." |
+| `campaignContinuity` | firstConfirmedDay 109, lastConfirmedDay **117**, party Altar of Dust |
+| `sourceRefs[]` | Campaign Record Day 109 (Day at Kharanok); Day 110 (The Shared Dream) |
+
+**Proposed changes, all unapproved:**
+
+- **`goals[]` is empty** — propose the two goals below, both drawn from play.
+- **No ancestry, class, level or stat block** is stored. Propose recording Elf / Psionicist / level 4 from the Foundry export, in whatever field shape the schema allows.
+- **`sourceRefs[]` stops at day 110.** Days 115 and 117 are the two most consequential sessions he has had (Zharvek recruitment; the second contact with the cave creature). Propose adding ad4–ad7.
+- **No relationships or knowledge are recorded.** Propose the entries below — in particular the cave creature contact, which is the only open channel any PC has to a non-human intelligence.
 
 ## One-Sentence Summary
 An elf psionicist abandoned at birth who has made himself the party's negotiator, tracker and interrogator — and who has twice now opened his own mind to something older and stronger than he is, once to bargain with it and once to be pinned to a wall by it.
 
 ## Classification
-- Subtype: player-character
-- Control: player-character — played by **Mpelos**, campaign *Altar of Dust*
+- Subtype: player-character — stored in the sandbox as `actorType: agent` + `controlType: player-character`
+- Control: player-character — played by **Mpelos**, party *Altar of Dust*
 - Status: active
 - Faction or allegiance: none; de facto voice of the Altar of Dust party
 - Current location: Kharanok (`location-kharanok`)
@@ -165,6 +193,11 @@ All unapproved.
   - Printed page: —
   - Source type: campaign reference doc
   - Adaptation note: Roster lists Elf Psionicist **level 3**; the sheet export gives **level 4**. The sheet is the newer record.
+- Title: `mk-repos/mk-sandbox/actors/relo.json`
+  - Section: full entry, revision 4
+  - Printed page: —
+  - Source type: campaign record (read-only)
+  - Adaptation note: The record this nominee revises. Event-traced to `event-day-0117-dawn-001`; stub-level detail only.
 
 ## Unresolved Questions
 - Whether Relo intends to free the cave creature, and whether he has told the party the whole of what it offered.

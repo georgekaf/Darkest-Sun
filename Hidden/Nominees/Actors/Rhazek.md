@@ -7,6 +7,15 @@ visibility: mixed
 
 # Actor: Rhazek
 
+*(New actor. **No `actor-rhazek` record exists in mk-sandbox** — verified 2026-08-09, under either spelling. Proposed id `actor-rhazek`.)*
+
+**Proposed sandbox field shape**, following the existing PC records (`relo.json`, `shaka.json`):
+
+- `actorType`: agent · `controlType`: player-character · `partyName`: Altar of Dust
+- `status`: active · `canonStatus`: campaign-original · `locationId`: `location-kharanok`
+- `simulation`: proposalMode **excluded** — "Player characters act only through GM-confirmed table play."
+- `campaignContinuity`: firstConfirmedDay **115** (ad6), lastConfirmedDay **115** — he did not attend ad7
+
 ## One-Sentence Summary
 A slave-born mul priest of fire whose faith is the one thing about the party that other powers refuse to tolerate — the water spirits of the Bloody Red Oasis demanded he be handed over before they would let anyone drink, and he answered by threatening to boil their lake dry.
 

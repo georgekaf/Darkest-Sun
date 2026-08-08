@@ -7,6 +7,15 @@ visibility: mixed
 
 # Actor: Sylvar
 
+*(New actor. **No `actor-sylvar` record exists in mk-sandbox** — verified 2026-08-09. Proposed id `actor-sylvar`.)*
+
+**Proposed sandbox field shape**, following the existing PC records (`relo.json`, `shaka.json`):
+
+- `actorType`: agent · `controlType`: player-character · `partyName`: Altar of Dust
+- `status`: active · `canonStatus`: campaign-original · `locationId`: `location-kharanok`
+- `simulation`: proposalMode **excluded** — "Player characters act only through GM-confirmed table play."
+- `campaignContinuity`: firstConfirmedDay **117** (ad7 arrival), lastConfirmedDay **117**, party Altar of Dust
+
 ## One-Sentence Summary
 An elderly human traveller out of Nibenay with dry branches wrapped around him, handed to the party by Kalia as one more mouth she did not want to feed, who turned out to speak with nature and to speak halfling — and so became the voice through which Shaka finally talks to everyone else.
 

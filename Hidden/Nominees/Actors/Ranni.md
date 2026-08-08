@@ -7,12 +7,21 @@ visibility: mixed
 
 # Actor: Ranni
 
+*(New actor. **No `actor-ranni` record exists in mk-sandbox** — verified 2026-08-09 against `mk-repos/mk-sandbox/actors/`, which holds 30 player characters but not her. Proposed id `actor-ranni`.)*
+
+**Proposed sandbox field shape**, following the existing PC records (`relo.json`, `shaka.json`):
+
+- `actorType`: agent · `controlType`: player-character · `partyName`: Altar of Dust
+- `status`: active · `canonStatus`: campaign-original · `locationId`: `location-kharanok`
+- `simulation`: proposalMode **excluded** — "Player characters act only through GM-confirmed table play."
+- `campaignContinuity`: firstConfirmedDay **111** (ad5 arrival), lastConfirmedDay **117**, party Altar of Dust
+
 ## One-Sentence Summary
 A blue-haired elf water priestess who walked into Kharanok among the refugees, healed a dying half-giant on her first day, and — on her second outing with the party — stepped onto an unknown teleport plate out of pure curiosity and became the first of them to stand in the ruins of Giustenal.
 
 ## Classification
-- Subtype: player-character
-- Control: player-character — played by **Fantasias Giorgos**, campaign *Altar of Dust*
+- Subtype: player-character — stored in the sandbox as `actorType: agent` + `controlType: player-character`
+- Control: player-character — played by **Fantasias Giorgos**, party *Altar of Dust*
 - Status: active
 - Faction or allegiance: none formal; travels with the Altar of Dust party out of Kharanok
 - Current location: Kharanok (`location-kharanok`)

@@ -7,6 +7,15 @@ visibility: mixed
 
 # Actor: Zephyr
 
+*(New actor. **No `actor-zephyr` record exists in mk-sandbox** — verified 2026-08-09. Proposed id `actor-zephyr`.)*
+
+**Proposed sandbox field shape**, following the existing PC records (`relo.json`, `shaka.json`):
+
+- `actorType`: agent · `controlType`: player-character · `partyName`: Altar of Dust
+- `status`: active · `canonStatus`: campaign-original · `locationId`: `location-kharanok`
+- `simulation`: proposalMode **excluded** — "Player characters act only through GM-confirmed table play." **Note:** she is fielded as an allied NPC when her player is absent, which this mode does not describe. Flag for the owner.
+- `campaignContinuity`: firstConfirmedDay **~110** (ad4), lastConfirmedDay **117**, party Altar of Dust
+
 ## One-Sentence Summary
 A shaven-headed priest of air, played as a player character but fielded as an NPC ally, who reads Draxian and Primordial — and who is therefore the only reason anyone in Kharanok understands that the stone plates under the mines are gates.
 
