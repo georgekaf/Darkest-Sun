@@ -104,7 +104,7 @@ None. The village does not know it exists. What is known is folklore: people who
 Confined beneath Kharanok, reaching into every usable mind that comes down, waiting for the one carrying its medallion to come close enough — which Dorak does almost daily.
 
 ## GM-Only Secrets
-- **The binding is the lion's-head medallion Dorak carries** — an almost fire-red gemstone that also casts fireball. See [[Dorak]] GM-Only Secrets.
+- **The binding is [[Lion Medallion|the Lion Medallion]]** — a lion's head cut from an almost fire-red gemstone, which also casts fireball, carried undeclared by [[Dorak]]. It has its own nominee record; `artifact-lion-medallion` lists this entity under `Keyed to`.
 - **It is searching for Dorak specifically.** Not for a psionicist, not for the party — for the holder.
 - **The old magic is the only reason this is not already a catastrophe.** Take the medallion to it and the cage question becomes live. The party has been offered exactly that trade and does not know what it would be handing over.
 - Its account of itself — conscripted helper, wants only to go home — is **its own testimony and nothing else**. Whoever bound it presumably had a reason, and that reason is unwritten.

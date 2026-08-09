@@ -40,12 +40,29 @@ No permanent population. Formerly a gith watch position; seven gith were killed 
 ## Important Areas
 - **Deep Lake (#6)** — where Crystal Dust actually forms and is harvested.
 - **Foreman's Office (#8)** — supervisor's room, doubles as the "quartermaster chambers"; hidden crate-door from the Storehouse (#10); stairs down to Level 2 sit at this junction.
-- **Storehouse (#10)** — two rooms; one holds the hidden crate-door to the Foreman's Office, the other (by the elevator shaft) holds a hidden passage to a one-way teleportation room. Dorak found an old parchment on a Gith raider describing this route — kept secret, unused, and unconfirmed to actually work.
-- **Barracks (#9)** — reached via two illusionary walls; a second, separate hidden route to the same one-way teleportation room. Portal costs 10 Crystal Dust to activate, 1 per use after (see [[Portal Activation]]).
+- **Storehouse (#10)** — two rooms; one holds the hidden crate-door to the Foreman's Office, the other (by the elevator shaft) holds a hidden passage to the teleportation room. Dorak found an old parchment on a Gith raider describing this route — kept secret, unused, and unconfirmed to actually work. *(GM-only: his account of that parchment is a lie — see [[Dorak]].)*
+- **Barracks (#9)** — reached via two illusionary walls; a second, separate hidden route to the same teleportation room.
+- **The Gate Chamber (the teleportation room)** — **entered and used on day 117.** See the ad7 section below; the "one-way portal, 10 to activate and 1 per use" description in the dungeon key is **superseded by play.**
+- **The dormitory chambers** — the rooms on the approach to the gate chamber, each with **four to six large carved alcoves** in the walls, big enough to hold a creature of large size. *(ad7.)*
 - **South Access Shaft (#12)** — the route down to [[02. The Rat-Folk Tunnels]]; broken lift needs repair.
 
+## The Gate Chamber — established in play, ad7, day 117
+
+The hidden room the dungeon key describes as a "one-way teleportation room" was found and used. What play established, and where it corrects the key:
+
+- **Route used:** not the Barracks illusionary walls, but a **half-hidden passage exposed by crates recently shifted** in the room where the party had earlier saved Dorak from the gith ambush. Dorak had opened it himself and was in there alone before anyone else.
+- **Two plates, not one portal.** Two **hexagonal stone plates** set in the floor, carved with symbols. One intact, one broken.
+- **It is two-way, not one-way.** Activating the intact plate lights **both ends simultaneously**. **This contradicts the dungeon key and the key is the older source.**
+- **Cost, as established at the table:** **ten handfuls of Crystal Dust to wake it** — crushed and washed into the plate's grooves with a little water — and **five per trip to hold it open**. Without the five it carries a traveller **once** and dies. The party spent ten, then fifteen more to reopen it. *(The key's "10 to activate, 1 per use" is superseded.)*
+- **Destination:** the **[[Ruins of Giustenal]]** — a structure on a rise above the ruined city, dozens of miles away. Only [[Ranni]] has ever been through it, and only for a few minutes.
+- **The broken plate** led **deeper into the mountain**. Zephyr's reading: whoever broke it did so deliberately, so that it would work **badly** rather than not at all.
+- **The hides.** A square flagstone that rang hollow, lifted by Relo and Sylvar with The Way, hid **thirty to forty rolled hides shelved like a library**. [[Zephyr]] reads Draxian and Primordial and read enough to establish the gate mechanics; **the great majority remain unread.**
+- **The chambers on the way in** carry four to six large carved alcoves each — not tombs; the party read them as dormitories, and speculated the place was either a staging post or somewhere people were held and shipped onward by plate.
+- **Nothing else of value.** The side rooms held rotted armour, hides and bedding; whoever abandoned the place took what mattered.
+- **[[Breck]] asked for the passage to be re-hidden and for none of it to reach [[Kalia]].** The party agreed and covered it behind them.
+
 ## Important Actors and Factions
-- [[Dorak]] — ex-mine foreman, guide, former gith slave; knows the upper workings.
+- [[Dorak]] — ex-mine foreman, guide, former gith slave; knows the upper workings. **Now the gate's operator**: he prepared and lit it, and stays at this end to work it while others cross.
 - Roi — one-armed dwarf craftsman, assessed the broken lift's repair needs.
 - Gith raiders/warband — hold the deeper reaches and the South Access Shaft route.
 
@@ -64,12 +81,23 @@ Crystal Dust extraction (illegal but valuable). The hidden teleportation room, o
   - Existing location ID: — (not yet nominated)
   - Existing route ID: —
   - Travel notes: via the South Access Shaft (#12), currently slowed by the broken lift.
+- Destination: **Ruins of Giustenal**
+  - Existing location ID: `location-giustenal-ruins`
+  - Existing route ID: **none — this is a gate, not a road.**
+  - Travel notes: **the intact plate in the gate chamber, two-way**, ten handfuls of Crystal Dust to wake and five per trip to hold open. Established day 117. See [[Ruins of Giustenal]], whose own `connections[]` is empty and needs the same entry from the other side.
+- Destination: **deeper into the mountain**
+  - Existing location ID: — unknown
+  - Travel notes: **the broken plate**, deliberately sabotaged to malfunction rather than fail. Where it led is unestablished and nobody has tried it.
 
 ## Local Clocks and Pressures
 Broken elevator at the South Access Shaft — blocks fast travel to Level 2 until repaired (tar + a skilled operator, or 50 scraps).
 
 ## GM-Only Secrets
-The unknown presence behind the shared dream reported by the Altar of Dust group (claiming imprisonment nearby for thousands of years) and the true cause of the villagers' mine-induced madness are both unresolved as of ad5 — flagged as open GM material, not yet explained at the table.
+- ~~The unknown presence behind the shared dream is unresolved~~ — **it is [[The Moonbeast]]**, and it is bound in these tunnels. *(GM disclosure, 2026-08-09.)* Old magic keeps it from leaving the caves; its psionic reach is unaffected, which is why it can reach a gith captive in ad4, the whole party in a shared dream on day 110, and Relo twice.
+- **The villagers' mine-induced madness is therefore explained** — the screaming, the running for the ravine, the killing themselves against the quarry stones. Oren's report is on `location-kharanok`'s own record and has never been connected to the presence at the table.
+- **[[Dorak]] carries [[Lion Medallion|the medallion that binds it]]**, and works in these tunnels almost daily. The creature is searching for him specifically and does not have his name.
+- **[[Breck]] wears a [[Mind Seal]] and cannot be perceived by it at all** — which is why Relo's sweep of this mine with The Way found the creature and not the man standing in it.
+- **The gate is the entity's only known route out of the region**, and the man who operates it is the man it is looking for.
 
 ## Proposed Developments
 - New location entry — no existing `location-obsidian-mines` in MK-Sandbox; this level's detail currently lives only inside `location-kharanok`'s `resourceStatus.mining` and `features` fields. Proposing a dedicated location entry to hold the room-level detail instead of keeping it folded into Kharanok's own record.
@@ -86,6 +114,16 @@ The unknown presence behind the shared dream reported by the Altar of Dust group
   - Printed page: —
   - Source type: campaign-original, prior MK-Sandbox submission
   - Adaptation note: —
+- Title: Darkest Sun — Altar of Dust, ad7 "City by the Silt Sea"
+  - Section: the hidden passage; the gate chamber; the two plates; the hide library; the dormitory alcoves
+  - Printed page: —
+  - Source type: campaign-original (actual play, 7 August 2026, in-world day **117**)
+  - Adaptation note: **Supersedes the dungeon key on the teleportation room** — it is two-way, it costs ten handfuls plus five per trip, and there are two plates rather than one portal.
+- Title: GM disclosure, 2026-08-09
+  - Section: the moonbeast's binding and confinement; Dorak's medallion; Breck's Mind Seal
+  - Printed page: —
+  - Source type: GM decision
+  - Adaptation note: Resolves the shared-dream presence and the villagers' madness, both previously flagged unresolved on this record.
 - Title: `Hidden/Session prep/0003 - Session Prep 16-7-2026.md`
   - Section: lift repair note
   - Printed page: —

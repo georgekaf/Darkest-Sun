@@ -79,15 +79,11 @@ The one who knows the mines best and will not talk about what is down there unti
 - **A lion's-head medallion of almost fire-red gemstone that casts fireball.** *(GM-only — see below. Undeclared, unproposed as an artifact record, and the reason an old miner survived being cornered by five armed adventurers without ever looking desperate.)*
 - **Twenty barrels of Crystal Dust.** *(GM-only.)* The party believes the supply is scarce.
 
-## Proposed Artifact Record
+## Artifact Held
 
-**None exists.** `mk-sandbox/artifacts/` holds 29 records and **no lion medallion** — verified 2026-08-09. Propose `artifact-lion-medallion` (name TBD), with:
+**[[Lion Medallion|The Lion Medallion]]** — proposed `artifact-lion-medallion`, filed as its own nominee. Lion's head cut from an almost fire-red gemstone; casts **fireball**; **it is the binding of [[The Moonbeast]]**. Dorak is its `ownerId`, which means **the artifact record cannot be created until `actor-dorak` exists** — this nominee is a hard dependency for it.
 
-- Form: lion's head, cut from a gemstone of an almost fire-red colour
-- Power: casts **fireball**
-- Binding: **bonded to the moonbeast beneath Kharanok** — it is the object the creature wants brought to it
-- Custody: **Dorak**, undeclared
-- Related: the nearby **Temple of the Lion** (`location-lion-temple`) is a half-buried ancient temple dedicated to a forgotten lion-creature, and `artifact-taraskirs-lion-armor` and Tenpug's lion-headed guard statues use the same iconography. **Whether the medallion belongs to that tradition is an open GM question, not an assertion.**
+No record exists in `mk-sandbox/artifacts/` — 29 checked, verified 2026-08-09.
 
 ## Relationships
 - Existing actor or faction ID: `faction-black-spine-gith` (or equivalent gith warband faction)
