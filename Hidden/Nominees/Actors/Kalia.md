@@ -159,7 +159,11 @@ Control over the Cistern, rations, and resource distribution; keys and ledgers; 
 Managing the Cistern, rations, and resources; maintaining the council structure behind Yethras.
 
 ## GM-Only Secrets
-She is the actual organizer of Kharanok's council power, not Yethras — this has not been revealed to the party as of ad5. Design doc originally framed her (as "Yelka") with a corruption angle ("too efficient, something is off") — reframed here as the visible symptom of her real secret (running the council from behind Yethras), not literal criminal corruption, unless the GM prefers to keep a harder edge to it.
+She is the actual organizer of Kharanok's council power, not Yethras — this has not been revealed to the party as of ad5.
+
+**The "corrupt" framing is ruled, 11 August 2026: she is not crooked.** The design doc's line about her being "too efficient, something is off" is the **surface read** the village gives a woman who has taken authority and holds the rations — not evidence of graft. She became authoritative after her husband died in the gith invasion, she runs the cistern and the rationing, and her only concern is that **Kharanok recovers and its people survive** what the gith left behind. Every hard call she makes — docking Sylvar's water, refusing to lend Tzala out, berating Dorak until the mines reopen — comes from that and nothing else.
+
+**But corruption remains an open possibility, not a closed door.** She is one person holding the village's water in a settlement with no other authority, and nothing structural stops her turning. If the campaign wants her to fall, the material is already in place; it simply has not happened, and must not be written as though it has.
 
 ## Proposed Developments
 - Field update to existing `actor-kalia`: add maiden name Yelka, add cistern-overseer duties alongside rations, add `pragmatic` trait, add the council-organizer/Yethras-as-spokesperson relationship.
@@ -187,4 +191,5 @@ She is the actual organizer of Kharanok's council power, not Yethras — this ha
   - Adaptation note: not yet cross-checked against a specific transcript line — treated as GM authority per house rule on user corrections.
 
 ## Unresolved Questions
-- Whether the design doc's "corrupt" framing should carry forward as a literal secret, or stays purely as the surface read of her real (non-criminal) secret.
+- ~~Whether the design doc's "corrupt" framing should carry forward as a literal secret.~~ **Answered 11 August 2026: it does not. She is not corrupt.** It is the surface read of a woman with authority and the rations. Corruption stays available as a future development, not a current fact.
+- What she would do if recovery and survival ever pulled in opposite directions. Nothing has tested that yet.
