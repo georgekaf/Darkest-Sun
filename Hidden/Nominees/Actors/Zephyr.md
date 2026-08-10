@@ -114,8 +114,14 @@ All unapproved.
 
 ## Stat Block or Rules Notes
 - System: **Shadowdark**
-- Class: **Priest (air)** · Ancestry: **Human** · Level, HP, AC and abilities: **not yet recorded here.**
-- A Foundry sheet does exist — `fvtt-Actor-zephyr-bMRLJQNqwmfwGIwz.json` — but has not been read in. Everything mechanical in this record is still from play description only.
+- System: **Shadowdark** — sheet `fvtt-Actor-zephyr-bMRLJQNqwmfwGIwz.json`
+- Class: **Priest (air)** · Ancestry: **Human** · Level **3**, XP 7 · Alignment neutral
+- HP **4/15** — badly wounded on the current sheet, and nothing on record explains it · AC **10**
+- STR 9 · DEX 10 · **CON 17** · INT 10 · **WIS 16** · CHA 11
+- Spells: Cure Wounds, Prayer, Bless, Protection From Evil
+- Talents: Spellcasting (Air Priest), Deity, Turn Undead, +1 on Spellcasting Checks, +2 to Wisdom, +2 to Dexterity, Ambitious
+- Class ability: **Thought Projection** *(written "Though Projection" on the sheet)*
+- Gear: Bone Plate, **two** Bone Shields, Crude Club, Holy Symbol, Rations, Torch, Firekit — an entirely bone-and-hide kit, exactly as the GM description has him
 
 ## Sources
 - Title: Darkest Sun — Altar of Dust, ad4 "It's Raining Bats and Bugs"
@@ -135,5 +141,7 @@ All unapproved.
 
 ## Unresolved Questions
 - ~~Gender~~ **answered: male.** ~~Name~~ **answered: Zephyr** — the only spelling anywhere in the corpus; *Zethyr* appears in no file.
-- **Level and full ability set.** A Foundry sheet exists (`fvtt-Actor-zephyr-bMRLJQNqwmfwGIwz.json`) but has not been read into this record yet.
+- ~~Level and full ability set.~~ **Read in from the sheet 2026-08-11: Human, Air Priest 3, XP 7.**
+- **Why is he at 4 of 15 HP?** The sheet has him badly wounded and nothing in ad4 or ad7 accounts for it.
+- **Thought Projection** is on his sheet as a class ability and has never been used or referred to at the table.
 - Whether he is played as a PC again, or stays a permanent allied NPC.
