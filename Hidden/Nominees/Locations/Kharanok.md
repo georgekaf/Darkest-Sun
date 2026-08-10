@@ -50,7 +50,7 @@ Dust glittering in the rising sun, and a queue at the cistern for the day's wate
 ## Population and Occupants
 **Proposed additions — the population changed materially on day 117:**
 
-- **Seven new residents**, brought back from the ruins of Zharvek on day 117: **[[Tzala]]**, a self-taught alchemist now tending the sick and working as a crafter; **three recruits**, handed to [[Breck]] for watch duty; **two workers**, assigned to [[Dorak]] in the mines; and one more.
+- **Six new residents**, brought back from the ruins of Zharvek on day 117: **[[Tzala]]**, a self-taught alchemist now tending the sick and working as a crafter; **three recruits**, handed to [[Breck]] for watch duty; and **two workers**, assigned to [[Dorak]] in the mines. **Seven were rescued on day 116** — one of the workers was taken by the earth spirit during the night march and did not arrive.
 - **[[Sylvar]]**, an elderly traveller out of Nibenay who speaks with nature and speaks halfling — now the party's interpreter. Kalia docked him half a water ration for five days for talking back to her.
 - **[[Ranni]]** arrived earlier with the refugees on day 112 and stayed.
 - **The watch was two men** — one at the tower, one at the gate — until the three recruits arrived. It is now five.

@@ -9,7 +9,7 @@ tags: [kharanok, session-prep, altar-of-dust]
 ## Goals
 - Find a viable trade destination for the mined Obsidian — untouched for two sessions running
 - Properly harvest the Crystal Dust pond
-- Settle the 7 new arrivals into Kharanok: Tzala as a crafter, 3 would-be fighters, 2 laborers
+- Settle the 6 new arrivals into Kharanok: Tzala as a crafter, 3 would-be fighters, 2 laborers — 7 were rescued, one laborer died on the night march
 - Follow up on one of the standing rumor leads (old-god believers southeast, or Rensort survivors northeast at Quel'Nash)
 
 ## Related Quests
