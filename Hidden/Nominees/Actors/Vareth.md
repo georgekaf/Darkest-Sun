@@ -93,7 +93,7 @@ All unapproved.
 - **Do not resolve the day-116 conflict inside this record.** It has its own file and no ruling.
 
 ## Stat Block or Rules Notes
-- System: **Shadowdark** — sheet `fvtt-Actor-vareth-(giamicool)-CgjC60nYBmt2fNbw.json`
+- System: **Shadowdark** — the character's Foundry sheet
 - Class: **Wizard / Preserver** · Ancestry: **Human** · Level **5**, XP 13 · Alignment neutral
 - HP **9/11** — wounded, and the lowest maximum in either party · AC **11**
 - STR **5** · DEX 13 · CON 14 · INT **16** · WIS 10 · CHA 10
@@ -103,8 +103,8 @@ All unapproved.
 - Gear: Wand of Web, Crude Dagger, Backpack, Rope 60', Firekit, Torch, **a tarnished elven trade coin**
 
 ## Sources
-- Title: `Downloads/fvtt-Actor-vareth-(giamicool)-CgjC60nYBmt2fNbw.json`
-  - Section: Foundry VTT Shadowdark player sheet · Source type: system export (9 August 2026)
+- Title: Foundry VTT Shadowdark character sheet (GM-supplied)
+  - Section: character sheet export · Source type: system export (9 August 2026)
   - Adaptation note: Ancestry inferred **Human** from Ambitious/Diplomats.
 - Title: Darkest Sun — Altar of Dust, ad6 "The Sand Also Rises" — the march south; the day-116 teleport · campaign-original, in-world days **115–117**
 - Title: `obsidian/Hidden/Vareth Continuity Conflict.md`

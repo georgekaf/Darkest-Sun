@@ -94,7 +94,7 @@ Unconfirmed since day 111. Presumed in Kharanok, and by his own sheet, hurt.
 All unapproved. Naming his focus is the cheapest way to bring an absent character back to the table with a reason.
 
 ## Stat Block or Rules Notes
-- System: **Shadowdark** — sheet `fvtt-Actor-rhugor-zF8oTuQWYodz1dWW.json`
+- System: **Shadowdark** — the character's Foundry sheet
 - Class: **Gladiator** · Ancestry: **Dwarf** · Level **4**, XP 17 · Alignment neutral
 - HP **8/25** — wounded · AC **12**
 - STR 16 · DEX 11 · CON 12 · INT 10 · WIS 11 · CHA 10
@@ -102,8 +102,8 @@ All unapproved. Naming his focus is the cheapest way to bring an absent characte
 - Gear: Carrikal, Leather Harness, Bone Shield, Rope 60', Water, 3 × Globule
 
 ## Sources
-- Title: `Downloads/fvtt-Actor-rhugor-zF8oTuQWYodz1dWW.json`
-  - Section: Foundry VTT Shadowdark player sheet · Source type: system export (9 August 2026)
+- Title: Foundry VTT Shadowdark character sheet (GM-supplied)
+  - Section: character sheet export · Source type: system export (9 August 2026)
   - Adaptation note: Ancestry confirmed **Dwarf** — Stout and Focus both appear in `system/ancestries/dwarf.json`. Class UUID matches Gur-da's — Gladiator.
 - Title: `mk-repos/mk-sandbox/actors/rhugor.json` — revision 3, read-only. The record this nominee revises.
 - Title: Darkest Sun — Altar of Dust, ad4 "It's Raining Bats and Bugs" — the kank cave; the bat fight · campaign-original, in-world day **111**

@@ -108,7 +108,7 @@ All unapproved.
 - His faith is the only ideological marker in the party that has already cost them a resource. Worth using rather than smoothing over.
 
 ## Stat Block or Rules Notes
-- System: **Shadowdark** — from the Foundry sheet `fvtt-Actor-rhazek-W0lHjjnCGUNSuJ5v.json`
+- System: **Shadowdark** — from the Foundry the character's Foundry sheet
 - Class: **Priest (fire)** · Ancestry: **Mul** · Level **3**, XP 4 · Alignment neutral
 - HP **7/7** · AC **10** · Luck spent
 - STR 15 · DEX 10 · CON 10 · INT 8 · WIS 15 · CHA 12
@@ -117,8 +117,8 @@ All unapproved.
 - Gear: Leather Armor, Shield, Mace, Holy Symbol, Rations, Water, Scraps
 
 ## Sources
-- Title: `Downloads/fvtt-Actor-rhazek-W0lHjjnCGUNSuJ5v.json`
-  - Section: Foundry VTT Shadowdark player sheet
+- Title: Foundry VTT Shadowdark character sheet (GM-supplied)
+  - Section: character sheet export
   - Printed page: —
   - Source type: system export (9 August 2026)
   - Adaptation note: Level, HP, abilities, spells, talents and gear verbatim. Ancestry inferred as **Mul** from Tough / Unbroken Endurance / Slave-Born / Carrying Capacity, which match `obsidian/Rules/Mul.md` exactly; the sheet stores ancestry as a compendium UUID that does not resolve locally, and the sandbox `system/ancestries/` folder has no mul entry.

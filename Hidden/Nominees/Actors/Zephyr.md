@@ -114,7 +114,7 @@ All unapproved.
 
 ## Stat Block or Rules Notes
 - System: **Shadowdark**
-- System: **Shadowdark** — sheet `fvtt-Actor-zephyr-bMRLJQNqwmfwGIwz.json`
+- System: **Shadowdark** — the character's Foundry sheet
 - Class: **Priest (air)** · Ancestry: **Human** · Level **3**, XP 7 · Alignment neutral
 - HP **4/15** — badly wounded on the current sheet, and nothing on record explains it · AC **10**
 - STR 9 · DEX 10 · **CON 17** · INT 10 · **WIS 16** · CHA 11

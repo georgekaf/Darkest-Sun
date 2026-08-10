@@ -118,7 +118,7 @@ All unapproved.
 - His Nibenay origin sits directly on the House Markon storyline, which is a Nibenay campaign. Worth deciding what he knows before the two threads touch.
 
 ## Stat Block or Rules Notes
-- System: **Shadowdark** — from the Foundry sheet `fvtt-Actor-sylvar-WHJiB5NbfYDutGSu.json`
+- System: **Shadowdark** — from the Foundry the character's Foundry sheet
 - Class: **Druid** (resolves to `system/classes/druid.json`) · Ancestry: **Human** · Level **3**, XP 4 · Alignment neutral
 - HP **16/16** · AC **10** · Luck 1 available
 - STR 11 · DEX 12 · CON 14 · INT 12 · WIS 14 · CHA 12 — two separate **+2 to Wisdom** talents are on the sheet, so the printed 14 may already include them; verify against the player's sheet
@@ -128,8 +128,8 @@ All unapproved.
 - Gear: Leather Armor, Bone Shield, Staff
 
 ## Sources
-- Title: `Downloads/fvtt-Actor-sylvar-WHJiB5NbfYDutGSu.json`
-  - Section: Foundry VTT Shadowdark player sheet
+- Title: Foundry VTT Shadowdark character sheet (GM-supplied)
+  - Section: character sheet export
   - Printed page: —
   - Source type: system export (9 August 2026)
   - Adaptation note: Level, HP, abilities, spells, talents and gear taken verbatim. Ancestry inferred as Human from the **Ambitious** talent, which `system/ancestries/human.json` carries; the sheet stores ancestry as a compendium UUID that does not resolve locally.

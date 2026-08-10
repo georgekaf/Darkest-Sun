@@ -92,7 +92,7 @@ None. **Inactive since day 110** by GM ruling. The record still reads `active` a
 All unapproved. Either his absence gets an in-world explanation or the record should follow Ugo's precedent and mark him inactive.
 
 ## Stat Block or Rules Notes
-- System: **Shadowdark** — sheet `fvtt-Actor-sepsis-pJYZG1V6JJtyNnlM.json`
+- System: **Shadowdark** — the character's Foundry sheet
 - Class: **Necromancer** · Ancestry: **Human** · Level **4**, XP 0 · Alignment neutral
 - HP **13/16** — currently wounded on the sheet · AC **9**
 - STR 12 · DEX 9 · CON 11 · INT 14 · WIS 11 · CHA **19**
@@ -102,8 +102,8 @@ All unapproved. Either his absence gets an in-world explanation or the record sh
 - Gear: Leather Harness, Chatkcha, Rope 60', Rations, Oil Flask, Torch ×2, Water
 
 ## Sources
-- Title: `Downloads/fvtt-Actor-sepsis-pJYZG1V6JJtyNnlM.json`
-  - Section: Foundry VTT Shadowdark player sheet · Source type: system export (9 August 2026)
+- Title: Foundry VTT Shadowdark character sheet (GM-supplied)
+  - Section: character sheet export · Source type: system export (9 August 2026)
   - Adaptation note: Ancestry inferred **Human** from Ambitious/Diplomats. Class UUID matches Parias's — Necromancer.
 - Title: `mk-repos/mk-sandbox/actors/sepsis.json` — revision 3, read-only. The record this nominee revises.
 - Title: Darkest Sun Campaign Record — Days 109 and 110 · campaign-history

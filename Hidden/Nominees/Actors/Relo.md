@@ -156,7 +156,7 @@ All unapproved.
 - The creature's road "runs through where the energy came from" points at Giustenal, which is also where the Caller found Ranni. Two threads, one destination.
 
 ## Stat Block or Rules Notes
-- System: **Shadowdark** — from the Foundry sheet `fvtt-Actor-relo-qgSufAW1CEv0ZDYX.json`
+- System: **Shadowdark** — from the Foundry the character's Foundry sheet
 - Class: **Psionicist** (resolves to `system/classes/psionicist.json`) · Ancestry: **Elf** · Level **4**, XP 24 · Alignment neutral
 - HP **15/15** · AC **10** · Luck spent
 - STR 11 · DEX 14 · CON 14 · INT 11 · WIS 9 · CHA 14 (a **+2 to Charisma** talent is on the sheet)
@@ -167,8 +167,8 @@ All unapproved.
 - Gear: Leather Harness, Composite Bow, Arrows, Water, Torches
 
 ## Sources
-- Title: `Downloads/fvtt-Actor-relo-qgSufAW1CEv0ZDYX.json`
-  - Section: Foundry VTT Shadowdark player sheet
+- Title: Foundry VTT Shadowdark character sheet (GM-supplied)
+  - Section: character sheet export
   - Printed page: —
   - Source type: system export (9 August 2026)
   - Adaptation note: Level, HP, abilities, spells, talents, boon, scar and gear verbatim. Ancestry confirmed **Elf** — the sheet's ancestry UUID is the same one Ranni carries, and the roster lists both as elves.

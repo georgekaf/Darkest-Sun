@@ -83,7 +83,7 @@ Unconfirmed since day 115. Presumed in Kharanok.
 All unapproved, and none of it has happened. Should the party ever take him through the gate, he is the member the Caller cannot target.
 
 ## Stat Block or Rules Notes
-- System: **Shadowdark** — sheet `fvtt-Actor-gur-da-B2g7JbeYF7Y0X4GT.json`
+- System: **Shadowdark** — the character's Foundry sheet
 - Class: **Gladiator** · Ancestry: **Half-Giant** · Level **4**, XP 1 · Alignment neutral
 - HP **28/28** · AC **10**
 - STR 14 · DEX 10 · CON 15 · INT 6 · WIS 12 · CHA 10
@@ -92,8 +92,8 @@ All unapproved, and none of it has happened. Should the party ever take him thro
 - Gear: Bone Plate (Large), Leather Harness (Large), Bone Shield, Great Club, Javelin ×2, Stone Pick, Torch, Firekit
 
 ## Sources
-- Title: `Downloads/fvtt-Actor-gur-da-B2g7JbeYF7Y0X4GT.json`
-  - Section: Foundry VTT Shadowdark player sheet · Source type: system export (9 August 2026)
+- Title: Foundry VTT Shadowdark character sheet (GM-supplied)
+  - Section: character sheet export · Source type: system export (9 August 2026)
   - Adaptation note: Ancestry inferred **Half-Giant** from Giant's Grip / Huge Body, and confirmed by `character_roster.md`. Class UUID matches Rhugor's — Gladiator.
 - Title: Darkest Sun — Altar of Dust, ad4 · campaign-original, in-world day **111**
 - Title: Darkest Sun — Altar of Dust, ad5 · campaign-original, in-world day **112**

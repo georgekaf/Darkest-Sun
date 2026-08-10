@@ -127,6 +127,9 @@ None. He is a noise in a dead city that nobody knows exists.
   - Truth status: **see GM-Only Secrets**
   - Secret: no
 
+## Current Activity
+Wandering Yathazor's Square of Gurdek, singing the same rhyme to anyone who will listen, and being ignored by everyone who lives there.
+
 ## GM-Only Secrets
 - **The song is correct.** Read it as what it is rather than as flavour: *the day of stone will break your bone* — the Square; *the day of earth shall be your curse* — the earth clerics who dug the tunnel that lets the gith through; *the fire dies, and wind just sighs* — the other elements have already lost; *you think it bad, but it is worse* — the githyanki behind the gith. A broken bard is the only creature in Yathazor telling the party the truth, and he is doing it in nonsense verse with a nursery rhyme refrain.
 - **He is a test, and the module says so outright.** How the party treats a harmless madman determines how the Square receives them. Kindness gets them an invitation. Threats get them followed home anyway. Killing him costs them the shortcut. **This is the only social check in Adventure Four that the players do not know they are taking.**

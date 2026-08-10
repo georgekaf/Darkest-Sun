@@ -95,7 +95,7 @@ Unconfirmed since day 112. Presumed in Kharanok.
 All unapproved. If the party takes the gate to Giustenal — a city of two thousand years of murdered dead — the party's necromancers are the two characters that place was built to interest.
 
 ## Stat Block or Rules Notes
-- System: **Shadowdark** — sheet `fvtt-Actor-parias-SIORi5J1vpNmoG8c.json`
+- System: **Shadowdark** — the character's Foundry sheet
 - Class: **Necromancer** · Ancestry: **Human** · Level **7**, XP 24 · Alignment neutral
 - HP **34/34** · AC **12**
 - STR 13 · DEX 8 · CON 12 · INT 7 · WIS 14 · CHA 18
@@ -104,8 +104,8 @@ All unapproved. If the party takes the gate to Giustenal — a city of two thous
 - Gear: Scale Mail, **Staff of Omid +1** (Fly, Wither), Holy Water, Oil Flask ×2, Firekit, Rations ×2, Water
 
 ## Sources
-- Title: `Downloads/fvtt-Actor-parias-SIORi5J1vpNmoG8c.json`
-  - Section: Foundry VTT Shadowdark player sheet · Source type: system export (9 August 2026)
+- Title: Foundry VTT Shadowdark character sheet (GM-supplied)
+  - Section: character sheet export · Source type: system export (9 August 2026)
   - Adaptation note: Ancestry inferred **Human** from Ambitious/Diplomats. Class UUID matches Sepsis's — Necromancer. **This contradicts the sandbox `role` field, which says "Psionic".**
 - Title: `mk-repos/mk-sandbox/actors/parias.json` — revision 3, read-only. The record this nominee revises.
 - Title: Darkest Sun — Altar of Dust, ad4 — the shadow beam; the gate; Erebos · campaign-original, in-world day **111**

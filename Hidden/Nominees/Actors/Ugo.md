@@ -95,7 +95,7 @@ All unapproved.
 - Returning him fully equipped at level 5 is a gift to a party that is short on melee since Gur-da and Rhugor stopped appearing.
 
 ## Stat Block or Rules Notes
-- System: **Shadowdark** — sheet `fvtt-Actor-ugo-(nio)-LhQgG5XokFjecCIM.json`
+- System: **Shadowdark** — the character's Foundry sheet
 - Class: **Fighter** · Ancestry: **Half-Giant** · Level **5**, XP 9 · Alignment neutral
 - HP **27/33** — wounded · AC **10**
 - STR 17 · DEX 11 · CON 11 · INT 5 · WIS 10 · CHA 10
@@ -103,8 +103,8 @@ All unapproved.
 - Gear: Bone Plate (Large), Bone Shield, Masterwork Helmet, Masterwork Gloves ×2, Great Club, Warhammer, Grappling Hook, Rope 60', Rations ×2, Torch ×2, Firekit
 
 ## Sources
-- Title: `Downloads/fvtt-Actor-ugo-(nio)-LhQgG5XokFjecCIM.json`
-  - Section: Foundry VTT Shadowdark player sheet · Source type: system export (9 August 2026)
+- Title: Foundry VTT Shadowdark character sheet (GM-supplied)
+  - Section: character sheet export · Source type: system export (9 August 2026)
   - Adaptation note: Ancestry inferred **Half-Giant** from Giant's Grip / Huge Body, matching Gur-da's ancestry UUID exactly.
 - Title: `mk-repos/mk-sandbox/actors/ugo.json` — revision 3, read-only. The record this nominee revises, including the inactive status and its note.
 - Title: Darkest Sun Campaign Record — Day 109, "Day at Kharanok — Find the GOAT" · campaign-history

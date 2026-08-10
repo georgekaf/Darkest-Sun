@@ -1,11 +1,11 @@
 ---
 entryType: actor
-entrySubtype: named-npc
+entrySubtype: group
 authorGM: ""
 visibility: mixed
 ---
 
-# Actors: Orac, Mihus and Toel
+# Actor: Orac, Mihus and Toel (group record)
 
 *(New actors. Proposed ids `actor-orac`, `actor-mihus`, `actor-toel`. **Filed as one record.** The module names all three in a single parenthetical, gives them one shared stat line, one shared scene and one shared decision point, and distinguishes them in no way whatsoever. Three separate files would be the same file three times; if the campaign later differentiates them, split it then.)*
 
@@ -13,7 +13,7 @@ visibility: mixed
 Three human slaves with their feet set in stone blocks, cooking for the gith over a fire pit that contains a bound fire elemental which passes the time trying to burn them without ruining the meal.
 
 ## Classification
-- Subtype: named-npc ×3
+- Subtype: group ×3
 - Control: autonomous
 - Status: **captive**
 - Faction or allegiance: none; captured mine labour

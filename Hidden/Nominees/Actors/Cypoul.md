@@ -85,7 +85,7 @@ In Kharanok with the party.
 All unapproved. The oasis is a returnable scene and he is the party member it will open on.
 
 ## Stat Block or Rules Notes
-- System: **Shadowdark** — sheet `fvtt-Actor-cypoul-(baboulas)-MlrDYIgQ2uLUb1C3.json`
+- System: **Shadowdark** — the character's Foundry sheet
 - Class: **Priest (water)** · Ancestry: **Human** · Level **5**, XP 29 · Alignment **lawful** — the only non-neutral PC on record
 - HP **17/17** · AC **11**
 - STR 9 · DEX 12 · CON 17 · INT 12 · WIS 16 · CHA 11
@@ -95,8 +95,8 @@ All unapproved. The oasis is a returnable scene and he is the party member it wi
 - Gear: Chainmail, Bone Shield, Crude Club, Firekit
 
 ## Sources
-- Title: `Downloads/fvtt-Actor-cypoul-(baboulas)-MlrDYIgQ2uLUb1C3.json`
-  - Section: Foundry VTT Shadowdark player sheet · Source type: system export (9 August 2026)
+- Title: Foundry VTT Shadowdark character sheet (GM-supplied)
+  - Section: character sheet export · Source type: system export (9 August 2026)
   - Adaptation note: Ancestry inferred **Human** from Ambitious/Diplomats, matching `system/ancestries/human.json`. Class UUID is the same one Ranni carries — Water Priest.
 - Title: Darkest Sun — Altar of Dust, ad5 · campaign-original, in-world day **112**
 - Title: Darkest Sun — Altar of Dust, ad6 "The Sand Also Rises" — the oasis; the snake · campaign-original, in-world day **115**

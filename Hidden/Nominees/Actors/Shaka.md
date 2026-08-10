@@ -97,7 +97,7 @@ In Kharanok, directing the party's next move toward Giustenal.
 All unapproved. The Cannibal King reputation is an asset and a liability that has never been tested against anyone who could check it.
 
 ## Stat Block or Rules Notes
-- System: **Shadowdark** — sheet `fvtt-Actor-shaka-(proskopos)-4sGSuRRH8sUW0Zye.json`
+- System: **Shadowdark** — the character's Foundry sheet
 - Class: **Thief** · Ancestry: **Halfling** · Level **6**, XP 30 · Alignment neutral
 - HP **13/13** · AC **13**
 - STR 9 · DEX 16 · CON 9 · INT 8 · WIS 11 · CHA 10
@@ -106,8 +106,8 @@ All unapproved. The Cannibal King reputation is an asset and a liability that ha
 - Gear: Composite Bow, Arrows, Wrist Razor, Leather Harness · Ancestry ability: Bite
 
 ## Sources
-- Title: `Downloads/fvtt-Actor-shaka-(proskopos)-4sGSuRRH8sUW0Zye.json`
-  - Section: Foundry VTT Shadowdark player sheet · Source type: system export (9 August 2026)
+- Title: Foundry VTT Shadowdark character sheet (GM-supplied)
+  - Section: character sheet export · Source type: system export (9 August 2026)
   - Adaptation note: Ancestry inferred **Halfling** from the Bite/Agile traits and from his speaking halfling in play; the sheet's ancestry UUID does not resolve locally.
 - Title: `mk-repos/mk-sandbox/actors/shaka.json` — revision 4, read-only. The record this nominee revises.
 - Title: Darkest Sun — Altar of Dust, ad4 "It's Raining Bats and Bugs" · campaign-original, in-world day **111**
