@@ -134,7 +134,7 @@ All unapproved.
   - Section: Relo's second contact — the refusal, the origin account, the energy through the gate, the pinning, the offer
   - Printed page: —
   - Source type: campaign-original (actual play, 7 August 2026, in-world day **117**)
-- Title: `obsidian/Hidden/Session prep/0007 - Session Prep 7-8-2026.md`
+- Title: the GM's session prep notes for ad7
   - Section: Done; Left open — "The cave creature: is freeing it wise at all? Someone once decided it had to be bound."
   - Source type: GM record
 - Title: GM disclosure, 2026-08-09

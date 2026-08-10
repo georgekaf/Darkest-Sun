@@ -199,7 +199,7 @@ Opening a market in a city where his traders were just beaten to death, and sear
   - Adaptation note: **No stat block.** The chieftaincy, the three clans, the Nibenay market, the Twilightcatcher expeditions and Muuton's suspicion of Guvaano are printed here.
 - Title: DSS3 *Elves of Athas*
   - Section: Sky Singers
-  - Printed page: 45–48 *(vault copy: `Hidden/Books/Elves of Athas.md`, lines ~2765–2860)*
+  - Printed page: 45–48 *(vault copy of the book, lines ~2765–2860)*
   - Source type: official
   - Adaptation note: Source of the tribe size and clan breakdown, the legitimate-trade characterisation, the shared assets and deficits, the Nibenay murders, the five missing elves, the House Stel / Clearwater suspicion, and the whispered approach to the Shadows or Night Runners. **No stat block located here either.**
 - Title: mk-sandbox `actors/muuton.json`

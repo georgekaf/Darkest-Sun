@@ -112,10 +112,10 @@ All unapproved.
   - Section: character sheet export · Source type: system export (9 August 2026)
   - Adaptation note: Ancestry inferred **Human** from Ambitious/Diplomats.
 - Title: Darkest Sun — Altar of Dust, ad6 "The Sand Also Rises" — the march south; the day-116 teleport · campaign-original, in-world days **115–117**
-- Title: `obsidian/Hidden/Vareth Continuity Conflict.md`
+- Title: the campaign continuity record for Vareth
   - Section: full record · Source type: campaign continuity record
   - Adaptation note: **Resolved 2026-08-05** — campaign leader's ruling, "teleport τον έκανε ο Agis". Status `confirmed`. This nominee follows that ruling.
-- Title: `transcripts and summaries/character_roster.md` — lists him as Giamicool's Human Preserver, student of Ragnis and Sandira, House Markon.
+- Title: the campaign character roster — lists him as Giamicool's Human Preserver, student of Ragnis and Sandira, House Markon.
 
 ## Unresolved Questions
 - ~~Which `partyName` is correct.~~ **Answered 11 August 2026: House Markon, from day 116.** A transition, not dual membership — the single-valued field suffices.

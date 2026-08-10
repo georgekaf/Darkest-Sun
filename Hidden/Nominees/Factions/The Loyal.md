@@ -96,7 +96,7 @@ None beyond what's in Confirmed Assets — the band's core secret (what really h
   - Printed page: 11-13
   - Source type: official
   - Adaptation note: —
-- Title: `obsidian/NPCs/The Loyal.md`
+- Title: the vault NPC note for the Loyal
   - Section: full entry
   - Printed page: —
   - Source type: campaign reference doc

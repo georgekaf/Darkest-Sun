@@ -103,7 +103,7 @@ This artifact record **cannot be created in mk-sandbox yet**:
   - Printed page: —
   - Source type: campaign-original (actual play, 7 August 2026, in-world day **117**)
   - Adaptation note: The only table-side evidence the object exists at all.
-- Title: `obsidian/Hidden/Session prep/0007 - Session Prep 7-8-2026.md`
+- Title: the GM's session prep notes for ad7
   - Section: Left open — "who really holds the object that binds the cave creature — the party assumes Breck, without confirmation"
   - Printed page: —
   - Source type: GM record

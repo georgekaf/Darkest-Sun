@@ -181,7 +181,7 @@ All unapproved.
   - Printed page: —
   - Source type: campaign-original (actual play, 7 August 2026, in-world day **117**)
   - Adaptation note: The largest single change to this record. His illiteracy, his stated wish to leave, the canyon bodies and the deliberate mis-training are all new.
-- Title: `obsidian/Hidden/Session prep/0007 - Session Prep 7-8-2026.md`
+- Title: the GM's session prep notes for ad7
   - Section: Done
   - Printed page: —
   - Source type: GM record

@@ -133,7 +133,7 @@ All unapproved.
   - Printed page: —
   - Source type: campaign-original (actual play, 7 August 2026, in-world day 117)
   - Adaptation note: The ad7 summary notes explicitly that Zephyr is Zogler's character used here as an allied NPC and was not played as a PC in that session.
-- Title: `transcripts and summaries/npc_roster.md`
+- Title: the campaign NPC roster
   - Section: Zephyr
   - Printed page: —
   - Source type: campaign reference doc

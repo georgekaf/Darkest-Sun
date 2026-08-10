@@ -106,7 +106,7 @@ Broken elevator at the South Access Shaft — blocks fast travel to Level 2 unti
 - Level 2 ([[02. The Rat-Folk Tunnels]]) and the rest of the 31-area dungeon graph are separate, not-yet-nominated locations — see [[Below Kharanok]].
 
 ## Sources
-- Title: `Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/01. Obsidian Mines AKA The Cannibal Caves.md`
+- Title: the GM's dungeon key for the Obsidian Mines
   - Section: full page (room list, connections, hidden passages)
   - Printed page: —
   - Source type: campaign-original
@@ -126,7 +126,7 @@ Broken elevator at the South Access Shaft — blocks fast travel to Level 2 unti
   - Printed page: —
   - Source type: GM decision
   - Adaptation note: Resolves the shared-dream presence and the villagers' madness, both previously flagged unresolved on this record.
-- Title: `Hidden/Session prep/0003 - Session Prep 16-7-2026.md`
+- Title: the GM's session prep notes for ad3
   - Section: lift repair note
   - Printed page: —
   - Source type: campaign-original design doc

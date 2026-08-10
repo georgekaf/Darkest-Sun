@@ -170,7 +170,7 @@ She is the actual organizer of Kharanok's council power, not Yethras — this ha
   - Printed page: —
   - Source type: campaign-original, prior MK-Sandbox submission
   - Adaptation note: sourceRefs cite Campaign Record Day 109.
-- Title: `transcripts and summaries/npc_roster.md`
+- Title: the campaign NPC roster
   - Section: House Markon / Kharanok section
   - Printed page: —
   - Source type: campaign reference doc

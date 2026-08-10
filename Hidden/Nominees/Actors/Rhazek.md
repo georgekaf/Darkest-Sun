@@ -126,7 +126,7 @@ All unapproved.
   - Section: the oasis negotiation; the giant snake; Zharvek survivors
   - Printed page: —
   - Source type: campaign-original (actual play, 31 July 2026, in-world day 115)
-- Title: `transcripts and summaries/character_roster.md`
+- Title: the campaign character roster
   - Section: Altar of Dust roster and notes
   - Printed page: —
   - Source type: campaign reference doc

@@ -101,7 +101,7 @@ All unapproved. The oasis is a returnable scene and he is the party member it wi
 - Title: Darkest Sun — Altar of Dust, ad5 · campaign-original, in-world day **112**
 - Title: Darkest Sun — Altar of Dust, ad6 "The Sand Also Rises" — the oasis; the snake · campaign-original, in-world day **115**
 - Title: Darkest Sun — Altar of Dust, ad7 "City by the Silt Sea" — the blessing; the scorpions · campaign-original, in-world day **117**
-- Title: `transcripts and summaries/character_roster.md` — Altar of Dust roster · campaign reference doc
+- Title: the campaign character roster — Altar of Dust roster · campaign reference doc
 
 ## Unresolved Questions
 - What the fire priests actually did to the oasis spirits.

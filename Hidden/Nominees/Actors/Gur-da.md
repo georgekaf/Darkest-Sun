@@ -98,7 +98,7 @@ All unapproved, and none of it has happened. Should the party ever take him thro
 - Title: Darkest Sun — Altar of Dust, ad4 · campaign-original, in-world day **111**
 - Title: Darkest Sun — Altar of Dust, ad5 · campaign-original, in-world day **112**
 - Title: Darkest Sun — Altar of Dust, ad6 · campaign-original, in-world day **115**
-- Title: `transcripts and summaries/character_roster.md` — lists Necrobutch / Gur-da / Half-Giant / Gladiator / 3. **The sheet gives level 4** and supersedes it.
+- Title: the campaign character roster — lists Necrobutch / Gur-da / Half-Giant / Gladiator / 3. **The sheet gives level 4** and supersedes it.
 
 ## Unresolved Questions
 - Where Telekinetic Grasp comes from — gladiator class feature, wild talent, or sheet artefact?

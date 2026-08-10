@@ -204,7 +204,7 @@ Sweeping five miles of desert for a mind that answers, every hour of every day.
   - Section: Ranni's transit through the Kharanok gate to Giustenal; the voice of the dead childhood friend; the cave creature's account of what came through the gate
   - Printed page: —
   - Source type: campaign-original (actual play, 7 August 2026, in-world day 117)
-  - Adaptation note: The Caller is never named in play. The identification is GM truth, recorded in `Hidden/Session prep/0007 - Session Prep 7-8-2026.md` and `CHANGELOG.md`, and unknown to the players.
+  - Adaptation note: The Caller is never named in play. The identification is GM truth, recorded in the GM's session prep notes for ad7 and `CHANGELOG.md`, and unknown to the players.
 
 ## Unresolved Questions
 - **Do Dregoth and the Caller know about each other?** The single biggest open question in the set.

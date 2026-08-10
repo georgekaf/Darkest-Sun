@@ -137,7 +137,7 @@ All unapproved.
   - Section: arrival in Kharanok; the gate room; Tzala; the night harvest
   - Printed page: —
   - Source type: campaign-original (actual play, 7 August 2026, in-world day 117)
-- Title: `transcripts and summaries/character_roster.md`
+- Title: the campaign character roster
   - Section: Altar of Dust roster and notes
   - Printed page: —
   - Source type: campaign reference doc
