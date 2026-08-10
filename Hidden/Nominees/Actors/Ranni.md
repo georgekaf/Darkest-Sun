@@ -119,7 +119,13 @@ In Kharanok with the party, with the gate to Giustenal now a known route and a r
 
 ## Stat Block or Rules Notes
 - System: **Shadowdark**
-- Class: Priest (water) — Level **1** as of the `character_roster.md` entry
+- Class: Priest (water) — **Level 3**, XP 10, from the Foundry sheet `fvtt-Actor-ranni-JyGJZ8uneVPPIegq.json`. *(`character_roster.md` still said level 1; that entry was stale and has been corrected.)*
+- HP **15/15** · AC **10** · Alignment neutral
+- STR 9 · DEX 13 · CON 13 · INT 7 · **WIS 18** · CHA 12
+- Spells: Cure Wounds, Shield of Faith, Protection From Evil, Blind/Deafen
+- Talents: Spellcasting (Water Priest), Deity, Turn Undead, +1 on Spellcasting Checks, Farsight, Never Ride, Runners, Wasteland Ambusher
+- Boons: **Misery — running away due to a scandal**; **Pathetic Weakling (STR)**
+- Gear: Leather Harness, Holy Symbol
 - Ancestry: Elf
 - **Wild talent: Body Equilibrium.** Duration 10 rounds. Adjusts body weight to correspond to the surface she stands on — walks on water, quicksand, silt, or a spider's web without sinking or breaking through.
   - Athasian reach of this: the **silt** clause is the one that matters on this map, and the tar lakes around Giustenal are the obvious second use. *The Will and the Way* reduces the devotion to one line for Athas — *"Body Equilibrium: The psionicist can walk on silt"* — and lists it on the wild-talent tables.
@@ -130,7 +136,7 @@ In Kharanok with the party, with the gate to Giustenal now a known route and a r
   - Section: Altar of Dust roster
   - Printed page: —
   - Source type: campaign reference doc
-  - Adaptation note: Player, ancestry, class and level 1.
+  - Adaptation note: Player, ancestry and class. **Its level column read 1 and was stale** — corrected to 3 from the sheet on 2026-08-11.
 - Title: Darkest Sun — Altar of Dust, ad5 "The Bug Whisperers... Finally!"
   - Section: arrival in Kharanok; the kank hunt
   - Printed page: —
@@ -151,4 +157,4 @@ In Kharanok with the party, with the gate to Giustenal now a known route and a r
 - ~~Does Ranni have a wild talent?~~ **Answered 2026-08-09: yes — Body Equilibrium.** This resolves why the Caller could reach her; see GM-Only Secrets.
 - Who was the childhood friend, and how much of what "she" said was drawn from Ranni's own memory?
 - Whether the talent has been used at the table yet, or is still undeclared in play.
-- Ancestry is confirmed elf; **level beyond 1 is not tracked here** — update from the player's sheet.
+- ~~Ancestry is confirmed elf; level beyond 1 is not tracked here.~~ **Resolved 2026-08-11: Elf, Water Priest, level 3, XP 10**, from the Foundry sheet.
