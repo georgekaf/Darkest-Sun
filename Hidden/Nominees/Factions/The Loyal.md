@@ -62,7 +62,14 @@ No territory or institutional resources, and no standing anywhere: the band live
 - Proposed `actor-saelis` — [[The Loyal - Saelis]]. Preserver 5. Youngest; the one who approaches strangers first.
 - Proposed `actor-tharek` — [[The Loyal - Tharek]]. Fighter 5. Stands between the band and whatever leaves the ruins.
 
-All five ids are **proposed** — no `actor-varesh`, `actor-kethen`, `actor-nyrra`, `actor-saelis` or `actor-tharek` record exists in `actors/` yet. Levels are set from what the band survived (two Giustenal expeditions, permanent work in a Danger 5 region), and all sit below Jessix.
+All five ids are **proposed** — no `actor-varesh`, `actor-kethen`, `actor-nyrra`, `actor-saelis` or `actor-tharek` record exists in `actors/` yet.
+
+**GM confirmation, 11 August 2026: the five are campaign canon.** All five now have NPC stat blocks in the GM's Foundry world, which settles the question #100 raised. The levels proposed here were reasoned from what the band survived and turned out to match the sheets exactly — **Varesh 6, Kethen 6, Nyrra 5, Saelis 5, Tharek 5**. Two corrections follow from the sheets:
+
+- **Tharek's martial adaptation is confirmed**, not overruled. He is built as the band's **Defender** with Weapon Mastery, and at **36 HP** he is the toughest member of the band — tougher than Jessix.
+- **The band is built in pairs.** Varesh and Kethen share one block; Nyrra and Saelis share another. That matches the record of Nyrra training Saelis and of Varesh and Kethen running ahead together.
+
+All five carry **Elf Sprint**, confirming the source's "five young elves", and **Loyal to Jessix** — morale 12 while Jessix is threatened or incapacitated, which makes their loyalty a mechanic rather than flavour.
 
 ## Relationships
 - Opposed to: the Caller in Darkness.
@@ -101,5 +108,7 @@ None beyond what's in Confirmed Assets — the band's core secret (what really h
   - Adaptation note: —
 
 ## Unresolved Questions
-- ~~Whether the 5 followers are meant to stay permanently unnamed~~ — answered: they are named as campaign-original characters, with individual sheets. Open instead: whether the GM wants those names treated as canon for the setting or as table-local only.
+- ~~Whether the 5 followers are meant to stay permanently unnamed~~ — answered: they are named as campaign-original characters. ~~Open instead: whether the GM wants those names treated as canon or table-local only.~~ **Answered 11 August 2026: canon.** All five have GM-authored NPC sheets.
+- **Jessix's own "Won't Go Back"** — he will not enter the ruins of Giustenal, and only someone he is protecting being inside can compel him. The band patrols the environs; it does not guide people in. Worth reflecting in the faction's doctrine, which currently reads only "protect travelers around Giustenal".
+- **The Tar-Pit Map** is a grantable reward attached to Jessix's trust. Nothing in the faction record mentions it.
 - Which of the five spotted Ranni in the Giustenal ruins on day 117 (ad7) before she teleported out. Varesh is the natural candidate as scout; unassigned so far.

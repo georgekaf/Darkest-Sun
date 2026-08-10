@@ -88,16 +88,15 @@ With the band, volunteering for the approach every time.
 - If the campaign ever wants a Loyal casualty, his death is the one that breaks the band.
 
 ## Stat Block or Rules Notes
-- Class: Preserver / Wizard (see [[Classes/Wizard]])
-- Level: 5 — young, but a Giustenal survivor twice over; the level reflects survival, not years
-- Armor Class: 12 (simple leather beneath robes)
-- Hit Points: 17
-- Movement: near
-- Intelligence high, Charisma above average
-- Alignment: Chaotic Good
-- Attacks: *bone short sword*, reluctantly; spellcasting otherwise
-- **Running him at the table:** he answers questions the rest of the band would deflect.
 
+**Superseded by the GM's NPC sheet (11 August 2026).** Mechanically identical to Nyrra — the two preservers share a block, which fits the record of her training him.
+
+- **NPC, level 5 preserver** · HP **22** · AC **13** · Alignment **chaotic**
+- **Preserver Spellcasting** — INT +5. Spells known: **4 Tier 1, 2 Tier 2, 1 Tier 3** — Burning Hands, Mage Armor, Magic Missile, Sleep, Invisibility, Misty Step, **Fireball**
+- **Preserver** — uses magic without deliberately drawing life from the surrounding land
+- **Arcane Knowledge** — advantage on magic, ancient ruins, magical inscriptions and arcane phenomena
+- **Elf Sprint** · **Loyal to Jessix** (morale 12 while Jessix is threatened or incapacitated)
+- Attack: *Bone Dagger*
 ## Token art prompt (image-gen reference):
 > Youngest-looking of the Loyal, a tall slim Athasian elf preserver with softer features, sun-darkened skin, large alert eyes, and long reddish-brown hair tied loosely behind the shoulders. Wears pale ochre traveling robes layered over simple leather protection, with faded green cloth strips and small carved bone charms. Carries a bone short sword and a worn spell pouch. Upright, open stance with a determined but inexperienced expression. Full-body VTT token, centered, transparent background, gritty Dark Sun desert fantasy realism, no metal, no environment.
 

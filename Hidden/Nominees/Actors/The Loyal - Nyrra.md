@@ -89,16 +89,16 @@ Travelling with the band, rationing her castings against a region that never sto
 - If the party includes a defiler, she is the reason the Loyal keep their distance.
 
 ## Stat Block or Rules Notes
-- Class: Preserver / Wizard (see [[Classes/Wizard]])
-- Level: 5 — able to survive Giustenal and work its environs independently, still clearly below Jessix
-- Armor Class: 12 (light leather beneath robes)
-- Hit Points: 18
-- Movement: near
-- Intelligence high, Wisdom above average
-- Alignment: Chaotic Good
-- Attacks: *bone short sword* in emergencies; her value is entirely in spellcasting
-- **Running her at the table:** she casts late, deliberately, and only when the alternative is someone dying.
 
+**Superseded by the GM's NPC sheet (11 August 2026).** The proposed level 5 was correct.
+
+- **NPC, level 5 preserver** · HP **22** · AC **13** · Alignment **chaotic**
+- **Preserver Spellcasting** — INT +5. Spells known: **4 Tier 1, 2 Tier 2, 1 Tier 3** — Burning Hands, Mage Armor, Magic Missile, Sleep, Invisibility, Misty Step, **Fireball**
+- **Preserver** — uses magic without deliberately drawing life from the surrounding land
+- **Arcane Knowledge** — advantage on magic, ancient ruins, magical inscriptions and arcane phenomena
+- **Elf Sprint** · **Loyal to Jessix** (morale 12 while Jessix is threatened or incapacitated)
+- Attack: *Bone Dagger* in emergencies; her value is the spell list
+- **Running her at the table:** she casts late, deliberately, and only when the alternative is someone dying.
 ## Token art prompt (image-gen reference):
 > Tall, slender Athasian elf woman and young preserver with angular features, intense amber eyes, and long dark hair braided with bone beads. Wears layered faded-red and charcoal desert robes over light leather armor, practical rather than ceremonial, with numerous cloth wraps protecting her arms from the sun. Carries a bone short sword and a small pouch of spell components. One hand subtly raised as though preparing a spell. Severe, controlled expression. Full-body VTT token, centered, transparent background, gritty Dark Sun desert fantasy realism, no metal, no environment.
 

@@ -91,16 +91,15 @@ Travelling with the band, positioned between it and the ruins.
 - If Jessareen's accusation ever reaches the party's ears, Tharek is how it becomes a fight rather than a conversation.
 
 ## Stat Block or Rules Notes
-- Class: Fighter (see [[Classes/Fighter]])
-- Level: 5 — a skirmisher built by years of escort work; fighting is an adaptation, not the profession the source assigns the Loyal
-- Armor Class: 14 (reinforced hide)
-- Hit Points: 32
-- Movement: near
-- Strength and Constitution high
-- Alignment: Chaotic Good
-- Attacks: *heavy bone short sword* (close), *bone shortbow* (far)
-- **Running him at the table:** he steps forward first and asks questions second, which is exactly the mistake Varesh keeps trying to prevent.
 
+**Superseded by the GM's NPC sheet (11 August 2026).** The proposed level 5 was correct, and the martial adaptation is confirmed — he is built as the band's defender, not as a thief or preserver. He is also the toughest of the five by a wide margin.
+
+- **NPC, level 5** · HP **36** — highest in the band, Jessix included · AC **16** · Alignment **chaotic**
+- Attacks: *Bone Long Sword*, *Bone Shortbow*
+- **Weapon Mastery** — +1 attack and damage with the bone long sword, already included in the listed attack
+- **Defender** — once per round, when a close ally is attacked, impose disadvantage on that attack
+- **Elf Sprint** · **Loyal to Jessix** (morale 12 while Jessix is threatened or incapacitated)
+- **Running him at the table:** he steps forward first and asks questions second, which is exactly the mistake Varesh keeps trying to prevent.
 ## Token art prompt (image-gen reference):
 > Tall, broad-shouldered by Athasian elf standards but still lean and long-limbed, with a hard square face, broken nose, closely cropped dark hair, and several old scars. Wears heavier reinforced leather armor made from layered desert-creature hide, wrapped shoulders, thick bracers, and dusty boots. Carries a heavy bone short sword and bone shortbow. Protective, confrontational stance, positioned like someone accustomed to putting himself between danger and his companions. Full-body VTT token, centered, transparent background, gritty Dark Sun desert fantasy realism, no metal, no environment.
 

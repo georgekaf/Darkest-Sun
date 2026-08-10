@@ -169,25 +169,21 @@ Roaming a twenty-mile radius, pulling strangers out of trouble, and declining to
 - A Jessareen/Jessix confrontation is the strongest untapped scene in the environs.
 
 ## Stat Block or Rules Notes
-- Class: Thief / Wizard (preserver)
-- Level: 8 / 6 *(Shadowdark scaling of 2e 11/9)*
-- Armor Class: 15 (leather and Dexterity)
-- Hit Points: 35
-- Movement: near (double near — Athasian elf)
-- Strength +1, Dexterity +2, Constitution +0, Intelligence +0, Wisdom −1, Charisma **+3**
-- Alignment: Chaotic (good)
-- Morale: 12 protecting others; **he will not enter Giustenal**
-- Attacks: 1 attack per round.
-  - *Bone long sword +2* +8, 1d8+3
-  - *Backstab* — triple damage against an unaware target
-- **Preserver spells** to 5th level: 4/3/3/2/1.
-- **Wild talent — Catfall:** PS 14, cost 4. 104 PSPs.
-- **Elf Sprint:** double near movement.
-- **The Tar-Pit Map:** if given, **eliminates the modifier for tar pit encounter checks** when entering Giustenal.
-- **Won't Go Back:** Jessix will not enter the ruins. This is not negotiable by persuasion — only by someone he is trying to protect being inside them.
-- **Running him at the table:** terse, competent, and gone before thanks. Let the Loyal do the talking. He is the rare NPC whose secret is that he is innocent.
-- **Conversion note:** printed 2e stats are Male Elf Rogue/Preserver 11/9, CG, AC 5 (leather, Dex), MV 15, hp 35, THAC0 15, bone long sword +2 1d8+1, PSPs 104, wild talent catfall. Scaled to Shadowdark 8/6.
 
+**Superseded by the GM's NPC sheet (11 August 2026).** This is a Shadowdark-native block; the sandbox record still carries the AD&D 2e `sourceStatBlock` (Rogue/Preserver 11/9), which should now be read as the printed source rather than as his campaign statistics.
+
+- **NPC, level 8** · HP **35** · AC **15** · Alignment **chaotic**
+- Weapon: **Bone Long Sword +2** — the only magic weapon in the band
+- **Backstab** — triple weapon damage against an unaware target
+- **Preserver Spellcasting** — preserver level 6, spellcasting bonus **+6**, thirteen spells on a **4/3/3/2/1** Tier 1–5 progression: Feather Fall, Mage Armor, Magic Missile, Sleep, Invisibility, Misty Step, Web, Dispel Magic, Fly, Illusion, Arcane Eye, Dimension Door, **Teleport**
+- **Wild Talent — Catfall** · PS 14 · cost 4 PSP · **104 PSP total** — he is a wild talent as well as a preserver, which the sandbox record does not show
+- **Elf Sprint** — double near when sprinting
+- **Protector** — morale 12 while protecting other people. Jessix and the Loyal will risk their lives to rescue travellers in the Giustenal environs.
+
+### Two abilities that are campaign facts, not just mechanics
+
+- **The Tar-Pit Map.** Jessix knows a route through the tar pits surrounding Giustenal. **If he gives the party a map, it removes the modifier on tar-pit encounter checks.** This is a concrete, grantable reward attached to earning his trust.
+- **Won't Go Back.** *Jessix will not enter the ruins of Giustenal.* Persuasion alone cannot change it. **Only someone he is trying to protect being inside the ruins can compel him to return.** This reframes him entirely: he is not a guide into Giustenal, he is a man who patrols its edge and will not cross it — unless the party puts someone he cares about on the far side.
 ## Token art prompt (Banana Pro / image-gen reference):
 > Full-body character token of Jessix the Wanderer, an Athasian elf rogue and preserver, standing upright in a neutral token pose. Tall lean elf man, six and a half feet, long-limbed, weather-toughened face deeply etched by desert wind, watchful guarded eyes, dark hair tied back. Wears worn dark leather armor and a travel-stained wrap-cloak in dust and shadow colors, wrapped forearms, soft boots. A bone long sword sheathed at the hip. **Both hands are stained with dark black splotches**, ingrained and permanent, clearly visible. Solitary, tired, closed-off bearing — a man who has stopped explaining himself. Dark Sun inspired, gritty desert fantasy realism. Full body visible from head to feet, clear silhouette, centered character, neutral transparent or plain background, suitable for a VTT token, no environment, no scene, no action pose.
 
@@ -208,3 +204,7 @@ Roaming a twenty-mile radius, pulling strangers out of trouble, and declining to
 - Whether the party clears his name, and whether he wants it cleared.
 - Whether he and Jessareen ever meet on the page.
 - What he did with the profits from the first expedition.
+- **Which level is authoritative** — the sheet's Shadowdark level 8 (preserver 6) or the sandbox's AD&D 2e Rogue/Preserver 11/9. Proposed reading: the 2e block is the printed source, the sheet is the campaign character.
+- **Is the wild talent new?** Catfall and 104 PSP appear on the sheet and nowhere in the sandbox record or the printed source.
+- **What earns the Tar-Pit Map**, and whether the party knows it exists.
+- **Who could make him cross into the ruins?** "Won't Go Back" has exactly one exception, and the campaign has not yet put anyone he cares about inside Giustenal.

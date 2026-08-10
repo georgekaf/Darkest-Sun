@@ -90,16 +90,15 @@ With the band in the environs, itching to go back inside.
 - A scene where the humour stops working is the fastest way to show the party what the ruins cost this band.
 
 ## Stat Block or Rules Notes
-- Class: Thief (see [[Classes/Thief]])
-- Level: 6 — veteran ruin-delver; both expeditions, including the disastrous second
-- Armor Class: 13 (mismatched leather)
-- Hit Points: 25
-- Movement: near
-- Dexterity high, Charisma above average
-- Alignment: Chaotic Good
-- Attacks: *short bone blade* (close), *compact bone bow* (far); backstab per the Thief class
-- **Running him at the table:** he is the one who talks first, and the one already standing somewhere else by the time an answer comes.
 
+**Superseded by the GM's NPC sheet (11 August 2026).** Mechanically identical to Varesh — the two scouts are built from the same block.
+
+- **NPC, level 6** · HP **28** · AC **15** · Alignment **chaotic**
+- Attacks: *Bone Short Sword*, *Bone Shortbow*
+- **Backstab** — triple weapon damage against an unaware target
+- **Cunning** — advantage on stealth, climbing, traps, locks, pickpocketing and hiding
+- **Elf Sprint** — double near when running
+- **Loyal to Jessix** — morale 12 while Jessix is threatened or incapacitated
 ## Token art prompt (image-gen reference):
 > Long-limbed young Athasian elf thief with a narrow mischievous face, crooked grin, shaved sides, and a loose dark topknot. Wears mismatched dark leather pieces, dusty scarves, wrapped legs, fingerless leather gloves, and several concealed bone knives. Carries a short bone blade reversed at his belt and a compact bone bow over one shoulder. Relaxed, agile stance suggesting someone who is never standing exactly where expected. Full-body VTT token, centered, transparent background, gritty Dark Sun desert fantasy realism, no metal, no environment.
 

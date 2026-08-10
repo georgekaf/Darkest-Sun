@@ -89,16 +89,16 @@ Shadowing traveler routes in the environs, usually a half mile ahead of the rest
 - If the party arrives via the Kharanok gate (ad7), Varesh is the plausible reason they are found before something else finds them.
 
 ## Stat Block or Rules Notes
-- Class: Thief (see [[Classes/Thief]])
-- Level: 6 — veteran ruin-delver; both expeditions, including the disastrous second
-- Armor Class: 13 (leather, hide-fitted)
-- Hit Points: 26
-- Movement: near
-- Dexterity high, Wisdom above average; Strength unremarkable
-- Alignment: Chaotic Good, as Jessix
-- Attacks: *Bone shortbow* (far), *curved bone short sword* (close); backstab per the Thief class when unseen — which, with him, is most of the time.
-- **Running him at the table:** he does not ambush parties. He watches them, decides, and then either appears or does not.
 
+**Superseded by the GM's NPC sheet (11 August 2026).** The figures below are the sheet's, not the earlier proposal's; the proposed level 6 was correct, the AC and HP were low.
+
+- **NPC, level 6** · HP **28** · AC **15** · Alignment **chaotic**
+- Attacks: *Bone Short Sword*, *Bone Shortbow*
+- **Backstab** — triple weapon damage against an unaware target
+- **Cunning** — advantage on stealth, climbing, traps, locks, pickpocketing and hiding
+- **Elf Sprint** — double near when running
+- **Loyal to Jessix** — morale 12 while Jessix is threatened or incapacitated
+- **Running him at the table:** he does not ambush parties. He watches them, decides, and then either appears or does not.
 ## Token art prompt (image-gen reference):
 > Tall, extremely lean Athasian elf scout with long limbs, narrow weathered face, sharp dark eyes, and black hair bound tightly behind his head. Wears fitted sand-brown leather armor beneath a ragged hooded desert cloak, wrapped forearms, soft boots, and several small bone utility knives. Carries a bone shortbow across his back and a curved bone short sword at his hip. Reserved, watchful posture, always appearing ready to move. Full-body VTT token, centered, transparent background, gritty Dark Sun desert fantasy realism, no metal, no environment.
 
