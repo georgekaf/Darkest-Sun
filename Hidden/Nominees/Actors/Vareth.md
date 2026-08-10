@@ -11,21 +11,25 @@ visibility: mixed
 
 **Proposed sandbox field shape**, following `relo.json` / `shaka.json`:
 
-- `actorType`: agent · `controlType`: player-character · **`partyName`: Altar of Dust**
-- `status`: active · `canonStatus`: campaign-original · `locationId`: `location-kharanok`
+- `actorType`: agent · `controlType`: player-character · **`partyName`: House Markon**
+- `status`: active · `canonStatus`: campaign-original · `locationId`: `location-nibenay`
 - `simulation`: proposalMode **excluded**
-- `campaignContinuity`: firstConfirmedDay **115** (ad6), lastConfirmedDay **117** (ad6's closing leg), party Altar of Dust
+- `campaignContinuity`: firstConfirmedDay **115** (ad6), lastConfirmedDay **117**, party **House Markon from day 116**
 
-> **`partyName` is a single-value field and this character is played in two campaigns.** He is filed here under **Altar of Dust**, which is where he is physically resident, with the House Markon side recorded in Relationships and in the continuity record rather than in the field. **This is a filing decision, not a ruling** — see [[Dhojakt Continuity Conflict]]'s sibling record, [[Vareth Continuity Conflict]], which is still unresolved.
+> **`partyName` resolved by GM ruling, 11 August 2026: after his appearance in Nibenay he is part of House Markon.** This is a **transition, not dual membership**, so the single-valued field is sufficient and no schema change is needed. He travels with Altar of Dust on days 115–117 and belongs to House Markon from **day 116** onward — the day Agis brought him to Sandira.
+>
+> **The day-116 double presence is not an open question.** It was ruled on **5 August 2026** by the campaign leader — *"teleport τον έκανε ο Agis"* — and both summaries were amended at the time. See [[Vareth Continuity Conflict]], whose status is `confirmed`, not disputed.
+>
+> **The teleport itself has not been fully explained by the Master GM.** The ruling establishes *that* Agis moved him and settles the placements; it does not establish how Agis does it, at what cost, how often he is willing to, or whether anyone else can ask. Record the placement as settled and the mechanism as unexplained — do not infer a spell, a range or a frequency from the fact that it happened once.
 
 ## One-Sentence Summary
 A human preserver who studies under Ragnis and Sandira, walks with the Altar of Dust party out of Kharanok, and is teleported into Nibenay and back inside a single day when House Markon needs him — which is exactly how he ended up standing in two campaigns on the same date.
 
 ## Classification
 - Subtype: player-character — sandbox shape `actorType: agent` + `controlType: player-character`
-- Control: player-character — played by **Giamicool**
+- Control: player-character — played by **Giamicool**, party **House Markon** (from day 116; travelled with Altar of Dust days 115–117)
 - Status: active
-- Faction or allegiance: student of Ragnis and Sandira; **called on by House Markon**
+- Faction or allegiance: **House Markon**, from his appearance in Nibenay on day 116. Student of Ragnis and Sandira.
 - Current location: Kharanok (`location-kharanok`), when not being moved
 - Current route, when traveling: by teleport, at Agis's initiative rather than his own
 - Role: Preserver — the party's arcane caster
@@ -45,12 +49,12 @@ In Kharanok, one of the party. In Nibenay, one of Sandira's.
 - **ad6, day 115:** travels south with the Altar of Dust party from Kharanok.
 - **ad6, day 116:** **absent for the hot hours** — **Agis teleports him to Nibenay**, where **Sandira** has sent for him to reinforce House Markon, and returns him the same way before sundown.
 - **ad6, day 117:** returns to Kharanok with the party and the seven Zharvek survivors.
-- **The conflict:** House Markon's own record for **day 116** places him at Sandira's house **inside Nibenay** and descending into the undercity the same day, while Altar of Dust places him in the Zharvek ruins all of day 116. Both are table-confirmed. See [[Vareth Continuity Conflict]] — the record notes the teleport as the mechanism that makes the two accounts survivable, but the ruling is the campaign owner's.
+- **The day-116 placements, and their ruling.** House Markon's record puts him at Sandira's house inside Nibenay, descending into the undercity; Altar of Dust puts him in the Zharvek ruins all day. Both are table-confirmed, and **the campaign leader ruled on 5 August 2026 that Agis teleported him**: Sandira sends word, Agis brings him in the morning, he spends the day under Nibenay, and Agis returns him before sundown — in time for the night march out of Zharvek. No date moved in either campaign. It also explains a line already in ad6 before anyone noticed the problem: the party is exhausted, *"ο Vareth ιδιαίτερα, τελείως εξαντλημένος"*. See [[Vareth Continuity Conflict]].
 - The sheet shows him at **9 of 11 HP**. He is extremely fragile.
 
 ## Goals
-1. Description: *(Proposed, from play.)* Serve two masters — the party he travels with and the House that summons him.
-   - Priority: 4 · Progress: ongoing and unexamined · Secret: no · Status: active
+1. Description: *(Proposed, from play.)* Serve House Markon in Nibenay while still travelling with the party out of Kharanok.
+   - Priority: 4 · Progress: ongoing · Secret: no · Status: active
 2. Description: *(Proposed.)* Learn. **Learning Spells** is a talent on his sheet, and he carries Fireball at level 5.
    - Priority: 4 · Secret: no · Status: active
 
@@ -72,7 +76,7 @@ In Kharanok, one of the party. In Nibenay, one of Sandira's.
 ## Relationships
 - Existing actor: `actor-ragnis` — *Teacher.* House Markon, and one of the two he studies under.
 - **Sandira** — *Summons him.* She sent for him on day 116 to reinforce House Markon.
-- **Agis** — *His transport.* Teleports him in and out; Vareth does not initiate these moves.
+- **Agis** — *His transport.* Teleported him into Nibenay and back on day 116; Vareth does not initiate these moves. **How Agis does this has never been explained by the Master GM** — no spell, cost, range or frequency is on record.
 - Player character: **Relo**, **Shaka**, **Rhazek**, **Gur-da**, **Cypoul** — his ad6 party.
 
 ## Knowledge
@@ -86,11 +90,12 @@ With the Altar of Dust party, subject to recall by House Markon without notice.
 ## GM-Only Secrets
 - **He is a live information channel between two campaigns**, and nothing has established what he tells whom. Everything the Kharanok party knows about the gate, the cave creature and Giustenal is available to Nibenay through him, and vice versa.
 - The teleport recall is not his decision. Anyone who wants him elsewhere goes through Agis or Sandira, not through him.
+- **The mechanism is unexplained and should stay that way until the Master GM says otherwise.** It happened once, on day 116. Whether it is repeatable is the single fact that decides if the two campaigns remain geographically separate — see the open question on [[Vareth Continuity Conflict]].
 
 ## Proposed Developments
 All unapproved.
 - The moment the two campaigns need to share information deliberately rather than by accident, he is the mechanism that already exists.
-- **Do not resolve the day-116 conflict inside this record.** It has its own file and no ruling.
+- The day-116 conflict has its own file and **a ruling**; this record follows it rather than restating it.
 
 ## Stat Block or Rules Notes
 - System: **Shadowdark** — the character's Foundry sheet
@@ -109,11 +114,12 @@ All unapproved.
 - Title: Darkest Sun — Altar of Dust, ad6 "The Sand Also Rises" — the march south; the day-116 teleport · campaign-original, in-world days **115–117**
 - Title: `obsidian/Hidden/Vareth Continuity Conflict.md`
   - Section: full record · Source type: campaign continuity record
-  - Adaptation note: **Unresolved.** This nominee records the conflict and does not settle it.
+  - Adaptation note: **Resolved 2026-08-05** — campaign leader's ruling, "teleport τον έκανε ο Agis". Status `confirmed`. This nominee follows that ruling.
 - Title: `transcripts and summaries/character_roster.md` — lists him as Giamicool's Human Preserver, student of Ragnis and Sandira, House Markon.
 
 ## Unresolved Questions
-- **Which `partyName` is correct** — or whether the schema needs to allow two.
+- ~~Which `partyName` is correct.~~ **Answered 11 August 2026: House Markon, from day 116.** A transition, not dual membership — the single-valued field suffices.
 - What he reports to Sandira about Kharanok, and to the party about Nibenay.
-- Whether the day-116 double presence is settled by the teleport or still open. The continuity record says open.
+- **How Agis's teleport actually works.** The Master GM has not explained it. The ruling covers *that* it happened, not the spell, the cost, the range, the frequency, or who else could ask for it. Until that is answered, nothing should treat a Kharanok↔Nibenay same-day corridor as available.
+- ~~Whether the day-116 double presence is settled.~~ **Settled 5 August 2026 by the campaign leader: Agis teleported him.** The continuity record carries the ruling; an earlier draft of this nominee wrongly described it as open.
 - Whether he was betrayed by Sandira, Ragnis, or someone the campaign has not met — the Misery is unexplained.
