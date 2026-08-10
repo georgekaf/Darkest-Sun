@@ -203,4 +203,4 @@ All unapproved.
 - Whether Relo intends to free the cave creature, and whether he has told the party the whole of what it offered.
 - What the creature meant by the road running "through where the energy came from".
 - Whether the party confronts Breck about the binding, and whether Relo leads that.
-- Roster level (3) is stale against the sheet (4) — worth correcting in `character_roster.md`.
+- Roster level (3) is stale against the sheet (4) — worth correcting in the campaign character roster.

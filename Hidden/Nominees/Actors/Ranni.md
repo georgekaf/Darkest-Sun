@@ -119,7 +119,7 @@ In Kharanok with the party, with the gate to Giustenal now a known route and a r
 
 ## Stat Block or Rules Notes
 - System: **Shadowdark**
-- Class: Priest (water) — **Level 3**, XP 10, from the Foundry the character's Foundry sheet. *(`character_roster.md` still said level 1; that entry was stale and has been corrected.)*
+- Class: Priest (water) — **Level 3**, XP 10, from the Foundry the character's Foundry sheet. *(the campaign character roster still said level 1; that entry was stale and has been corrected.)*
 - HP **15/15** · AC **10** · Alignment neutral
 - STR 9 · DEX 13 · CON 13 · INT 7 · **WIS 18** · CHA 12
 - Spells: Cure Wounds, Shield of Faith, Protection From Evil, Blind/Deafen

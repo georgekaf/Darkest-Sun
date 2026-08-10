@@ -94,7 +94,7 @@ All unapproved, and none of it has happened. Should the party ever take him thro
 ## Sources
 - Title: Foundry VTT Shadowdark character sheet (GM-supplied)
   - Section: character sheet export · Source type: system export (9 August 2026)
-  - Adaptation note: Ancestry inferred **Half-Giant** from Giant's Grip / Huge Body, and confirmed by `character_roster.md`. Class UUID matches Rhugor's — Gladiator.
+  - Adaptation note: Ancestry inferred **Half-Giant** from Giant's Grip / Huge Body, and confirmed by the campaign character roster. Class UUID matches Rhugor's — Gladiator.
 - Title: Darkest Sun — Altar of Dust, ad4 · campaign-original, in-world day **111**
 - Title: Darkest Sun — Altar of Dust, ad5 · campaign-original, in-world day **112**
 - Title: Darkest Sun — Altar of Dust, ad6 · campaign-original, in-world day **115**

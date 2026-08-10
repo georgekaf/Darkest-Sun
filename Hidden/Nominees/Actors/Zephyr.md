@@ -105,7 +105,7 @@ In Kharanok. Unfinished business: thirty-odd hides he has barely started reading
 
 ## GM-Only Secrets
 - He is the single point of failure for the gate: nobody else can read the scrolls, and the party is now dependent on a route they do not understand without her.
-- ~~Gender is inconsistent across the record.~~ **Resolved 2026-08-11 by GM ruling: Zephyr is a man, and human.** ad4 was right; ad7 and `npc_roster.md` had drifted to feminine forms and have been corrected, as has the shaven-head detail — his hair is short-cropped and white.
+- ~~Gender is inconsistent across the record.~~ **Resolved 2026-08-11 by GM ruling: Zephyr is a man, and human.** ad4 was right; ad7 and the campaign NPC roster had drifted to feminine forms and have been corrected, as has the shaven-head detail — his hair is short-cropped and white.
 
 ## Proposed Developments
 All unapproved.
