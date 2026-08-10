@@ -106,7 +106,7 @@ Everything the party believes about this place therefore rests on **one frighten
 ## Connections
 - Destination: **Kharanok**
   - Existing location ID: `location-kharanok`
-  - Existing route ID: **none — propose a gate connection, not a road route.**
+  - Route ID: **`route-kharanok-giustenal-gate`** — proposed, must exist before this connection can be filed. The schema requires a real `routeId` per connection.
   - Travel notes: **teleport plate, hard-paired and two-way.** Both ends are wholly intact, so the route activates from either side. **10 Crystal Dust** crushed, mixed with water and used to fill the inscriptions activates both members; **5 + 5** across the two ends does the same. One round standing on it teleports you and deactivates both; a further **5** keeps them active. Full mechanics in [[Portal Activation]] (GM ruling, 10 August 2026). Established day 117 from the scroll library under the Kharanok mines, read by Zephyr.
 - Destination: **New Giustenal**
   - Existing location ID: `location-new-giustenal`

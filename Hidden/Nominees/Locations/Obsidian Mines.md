@@ -57,7 +57,7 @@ The hidden room the dungeon key describes as a "one-way teleportation room" was 
 - **Destination:** the **[[Ruins of Giustenal]]** — a structure on a rise above the ruined city, dozens of miles away. Only [[Ranni]] has ever been through it, and only for a few minutes.
 - **The broken plate** led **deeper into the mountain**. Zephyr's reading: whoever broke it did so deliberately, so that it would work **badly** rather than not at all.
 - **What "broken" means mechanically:** a defaced gate works **only as a destination** — it can be arrived at, never departed from. Its paired *origins* are scattered elsewhere below and inside Kharanok. **It cannot be repaired temporarily** by `conform` or any matter manipulation, because restoring it requires knowing the exact shape of the runes that were destroyed.
-- **Network gates**, as opposed to hard-linked pairs, are used by standing on the plate and **speaking the destination's name aloud in Gith or Draxian**. Re-pairing two gates is theoretically possible with found instructions, a **DC 20 Intelligence check** and an inscription read aloud in one of those tongues — **no player has asked about this.**
+- **Network gates**, as opposed to hard-linked pairs, are used by standing on the plate and **speaking the destination's name aloud in Gith or Draxian**.
 - **The hides.** A square flagstone that rang hollow, lifted by Relo and Sylvar with The Way, hid **thirty to forty rolled hides shelved like a library**. [[Zephyr]] reads Draxian and Primordial and read enough to establish the gate mechanics; **the great majority remain unread.**
 - **The chambers on the way in** carry four to six large carved alcoves each — not tombs; the party read them as dormitories, and speculated the place was either a staging post or somewhere people were held and shipped onward by plate.
 - **Nothing else of value.** The side rooms held rotted armour, hides and bedding; whoever abandoned the place took what mattered.
@@ -85,7 +85,7 @@ Crystal Dust extraction (illegal but valuable). The hidden teleportation room, o
   - Travel notes: via the South Access Shaft (#12), currently slowed by the broken lift.
 - Destination: **Ruins of Giustenal**
   - Existing location ID: `location-giustenal-ruins`
-  - Existing route ID: **none — this is a gate, not a road.**
+  - Route ID: **`route-kharanok-giustenal-gate`** — proposed, must exist before this connection can be filed. The location schema requires a real `routeId` on every connection, so a bare target is not valid.
   - Travel notes: **the intact plate in the gate chamber, two-way**, ten handfuls of Crystal Dust to wake and five per trip to hold open. Established day 117. See [[Ruins of Giustenal]], whose own `connections[]` is empty and needs the same entry from the other side.
 - Destination: **deeper into the mountain**
   - Existing location ID: — unknown
@@ -95,6 +95,8 @@ Crystal Dust extraction (illegal but valuable). The hidden teleportation room, o
 Broken elevator at the South Access Shaft — blocks fast travel to Level 2 until repaired (tar + a skilled operator, or 50 scraps).
 
 ## GM-Only Secrets
+- **Re-pairing gates is possible, and no player knows it.** Two gates can be paired to one another — programmed — if the instructions are found, requiring a **DC 20 Intelligence check** and an inscription read aloud in **Gith or Draxian**. Nobody at the table has asked.
+- **The broken plate was deliberately damaged.** Someone defaced it on purpose. *(The party already knows the break was deliberate — Zephyr read that much from the scrolls on day 117 — but not who, when or why.)*
 - ~~The unknown presence behind the shared dream is unresolved~~ — **it is [[The Moonbeast]]**, and it is bound in these tunnels. *(GM disclosure, 2026-08-09.)* Old magic keeps it from leaving the caves; its psionic reach is unaffected, which is why it can reach a gith captive in ad4, the whole party in a shared dream on day 110, and Relo twice.
 - **The villagers' mine-induced madness is therefore explained** — the screaming, the running for the ravine, the killing themselves against the quarry stones. Oren's report is on `location-kharanok`'s own record and has never been connected to the presence at the table.
 - **[[Dorak]] carries [[Lion Medallion|the medallion that binds it]]**, and works in these tunnels almost daily. The creature is searching for him specifically and does not have his name.

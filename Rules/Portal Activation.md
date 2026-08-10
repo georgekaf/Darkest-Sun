@@ -36,8 +36,16 @@ A gate is not simply on or off. Each one has a role:
 - **Step onto an activated gate and remain for one round:** you are teleported, and **the gates then deactivate.**
 - **Step on, remain one round, and place another 5 Crystal Dust:** you are teleported and **the gates stay activated** — those 5 are consumed by the one-way trip from origin to destination.
 
-## Re-pairing gates
+## Re-pairing gates — GM only
 
-Two different gates can in theory be paired to one another — programmed, in effect — **if the instructions are found**. Doing so requires an **Intelligence check against DC 20** and reading an inscription aloud in **Gith or Draxian**.
+> **GM secret. Not player-facing. Do not summarise this into a player-visible record.**
+>
+> Two different gates can in theory be paired to one another — programmed, in effect — **if the instructions are found**. Doing so requires an **Intelligence check against DC 20** and reading an inscription aloud in **Gith or Draxian**.
+>
+> *No player has yet asked about this.*
 
-*No player has yet asked about this.*
+## The broken plate — GM only
+
+> **GM secret.** The broken gate beneath Kharanok **was deliberately damaged.** Someone defaced it on purpose.
+>
+> *Note for continuity:* Zephyr's reading of the scroll library on day 117 already told the party that whoever broke it did so **so that it would work badly rather than not at all**. The party therefore knows the break was deliberate; what stays secret is anything beyond that — who did it, when, and why.

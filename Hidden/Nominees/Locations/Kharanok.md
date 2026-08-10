@@ -88,7 +88,7 @@ Retained, plus:
 - Nine new pairs of hands where there were none.
 
 ## Connections
-- Destination: **Ruins of Giustenal** — `location-giustenal-ruins`. **Propose adding.** Two-way teleport plate in the mines, established day 117. Not a road; there is no overland route.
+- Destination: **Ruins of Giustenal** — `location-giustenal-ruins`, via **`route-kharanok-giustenal-gate`** (proposed; must exist first, as the schema requires a real `routeId` per connection). Two-way teleport plate in the mines, established day 117. Not a road; there is no overland route.
 - Destination: Temple of the Lion — `location-lion-temple`. Retained.
 - Destination: Quel Nash — `location-quel-nash`. Retained. **The sandbloom scrublands lie between Quel Nash and the Lion Temple**, at the foot of the mountains — that is where the night harvest happened.
 - Destination: Quor'Anok — `location-quor-anok`. Retained. *(Local oral tradition names Kharanok the Ninth Refuge and Quor'Anok the Eighth, with rumours of underground waters connecting them — already on the record, and worth re-reading now that the tunnels beneath Kharanok are known to run a long way.)*
