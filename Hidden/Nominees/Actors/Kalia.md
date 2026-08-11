@@ -156,7 +156,11 @@ Control over the Cistern, rations, and resource distribution; keys and ledgers; 
   - Secret: yes
 
 ## Current Activity
-Managing the Cistern, rations, and resources; maintaining the council structure behind Yethras.
+Managing the cistern, the rations, the **storage pits**, and the rest of Kharanok's resources; maintaining the council structure behind Yethras.
+
+**The storage pits are hers to give and to take.** Slots are granted or withdrawn on her judgement of whether the party has earned them — favour rather than entitlement, and not a fixed allocation. Demonstrated on day 110, when she granted extra space after the party donated half the cooked bulette meat; the sandbox record already carries that as a Kharanok feature. Nothing obliges her to leave it granted.
+
+Together with the water ration that gives her two levers over the party rather than one: what they drink, and where they may keep what they own.
 
 ## GM-Only Secrets
 She is the actual organizer of Kharanok's council power, not Yethras — this has not been revealed to the party as of ad5.
@@ -166,7 +170,7 @@ She is the actual organizer of Kharanok's council power, not Yethras — this ha
 **But corruption remains an open possibility, not a closed door.** She is one person holding the village's water in a settlement with no other authority, and nothing structural stops her turning. If the campaign wants her to fall, the material is already in place; it simply has not happened, and must not be written as though it has.
 
 ## Proposed Developments
-- Field update to existing `actor-kalia`: add maiden name Yelka, add cistern-overseer duties alongside rations, add `pragmatic` trait, add the council-organizer/Yethras-as-spokesperson relationship.
+- Field update to existing `actor-kalia`: add maiden name Yelka, add cistern-overseer duties alongside rations, **add control of the storage pits**, add `pragmatic` trait, and add the council-organizer/Yethras-as-spokesperson relationship.
 
 ## Sources
 - Title: existing `actor-kalia.json` (revision 3)
