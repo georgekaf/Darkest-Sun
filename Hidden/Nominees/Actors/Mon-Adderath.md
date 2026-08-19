@@ -1,17 +1,17 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
 # Actor: Mon-Adderath (update to existing actor-mon-adderath, revision 3)
 
-*(Revision of existing actor `actor-mon-adderath`. **The oldest continuously serving person in the campaign — he has been [[Dregoth]]'s right hand since before the Cleansing Wars ended. Statistics are on Card #4 of the boxed set, which is not in the vault.**)*
+*(Revision of existing actor `actor-mon-adderath`. **The oldest continuously serving person in the campaign — he has been Dregoth's right hand since before the Cleansing Wars ended. Statistics are on Card #4 of the boxed set, which is not in the vault.**)*
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/mon-adderath.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/mon-adderath.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -55,7 +55,7 @@ None on the surface. Beneath it, **the highest-ranking living being under the Dr
 ## Confirmed Facts
 - **Mon-Adderath was (and is) Dregoth's High Templar.**
 - **He was already imbued with agelessness and had served Dregoth since the Dread King had become a champion of Rajaat.**
-- **After returning as the undead dragon king, Dregoth bestowed immortality on his two trusted templars so that they could assist him in the centuries to come** — Mon-Adderath and **[[Absalom]]**.
+- **After returning as the undead dragon king, Dregoth bestowed immortality on his two trusted templars so that they could assist him in the centuries to come** — Mon-Adderath and **Absalom**.
 - **His chamber in the surface palace (area 13, High Templar's Chamber) is hardly touched by damage and time**, though the west wall was cracked from the ante-chamber side. **Only a grey marble table and a desk inlaid with turquoise remain** — *"Mon-Adderath packed up his personal belongings when he and Dregoth retreated beneath the city."* **The turquoise is worth 2 gp if pried loose; the desk and table would fetch 3 gp each at most markets if transported whole.**
 - **Every templar of 3rd level or better is considered a full templar, and is designated as such by the High Templar himself.**
 - **Whenever a templar increases a level after the second, he is blessed by a thick, yellowish scale that rises from his spine.** **Only Mon-Adderath and Absalom have the necessary power to make this mark, using a spell granted to them by Dregoth.**
@@ -110,7 +110,7 @@ None on the surface. Beneath it, **the highest-ranking living being under the Dr
   - Reason: *"Had served Dregoth since the Dread King had become a champion of Rajaat."* Rewarded with agelessness, then with immortality.
 - Proposed actor ID: `actor-absalom`
   - Attitude: **Counterpart — and, unknowingly, the man to watch**
-  - Reason: The only other immortal in the inner circle and the only other holder of the marking spell. **Absalom outranks nobody but is quietly working against the plan.** See [[Absalom]].
+  - Reason: The only other immortal in the inner circle and the only other holder of the marking spell. **Absalom outranks nobody but is quietly working against the plan.** See Absalom.
 - Existing actor or faction ID: `actor-rajaat`
   - Attitude: Historical
   - Reason: He was there when Dregoth was made a Champion.
@@ -125,7 +125,7 @@ None on the surface. Beneath it, **the highest-ranking living being under the Dr
   - Learned day: from before the Cleansing Wars ended
   - Confidence: certain
   - Truth status: true
-  - Secret: partially — **and this makes him the most valuable historical source in the region who is not [[Kataal the Mover]] or the [[The Caller in Darkness|Caller]], and unlike either of them he can hold a conversation**
+  - Secret: partially — **and this makes him the most valuable historical source in the region who is not Kataal the Mover or the Caller, and unlike either of them he can hold a conversation**
 - Subject: The templarate
   - Claim: Every templar's rank, training and standing.
   - Confidence: certain
@@ -133,7 +133,7 @@ None on the surface. Beneath it, **the highest-ranking living being under the Dr
   - Secret: yes
 - Subject: **Whether godhood is possible**
   - Claim: He believes it is.
-  - Truth status: **false — see [[Dregoth]].** He has waited two thousand years for something that cannot happen.
+  - Truth status: **false — see Dregoth.** He has waited two thousand years for something that cannot happen.
   - Secret: no
 
 ## Current Activity
@@ -168,7 +168,7 @@ Running a church, an army and a bureaucracy beneath a dead city, and waiting for
 - Morale: 12
 - Attacks: 1 attack per round.
   - *Ceremonial weapon* +8, 1d8+1
-- **Ageless:** does not age and has not for over two thousand years. **Not undead** — this distinguishes him sharply from [[Absalom]].
+- **Ageless:** does not age and has not for over two thousand years. **Not undead** — this distinguishes him sharply from Absalom.
 - **Templar spellcasting** at the highest tier Dregoth grants, drawn from Dregoth directly.
 - **Mark of the Scale:** he and Absalom alone hold the spell that raises a templar's spinal scale. **No promotion in Dregoth's church happens without one of them.**
 - **Command:** 338 templars and, on Dregoth's word, **the entire fighting-age population of New Giustenal.**
@@ -195,9 +195,3 @@ Running a church, an army and a bureaucracy beneath a dead city, and waiting for
   - Source type: official
   - Adaptation note: **He was already ageless and had served Dregoth since the Dread King became a champion of Rajaat.** **Statistics deferred to Card #4, which is not in the vault.**
   - Id note: `actor-dregoth`, `actor-rajaat`, `actor-kataal-the-mover`, `location-new-giustenal` resolve to real sandbox/vault records. `actor-mon-adderath`, `actor-absalom`, `actor-mosak-eggstealer`, `actor-caller-in-darkness` are proposed ids from this batch.
-
-## Unresolved Questions
-- What he actually looks like — **nothing is printed.**
-- Whether he suspects Absalom.
-- Whether two thousand years of certainty can be cracked.
-- Which spelling of his name is canonical.

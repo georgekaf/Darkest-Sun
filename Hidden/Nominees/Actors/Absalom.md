@@ -1,17 +1,17 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
 # Actor: Absalom (update to existing actor-high-priest-absalom, revision 3)
 
-*(Revision of existing actor `actor-high-priest-absalom`. **[[Dregoth]]'s High Priest, the first stable dray ever made, and the only member of the Dread King's inner circle working — quietly — against his god's plan. He is also "Akrag", who runs a bathhouse.**)*
+*(Revision of existing actor `actor-high-priest-absalom`. **Dregoth's High Priest, the first stable dray ever made, and the only member of the Dread King's inner circle working — quietly — against his god's plan. He is also "Akrag", who runs a bathhouse.**)*
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/high-priest-absalom.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/high-priest-absalom.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -31,8 +31,14 @@ visibility: mixed
 ## One-Sentence Summary
 A templar whom Dregoth killed and raised into undeath so that he could be a priest worthy of his god, who became the first dray ever to survive its own creation — and who now runs a seedy public bath under a false name while secretly protecting the exiles his god threw away.
 
+## Proposed field changes *(added 13 August 2026, on the owner's ruling that the Akrag disguise is live)*
+- **`aliases[]`: add `"Akrag"`.** The record currently has no aliases at all, so nothing on it connects Absalom to the bathhouse. Anyone reading the actor record alone cannot make the link.
+- **`associatedLocationIds[]`: add `location-akrags-pools`.** `locationId` stays `location-new-giustenal`; the baths are where he operates under the alias, and the new location record names him as controller, so the link is carried on both sides.
+- Everything else below is unchanged from the existing proposal.
+
 ## Classification
 - Subtype: named-npc — **undead dray; High Priest**
+- **Aliases: "Akrag"** — a dray bathhouse owner. **The disguise is live** (owner's ruling, 13 August 2026); his cover has not lapsed.
 - Control: autonomous
 - Status: **undead, active, and leading a double life**
 - Faction or allegiance: **Dregoth**, publicly and doctrinally. **The first generation dray, privately.**
@@ -57,16 +63,16 @@ He appears to the party **using psionics, in his true form**, speaks, and **disa
 - **Absalom is Dregoth's High Priest.**
 - **He was a templar.** **To be his priest, Absalom had to become like his god. So Dregoth killed the templar and turned him into an undead creature.**
 - **In truth, Absalom was the first dray ever to live beyond its creation.** Up to that point **all of Dregoth's attempts had resulted in dray, but the process was not stable** — subjects **continued to mutate beyond the point Dregoth had hoped for, became strange monstrosities, and eventually died.** **The only way to stabilise the process at the time was to kill the subject at the stage Dregoth desired and then turn him into an undead of some sort.** **This was what was done to Absalom.**
-- **He was granted immortality alongside [[Mon-Adderath]]** so that the two could assist Dregoth in the centuries to come.
+- **He was granted immortality alongside Mon-Adderath** so that the two could assist Dregoth in the centuries to come.
 - **He is a Templar of the Fifteenth Scale.** **Only Mon-Adderath and Absalom have the necessary power to mark a templar's advancement**, using **a spell granted to them by Dregoth**. Every advance past 2nd level raises **a thick, yellowish scale from the templar's spine.**
 - **Beneath the steeple in each temple is a huge room where Mon-Adderath or Absalom often deliver sermons on Dregoth.**
 - **In truth, Akrag is actually Absalom, Dregoth's trusted High Priest.** *(The module directs the DM to the boxed set's cardstock sheets for his statistics and role-playing tips while in the guise of Akrag.)*
 - **Akrag's Pools is area 11** — a public bath, **darker and seedier than most**, with **a nasty reputation for several assassinations** in its pools, including **a mid-level templar recently murdered there** whose body **went out through the water drains into the Blackjaw River.**
-- **Akrag is listed as one of the people who could become the PCs' friends**, alongside some of the fishermen and [[Freiha]] the tavern owner.
+- **Akrag is listed as one of the people who could become the PCs' friends**, alongside some of the fishermen and Freiha the tavern owner.
 - **Absalom secretly aids the first generation dray, as he feels an affinity toward them.**
 - **He also preaches Dregoth's doctrine to these banished children, keeping them a part of the flock even though Dregoth has all but forgotten about them.**
 - **Someday Absalom hopes to reconcile the rift between the exiles and their god, for the Day of Light should be shared by all Dregoth's children.**
-- **He is working to forge a peace between the two types of dray** — **while Dregoth, through [[The Spirit of Kragmorta]], is working to lure the first generation dray to New Giustenal in order to slay them and raise them as undead troops.**
+- **He is working to forge a peace between the two types of dray** — **while Dregoth, through The Spirit of Kragmorta, is working to lure the first generation dray to New Giustenal in order to slay them and raise them as undead troops.**
 - **The PCs can meet him in Kragmorta** — *"Absalom, Dregoth's High Priest and defender of Kragmorta's dray."*
 - **After the PCs drive away the planar war party, they receive a visit from Absalom.** **He uses psionics to appear before them in his true form**, speaks to them, and disappears.
 - **His statistics are in the boxed set's MONSTROUS COMPENDIUM appendix.**
@@ -141,7 +147,7 @@ He appears to the party **using psionics, in his true form**, speaks, and **disa
 - Subject: Dregoth's doctrine and the Coruscation
   - Claim: He preaches it in both cities.
   - Confidence: total
-  - Truth status: **doctrinally accurate, factually impossible.** See [[Dregoth]].
+  - Truth status: **doctrinally accurate, factually impossible.** See Dregoth.
   - Secret: no
 - Subject: **What Dregoth is doing to Kragmorta**
   - Claim: **Unstated.**
@@ -186,7 +192,7 @@ Running a bathhouse in New Giustenal, preaching in Kragmorta, and trying to end 
   - *Claw* +9, 1d8+3
 - **Undead:** does not eat, sleep, breathe or age. **Immune to charm, sleep, poison and disease.** *(Whether he can be turned is unstated — given he is a High Priest of a kaisharga, recommend **no**.)*
 - **Templar spellcasting** at high tier, granted through Dregoth.
-- **Mark of the Scale:** he and **[[Mon-Adderath]]** alone hold the spell that raises the yellowish spinal scale marking a templar's advancement. **Without one of them, Dregoth's hierarchy cannot promote anyone.**
+- **Mark of the Scale:** he and **Mon-Adderath** alone hold the spell that raises the yellowish spinal scale marking a templar's advancement. **Without one of them, Dregoth's hierarchy cannot promote anyone.**
 - **Psionics:** sufficient to **project his true form into another cavern**, hold a conversation, and vanish. Treat as reliable long-range psychic projection at will.
 - **The Akrag Guise:** a maintained false identity as a dray bathhouse owner. **Anything that would pierce a disguise or detect undeath should work** — and should be a major scene when it does.
 - **Running him at the table:** as Akrag, wry, unbothered, faintly disreputable. As Absalom, formal and grieving. **The same voice underneath both.**
@@ -212,10 +218,3 @@ Running a bathhouse in New Giustenal, preaching in Kragmorta, and trying to end 
   - Source type: official
   - Adaptation note: The psionic appearance in true form, and his description as *"defender of Kragmorta's dray."*
   - Id note: `actor-dregoth`, `location-new-giustenal`, `location-kragmorta` resolve to real sandbox/vault records. `actor-absalom`, `actor-mon-adderath`, `actor-mosak-eggstealer`, `actor-spirit-of-kragmorta`, `actor-freiha`, `actor-casskka` are proposed ids from this batch.
-
-## Unresolved Questions
-- **Does he know the Spirit of Kragmorta is Dregoth?** The single most consequential open question about him.
-- **Who is killing people in his bathhouse, and why does he allow it?**
-- Whether he can be turned as undead.
-- What he does if the party proves godhood is impossible for his god.
-- Whether Mon-Adderath suspects him.

@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -11,7 +11,7 @@ visibility: mixed
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/guvaano-twilightcatcher.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/guvaano-twilightcatcher.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -48,7 +48,7 @@ An elf preserver of considerable age and standing. **Dexterity 19, Intelligence 
 *(Manner proposed; the source gives none.)* An elder who issues orders and expects them to travel by clan rather than by enforcement. **Not everyone follows this order, but most have heeded it** — which is how authority works among the Sky Singers, and he knows it.
 
 ### Public Reputation
-**The current elder wizard of the Twilightcatcher clan.** Respected. **Few tribe members outside the clan know of his Veiled Alliance connection. Even [[Muuton]] is unsure of it, though he suspects it.**
+**The current elder wizard of the Twilightcatcher clan.** Respected. **Few tribe members outside the clan know of his Veiled Alliance connection. Even Muuton is unsure of it, though he suspects it.**
 
 ## Confirmed Facts
 - **Male elf preserver 12**, chaotic good. AC 6, hp 27, Dex 19, Int 18.
@@ -56,10 +56,10 @@ An elf preserver of considerable age and standing. **Dexterity 19, Intelligence 
 - **He is the current elder wizard of the Twilightcatcher clan.**
 - **He is an ally of the Veiled Alliance of Nibenay, though few tribe members outside the clan know this.**
 - **Even Muuton, chief of the Sky Singers, is unsure of this connection — though he suspects it.**
-- **Guvaano has ordered his clan members to stay away from Giustenal since the recent tragedies involving the two tribal females** — [[Slinnasia]]'s death and [[Jessareen]]'s infliction.
+- **Guvaano has ordered his clan members to stay away from Giustenal since the recent tragedies involving the two tribal females** — Slinnasia's death and Jessareen's infliction.
 - **Not everyone follows this order, but most have heeded it.**
 - Context: **members of the Twilightcatchers clan have entered the ruins on more than one occasion. A few of their number know ways into and out of the area**, though they make only infrequent visits.
-- **A guide can be hired from among the Twilightcatchers**, though **the price will be high and the service haphazard at best.** **At the first sign of danger, or the first hint of the [[Caller in Darkness]], the guide will disappear into the wastes.**
+- **A guide can be hired from among the Twilightcatchers**, though **the price will be high and the service haphazard at best.** **At the first sign of danger, or the first hint of the Caller in Darkness, the guide will disappear into the wastes.**
 - **Sometimes a few tidbits from the ruins make their way to the Twilightcatchers' stalls in Nibenay.** Some are true magical items, albeit of low power; **most are mundane artifacts imbued with enough enchantment to trick the gullible into parting with their ceramics.**
 - **The Twilightcatchers haven't returned to Giustenal since Slinnasia's death and Jessareen's infliction.** The clan has redirected its efforts toward **the ruins of Bodach**, which are at least **guarded by horrors that can be seen and fought with honest steel.**
 
@@ -119,7 +119,7 @@ An elf preserver of considerable age and standing. **Dexterity 19, Intelligence 
   - Reason: The other.
 - Existing actor or faction ID: `faction-veiled-alliance-nibenay`
   - Attitude: **Ally, secret**
-  - Reason: Printed. **Note the vault already has Alliance material — see [[Breck]], whose nominee makes him the Alliance's warden east of Nibenay.**
+  - Reason: Printed. **Note the vault already has Alliance material — see Breck, whose nominee makes him the Alliance's warden east of Nibenay.**
 
 ## Knowledge
 - Subject: Routes into Giustenal
@@ -149,7 +149,7 @@ Holding a clan out of a profitable graveyard, and hoping nobody asks him about N
 
 ## GM-Only Secrets
 - **He is the gatekeeper for a route into Giustenal and he is deliberately closing it.** Twilightcatcher guides exist, can be hired, and **will abandon the party at the first hint of the Caller.** Guvaano's order is why they are hard to find and expensive. **A party that goes over his head gets a guide who runs.**
-- **The Veiled Alliance connection is the party's real prize here.** A secret Alliance ally with 6th-level preserver casting, market cover across the Ivory Triangle, and a line into Nibenay is worth far more than a guide. **The vault has an established Alliance thread** — see the [[Breck]] nominee — and Guvaano plugs straight into it.
+- **The Veiled Alliance connection is the party's real prize here.** A secret Alliance ally with 6th-level preserver casting, market cover across the Ivory Triangle, and a line into Nibenay is worth far more than a guide. **The vault has an established Alliance thread** — see the Breck nominee — and Guvaano plugs straight into it.
 - **Muuton suspects and has not acted.** That is a live, printed tension inside the Sky Singers with no resolution written. **If Muuton ever needs leverage over the Twilightcatchers, he has it.**
 - **The fake magic items are a small, excellent hook.** The clan has been selling *mundane artifacts imbued with enough enchantment to trick the gullible* out of Giustenal. **Somewhere in the Tyr region there are buyers who have been cheated**, and at least one of them will have noticed.
 - *(Proposed.)* He pulled the clan out because he lost two young women, and because the Alliance told him something about what is under those ruins. He has not told the clan which reason it was.
@@ -194,8 +194,3 @@ Holding a clan out of a profitable graveyard, and hoping nobody asks him about N
   - Source type: campaign record (read-only reference)
   - Adaptation note: This nominee proposes an update.
   - Id note: `actor-guvaano-twilightcatcher`, `actor-muuton`, `actor-jessix-wanderer`, `actor-jessareen`, `actor-caller-in-darkness`, `faction-veiled-alliance-nibenay` resolve to real sandbox records. `actor-slinnasia` is proposed.
-
-## Unresolved Questions
-- Whether Muuton ever forces the issue.
-- What the Alliance has told him about Giustenal.
-- Who has been buying the clan's fake magic.

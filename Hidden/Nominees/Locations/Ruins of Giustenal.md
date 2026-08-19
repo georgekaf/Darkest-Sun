@@ -11,7 +11,7 @@ visibility: mixed
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/locations/giustenal-ruins.json` (revision 4, updated 2026-07-22).*
+*Read-only snapshot of `locations/giustenal-ruins.json` (revision 4, updated 2026-07-22).*
 
 | Field | Current value |
 | --- | --- |
@@ -52,7 +52,7 @@ From a rise: an enormous abandoned city half-sunk in mud, dragon statues standin
 
 ## Party Contact To Date
 
-**[[Ranni]] is the only player character who has ever been here.** Day 117, alone, for a few minutes, hidden and too frightened to memorise the ground — she could not fix the gate structure's position relative to the city. No other PC has set foot in the ruins.
+**Ranni is the only player character who has ever been here.** Day 117, alone, for a few minutes, hidden and too frightened to memorise the ground — she could not fix the gate structure's position relative to the city. No other PC has set foot in the ruins.
 
 Everything the party believes about this place therefore rests on **one frightened witness who was there briefly and by accident**, plus Zephyr's reading of the scrolls. That includes the belief that people live there, which comes from a single shout she heard while leaving.
 
@@ -107,7 +107,7 @@ Everything the party believes about this place therefore rests on **one frighten
 - Destination: **Kharanok**
   - Existing location ID: `location-kharanok`
   - Route ID: **`route-kharanok-giustenal-gate`** — proposed, must exist before this connection can be filed. The schema requires a real `routeId` per connection.
-  - Travel notes: **teleport plate, hard-paired and two-way.** Both ends are wholly intact, so the route activates from either side. **10 Crystal Dust** crushed, mixed with water and used to fill the inscriptions activates both members; **5 + 5** across the two ends does the same. One round standing on it teleports you and deactivates both; a further **5** keeps them active. Full mechanics in [[Portal Activation]] (GM ruling, 10 August 2026). Established day 117 from the scroll library under the Kharanok mines, read by Zephyr.
+  - Travel notes: **teleport plate, hard-paired and two-way.** Both ends are wholly intact, so the route activates from either side. **10 Crystal Dust** crushed, mixed with water and used to fill the inscriptions activates both members; **5 + 5** across the two ends does the same. One round standing on it teleports you and deactivates both; a further **5** keeps them active. Full mechanics in Portal Activation (GM ruling, 10 August 2026). Established day 117 from the scroll library under the Kharanok mines, read by Zephyr.
 - Destination: **New Giustenal**
   - Existing location ID: `location-new-giustenal`
   - Travel notes: through the under-regions. Directly below.
@@ -120,7 +120,7 @@ Everything the party believes about this place therefore rests on **one frighten
 
 ## GM-Only Secrets
 - **The gate arrival point is inside the Caller's search net.** Anyone stepping through who qualifies as a target is being probed within minutes, before they have oriented.
-- **Ranni was already contacted there on day 117** and does not know it. See [[The Caller in Darkness]] and [[Ranni]].
+- **Ranni was already contacted there on day 117** and does not know it. See The Caller in Darkness and Ranni.
 - Dregoth and the Caller are the campaign's great unwritten relationship: his murder created it, and he lives directly beneath it.
 
 ## Proposed Developments
@@ -128,7 +128,7 @@ All unapproved.
 - The party intends to return through the gate. Two separate parties already know they were there — the Caller and the Loyal — and neither knows what the other is.
 
 ## Sources
-- Title: `mk-repos/mk-sandbox/locations/giustenal-ruins.json`
+- Title: `locations/giustenal-ruins.json`
   - Section: full entry, revision 4
   - Printed page: —
   - Source type: campaign record (read-only)
@@ -152,9 +152,3 @@ All unapproved.
   - Printed page: —
   - Source type: campaign-original (actual play, 7 August 2026, in-world day 117)
   - Adaptation note: The gate connection, the arrival description, and the first confirmed contact between this campaign and the ruins.
-
-## Unresolved Questions
-- Where exactly the gate structure stands relative to the ruins — Ranni could not fix the spot.
-- Whether the gate connection belongs in `connections[]` as a route or needs a new link type; there is no road between Kharanok and Giustenal.
-- Whether `danger: 5` should be qualified by party composition, given the Caller's selection rule.
-- Whether the Loyal's watch on the arrival point becomes a clock.

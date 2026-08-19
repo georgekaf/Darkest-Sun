@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -11,7 +11,7 @@ visibility: mixed
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/tenpug.json` (revision 5, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/tenpug.json` (revision 5, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -220,9 +220,3 @@ Repairing and forging weapons at the bread oven while the two meeting tents argu
   - Source type: campaign record (read-only reference)
   - Adaptation note: This nominee proposes an update, not a replacement. Existing goals `goal-tenpug-protect-band` and `goal-tenpug-answer-gith-attack` are preserved above as Goals 1–2.
   - Id note: `actor-raxxon`, `actor-arcus`, `actor-sala`, `actor-roi`, `actor-lynth`, `actor-danya`, `faction-tenpugs-band`, `location-tenpugs-temple` all resolve to real sandbox records. `actor-jolon` and `actor-teva` are proposed ids introduced by this nominee batch.
-
-## Unresolved Questions
-- **Where is the temple?** Sandbox cites both City by the Silt Sea (near Giustenal) and Black Spine (~50 miles from Nibenay). `location-tenpugs-temple` and `location-lion-temple` both exist as separate records. Are they the same site, two sites, or one site the band relocated from?
-- **Who keeps the supplies now?** Danya's campaign-divergent role leaves the book's Keeper of Supplies function vacant. Reassign, or drop the post.
-- Whether Tenpug's refusal to search the temple survives contact with a party that simply does it anyway — and whether the band actually would take arms against PCs who saved them.
-- Whether he ever learns Lynth's arrangement, and from whom.

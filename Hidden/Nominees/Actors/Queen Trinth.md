@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -11,7 +11,7 @@ visibility: mixed
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/queen-trinth.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/queen-trinth.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -74,7 +74,7 @@ In Galnaki: absolute. In the wider Astral Plane: an ambitious exile whose self-i
 - She dreamed of finding that world, claiming it, and **using the powers she would find there to seize control of the entire Prime Material Plane** — and then to **overthrow the githyanki lich-queen.**
 - Her agents found **Athas**. She then found **Yathazor**, an ancient githyanki city buried beneath a chain of mountains, and chose it as her base.
 - **Then, with horror, she found the gith.** She recognised them as a devolved offshoot of her own race, **saw the hand of the githzerai in it, and vowed revenge.** She decided the gith were an inferior race, to be permitted to live only while useful — **in the end she intends to have them all killed, so the githyanki need never look upon this horrible reflection of themselves again.**
-- **The area around Yathazor is difficult for her people to plane shift into and out of.** To bring an army through she needed a fixed portal, so she called **[[Raskon]]**, one of her most trusted officers, and commanded him to build one. **He dubbed it the Nightmare Gate.**
+- **The area around Yathazor is difficult for her people to plane shift into and out of.** To bring an army through she needed a fixed portal, so she called **Raskon**, one of her most trusted officers, and commanded him to build one. **He dubbed it the Nightmare Gate.**
 - **With Yrinolir, she enclosed Galnaki and a great region of space around it in an impenetrable globe of force.** Within that barrier she **recreated the conditions her army would encounter on Athas — the atmosphere, the gravity, and even the temperature — so that when the time came, her army would already be acclimated to a hostile planet.**
 - **Her plan to overthrow the lich-queen is not known to her followers.** To almost all of them, **the idea of any githyanki attacking another is obscene.** The module states plainly: **only the corrupting influence of Yrinolir enabled Trinth to think of such a thing.**
 - Her private chambers are **seven rooms sealed in solid steel and laced with lead to block unwanted scrying.** In them are **detailed accounts of her experiments on the psionic creatures of Athas.**
@@ -191,7 +191,7 @@ In Galnaki: absolute. In the wider Astral Plane: an ambitious exile whose self-i
 Ruling Galnaki behind a globe of force, running experiments on captured Athasian minds, and waiting for a Gate that has just been damaged.
 
 ## GM-Only Secrets
-- **She may not be the author of any of this.** The module hedges twice, deliberately: the plan may be *"her doing, the item's doing, or a combination of the two,"* and **only the corrupting influence of Yrinolir enabled her to conceive of attacking her own race.** Played straight, Trinth is the campaign's final villain. Played on the hedge, **she is the artifact's second-to-last victim**, and the actual antagonist is the beating heart of a pit fiend on a stick. See [[Nyzethgyr]] for a related reading.
+- **She may not be the author of any of this.** The module hedges twice, deliberately: the plan may be *"her doing, the item's doing, or a combination of the two,"* and **only the corrupting influence of Yrinolir enabled her to conceive of attacking her own race.** Played straight, Trinth is the campaign's final villain. Played on the hedge, **she is the artifact's second-to-last victim**, and the actual antagonist is the beating heart of a pit fiend on a stick. See Nyzethgyr for a related reading.
 - **The answer to her central question is in Adventure Four and she will never get it.** She wants to know why Athasians are so psionically powerful. Part One of *The City of Calamity* raises exactly that: the githzerai psionic devastators may have jarred non-psionic creatures into releasing buried talents, or wiped out the psionic parasites that plagued sensitives. **Her own enemies may have made Athas what it is, while making the gith she despises.** A party that learned this in Yathazor is holding the thing she has been torturing prisoners for.
 - **Killing her is not enough and the module says so.** *"Slaying the queen is not enough to protect Athas from the githyanki, as the artifact Trinth is using still leaves the vortex open."* The adventure requires the scepter to be destroyed in a dimensional rift — and the only rift available is the collapsing Gate the party needs to escape through.
 - **The kneeling scene is the ambush the players get to spring.** She is offering a blessing with a charm attached, she has decided they are too beaten to try anything, and the module states outright: **the characters will never get a better opportunity.** Do not rush past it.
@@ -241,9 +241,3 @@ Ruling Galnaki behind a globe of force, running experiments on captured Athasian
   - Source type: campaign record (read-only reference)
   - Adaptation note: Existing goals `goal-trinth-open-gate` and `goal-trinth-harness-athasian-psionics` are preserved above as Goals 1–2. The `triggered` simulation mode is retained — **this actor should not act without explicit GM approval.**
   - Id note: `faction-trinth-githyanki`, `actor-zigath`, `location-nightmare-gate` resolve to real sandbox records. `actor-raskon`, `actor-githyanki-lich-queen`, `actor-krika`, `actor-gremlish` are proposed ids from this batch.
-
-## Unresolved Questions
-- **Is the plan hers or Yrinolir's?** The module refuses to say. Recommended: so should the campaign.
-- Whether Yrinolir should have an `artifact-` record. It has an Ego, an agenda, a voice, and arguably authorship of the entire campaign.
-- Whether the party ever tells her why Athasians are psionic.
-- What happens to Galnaki, the Gate, and the acclimated army after she dies.

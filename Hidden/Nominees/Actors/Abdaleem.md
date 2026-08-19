@@ -1,17 +1,17 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
 # Actor: Abdaleem (update to existing actor-abdaleem, revision 4)
 
-*(Revision of existing actor `actor-abdaleem`. **The only friendly, competent, reachable spellcaster in the Giustenal environs — and the only person near the ruins the [[The Caller in Darkness|Caller]] cannot touch.**)*
+*(Revision of existing actor `actor-abdaleem`. **The only friendly, competent, reachable spellcaster in the Giustenal environs — and the only person near the ruins the Caller cannot touch.**)*
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/abdaleem.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/abdaleem.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -65,7 +65,7 @@ Little. He is a fixture of the region rather than a figure in it — **he never 
 - **Alignment: Chaotic Neutral.**
 - **Origin:** *"Abdaleem was raised in Tyr and left shortly after being persecuted by Kalak's templars. He wandered the wastes for years before finally being taken in by a silt-cleric operating in the Giustenal area."*
 - **His mentor disappeared some time ago**, but Abdaleem **was charged with helping the sea push its way forward.** **One day he hopes it will swallow Tyr and the entire Tablelands whole.**
-- **He has no psionic abilities, so the [[The Caller in Darkness|Caller in Darkness]] has never bothered him.** **He knows a little about it, but nothing that will help characters defeat it.**
+- **He has no psionic abilities, so the Caller in Darkness has never bothered him.** **He knows a little about it, but nothing that will help characters defeat it.**
 
 ### What he can give a friendly party
 - **draxia**, a local weed **hated by silt horrors**. Rubbed on the skin it acts as a repellent for **two hours**. It is **impossible to gather enough to repel a full-grown silt horror**, but **the spawn so common to Giustenal won't come within 10 feet of it.** **No effect on the silt spawn kraglings around the Blasted Spire.**
@@ -189,7 +189,7 @@ Somewhere under the dust, making tablets and staying ahead of the krag. **75% ch
 - **Scroll Tablets:** clay slabs, each holding a modified *free action* — **swim, breathe and see in silt for three hours.** He carries **10**, makes **one every two days**, and **will not trade them for money.** The price is **the krag's head**.
 - **draxia:** rubbed on skin, silt horror **spawn** will not approach within 10 feet, for **two hours**. **No effect on adult silt horrors or on the kraglings at the Blasted Spire.**
 - **Turn Undead:** currently holds the krag at bay. **He is afraid it will fail.** A GM running the krag should make that fear load-bearing.
-- **No psionics whatsoever** — and therefore **wholly immune to [[The Caller in Darkness]]**.
+- **No psionics whatsoever** — and therefore **wholly immune to The Caller in Darkness**.
 - **Hostile to water and rain priests** who declare themselves. Not negotiable, and he has a real reason.
 - **Running him at the table:** distant, dry, faintly rude, and already calculating. He answers questions a beat late and always asks what's in it for the sea.
 - **Conversion note:** full AD&D block printed and converted above. Level compressed 12 → 9 for Shadowdark's cap. Spell slots dropped in favour of Shadowdark's casting; treat him as a caster capable of high-tier priest magic, with silt-domain effects favoured.
@@ -204,9 +204,3 @@ Somewhere under the dust, making tablets and staying ahead of the krag. **75% ch
   - Source type: official
   - Adaptation note: Location, the 75% presence chance and 1d8-hour absence, draxia and its exact limits, the scroll tablets and their terms, the krag rivalry, the Tyr backstory, the vanished mentor, the hostility to water/rain priests, the basin vulnerability, the absence of psionics and the resulting Caller immunity, and the full stat block are **all printed**. Everything marked *(Proposed)* is nominee-authored.
   - Id note: `actor-kalak`, `actor-eevuu-silt-stalker` resolve to real sandbox/vault records. `actor-abdaleem`, `actor-caller-in-darkness`, `actor-the-krag`, `actor-abdaleems-mentor`, `location-abdaleems-island` are proposed ids from this batch.
-
-## Unresolved Questions
-- What happened to his mentor.
-- **Whether the "flood the basin" idea is live in this campaign** — and whether the party ever gets to realise he knows.
-- Whether the krag can actually be killed by a party at this tier, or whether the hunt is meant to be a long arc.
-- Whether he and the Silt Stalkers have any dealings.

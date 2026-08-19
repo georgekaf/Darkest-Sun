@@ -3,6 +3,90 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.27 — The Kharanok Secret, the Gate Rules, the Nominee Queue Filed and Archived
+
+Everything since v1.26, consolidated into one entry.
+
+### The Kharanok secret
+
+**Dorak holds the binding.** He carries a lion's-head medallion of almost fire-red gemstone that casts fireball and is bonded to the **moonbeast** beneath Kharanok. He lied about the leather parchment, sits on twenty barrels of Crystal Dust while the party scrapes handfuls together, teaches the new workers wrong on purpose so nobody can replace him, and dislikes elves. The party suspects **Breck**, who is innocent — and who wears a **Mind Seal** that makes him the one person the moonbeast cannot detect. Breck's and Relo's records were corrected accordingly.
+
+**The moonbeast filed at last (#163).** It had driven the plot since ad4 with no record anywhere. Old magic confines it to the caves; its psionic reach is unaffected; it hunts Dorak specifically. Both of the Obsidian Mines' standing GM questions — the dream presence and the villagers' madness — are answered by it.
+
+**The Lion Medallion (#—)** — first artifact nominee and the first file under `Nominees/Artifacts/`, keyed to the moonbeast and owned by Dorak. It cannot be filed until `actor-dorak` and `actor-moonbeast` exist, so the dependency order is recorded on the artifact itself and linked both ways.
+
+### The gate rules
+
+**Portal activation rewritten to the GM ruling.** Gates have roles: a defaced gate is a **destination only**, its paired origins scattered under Kharanok, and it cannot be patched with conform or any matter manipulation without the exact lost runes. The intact plate is **hard-paired** with the Giustenal gate, so either end can open the route. Ten Crystal Dust crushed into water fills the inscriptions and wakes both ends, or five plus five across them; a round on the plate teleports and closes them; five more keeps them open. Network gates need the destination spoken in Gith or Draxian, and re-pairing needs found instructions plus a DC 20 Intelligence check. The Obsidian Mines and Giustenal nominees carried the older play-derived version and now point at the rules page.
+
+**Two gate items marked GM-only:** the re-pairing procedure, which no player has asked about, and the fact that the broken plate was **deliberately** damaged — with the continuity note that Zephyr's day-117 reading already told the party the break was intentional, so what stays secret is who, when and why. All three gate connections now name `route-kharanok-giustenal-gate` rather than a bare target, since the schema requires a real routeId per connection.
+
+### Nominees filed to MK-Sandbox
+
+**authorGM filled** per Living Campaign rule 6, then filed: The Loyal as a faction (revision 2), the five followers and Jessix (**#140–#145**), and the Caller in Darkness (**#146**).
+
+**The Caller in Darkness gains the Ranni contact** — the day-117 reach through the Kharanok gate at Giustenal recorded as a Relationships entry, corroborated by the cave creature's account of what came through, with two open questions: why she answered, and whether its reach crosses the gate.
+
+**First player-character records in the vault (#147–#151)** — Ranni, Relo, Sylvar, Rhazek, Zephyr, built from the Foundry Shadowdark exports, the ad4–ad7 summaries and the sandbox system files. Ranni's wild talent, **Body Equilibrium**, is recorded and explains why the Caller could reach her. Relo was then reframed as a **revision** against `actor-relo` at revision 4 with a read-only snapshot and a field-level diff (empty goals, no ancestry or class, sourceRefs stopping at day 110), and the four genuinely absent PCs carry the sandbox PC field shape — `actorType: agent` + `controlType: player-character`. This corrected the earlier claim that the sandbox holds no PCs: it holds thirty.
+
+**Giustenal locations extracted (#152–#154).** The Tar Mine is new (Campaign Book p.23, two miles south of Cromlin). Ruins of Giustenal is a revision — its `connections[]` was empty although a working gate to Kharanok ran both ways on day 117, and its `notableActors[]` omitted Jessix and the Loyal. Tenpug's Temple is a revision: it is the "ancient temple" of the sources, and Nallan died there by the Caller's hand without the record saying so.
+
+**Altar of Dust roster completed from the Foundry sheets** — five revisions (Shaka, Parias, Sepsis, Rhugor, Ugo) and three new actors (Cypoul, Gur-da, Vareth). Four record conflicts surfaced rather than smoothed: Parias filed as "Psionic" but is a **Necromancer**; Rhugor's `lastConfirmedDay` stale by a day; Ugo marked inactive since day 109 while his sheet shows level 5 and masterwork gear; Sepsis active with nothing since day 110, since confirmed inactive on the Ugo precedent. Giustenal now states that **Ranni is the only PC ever to have been there**, and Gur-da's and Ugo's records say outright that they have not.
+
+**Breck and Dorak brought up to day 117**, both having stopped at ad3/ad5 and missed the session that changed them. Dorak's file also had a duplicated Stat Block section and out-of-order headings, fixed against the Living Campaign template.
+
+**Kharanok and the Obsidian Mines caught up (#164, #165).** Kharanok was fourteen revisions deep and stopped at day 112, missing nine new residents, the gate, and the fact that its own recorded horrors have a named cause. The mines' "one-way teleportation room" is two plates running both ways, and a hide library of thirty to forty scrolls sits under a flagstone, barely read.
+
+**Zharvek revision** against `location-zharvek` revision 5, carrying the raid mechanism without ruling on the conflict itself. It flags a real defect: `features[]` mixed two eras with no dates, so Damak "oversees the settlement" in the present tense on a record whose status says ruined and abandoned. Every feature is now date-stamped, days 113–116 filled in, and Damak's fate recorded as unknown rather than implied. Geography untouched — northeast versus south past the Salt Sea stays unresolved and the mapHex is left alone. Also noted: keeping one `location-zharvek` for both the day-110 market and the day-115 ruin already applies option 4 of the continuity record silently, which is worth making explicit or backing out, but not by inference from a schema convenience.
+
+### Sheets read in, rulings applied
+
+**Ranni corrected to level 3** from the Foundry sheet — Elf Water Priest 3, XP 10, HP 15, WIS 18, with Body Equilibrium as a class ability; the nominee had carried level 1 from a stale roster row.
+
+**Zephyr is a man, and Human.** A GM ruling settled both of #151's blockers: ad4 had him right, ad7 and `npc_roster.md` had drifted to feminine forms, and the shaven head was wrong — short-cropped white hair. His sheet was then read in: Human Air Priest 3, XP 7, CON 17, WIS 16, Prayer and Bless alongside Cure Wounds, and a class ability, **Thought Projection**, that has never appeared at the table. Ancestry confirmed twice over. Flagged rather than absorbed: he sits at **4 of 15 hit points** and no session accounts for the wound.
+
+**The Loyal are canon, with the GM's stat blocks.** #100 asked whether the five named followers were campaign canon or table-local; they now have GM-authored sheets, so canon. The levels proposed from what the band survived match the sheets exactly, and Tharek's martial adaptation is confirmed rather than overruled — he is the band's Defender and, at 36 HP, its toughest member. The band is built in pairs, matching the training and scouting relationships already recorded, and all five carry **Elf Sprint** and **Loyal to Jessix**, which makes their loyalty a morale mechanic rather than flavour. Jessix gains more than stats: **Won't Go Back** means he will not enter the ruins at all unless someone he is protecting is inside, which makes the band edge-patrollers rather than guides; the **Tar-Pit Map** is a grantable reward that removes the tar-pit encounter modifier; and he is a wild talent with **Catfall and 104 PSP**, present in neither the sandbox record nor the printed source.
+
+**Vareth belongs to House Markon from day 116.** The nominee described the day-116 double presence as unresolved; it was ruled on 5 August — Agis teleported him — which is what had blocked #162. A transition rather than dual membership, so the single-valued `partyName` suffices; he still travels with Altar of Dust on days 115–117 as an arrangement, not an allegiance. The **teleport mechanism stays explicitly unexplained**: spell, cost, range and frequency are undescribed, and a same-day Kharanok–Nibenay corridor must not become implied canon from one occurrence.
+
+**Zharvek survivor count reconciled across three records.** ad7 is the authority — three recruits to Breck, two workers to Dorak, plus Tzala — which only balances if the earth spirit took a laborer, which is what ad6 says. Seven rescued on day 116, six reached Kharanok on day 117. The ad6 prep, the ad7 prep and the Kharanok nominee each said something different; all three now name the loss rather than leaving it as arithmetic.
+
+**Kalia is not corrupt.** #97's only real blocker was the design doc's "too efficient, something is off" line, reinterpreted without a ruling. Ruled: she is not crooked. She became authoritative after her husband died in the gith invasion, holds the cistern and the rationing, and wants Kharanok to recover — which accounts for every hard call she makes, from docking Sylvar's water to berating Dorak until the mines reopen. Corruption stays available as a future development, not a current fact.
+
+**Kalia controls the storage pits.** Slots are granted or withdrawn on her judgement of whether the party has earned them — favour, not entitlement. The sandbox already carries the demonstration: on day 110 she granted extra space after the party donated half the cooked bulette meat, and nothing obliges her to leave it granted. This gives her a second lever alongside the water ration: what they drink, and where they may keep what they own.
+
+### Published records cleaned
+
+**No local filenames in published records.** Issue bodies mirror nominee files, so a sheet filename written in the vault ends up published. Thirteen nominees cited Foundry exports by name and now read "the character's Foundry sheet"; all thirteen issue bodies and three posted comments were rewritten to match.
+
+**Vault paths stripped, in two passes.** Sixteen nominees named private paths — session preps, the Vareth continuity record, the rosters, the Obsidian Mines dungeon key, the NPC note for the Loyal — the worst of them pointing at a `visibility: gm` record. A second pass caught bare filenames without a directory, which read as harmless but name private files just as plainly, plus the Zharvek continuity record's cross-flag line. Only mk-sandbox paths remain, since those mean something to a reader of that repo. A sweep of all issues and comments returns clean.
+
+**`Vareth Continuity Conflict.md` converted to English**, the last of the three continuity records still in Greek. Content preserved in full, including the 5 August ruling and the calendar verification at three checkpoints, with the 11 August House Markon ruling folded in.
+
+### The register, the queues, and the archive
+
+**`Hidden/Pending Worldbuilding Issues.md` became the master register.** It had existed as four lines, untouched since 6 August, while a dozen open questions accumulated across nominees, summaries and GitHub. Rebuilt with nineteen live entries in four states — open, held, blocked, resolved — each naming where it lives and which GitHub issue tracks it. Entries with no issue are marked **unfiled**, which is how Dhojakt, the ep.22 Macro discrepancy, the Red Oasis claim and the Many class question became visible as untracked rather than merely unmentioned. Procedure written at the top: consult before any change, update after, inherit an entry's status rather than settling it by phrasing, record the issue number when one is filed. Wired into the skill as Stage −1 and into the issue-response rules. It has since grown by a further 1548 lines, absorbing the resolutions appendix and the open-question harvest.
+
+**`Hidden/Nominees/_landed/` — 117 sheets archived.** Every nominee whose record now exists on the mk-sandbox default branch was lifted out of `Actors/`, `Artifacts/`, `Factions/` and `Locations/` into a mirror of the same four folders. `Hidden/Nominees/` is a queue, not a library, and a landed sheet was making the queue unreadable. Among those archived: Breck, Dorak, Cypoul, Zephyr, Vareth, Zuzar, Umor, Zerthimon, the Lion Medallion, The Loyal, Kharanok, the Obsidian Mines, Tenpug's Temple and the Tar Mine.
+
+**`Hidden/Nominees/_issue-triage.md`** — the generated triage report: **262 issues (28 open / 234 closed), 163 nominees, 440 sandbox records**, resolving every nominee into one of six states — **30 FILE-REVISION**, **11 IN-REVIEW**, **4 CLOSED-UNLANDED**, **0 FILE-NEW**, **0 STALE-ISSUE**. Nothing is pushed to MK-Sandbox on the strength of a nominee file alone; this report is what says which state a sheet is in.
+
+**`Hidden/Resolutions/` — a second queue.** One file per mk-sandbox record, answering the `unresolvedDetails[]` that record carries, sourced from the printed books wherever they answer. The queue is the appendix of the register — **617 items across 175 records**, harvested 13 August 2026 from `main` at `7c98d24`. Every item takes exactly one of four verdicts: **ANSWERED** (quote the book, propose the change), **PRINTED SILENCE** (closed under *silence stays silent* — the campaign invents nothing), **GM DECISION** (goes to the user, not to research), **PLAY-DEPENDENT** (record the printed terms, not an outcome). PRINTED SILENCE and PLAY-DEPENDENT are answers, not failures. Sixteen drafts so far — Ari Evan, Captain Gaff, Gurdek, Keehya, Krika, Maelactorus, Morlah, Olton, Overlord Zuzar, Passk, Passk's Shack, Silt Shoals Route, the Square of Gurdek faction decision, Teva, The Lich-Queen, Tormar — none of them filed.
+
+**`Living Campaign.md`** gains record templates for each entity type, with a fixed section order: one-sentence summary, classification, player-safe description split into appearance / manner and voice / public reputation, then confirmed facts, goals, traits and pressures, resources, relationships, knowledge, current activity, GM-only secrets, proposed developments, stat block, sources, unresolved questions. The player-safe / GM-only split is now structural rather than a convention held in each writer's head.
+
+**Nineteen further nominee sheets** — Actors: Damak of Zharvek, Karad II, Talek Vos, Vasara. Artifacts: the Dark Lens, Yrinolir. Locations: Cromlin, the Dirty Lizard, the Happy Hurrum Tavern, Island Settlements, Karand-Vath, Passk's Shack, The Citadel, The Rubble Reef, and the five dwarven kingdoms as an index plus four stubs (Durak-Kal, Karum-Draz, Kurad-Mor, Dras-Karan).
+
+### This session's play records
+
+**`Hidden/Quel Nash Occupancy Continuity Conflict.md`** — s3 ep.24 has more than thirty Belgoi and five Braxat holding Quel Nash as a forward base at noon of the day recorded as 106, while `events/day-0106.json` and `day-0107.json` have House Markon sheltering inside the abandoned village from dusk of 106 through the night of 107, and `locations/quel-nash.json` revision 7 carries population 0 forward to day 117. Underneath sits a dating question: both Dune Runners summaries print **105th day** for events the sandbox files on **106** and **107**, which would make ep.24 day 108 and dissolve the conflict. Four candidate resolutions with their costs, the numbering fix recommended, no record changed and no date line moved — the decision is the user's. Indexed as row 29 of the register.
+
+**`Hidden/Session prep/0008 - Session Prep 13-8-2026.md`** — ad8 «The Voices of Giustenal», in-world day 118. Goals left as the record of what was planned; Done, Not done, Summary and Left to do filled from the finished summary. Breck posted on the gate, the party across to Giustenal, and the city calling each of them with the voice of their own dead — Shaka's mother, Zilvar's arena, Relo's slaver's camp — with Parias's prayer catching only Shaka, while Relo and Zilvar broke away untouched. Standing failures carried forward: the potions were never brewed before the crossing, Breck was never asked about the key for a second session running, the broken plate is still unexamined, and the city past the plaza is still unseen. Two GM truths close it — the dead-voice mechanism confirmed as the Caller in Darkness, and v1.25's prediction spent, the Loyal having watched the spot where Ranni vanished, which is why Jessix was on that hill expecting them.
+
+**`.obsidian/workspace.json`** — Obsidian UI state only, no content.
+
+---
+
 ## v1.26 — Prep 0007 Renamed to the Real Play Date
 
 **`Hidden/Session prep/0007 - Session Prep 3-8-2026.md` → `Hidden/Session prep/0007 - Session Prep 7-8-2026.md`.** The session was prepped for 3 August and played on the 7th. The filename, the `title:` field and the H1 heading all now carry 7 Αυγούστου 2026, the date the game actually happened, and the "*Actually played on Friday, 7 August 2026.*" line under the calendar block was removed as redundant. Git records this as a delete plus an add of the new file.

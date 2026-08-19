@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -11,7 +11,7 @@ visibility: mixed
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/raxxon.json` (revision 7, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/raxxon.json` (revision 7, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -128,7 +128,7 @@ In Nibenay's outer market he is a familiar minor nuisance — the elf carpenter 
   - Reason: Existing sandbox relationship.
 - Existing actor or faction ID: `actor-danya`
   - Attitude: Cordial (2)
-  - Reason: Carried over from the existing record. See the divergence flag on [[Danya]].
+  - Reason: Carried over from the existing record. See the divergence flag on Danya.
 
 ## Knowledge
 - Subject: The temple's location and approach
@@ -206,8 +206,3 @@ Working the Nibenay market at dusk, approaching armed strangers with the carpent
   - Source type: campaign record (read-only reference)
   - Adaptation note: Existing record already places him at `location-nibenay` with the coded carpentry line. This nominee expands rather than replaces.
   - Id note: `actor-tenpug`, `actor-lynth`, `actor-arcus`, `actor-danya`, `actor-lady-vardan`, `actor-veshara-seventh-seal` all resolve to real sandbox records.
-
-## Unresolved Questions
-- Whether his route is the source of the band's exposure, and whether the campaign wants that to be knowable.
-- What the Gulg "misunderstanding" actually was. The printed text is deliberately coy; the campaign has never filled it in.
-- Whether he survives the first battle. Nothing in the source protects him.

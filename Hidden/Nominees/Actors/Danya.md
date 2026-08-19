@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -19,7 +19,7 @@ Per `GUIDELINES.md` → *NPC background corrections*, the confirmed version wins
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/danya.json` (revision 5, updated 2026-07-29). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/danya.json` (revision 5, updated 2026-07-29). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -116,7 +116,7 @@ Known as a hard-nosed supply factor with an unusually long memory and unusually 
   - Reason: Legacy relationship value from the older record. Under the corrected history their connection needs re-grounding — see Unresolved Questions.
 - Existing actor or faction ID: `actor-arcus`
   - Attitude: Attached (2)
-  - Reason: The printed source made her his rescuer and employer. That chain is broken by the correction; the affection in the sandbox values survives it. See [[Arcus]].
+  - Reason: The printed source made her his rescuer and employer. That chain is broken by the correction; the affection in the sandbox values survives it. See Arcus.
 - Existing actor or faction ID: `actor-raxxon`
   - Attitude: Cordial (2)
   - Reason: Legacy value from the existing record.
@@ -151,7 +151,7 @@ Working the Kharanok supply routes and keeping the Black Spine under observation
 
 ## Proposed Developments
 - **Reconciliation ruling (recommended):** adopt the supply-factor cover, keep her Kharanok posting, and treat the printed "Keeper of Supplies for Tenpug's Band" as an earlier posting she has since left. This preserves every existing relationship value without contradicting the Day 104 correction.
-- If instead the GM wants a clean break, the Keeper of Supplies post needs reassigning and Arcus needs a new rescuer — see [[Arcus]] and [[Tenpug]].
+- If instead the GM wants a clean break, the Keeper of Supplies post needs reassigning and Arcus needs a new rescuer — see Arcus and Tenpug.
 - The Rajaat/Gray material is a campaign-scale thread parked in a minor NPC. Promoting it is a decision, not an accident, and should be made deliberately.
 
 ## Stat Block or Rules Notes
@@ -188,9 +188,3 @@ Working the Kharanok supply routes and keeping the Black Spine under observation
   - Source type: official — **superseded**
   - Adaptation note: Printed material retained above only as a supersession record. Do not re-import the thief stat block, the Keeper of Supplies post, the Arcus employment, or the tent-8 debate role without an explicit GM ruling reversing the Day 104 correction.
   - Id note: `actor-tenpug`, `actor-arcus`, `actor-raxxon`, `actor-sala`, `actor-roi`, `actor-lynth`, `location-kharanok` all resolve to real sandbox records. The Order has **no faction record** in `factions/`.
-
-## Unresolved Questions
-- **Does the Order need a faction record?** She is described as its agent and there is no `faction-` id for it. This is a real gap.
-- Whether to adopt the supply-factor reconciliation above, or to fully sever her from Tenpug's Band.
-- What her Rajaat/Gray claim actually says. It has been referenced twice and never written down.
-- Whether the legacy relationship values to the band members should be re-grounded or retired.

@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -11,7 +11,7 @@ visibility: mixed
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/arcus.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/arcus.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -113,7 +113,7 @@ Beloved and slightly patronised. The band treats him as a very large child who c
   - Reason: Tenpug is the one who decided Arcus was worth feeding. Arcus has never needed a second reason.
 - Existing actor or faction ID: `actor-danya`
   - Attitude: Attached and slightly afraid (2)
-  - Reason: **Divergence flag.** The printed source makes Danya his rescuer and employer, and has him cringing under her sarcasm while loving her. The campaign record has moved Danya elsewhere entirely. The emotional dynamic is worth keeping; the name attached to it needs a GM ruling. See [[Danya]].
+  - Reason: **Divergence flag.** The printed source makes Danya his rescuer and employer, and has him cringing under her sarcasm while loving her. The campaign record has moved Danya elsewhere entirely. The emotional dynamic is worth keeping; the name attached to it needs a GM ruling. See Danya.
 - Existing actor or faction ID: `actor-sala`
   - Attitude: Trusting (3)
   - Reason: Sala is small, gentle, and fixes things. Arcus is careful around him in a way that is quietly touching.
@@ -192,8 +192,3 @@ Arguing in the second meeting tent that the gith can be killed, and being steadi
   - Source type: campaign record (read-only reference)
   - Adaptation note: Existing record already frames him as "the great physical shield… loyal, straightforward, and slow to understand intrigue." This nominee is consistent with that and adds the stat block, goals, and secrets.
   - Id note: `actor-tenpug`, `actor-danya`, `actor-sala`, `actor-roi`, `actor-lynth`, `actor-raxxon` all resolve to real sandbox records.
-
-## Unresolved Questions
-- **Who actually rescued him**, now that Danya's role has moved. This needs a GM ruling; it is a one-line fix with a lasting relationship attached.
-- What happened between the slave caravan and the deep desert.
-- Whether the band ever works out that he is the most dangerous fighter they have.

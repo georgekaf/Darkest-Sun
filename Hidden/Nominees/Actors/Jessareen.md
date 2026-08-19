@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -11,7 +11,7 @@ visibility: mixed
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/jessareen.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/jessareen.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -45,7 +45,7 @@ A female elf, unarmoured, carrying **a bone long sword −1 that is a *luck blad
 ### Manner and Voice
 **She spreads local news and history by telling her tales.** **Her biting cynicism and ability to motivate a crowd can discredit and ruin those who cross her path.** She is **an instigator and a force for change among the tribes and settlements she visits**, and **the elders make sure to keep her on their good side lest her serpentlike tongue turn their friends against them.**
 
-**Since her meeting with [[Kataal the Mover]] in the tunnels beneath Giustenal, Jessareen has changed. Her songs are now strange and confused.**
+**Since her meeting with Kataal the Mover in the tunnels beneath Giustenal, Jessareen has changed. Her songs are now strange and confused.**
 
 ### Public Reputation
 **Of all the peoples who live in the Giustenal region, perhaps none is as well known as Jessareen.**
@@ -56,10 +56,10 @@ A female elf, unarmoured, carrying **a bone long sword −1 that is a *luck blad
 - **74 PSPs.** Wild talents: **Mindlink** (PS 10, cost contact +8/round), **Contact** (PS 15, cost varies +1/round), **Phobia Amplification** (PS 13, cost varies +4/round).
 - Spells: 1st — *colour spray*, *comprehend languages*, *read magic*; 2nd — *forget*, *scare*.
 - **She can be a powerful force for good when her beliefs are in the right place. Too often, though, she allows her emotions or sensitive ego to get in the way and uses her fantastic ability to motivate crowds against those she dislikes.**
-- **This was the case with [[Jessix the Wanderer]].**
-- **[[Slinnasia]] was Jessareen's sister, and she will forever blame Jessix for her death.**
+- **This was the case with Jessix the Wanderer.**
+- **Slinnasia was Jessareen's sister, and she will forever blame Jessix for her death.**
 - **Her recounting of the tale paints Jessix in a poor light, and most who hear it are forever convinced of his guilt.**
-- **She went looking for Jessix and met the disembodied psyche [[Kataal the Mover]] instead.**
+- **She went looking for Jessix and met the disembodied psyche Kataal the Mover instead.**
 - **She has been deeply affected by the images Kataal placed in her mind, and until — and if — she can gain control and understanding of them, she will be a tragic figure.**
 
 ## Goals
@@ -150,7 +150,7 @@ Travelling the settlements as she always has, singing songs that no longer come 
 - **She is an information source and a puzzle in the same NPC.** A party that wants to know anything about the Giustenal region asks Jessareen. A party that listens carefully to *how she sings now* has stumbled onto Kataal, the Green Age, and the tunnels — **several chapters before the module intends to introduce them.**
 - **What Kataal showed her is undefined and is the best open slot in the environs.** Kataal is a disembodied halfling psyche from the **Green Age** who maintains the psionic transport tunnels beneath Giustenal. Whatever he put in a bard's head is, by definition, **a first-hand image of Athas before the Cleansing Wars.** The module says only that it has left her a tragic figure. **A campaign can decide it is a map, a memory, a warning, or a name.**
 - **Her wild talents are wrong for a bard and right for a tragedy.** Mindlink, Contact, and **Phobia Amplification** — she is psionically equipped to have received exactly what she received, and to do something unpleasant with it. The module never uses Phobia Amplification. It should.
-- **She is the reason [[Jessix the Wanderer]] cannot be helped, and the only person who can undo it.** One song. She has never sung it.
+- **She is the reason Jessix the Wanderer cannot be helped, and the only person who can undo it.** One song. She has never sung it.
 - **She is grieving and she is not sympathetic, and both should be played.** She ruined an innocent man and would do it again, and her sister is still dead, and now something has been done to her too.
 - *(Proposed.)* The images are getting stronger, not weaker.
 
@@ -194,8 +194,3 @@ Travelling the settlements as she always has, singing songs that no longer come 
   - Source type: campaign record (read-only reference)
   - Adaptation note: Existing record frames her as "informant and contact in Nibenay." This nominee expands rather than replaces.
   - Id note: `actor-jessareen`, `actor-jessix-wanderer`, `actor-kataal-the-mover`, `actor-caller-in-darkness`, `actor-guvaano-twilightcatcher` resolve to real sandbox records. `actor-slinnasia` is proposed.
-
-## Unresolved Questions
-- **What Kataal showed her.** The single biggest open slot in Chapter Two.
-- Whether she ever recants about Jessix.
-- Whether the *luck blade* can be recharged, and what she would wish for.

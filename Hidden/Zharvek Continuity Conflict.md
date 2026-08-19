@@ -52,11 +52,17 @@ So both campaigns independently describe: House Markon visits Zharvek → Gith t
 
 ## Campaign Continuity Ruling
 
-*Left blank — the campaign owner has not ruled. Deliberately held open; see GM-Only Notes for the options and the working position.*
+**Ruled 12 August 2026 by the campaign owner. Option 4 confirmed: one place, one record.**
+
+- **One settlement, one `location-zharvek`.** The day-110 market and the day-115 ruin are the same place at two points of one causal chain. This is now an explicit ruling, not a silent consequence of keeping a single record.
+- **Position.** Zharvek lies **west of Kharanok, northwest of Quor'Anok, south of Sul'Nok and southeast of Nibenay.** Both narrative accounts were wrong on direction: House Markon's "northeast toward Nibenay" and Altar of Dust's "south past the Salt Sea" are each mistaken. **The `mapHex` already encoded the ruling** — Zharvek at column 3, row 6 against Kharanok (6,6), Quor'Anok (5,7), Sul'Nok (3,4) and Nibenay (1,5) satisfies all four bearings, so no hex changes.
+- **The sack.** The survivors' "about two weeks" referred to the **repeated raids** the settlement had been suffering, not to its destruction. Zharvek was raided again and again from roughly day 101 onward and was finally emptied in the **day 113–115 window**. Nothing is contradicted: the day 109–110 visit finds a working market already under harassment, Talek Vos rides out on day 113, and the ruin stands on day 115. The refugees were accurate, not mistaken.
+
+**Still open, deliberately:** Damak's fate, and whether anyone comes looking for Talek Vos — see Unresolved Questions.
 
 ## Player-Safe Version
 
-There is a place called Zharvek on the road northeast toward Nibenay, and refugees in Kharanok speak of a ruined Zharvek somewhere south. Nobody in the world has yet remarked on the discrepancy.
+Zharvek lies west of Kharanok, out toward Nibenay and south of Sul'Nok. It was a fortified roadside village with an animal market, raided again and again over a matter of weeks, and by the middle of the month it stood empty — broken doors, no movement, its people carried off. A handful of survivors reached Kharanok; one of them, Tzala, lives there now.
 
 ## GM-Only Notes
 
@@ -101,7 +107,7 @@ Four options, with costs:
 
 ## Unresolved Questions
 
-- Same place or two places sharing a name?
-- If one place: which account is displaced — the geography, the date, or both?
-- Is the survivors' testimony simply mistaken, and does the GM want that escape hatch left available?
-- Does Talek Vos's arrival at Zharvek force the question at the table before the GM has ruled?
+*(The first three questions were answered on 12 August 2026 — see Campaign Continuity Ruling. One place; the geography was displaced in both accounts and the `mapHex` was right; the survivors were describing the repeated raids, not the sack, so their testimony stands.)*
+
+- **What happened to Damak?** Held open by the campaign owner. Not among the seven survivors; his authority ends with the settlement and his fate is recorded as unknown.
+- **Talek Vos.** Whether he and his six guards were taken in the same raiding, and whether anyone comes looking for an envoy who never reported back — both held open by the campaign owner.

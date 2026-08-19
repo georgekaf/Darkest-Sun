@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -11,7 +11,7 @@ visibility: mixed
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/muuton.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/muuton.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -56,10 +56,10 @@ Chief of the Sky Singers — an elf trader-fighter who runs the only major elf t
 - **The tribe has approximately 3,500 members.** The **Dayjumpers are the largest with about 1,500**; the rest is divided evenly between Dawnchasers and Twilightcatchers.
 - **Contrary to the activities of other elf tribes, the Sky Singers actually gather their market goods by mostly legitimate means.** They trade and purchase from outlying settlements to bring to the city-states, then gather merchandise in one city to trade in another. **Outright theft accounts for only a fraction of their total stock.**
 - **If one clan does poorly during a given period, it is not considered an infraction by the tribe as a whole. The entire tribe shares the assets and deficits of the individual clans.**
-- **[[Guvaano Twilightcatcher]] is an ally of the Veiled Alliance of Nibenay. Even Muuton is unsure of this connection, though he suspects it.**
+- **Guvaano Twilightcatcher is an ally of the Veiled Alliance of Nibenay. Even Muuton is unsure of this connection, though he suspects it.**
 - **Rumours abound that the Sky Singers often explore the ruins of Giustenal. The tales are half true** — members of the **Twilightcatchers** clan have entered the ruins on more than one occasion, and **a few of their number know ways into and out of the area.**
-- The Twilightcatchers **haven't returned to Giustenal since [[Slinnasia]]'s death and [[Jessareen]]'s infliction**, and have redirected their efforts toward **the ruins of Bodach**.
-- **[[Jessix the Wanderer]] was never truly exiled from the Sky Singers** — he left when he realised the tribe was turning against him.
+- The Twilightcatchers **haven't returned to Giustenal since Slinnasia's death and Jessareen's infliction**, and have redirected their efforts toward **the ruins of Bodach**.
+- **Jessix the Wanderer was never truly exiled from the Sky Singers** — he left when he realised the tribe was turning against him.
 
 ### From *Elves of Athas* (cross-reference)
 - Sky Singer traders were **murdered in Nibenay** — Muuton and his warriors arrived to find the building deserted and **the bodies of the traders scattered about the dark interior, each more brutally battered than the one before.** Most **appeared to have been killed before they could even draw their weapons.**
@@ -166,7 +166,7 @@ Opening a market in a city where his traders were just beaten to death, and sear
 ## Proposed Developments
 - **Recommended:** use the Nibenay murders as the party's introduction to the Sky Singers. It is a printed hook with a printed suspect list and no printed answer.
 - The Shadows/Night Runners approach is a deniable job for a party with no reputation to lose.
-- If the campaign wants the Veiled Alliance thread live — see [[Guvaano Twilightcatcher]] and [[Breck]] — Muuton's suspicion is the pressure that could expose it.
+- If the campaign wants the Veiled Alliance thread live — see Guvaano Twilightcatcher and Breck — Muuton's suspicion is the pressure that could expose it.
 - He is the best legitimate commercial contact in the region for a party that needs to convert Giustenal loot into anything useful.
 
 ## Stat Block or Rules Notes
@@ -208,9 +208,3 @@ Opening a market in a city where his traders were just beaten to death, and sear
   - Source type: campaign record (read-only reference)
   - Adaptation note: This nominee proposes an update.
   - Id note: `actor-muuton`, `actor-guvaano-twilightcatcher`, `actor-jessix-wanderer`, `actor-jessareen`, `location-nibenay` resolve to real sandbox records. `actor-slinnasia` is proposed.
-
-## Unresolved Questions
-- **Who murdered the Sky Singer traders in Nibenay**, and where the five missing elves are. Printed, unresolved.
-- Whether he approaches the Shadows or the Night Runners.
-- Whether he ever confronts Guvaano.
-- Whether a stat block exists in a cleaner copy of *Elves of Athas*.

@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -11,7 +11,7 @@ visibility: mixed
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/roi.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/roi.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -149,7 +149,7 @@ Baking, before dawn, while the camp argues about whether it is going to exist ne
 ## GM-Only Secrets
 - **He will not stay out of the battle.** The printed source is explicit: the moment any member of the band is killed, fifty years of banked animosity for bullies and killers comes up all at once and he charges in. He is a 0-level dwarf with 8 hit points and a wooden club. He will get himself into far more trouble than he can handle, and this should be allowed to be as bad as it sounds.
 - **The focus problem is a live mechanical threat in this setting.** Per the vault's own `Rules/Ancestries.md`, dwarves pursue a personal focus they must fulfil before death *for fear of undeath otherwise*. Roi has refused to hold one for two centuries. If he dies angry, in a fight he chose, having completed nothing — the campaign has already established what that produces.
-- **Black Spine supplies the answer to its own question.** Adventure Five puts two dwarven banshees, [[Pimns]] and [[Solaq]], at the chasm below Yathazor — dead slaves who died mid-rebellion with everything unfinished. If the party later meets them and has already watched Roi die, the connection does the work without a word of exposition.
+- **Black Spine supplies the answer to its own question.** Adventure Five puts two dwarven banshees, Pimns and Solaq, at the chasm below Yathazor — dead slaves who died mid-rebellion with everything unfinished. If the party later meets them and has already watched Roi die, the connection does the work without a word of exposition.
 - **He has a focus and denies it.** The bread. Every morning, without exception, for years. He would reject this framing furiously, and it is nonetheless the reason he is still upright.
 
 ## Proposed Developments
@@ -195,9 +195,4 @@ Baking, before dawn, while the camp argues about whether it is going to exist ne
   - Printed page: —
   - Source type: campaign rules
   - Adaptation note: Source of the focus-and-undeath mechanic that makes Roi's refusal dangerous rather than merely characterful.
-  - Id note: `actor-tenpug`, `actor-arcus`, `actor-sala`, `actor-danya`, `actor-lynth` all resolve to real sandbox records. [[Pimns]] and [[Solaq]] are proposed ids from this nominee batch.
-
-## Unresolved Questions
-- Whether the campaign wants Roi to die at the temple, and whether it wants him to come back.
-- Whether any dwarf PC challenges him on the focus, and how that scene goes.
-- Whether anyone ever asks him what he knows about Nibenay.
+  - Id note: `actor-tenpug`, `actor-arcus`, `actor-sala`, `actor-danya`, `actor-lynth` all resolve to real sandbox records. Pimns and Solaq are proposed ids from this nominee batch.

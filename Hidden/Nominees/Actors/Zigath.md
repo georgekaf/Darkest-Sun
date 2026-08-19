@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -21,7 +21,7 @@ These are incompatible. The sandbox record's own `sourceScope` resolves it: **`o
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/zigath.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/zigath.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -75,11 +75,11 @@ She runs the nest. That is the whole of her standing, and it is enough — until
 ## Confirmed Facts
 - **Female gith, 10th-level psionicist / 10th-level fire cleric**, chaotic evil.
 - **She runs this nest and has profited well from its mining operations.**
-- **She resents the presence of [[Haza]], who has upstaged her in the eyes of the troops.**
+- **She resents the presence of Haza, who has upstaged her in the eyes of the troops.**
 - Her weapons are obsidian instead of steel *because she is a fire cleric*: an obsidian dagger +3, an obsidian-tipped javelin +2, plate mail, and a ring of protection +1.
 - 132 PSPs. Telepathy, psychokinesis, psychoportation and clairsentience — including **detonate, disintegrate, teleport, dimensional door**, molecular agitation and time shift. All defence modes.
 - Cleric spells to 5th level, including **flame strike**, **wall of fire**, **produce fire** ×3, **glyph of warding** and dispel magic ×2.
-- With Haza, she is one of the two brains behind the gith forces; the two of them plus [[Toogo]] rotate shifts so one is always on duty and only one asleep.
+- With Haza, she is one of the two brains behind the gith forces; the two of them plus Toogo rotate shifts so one is always on duty and only one asleep.
 - **She developed the fire pebbles** — a magical weapon made using knowledge given to her by githyanki who contacted the gith deeper in the mountain. The unprepared ingredients for sixteen pounds of them are on her table.
 - On the fourth round after an alarm, she drags three bound Nibenay slaves to the edge of her balcony **to deter intruders from using area-affecting attacks**, and casts from behind them.
 - Several glyphs of warding protect the Great Hall and her stairs; the stair glyph fires flame strike on anyone who crosses without the password, **which few gith know — so her own warriors will not come up to help her**.
@@ -231,9 +231,3 @@ Running a mining colony, interpreting fire omens, preparing a batch of fire pebb
   - Source type: campaign record (read-only reference)
   - Adaptation note: Authoritative for appearance and traits by its own declared `sourceScope`. All three existing goals are preserved above as Goals 1–3; Goal 4 is new and derives from the printed Haza resentment.
   - Id note: `actor-vakskra`, `actor-orruk-vesh`, `actor-queen-trinth`, `faction-black-spine-gith`, `location-zigaths-nest` resolve to real sandbox records. `actor-haza`, `actor-toogo`, `actor-slate` are proposed ids from this batch.
-
-## Unresolved Questions
-- **Does she escape?** Recommended yes, but it should be a deliberate campaign decision.
-- Where she sits relative to [[Askai]] and the Rune's chieftain — still no stated hierarchy among the campaign's three senior gith psionicists.
-- What the fire omens actually were, and whether they were sent.
-- Whether the party ever gets the word "githyanki" out of her.

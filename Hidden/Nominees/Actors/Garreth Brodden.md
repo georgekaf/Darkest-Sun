@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -11,7 +11,7 @@ visibility: mixed
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/garreth-brodden.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/garreth-brodden.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -48,7 +48,7 @@ House M'ke's man in Cromlin — publicly deferential to House Shom, privately do
 ## Player-Safe Description
 
 ### Appearance
-A human trader in **leather**, with an **iron long sword** — metal, though a step below [[Hurdll Crost]]'s enchanted blade, and the difference says everything about the pecking order in Cromlin.
+A human trader in **leather**, with an **iron long sword** — metal, though a step below Hurdll Crost's enchanted blade, and the difference says everything about the pecking order in Cromlin.
 
 ### Manner and Voice
 *(Manner proposed; behaviour printed.)* Correct, careful, and never the first to speak. **Garreth respects Crost and the employees of House Shom, and he engages in no activity that would anger the village's controlling merchant house. At least not openly. What he gets away with in secret is simply seen as good business.**
@@ -128,7 +128,7 @@ The House M'ke representative — the second house in a one-house town, and visi
   - Learned day: ongoing
   - Confidence: certain
   - Truth status: true
-  - Secret: no — **and directly relevant, because [[Passk]] has a beached skimmer that needs repairing**
+  - Secret: no — **and directly relevant, because Passk has a beached skimmer that needs repairing**
 - Subject: **What he gets away with**
   - Claim: —
   - Source: —
@@ -150,7 +150,7 @@ Running a shipyard and a trading post, deferring correctly to House Shom in publ
 ## GM-Only Secrets
 - **The module hands the GM a blank cheque and it is the best thing about him.** *What he gets away with in secret is simply seen as good business.* **There is no stated content.** Options, all consistent with what is printed: skimming House Shom's cargo manifests; running goods to Break Shore off the books; buying the Sky Singers' Giustenal salvage that Crost would confiscate; **or quietly financing the silt pirates who are bleeding his competitor's economy.**
 - **That last one is the sharpest.** Crost has **committed himself to destroying the pirates** because they are *a serious drain on the village's economy* — a village where House Shom takes a tenth of everything and House M'ke takes nothing. **The pirates hurt Shom far more than M'ke.** Nothing in the source says Brodden is behind them. Nothing says he isn't.
-- **He is the answer to Passk's skimmer.** [[Passk]] has a beached silt skimmer that **can be repaired**, and Brodden runs the only yard. **The party will need him, and he will want something.**
+- **He is the answer to Passk's skimmer.** Passk has a beached silt skimmer that **can be repaired**, and Brodden runs the only yard. **The party will need him, and he will want something.**
 - **The slave-crafters are the region's most valuable skilled labour** and they are property. **An extremely talented group of slave-crafters** who can build a vessel worth a fortune is a liberation target, an extortion target, and a reason Brodden is careful.
 - **Displacement on a 5th-level trader is a tell.** He has one talent and it is *don't be where the blade is.* He expects, at some point, to be attacked.
 - *(Proposed.)* He has already been approached by the pirates, and turned them down, and kept the conversation.
@@ -193,8 +193,3 @@ Running a shipyard and a trading post, deferring correctly to House Shom in publ
   - Source type: campaign record (read-only reference)
   - Adaptation note: This nominee proposes an update.
 `actor-garreth-brodden`, `actor-hurdll-crost`, `faction-house-mke` resolve to real sandbox/vault records. **Correction:** `location-pier-of-house-mke`, `location-break-shore` do **not** exist in mk-sandbox and are proposed ids, not existing records. `actor-captain-gaff` and `actor-passk` are proposed ids from this batch.
-
-## Unresolved Questions
-- **What is he getting away with?** The file exists to force this decision.
-- Whether he has any connection to the silt pirates.
-- What it would cost the party to get Passk's skimmer repaired.

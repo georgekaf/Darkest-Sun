@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -11,7 +11,7 @@ visibility: mixed
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/eevuu-silt-stalker.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/eevuu-silt-stalker.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -56,7 +56,7 @@ Chief of a tribe that **delights in attacking travellers and small settlements**
 - **Eevuu Silt Stalker rules the tribe through fear, intimidation, and the occasional death-fight.**
 - The Silt Stalkers **terrorise the eastern portion of the Tyr region.** They **delight in attacking travellers and small settlements** — **the plunder the raids provide is simply an added bonus.**
 - The tribe consists of three clans: **Fire Bow, Fire Dagger, and Fire Sword.**
-- **The Fire Dagger clan has disappeared recently, after being sent to explore the ruins of Giustenal by [[Luubarra Fire Dagger]], the tribe's master defiler.**
+- **The Fire Dagger clan has disappeared recently, after being sent to explore the ruins of Giustenal by Luubarra Fire Dagger, the tribe's master defiler.**
 - **This has caused Eevuu some concern, but Luubarra keeps him occupied with her prophecies of power, glory, and untold riches.**
 - **Eevuu has been listening to Luubarra's urgings, but he has yet to send the rest of the tribe to search for the missing clan.**
 - **He is wary of the haunted ruins, but his dreams are full of great raids to come — provided he follows the advice of his chief defiler.**
@@ -185,9 +185,4 @@ Stalling, while the woman who took his missing clan explains to him nightly why 
   - Printed page: —
   - Source type: campaign record (read-only reference)
   - Adaptation note: This nominee proposes an update.
-  - Id note: `actor-eevuu-silt-stalker`, `actor-luubarra-fire-dagger`, `actor-dregoth` resolve to real sandbox records. `faction-fire-dagger-clan` — the vault has a [[Fire Dagger Clan]] page; confirm the sandbox id.
-
-## Unresolved Questions
-- **Does *Elves of Athas* give him a stat block?** Check before finalising.
-- Whether he survives Luubarra.
-- Whether the party ever tells him what happened to the Fire Daggers.
+  - Id note: `actor-eevuu-silt-stalker`, `actor-luubarra-fire-dagger`, `actor-dregoth` resolve to real sandbox records. `faction-fire-dagger-clan` — the vault has a Fire Dagger Clan page; confirm the sandbox id.

@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -11,7 +11,7 @@ visibility: mixed
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/hurdll-crost.json` (revision 4, updated 2026-07-29). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/hurdll-crost.json` (revision 4, updated 2026-07-29). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -105,7 +105,7 @@ The authority in Cromlin. **As one of House Shom's last profitable outposts, the
 ## Resources and Capabilities
 - **30 House Shom soldiers** on permanent payroll (21 of whom serve as warehouse sentries), plus 11 overseers and officers.
 - **A standing band of five 3rd–6th level adventurers**, refreshed frequently, at least some carrying minor magical or metal items.
-- **The *Firewind***, the Shom flagship, refitted with **more soldiers and ballista ports** — one of the largest silt skimmers in the Tyr region — under [[Captain Gaff]].
+- **The *Firewind***, the Shom flagship, refitted with **more soldiers and ballista ports** — one of the largest silt skimmers in the Tyr region — under Captain Gaff.
 - **The warehouse**, its detailed inventory, and control of supply into Cromlin's market.
 - **10% of everything that crosses a counter in Cromlin.**
 - **A metal long sword +3** and 187 PSPs with Double Pain.
@@ -165,7 +165,7 @@ Watching the marketplace from a walkway, indoors, out of the dust, deciding whic
 
 ## Proposed Developments
 - **Recommended:** hire the party. It solves Chapter Two's structure problem instantly and gives them a reason to be at every location in Cromlin.
-- The anti-pirate campaign leads directly to [[Curlonus Skaff]] and the Dust Devils, which is the module's own Part Two.
+- The anti-pirate campaign leads directly to Curlonus Skaff and the Dust Devils, which is the module's own Part Two.
 - The warehouse heist and the audit-as-threat are both usable against the party if they cross him.
 - If the campaign wants Cromlin destabilised, removing Crost does it — nobody else holds the village together.
 
@@ -201,8 +201,3 @@ Watching the marketplace from a walkway, indoors, out of the dust, deciding whic
   - Source type: GM ruling (read-only reference)
   - Adaptation note: Supersedes "Krost".
 `actor-hurdll-crost`, `actor-garreth-brodden`, `faction-house-shom` resolve to real sandbox/vault records. **Correction:** `location-house-shom-lodge` do **not** exist in mk-sandbox and are proposed ids, not existing records. `actor-captain-gaff`, `actor-passk`, `actor-jaksot-han`, `actor-curlonus-skaff` are proposed ids from this batch.
-
-## Unresolved Questions
-- Whether the party takes the job.
-- Whether House Shom recalls him.
-- Whether anyone ever proves the warehouse scheme.

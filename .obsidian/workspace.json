@@ -27,26 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hidden/Nominees/Actors/Jessareen.md",
+                "file": "Living Campaign.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jessareen"
+              "title": "Living Campaign"
             }
           },
           {
             "id": "640f6ecdc07f758b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Hidden/Pending Worldbuilding Issues.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Pending Worldbuilding Issues"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kallia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hidden/Nominees/Actors/Jessareen.md",
+                "file": "Hidden/Pending Worldbuilding Issues.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -196,49 +200,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6588f68b5c79977",
+  "active": "640f6ecdc07f758b",
   "lastOpenFiles": [
-    "Hidden/Session prep/0007 - Session Prep 7-8-2026.md",
-    "Hidden/Session prep/0007 - Session Prep 3-8-2026.md.tmp.42832.a46f9e0b643e",
-    "Hidden/Nominees/Actors/The Loyal - Tharek.md",
-    "NPCs/The Loyal - Tharek.md",
-    "Hidden/Nominees/Actors/The Loyal - Saelis.md",
-    "NPCs/The Loyal - Saelis.md",
-    "Hidden/Nominees/Actors/The Loyal - Kethen.md",
-    "NPCs/The Loyal - Kethen.md",
-    "Hidden/Nominees/Actors/The Loyal - Nyrra.md",
-    "NPCs/The Loyal - Nyrra.md",
-    "Hidden/Nominees/Actors/The Loyal - Varesh.md",
-    "NPCs/The Loyal - Varesh.md",
-    "NPCs/The Loyal.md.tmp.42832.7dd04a921504",
-    "Hidden/Nominees/Actors/Tharek.md",
-    "Hidden/Nominees/Actors/Tharek.md.tmp.42832.5878c28a8c70",
-    "Hidden/Nominees/Actors/Saelis.md",
-    "Hidden/Nominees/Actors/Saelis.md.tmp.42832.63fc4c0090d6",
-    "Hidden/Nominees/Actors/Kethen.md",
-    "Hidden/Nominees/Actors/Kethen.md.tmp.42832.870b6d735031",
-    "Hidden/Nominees/Actors/Nyrra.md",
-    "Hidden/Nominees/Actors/Nyrra.md.tmp.42832.f4798ff42462",
-    "Hidden/Nominees/Actors/Varesh.md",
-    "Hidden/Nominees/Actors/Varesh.md.tmp.42832.d9001bbfd280",
-    "NPCs/Tharek.md",
-    "NPCs/Tharek.md.tmp.42832.a9c892509081",
-    "NPCs/Saelis.md",
-    "NPCs/Saelis.md.tmp.42832.95c61186ef88",
-    "NPCs/Kethen.md",
-    "NPCs/Kethen.md.tmp.42832.1060b7bbdf42",
-    "NPCs/Nyrra.md",
-    "NPCs/Varesh.md",
-    "Hidden/Nominees/Actors/Jessix the Wanderer.md",
-    "Hidden/Nominees/Factions/The Loyal.md",
-    "Hidden/Nominees/Actors/The Caller in Darkness.md",
+    "Hidden/Resolutions/Square of Gurdek — faction decision.md",
+    "Hidden/Resolutions/Square of Gurdek — faction decision.md.tmp.60792.d32cd6a2fcc1",
+    "Hidden/Resolutions/Ari Evan.md",
+    "Hidden/Resolutions/Ari Evan.md.tmp.60792.d083139f0ecf",
+    "Hidden/Resolutions/Morlah.md",
+    "Hidden/Resolutions/Morlah.md.tmp.60792.0b014cc64114",
+    "Hidden/Resolutions/Olton.md.tmp.60792.cdd792f10b9d",
+    "Hidden/Resolutions/Gurdek.md.tmp.60792.6eb8b3a3e2d8",
+    "Hidden/Resolutions/Gurdek.md.tmp.60792.75a949ee0284",
+    "Hidden/Resolutions/Gurdek.md.tmp.60792.e5d3df471857",
+    "Hidden/Resolutions/Teva.md",
+    "Hidden/Resolutions/Teva.md.tmp.60792.a6598fa16a97",
+    "Hidden/Resolutions/_worklist.md",
+    "Hidden/Resolutions/Gurdek.md",
+    "Hidden/Resolutions/Gurdek.md.tmp.60792.6a6ccf43e8bf",
+    "Hidden/Resolutions/Overlord Zuzar.md.tmp.60792.1c336af82ae0",
+    "Hidden/Resolutions/Keehya.md",
+    "Hidden/Resolutions/Olton.md",
+    "Hidden/Resolutions/Overlord Zuzar.md",
+    "Hidden/Resolutions/Silt Shoals Route.md",
+    "Hidden/Resolutions/Passk's Shack.md",
+    "Hidden/Resolutions/Captain Gaff.md",
+    "Hidden/Resolutions/Passk.md",
+    "Hidden/Resolutions/_README.md",
+    "Hidden/Nominees/Locations/Zharvek.md",
+    "Hidden/Nominees/Locations/Kharanok.md",
+    "Hidden/Nominees/Artifacts/Lion Medallion.md",
+    "Hidden/Nominees/Actors/The Moonbeast.md",
+    "Hidden/Nominees/Actors/Vareth.md",
+    "Hidden/Nominees/Actors/Ugo.md",
+    "Hidden/Nominees/Actors/Rhugor.md",
+    "Hidden/Nominees/Actors/Sepsis.md",
+    "Hidden/Nominees/Actors/Parias.md",
+    "Hidden/Nominees/Actors/Gur-da.md",
+    "Hidden/Nominees/Actors/Cypoul.md",
+    "Hidden/Nominees/Actors/Shaka.md",
     "Hidden/BookLocations/Giustenal Maps/Giustenal Players by Logarium.jpeg",
     "Hidden/BookLocations/Giustenal Maps/giustenal-maps-v0-g0vibexfy85c1.webp",
     "Hidden/BookLocations/Giustenal Maps/giustenal-maps-v0-vfy9kdxfy85c1.webp",
     "Hidden/BookLocations/Giustenal Maps/giustenal-maps-v0-sejb3dxfy85c1.webp",
     "Hidden/BookLocations/Giustenal Maps/giustenal-maps-v0-lnsq4hxfy85c1.webp",
-    "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/01. Obsidian Mines AKA The Cannibal Caves.md",
-    "Hidden/BookLocations/Giustenal Maps.md",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/01. Obsidian Mines AKA The Cannibal Caves/9b29cccb-3bca-4c51-997d-2121b5c6f789.png",
     "Rules/tyr region and beyond.png",
     "Hidden/Kharanok- The Altar of Dust/Below Kharanok/isometric-map-labeled.png",

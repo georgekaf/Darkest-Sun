@@ -1,17 +1,17 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
 # Actor: Kataal the Mover (update to existing actor-kataal-the-mover, revision 4)
 
-*(Update to existing actor `actor-kataal-the-mover`. **This file answers an open question flagged on [[Jessareen]] — what Kataal put in her mind.**)*
+*(Update to existing actor `actor-kataal-the-mover`. **This file answers an open question flagged on Jessareen — what Kataal put in her mind.**)*
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/kataal-the-mover.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/kataal-the-mover.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -50,13 +50,13 @@ He **intones**. The one line of his the source records is delivered as narration
 He does not converse so much as **place things in your mind.**
 
 ### Public Reputation
-None. Nobody on the surface knows he exists — **except [[Jessareen]], who cannot explain him.**
+None. Nobody on the surface knows he exists — **except Jessareen, who cannot explain him.**
 
 ## Confirmed Facts
 - **The being known as Kataal the Mover is all that remains of a halfling from the Green Age of Athas.**
 - **Kataal's psyche was placed within a psionic item deep in the tunnels below Giustenal.**
 - **There, he controlled an intricate transportation system with the Way.**
-- **His psyche can still be encountered in the tunnels, and that is where [[Jessareen]] met him.**
+- **His psyche can still be encountered in the tunnels, and that is where Jessareen met him.**
 - **The images Kataal placed in the elf bard's mind are real. They are the memories of his own experiences, the scenes he witnessed as time passed by.**
 - **The disembodied psyche doesn't know everything, however. He only knows what he was able to read from the minds of Giustenal's many occupants and the travellers that stopped by on their way across the region.**
 - **If adventurers meet Kataal and he decides to grant them the knowledge of the ages of Athas, the chances are good that they will go mad.**
@@ -99,7 +99,7 @@ None. Nobody on the surface knows he exists — **except [[Jessareen]], who cann
 ## Relationships
 - Existing actor or faction ID: `actor-jessareen`
   - Attitude: **Recipient, and casualty**
-  - Reason: **She went looking for [[Jessix the Wanderer]] and met Kataal instead.** Her songs are now strange and confused. **She has only brief moments of lucidity.**
+  - Reason: **She went looking for Jessix the Wanderer and met Kataal instead.** Her songs are now strange and confused. **She has only brief moments of lucidity.**
 - Existing actor or faction ID: `actor-taraskir`
   - Attitude: *(Proposed.)* Remembered
   - Reason: Kataal was under Giustenal through the Time of Magic. **Taraskir ruled it then.** Kataal is the only surviving mind that watched the Ravager of Giants take the city.
@@ -130,7 +130,7 @@ None. Nobody on the surface knows he exists — **except [[Jessareen]], who cann
 Running a transport system under a dead city, waiting for the next mind to arrive.
 
 ## GM-Only Secrets
-- **He is the answer to the [[Jessareen]] question.** Her nominee flags *"what Kataal showed her"* as the biggest open slot in Chapter Two. **It is not open — it is the entire first chapter of the campaign book.** He gave her the ages of Athas, unfiltered, and **the images are real.** She is not deluded; she is overloaded.
+- **He is the answer to the Jessareen question.** Her nominee flags *"what Kataal showed her"* as the biggest open slot in Chapter Two. **It is not open — it is the entire first chapter of the campaign book.** He gave her the ages of Athas, unfiltered, and **the images are real.** She is not deluded; she is overloaded.
 - **Meeting him is a save-or-lose-your-mind proposition and the module says so plainly:** *if adventurers meet Kataal and he decides to grant them the knowledge of the ages of Athas, the chances are good that they will go mad.* **This should be an explicit, telegraphed choice**, not a trap. The players should be able to see what happened to Jessareen first.
 - **He is the single greatest information source on Athas that the campaign can offer** — and the price is a PC. **A party that wants the truth about Rajaat, the Champions, the Blue Age or the Dragon can have all of it.** That is an extraordinary thing to put in front of players and should be run as a genuine temptation.
 - **His limitation is the interesting constraint.** He knows what Giustenal knew. **He does not know what happened after the city fell** — which means he does not know about Dregoth's undeath, New Giustenal, the dray, or the Caller. **He is a perfect historian and a useless scout.**
@@ -152,7 +152,7 @@ Running a transport system under a dead city, waiting for the next mind to arriv
 - Alignment: Neutral
 - Morale: —
 - Attacks: **none.** Kataal does not attack and has never harmed anyone deliberately.
-- **Ages of Athas:** if Kataal chooses to grant the full history, the recipient must save. **On a failure, the character is rendered functionally insane** — treat as [[Jessareen]]: **brief moments of lucidity before the scenes overwhelm them again.** This is not a temporary condition and there is no printed cure.
+- **Ages of Athas:** if Kataal chooses to grant the full history, the recipient must save. **On a failure, the character is rendered functionally insane** — treat as Jessareen: **brief moments of lucidity before the scenes overwhelm them again.** This is not a temporary condition and there is no printed cure.
 - **Partial Transfer (proposed, not printed):** a single age at a time, at reduced risk. **Recommended house ruling** — the printed all-or-nothing version costs a player their character with no middle ground.
 - **The Mover:** controls an intricate psionic transportation network beneath Giustenal. **He can move those he chooses to move.**
 - **Witness, not oracle:** he knows only what he witnessed or read from minds in Giustenal. **He knows nothing of events after the city fell.**
@@ -180,9 +180,3 @@ Running a transport system under a dead city, waiting for the next mind to arriv
   - Source type: campaign record (read-only reference)
   - Adaptation note: This nominee proposes an update.
   - Id note: `actor-kataal-the-mover`, `actor-jessareen`, `actor-jessix-wanderer`, `actor-taraskir`, `actor-dregoth`, `actor-caller-in-darkness`, `location-under-region-tunnels` all resolve to real sandbox/vault records.
-
-## Unresolved Questions
-- **Adopt the partial-transfer house ruling?** The printed version costs a PC outright.
-- What his relationship is, if any, to the Caller in Darkness.
-- Whether the item can be moved, taken, or destroyed.
-- Whether Jessareen can be cured — and whether Kataal could do it.

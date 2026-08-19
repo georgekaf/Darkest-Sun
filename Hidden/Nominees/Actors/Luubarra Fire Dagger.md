@@ -1,17 +1,17 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
-# Actor: Luubarra Fire Dagger (update to existing actor-luubarra-fire-dagger, revision 4)
+# Actor: Luubarra Fire Dagger (update to existing actor-luubarra-fire-dagger, revision 5)
 
-*(Update to existing actor `actor-luubarra-fire-dagger`.)*
+*(Update to existing actor `actor-luubarra-fire-dagger`, currently at revision 4. **The scheme this record has been holding as printed-source potential since July is now live in the campaign.** Everything below the printed material is a change against the current values.)*
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/luubarra-fire-dagger.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/luubarra-fire-dagger.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -29,15 +29,39 @@ visibility: mixed
 | `sourceStatBlock` | {"system": "AD&D 2e", "class": "Defiler", "level": 10, "armorClass": 2, "movement": 18, "hitPoints": 24, "thaco": 17, "strength": 13, "dexterity": 19, "constitution": 10, "intelligence": 18, "wisdom": 11, "charisma": 18} |
 | `simulation` | {"proposalMode": "triggered", "reason": "Luubarra's sourcebook scheme is retained as a goal, but no campaign event confirms her current location or activates the scheme."} |
 
+## Proposed changes
+
+*(New in revision 5. Everything else in this nominee is printed material and stands unchanged.)*
+
+1. **`presenceStatus: unconfirmed` → confirmed.** `simulation.reason` currently reads *"no campaign event confirms her current location or activates the scheme."* **The scheme is activated.** She raided **Zharvek** on the **night of day 114** and is delivering slaves to Dregoth.
+2. **Her raiding is now campaign fact, not printed potential.** Silt Stalkers under her emptied a settlement on the Black Spine road and took its people.
+3. **Cromlin is her staging point.** Captives are held there, twenty miles west of Giustenal, and delivered onward. **Most of the Zharvek consignment is already delivered.** Two prisoners are still held.
+4. **Goal 1's progress needs restating.** The record has *"Bring the Silt Stalkers to Giustenal and into Dregoth's service"* at progress 1 of 3 — one clan of three. **What she is doing at Zharvek is not that goal.** She is delivering non-elf slaves to a bargain that was about her tribe. See the question below; a second goal is proposed rather than inflating the first.
+5. **Two of her victims are named:** `actor-talek-vos` and `actor-damak-of-zharvek`, both held at Cromlin.
+
+## Campaign-confirmed activity
+
+*(GM input, 13 August 2026, entered through MK-Sandbox #189. Nothing here is printed.)*
+
+**She works for Zarron.** *(Ruled 13 August 2026, reconciling the two accounts of Zharvek's destruction.)* The Silt Stalkers under Luubarra operate **for `actor-zarron`**, leader of the pirates, and the two statements — *"Zharvek was destroyed by Zarron's pirates"* and *"the Day 114 raid was Luubarra's Silt Stalkers"* — are the same event described at two levels of the same chain. **Neither supersedes the other.** Propose `faction-silt-stalkers` gains a subordinate relationship to `faction-black-wake` / `actor-zarron`, and that this record gains `actor-zarron` as a relationship.
+
+**What this does not settle:** the printed source has Luubarra **secretly** committed to Dregoth, trading her own tribe for the powers of a sorcerer-king. Whether Zarron knows he is supplying Dregoth, or believes he is running slave raids for his own account, is **not established and is not proposed here**. It is the difference between a pirate lord with an undead patron and a pirate lord being used as a delivery service.
+
+- **Night of day 114** — Silt Stalker raiders under Luubarra empty **Zharvek**, a roadside settlement and animal market on the Black Spine caravan road, and take its people.
+- **The captives are held at Cromlin** and delivered onward to **Dregoth** at Giustenal. **Most have already been delivered.**
+- **Two are still held:** **Talek Vos**, a House Shom envoy who rode into the raid, and **Damak of Zharvek**, the dwarf who oversaw the settlement.
+- **Gith were raiding Zharvek, and she used it.** The survivors reported gith because gith were genuinely attacking the settlement; **her people took the population under cover of that chaos**. Her involvement is invisible in the campaign's own record of the event, and it was invisible from inside the village too.
+
 ## One-Sentence Summary
-The Silt Stalkers' master defiler, who went to Giustenal, met Dregoth, cut a deal for the powers of a sorcerer-king, has already fed one of her own clans to him as undead, and is working on the rest of the tribe.
+The Silt Stalkers' master defiler, who went to Giustenal, met Dregoth, cut a deal for the powers of a sorcerer-king, has already fed one of her own clans to him as undead, is working on the rest of the tribe — and is emptying settlements on the Black Spine road in the meantime.
 
 ## Classification
 - Subtype: named-npc
 - Control: autonomous
 - Status: active
-- Faction or allegiance: Silt Stalkers elf tribe — **master defiler**; secretly serving [[Dregoth]]
-- Current location: with the Silt Stalkers, eastern Tyr region
+- Faction or allegiance: Silt Stalkers elf tribe — **master defiler**; secretly serving Dregoth
+- Presence: **confirmed active in the campaign** as of day 114
+- Current location: with the Silt Stalkers, eastern Tyr region; **operating between the Black Spine road, Cromlin and Giustenal**
 - Current route, when traveling: the Silt Stalker raiding range
 - Role: Chief defiler; Dregoth's agent inside the tribe
 
@@ -47,7 +71,7 @@ The Silt Stalkers' master defiler, who went to Giustenal, met Dregoth, cut a dea
 A female elf defiler with **bracers of defence AC 6** and a **quarterstaff +2**. Dexterity 19, Intelligence 18, **Charisma 18** — she is the most personally magnetic figure in the environs and uses it.
 
 ### Manner and Voice
-*(Manner proposed; behaviour printed.)* Prophetic, seductive and relentless. **She keeps [[Eevuu Silt Stalker]] occupied with her prophecies of power, glory and untold riches**, and **to make these omens come true she insists that the tribe engage in even more bloodshed than usual.**
+*(Manner proposed; behaviour printed.)* Prophetic, seductive and relentless. **She keeps Eevuu Silt Stalker occupied with her prophecies of power, glory and untold riches**, and **to make these omens come true she insists that the tribe engage in even more bloodshed than usual.**
 
 ### Public Reputation
 The tribe's chief defiler and prophet. **Eevuu has been listening to Luubarra's urgings**, and **his dreams are full of great raids to come — provided he follows the advice of his chief defiler.**
@@ -60,7 +84,7 @@ The tribe's chief defiler and prophet. **Eevuu has been listening to Luubarra's 
 - The Silt Stalkers consist of three clans: **Fire Bow, Fire Dagger, and Fire Sword.**
 - **The Fire Dagger clan has disappeared recently, after being sent to explore the ruins of Giustenal by Luubarra.** This **has caused Eevuu some concern**, but she keeps him distracted.
 - **Luubarra started making her dark predictions after her own visit to Giustenal.**
-- **She met [[Dregoth]], and the two made a deal that requires the whole Silt Stalker tribe to travel to the city by the Silt Sea.**
+- **She met Dregoth, and the two made a deal that requires the whole Silt Stalker tribe to travel to the city by the Silt Sea.**
 - **Dregoth, quick to add more followers to his growing army, promised Luubarra the powers of a sorcerer-king.**
 - **He has no intention of honouring that promise, but he will take all the elves she sends him.**
 - **The Fire Dagger clan has already been assimilated into Dregoth's fold. They now serve him as undead warriors.**
@@ -118,7 +142,7 @@ The tribe's chief defiler and prophet. **Eevuu has been listening to Luubarra's 
 - Existing actor or faction ID: `actor-eevuu-silt-stalker`
   - Attitude: **Handler, and obstacle**
   - Reason: She keeps him occupied with prophecy. **If he continues to refuse, she will take matters into her own hands.**
-- Proposed faction ID: `faction-fire-dagger-clan` *(not in mk-sandbox; the vault has a [[Fire Dagger Clan]] page — confirm the id before submission)*
+- Proposed faction ID: `faction-fire-dagger-clan` *(not in mk-sandbox; the vault has a Fire Dagger Clan page — confirm the id before submission)*
   - Attitude: **Sold**
   - Reason: Her own clan by name. She sent them into Giustenal and they now serve Dregoth as undead warriors.
 
@@ -151,7 +175,7 @@ Prophesying glory to a chief whose tribe she has already sold, and preparing to 
 ## GM-Only Secrets
 - **She is the campaign's earliest hard evidence that Dregoth is alive**, and she is walking around the environs where a party can meet her. **Everyone else in Chapter Two deals in rumour about the Caller. Luubarra has shaken hands with the actual antagonist.**
 - **Dregoth is going to betray her and the module says so flatly:** *he has no intention of honouring that promise, but he will take all the elves she sends him.* **She is not a villain with a plan; she is a supplier being harvested.** If the party ever tells her — or she works it out — **she has a tribe, 5th-level defiling, and nothing to lose.**
-- **The Fire Dagger clan is a whole clan of elves now serving as undead warriors**, and the vault already has a [[Fire Dagger Clan]] record. **That is a specific, named, findable atrocity the party can uncover in Giustenal**, and it is the proof that would turn Eevuu against her instantly.
+- **The Fire Dagger clan is a whole clan of elves now serving as undead warriors**, and the vault already has a Fire Dagger Clan record. **That is a specific, named, findable atrocity the party can uncover in Giustenal**, and it is the proof that would turn Eevuu against her instantly.
 - **Her removal of Eevuu is pending and triggerable.** *If he continues to refuse, Luubarra will take matters into her own hands.* **A party that stiffens Eevuu's resolve causes an assassination.** A party that does nothing watches the tribe walk into the ruins.
 - **The Aging wild talent is a hidden weapon.** PS 3, cost 15 — expensive, rarely used, and devastating. **The module calls it one of her many secrets.** Save it for one scene.
 - *(Proposed.)* She knows the deal is bad. She took it anyway, because Dregoth is the greatest power she has ever stood near, and that is the actual thing she wants.
@@ -189,14 +213,14 @@ Prophesying glory to a chief whose tribe she has already sold, and preparing to 
   - Printed page: 14
   - Source type: official
   - Adaptation note: Stats scaled to Shadowdark. The Dregoth deal, the broken promise, the Fire Dagger clan's fate, the plan for Eevuu and the secret Aging talent are all printed. The Silt Stalkers are detailed further in DSS3 *Elves of Athas*.
-- Title: mk-sandbox `actors/luubarra-fire-dagger.json`
+- Title: campaign owner ruling, 2026-08-13
+  - Section: the Zharvek raid of day 114 Night, the Cromlin holding point, and the delivery of its people to Dregoth
+  - Printed page: —
+  - Source type: GM input
+  - Adaptation note: Entered through MK-Sandbox #189. No confirmed event record is claimed here.
+- Title: `actors/luubarra-fire-dagger.json`
   - Section: —
   - Printed page: —
   - Source type: campaign record (read-only reference)
   - Adaptation note: This nominee proposes an update. Existing record already frames her as "servant of Dregoth, corrupting the Silt Stalker tribe."
-  - Id note: `actor-dregoth`, `actor-eevuu-silt-stalker`, `actor-luubarra-fire-dagger` resolve to real sandbox records. `faction-fire-dagger-clan` — the vault has a [[Fire Dagger Clan]] page; confirm the sandbox faction id before submission.
-
-## Unresolved Questions
-- Whether the party can turn her by revealing Dregoth's intent.
-- Whether Eevuu survives her.
-- What she actually offered Dregoth in exchange — the module states his side of the bargain and not hers.
+  - Id note: `actor-dregoth`, `actor-eevuu-silt-stalker`, `actor-luubarra-fire-dagger` resolve to real sandbox records. `faction-fire-dagger-clan` — the vault has a Fire Dagger Clan page; confirm the sandbox faction id before submission.

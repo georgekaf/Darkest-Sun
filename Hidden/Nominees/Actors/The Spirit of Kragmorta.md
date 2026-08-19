@@ -1,17 +1,17 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
 # Actor: The Spirit of Kragmorta (update to existing actor-spirit-of-kragmorta, revision 4)
 
-*(Revision of existing actor `actor-spirit-of-kragmorta`. **This entity does not exist. It is [[Dregoth]] wearing a dead god's face. Everything below the Player-Safe section is a spoiler for the best twist in Chapter Six.**)*
+*(Revision of existing actor `actor-spirit-of-kragmorta`. **This entity does not exist. It is Dregoth wearing a dead god's face. Everything below the Player-Safe section is a spoiler for the best twist in Chapter Six.**)*
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/spirit-of-kragmorta.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/spirit-of-kragmorta.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -35,7 +35,7 @@ A prophetic guardian spirit that appeared to the banished dray of Kragmorta a ye
 
 ## Classification
 - Subtype: named-npc — **fraudulent apparition**
-- Control: **[[Dregoth]]**, directly, in real time
+- Control: **Dregoth**, directly, in real time
 - Status: active — **first appeared about one year ago**
 - Faction or allegiance: **Dregoth**, unknowingly to everyone who listens to it
 - Current location: `location-kragmorta`
@@ -45,10 +45,10 @@ A prophetic guardian spirit that appeared to the banished dray of Kragmorta a ye
 ## Player-Safe Description
 
 ### Appearance
-**A strange, ethereal figure that looks much like the lion-headed god once worshipped in the Groaning City.** *(That is to say: it looks like [[Taraskir the Lion]], though nobody in Kragmorta has the history to know it.)*
+**A strange, ethereal figure that looks much like the lion-headed god once worshipped in the Groaning City.** *(That is to say: it looks like Taraskir the Lion, though nobody in Kragmorta has the history to know it.)*
 
 ### Manner and Voice
-Forgiving, patriarchal, aggrieved on their behalf. When [[Mosak Eggstealer]] challenged it outright, **it did not strike him down — it forgave his doubt**, which is precisely how it won the room.
+Forgiving, patriarchal, aggrieved on their behalf. When Mosak Eggstealer challenged it outright, **it did not strike him down — it forgave his doubt**, which is precisely how it won the room.
 
 It speaks in contrasts and images rather than commands:
 
@@ -61,7 +61,7 @@ Among the first generation dray, **a genuine prophetic spirit** that grants sign
 - **A prophetic spirit haunts the ruins of Kragmorta, granting signs and portents to the dray who live here.**
 - **It first appeared about one year ago.** The occasion is precisely recorded: **a first generation dray warrior slew a huge beast that had entered the cavern in search of prey. She and her mate could not eat all of the meat, so she invited the rest of the clan to share in their feast. During the feast, a strange, ethereal figure appeared.**
 - **It looked much like the lion-headed god once worshipped in the Groaning City.** **When it spoke, it claimed to be the guardian spirit of Kragmorta.**
-- **[[Mosak Eggstealer]] was suspicious and challenged the spirit.** **Instead of striking him down like the crowd feared it would, the spirit forgave Mosak's doubt.**
+- **Mosak Eggstealer was suspicious and challenged the spirit.** **Instead of striking him down like the crowd feared it would, the spirit forgave Mosak's doubt.**
 - **It told the assembled dray that the Dread King of New Giustenal was to be blamed for the injustices done to the first born of the dray race.**
 - **It showed them images of the luxuries of New Giustenal** — beautiful buildings, lively taverns, clean streets, **and clear water as abundant as the lava flow of Kragmorta** — in deliberate contrast to the fiery cavern they live in.
 - **It urges them to attack New Giustenal.**
@@ -131,7 +131,7 @@ Appearing to a clan of exiles at intervals, sharpening a grievance it manufactur
 ## GM-Only Secrets
 - **The whole thing is a recruitment drive for a god-in-progress.** *"He believes that he can only become a god if a huge amount of believers worship him. And if they will not follow him while they live, Dregoth is not above killing them and turning them into undead."*
 - **It has already worked once, fatally.** An initial raiding party of first generation dray attacked New Giustenal, died, and **was raised as undead.** The spirit is now recruiting the rest of the clan into the same furnace.
-- **The face is the tell, and it is a magnificent one.** Dregoth is wearing the likeness of **[[Taraskir the Lion]]**, the giant king he murdered to take Giustenal in the first place. **The banished dray are being urged to their deaths by an image of the last person Dregoth destroyed to build the city they're being told is their birthright.** Nothing in the module points this out. **A party that has seen the Lion Temple, or the lion-headed statues, or read the frescoes, can point it out.** That is the single best payoff available across both boxed sets.
+- **The face is the tell, and it is a magnificent one.** Dregoth is wearing the likeness of **Taraskir the Lion**, the giant king he murdered to take Giustenal in the first place. **The banished dray are being urged to their deaths by an image of the last person Dregoth destroyed to build the city they're being told is their birthright.** Nothing in the module points this out. **A party that has seen the Lion Temple, or the lion-headed statues, or read the frescoes, can point it out.** That is the single best payoff available across both boxed sets.
 - **Mosak already suspects.** The module hands the party their in: *he seeks help against the Spirit of Kragmorta.* The Clan Father wants this solved and cannot solve it himself.
 - **Exposure is the printed win condition** — *"If adventurers confront the spirit and expose it for what it is (thus saving more of Mosak's clan), they will earn the respect and gratitude of the Clan Father."* That is an alliance with an entire dray city, obtained by argument.
 - **Dregoth watches Kragmorta and always has** — *"Every few years, the Dread King scryed on the clan and watched their progress, always alert for useful mutations or adaptations that might develop."* His visits became less frequent because they were boring. He came back only when he needed bodies.
@@ -143,13 +143,13 @@ Appearing to a clan of exiles at intervals, sharpening a grievance it manufactur
 - **Use the Taraskir recognition as the killing blow in that argument.** Any PC who has seen Taraskir's imagery elsewhere can identify the borrowed face. Reward the campaign's own accumulated knowledge.
 - Have Mosak approach the party first, quietly, away from the clan. He cannot be seen doubting again.
 - Decide what Dregoth does the instant he realises surface-dwellers are watching. **This is the campaign's hinge.**
-- The parallel Silt Stalkers operation ([[Eevuu Silt Stalker]]) makes an excellent second data point — two tribes, one method.
+- The parallel Silt Stalkers operation (Eevuu Silt Stalker) makes an excellent second data point — two tribes, one method.
 
 ## Stat Block or Rules Notes
 **The Spirit has no statistics and must never have any.** It is an image. It cannot be attacked, damaged, dispelled, banished, turned, or interrogated as an independent being — **there is nothing there.**
 
 - Class: — (psionic projection)
-- Level: — (use [[Dregoth]]'s own capabilities for anything it does)
+- Level: — (use Dregoth's own capabilities for anything it does)
 - Armor Class: — **nothing to hit**
 - Hit Points: — **nothing to reduce**
 - Movement: appears and vanishes at the projector's will
@@ -170,11 +170,5 @@ Appearing to a clan of exiles at intervals, sharpening a grievance it manufactur
   - Section: Chapter Six: Beneath Giustenal — Kragmorta; **The Spirit of Kragmorta**
   - Printed page: 74–75
   - Source type: official
-  - Adaptation note: The appearance, the feast, Mosak's challenge and its forgiveness, the quoted speech, the vision-casting, the truth of the deception, Dregoth's motive, the prior scrying and the raiding-party precedent are all printed. **No statistics exist and none should.** The identification of the lion-headed god as [[Taraskir the Lion]] is nominee-authored inference and is flagged as such.
+  - Adaptation note: The appearance, the feast, Mosak's challenge and its forgiveness, the quoted speech, the vision-casting, the truth of the deception, Dregoth's motive, the prior scrying and the raiding-party precedent are all printed. **No statistics exist and none should.** The identification of the lion-headed god as Taraskir the Lion is nominee-authored inference and is flagged as such.
   - Id note: `actor-dregoth`, `actor-taraskir`, `actor-eevuu-silt-stalker`, `location-kragmorta` resolve to real sandbox/vault records. `actor-spirit-of-kragmorta`, `actor-mosak-eggstealer` are proposed ids from this batch.
-
-## Unresolved Questions
-- **Confirm the lion-headed god is Taraskir?** The module implies it and never says it.
-- What Dregoth does the moment he sees surface-dwellers in Kragmorta.
-- Whether the spirit's appearances follow a schedule the party can map.
-- Whether Mosak, once the truth is out, attacks New Giustenal anyway.

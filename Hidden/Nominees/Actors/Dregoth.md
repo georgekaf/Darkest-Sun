@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -11,7 +11,7 @@ visibility: mixed
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/dregoth.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/dregoth.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -58,10 +58,10 @@ He **proudly displayed the scaly skin and elongated skull** of advancing dragonh
 
 ### Death and undeath
 - **Before the century of rampage ended, Dregoth advanced toward dragonhood himself, without the help of the others**, and **was right behind Borys in terms of personal power.**
-- **He became obsessed with draconic images and ordered his followers to add them to every building in Giustenal.** *(This is why nobody connects [[Taraskir the Lion]]'s temple to the city — no dragons on it.)*
+- **He became obsessed with draconic images and ordered his followers to add them to every building in Giustenal.** *(This is why nobody connects Taraskir the Lion's temple to the city — no dragons on it.)*
 - **Abalach-Re of Raam was the closest to Giustenal and perhaps felt the most threatened. She contacted the other kings and joined with them in a dark conspiracy.**
 - **They teleported into his city and slew him on his ivory throne.** **Dregoth was slain along with thousands of bystanders. They levelled Giustenal in their fury, burying the would-be dragon beneath the ruins of his own shattered palace.**
-- **Those thousands of murdered bystanders are the [[The Caller in Darkness|Caller in Darkness]].**
+- **Those thousands of murdered bystanders are the Caller in Darkness.**
 - **His experiments had already produced a magical process for prolonging life beyond death** — in truth, **the process for becoming a kaisharga**, an undead creature similar to a lich. **Though there are other kaisharga beneath the crimson sun, none were 29th-level dragons at the time of their deaths.**
 - **He rose in time to gather what was left of his templars and followers from the wilderness, and took them into the ancient ruins beneath his once-mighty city.**
 - **Now, after all these centuries, Dregoth is ready to return to the surface world.**
@@ -74,7 +74,7 @@ He **proudly displayed the scaly skin and elongated skull** of advancing dragonh
 - **The prophecy of the Coruscation, the Day of Light:** *"Dregoth the Godking will lead the dray to the land above. There, they will swarm over a place of evil called Raam, killing all of its inhabitants as sacrifices to Dregoth. On that day, when the blood of thousands of unbelievers runs in rivers at the feet of Dregoth, the crimson sun will burst with bright light and the new Blue Age will begin."*
 - **The font already exists.** *"A huge dragon skull taken from one of the creatures that walk other worlds. Its eye sockets are filled with orbs of obsidian, and his newest holy symbol is carved into its sloping forehead — the blazing crimson sun trapped in the grip of a dragon's claw. The decorated skull sits on the altar within Dregoth's private chambers."* **He believes immersing it in the rivers of blood in the streets of Raam will make it a relic.**
 - **He plans to destroy all the sorcerer-kings who killed him.** Their citizens may bow to him and live. **Raam is the exception: like Abalach-Re, the people of Raam must die.**
-- **He is developing spells for that revenge and needs a personal item of Abalach-Re's as a focus** — which is why [[Curlonus Skaff]] extorted the royal signet ring of Raam, and why it matters enormously that [[Nallan]] walked off with it.
+- **He is developing spells for that revenge and needs a personal item of Abalach-Re's as a focus** — which is why Curlonus Skaff extorted the royal signet ring of Raam, and why it matters enormously that Nallan walked off with it.
 
 ### The thing he does not know
 - **He will never become a god — at least not on Athas.** **Athas has never had any gods and never will.** **The conduits that allow gods to draw strength from their worshipers simply don't exist on Athas.** **No matter what Dregoth does, he won't be able to change that fact — and he isn't even aware that this is a problem.**
@@ -92,7 +92,7 @@ He **proudly displayed the scaly skin and elongated skull** of advancing dragonh
 - **338 full-time templars** for a population of only **3,000 dray**, plus a **total militia** — on his word, every dray of fighting age marches. **Supplemented by scores of undead**, most hidden in the cave along the Blackjaw River.
 - **He returned from the planes with the first of many great wyrms he killed on other worlds. The bones of these creatures became the building blocks of New Giustenal.**
 - **He brings back creatures through the gate, studies them, and releases them into Kragmorta** among his cast-offs.
-- **Two immortal lieutenants:** [[Mon-Adderath]] and [[Absalom]].
+- **Two immortal lieutenants:** Mon-Adderath and Absalom.
 
 ## Goals
 1. Description: Achieve true godhood.
@@ -114,7 +114,7 @@ He **proudly displayed the scaly skin and elongated skull** of advancing dragonh
    - Progress: **one Silt Stalker clan and one dray raiding party already converted into undead**
    - Target: the Dust Devils at 100 members; the whole of Kragmorta
    - Deadline day: —
-   - Secret: **yes — run through [[The Spirit of Kragmorta]] and [[Curlonus Skaff]]**
+   - Secret: **yes — run through The Spirit of Kragmorta and Curlonus Skaff**
    - Status: active
 
 ## Traits and Pressures
@@ -149,13 +149,13 @@ He **proudly displayed the scaly skin and elongated skull** of advancing dragonh
   - Reason: **Dregoth was right behind Borys in personal power** and advancing toward dragonhood alone. That is what got him killed.
 - Existing actor or faction ID: `actor-taraskir`
   - Attitude: **Killed him and took his city**
-  - Reason: The founding act of Dregoth's kingship. See [[Taraskir the Lion]] — **and note whose face [[The Spirit of Kragmorta]] wears.**
+  - Reason: The founding act of Dregoth's kingship. See Taraskir the Lion — **and note whose face The Spirit of Kragmorta wears.**
 - Proposed actor ID: `actor-mon-adderath`
   - Attitude: **High Templar; made ageless**
   - Reason: Has served since Dregoth was a Champion of Rajaat.
 - Proposed actor ID: `actor-absalom`
   - Attitude: **High Priest; killed and raised by Dregoth personally**
-  - Reason: *"To be his priest, Absalom had to become like his god."* **And Absalom is now quietly working against him.** See [[Absalom]].
+  - Reason: *"To be his priest, Absalom had to become like his god."* **And Absalom is now quietly working against him.** See Absalom.
 - Proposed actor ID: `actor-spirit-of-kragmorta`
   - Attitude: **It is him.**
   - Reason: A psionic projection wearing a dead god's face, recruiting his own banished children to their deaths.
@@ -170,7 +170,7 @@ He **proudly displayed the scaly skin and elongated skull** of advancing dragonh
   - Reason: Leads the first generation dray Dregoth banished and is now being goaded into a suicidal attack.
 - Proposed actor ID: `actor-caller-in-darkness`
   - Attitude: **Unresolved — the campaign's biggest gap**
-  - Reason: **His murder created it.** It sits directly above his city, eating psionicists. See [[The Caller in Darkness]].
+  - Reason: **His murder created it.** It sits directly above his city, eating psionicists. See The Caller in Darkness.
 
 ## Knowledge
 - Subject: **How gods actually work**
@@ -196,8 +196,8 @@ Finishing his preparations. Waiting on a ring. **Ready to return to the surface.
 ## GM-Only Secrets
 - **The single most important line in the campaign book:** *"Dregoth will never become a god — at least not on Athas... the conduits that allow gods to draw strength from their worshipers simply don't exist on Athas... and he isn't even aware that this is a problem."* **Everything he does is doomed and nobody has told him.** The party cannot beat him in a fight. **They may be able to beat him with this.**
 - **He is a fight the party loses.** AC −8, 173 hp, THAC0 −1, magic resistance 40%, **cannot be turned**, +2 or better to hit, immune to charm/sleep/polymorph/cold/electricity/death, saves as a 21st-level wizard, 330 PSPs, tenth-level spells, and a breath weapon doing **20d12**. **Do not put this on a battlemap and expect the party to survive it.**
-- **The way to hurt him is his church, not his body.** He needs worshipers; **[[Absalom]], his own High Priest, is already undermining the doctrine** by preaching reconciliation with the exiles. He needs Raam's blood; **the ring that unlocks his revenge spells is sitting on a corpse in the ancient temple.** He needs the Coruscation; **the Coruscation is theologically impossible.**
-- **He has three separate recruitment cons running at once** — [[Curlonus Skaff]]'s pirates, the Silt Stalkers, and [[The Spirit of Kragmorta]]. **A party that maps the pattern understands him better than his own templars do.**
+- **The way to hurt him is his church, not his body.** He needs worshipers; **Absalom, his own High Priest, is already undermining the doctrine** by preaching reconciliation with the exiles. He needs Raam's blood; **the ring that unlocks his revenge spells is sitting on a corpse in the ancient temple.** He needs the Coruscation; **the Coruscation is theologically impossible.**
+- **He has three separate recruitment cons running at once** — Curlonus Skaff's pirates, the Silt Stalkers, and The Spirit of Kragmorta. **A party that maps the pattern understands him better than his own templars do.**
 - **The gate is the real prize and the real danger.** A Green Age psionic focus for planar travel, in his palace, with his other treasures. **It is how the fire giant, the hell hounds, the dark naga and the planar war party all got to Athas.**
 - **His ignorance of the surface is a weapon.** He does not know what a mul is. He does not know half-giants exist. He does not know how thoroughly the world has died. **A half-giant PC walking into New Giustenal is something he has literally never seen** — and per the printed material, **his greatest hatred is reserved for giants.**
 - **He is stalled and does not know it.** Skaff delivered the Raam signet to the palace; Nallan took it before Dregoth collected it; Nallan then killed himself in the temple with it in his pack. **The Dread King's revenge is currently blocked by a dead artist's backpack**, and nobody involved is alive or aware.
@@ -207,7 +207,7 @@ Finishing his preparations. Waiting on a ring. **Ready to return to the surface.
 ## Proposed Developments
 - **Recommended: he is scenery and dread for most of the campaign.** Voice, aura, projections, proxies. **His body appears once, and the scene is not a fight.**
 - **Build the endgame around the impossibility of the Coruscation**, not around damage. The printed material hands you a theological kill switch; use it.
-- Let [[Absalom]] be the crack. A High Priest quietly working for peace between the two dray generations is a far better ally than any surface faction.
+- Let Absalom be the crack. A High Priest quietly working for peace between the two dray generations is a far better ally than any surface faction.
 - Track the Raam signet as a live object. **Whoever holds it holds the thing Dregoth's revenge depends on.**
 - Decide the Caller relationship. **He is the reason it exists and it lives on his roof.**
 - Play his ignorance for real. **The first mul or half-giant he sees should be an event.**
@@ -259,10 +259,3 @@ Finishing his preparations. Waiting on a ring. **Ready to return to the surface.
   - Source type: official
   - Adaptation note: The Dread Palace, the College of Blackspire, the 338 templars, the militia, and the scale-ranking system.
 `actor-dregoth`, `actor-rajaat`, `actor-borys-of-ebe`, `actor-taraskir`, `actor-eevuu-silt-stalker`, `location-new-giustenal` resolve to real sandbox/vault records. **Correction:** `actor-abalach-re` do **not** exist in mk-sandbox and are proposed ids, not existing records. `actor-mon-adderath`, `actor-absalom`, `actor-spirit-of-kragmorta`, `actor-curlonus-skaff`, `actor-mosak-eggstealer`, `actor-caller-in-darkness` are proposed ids from this batch.
-
-## Unresolved Questions
-- **Does he know about the Caller?** The campaign never says.
-- What happens when he learns the Raam signet never reached him.
-- **What he does if someone convinces him godhood is impossible.**
-- Whether Absalom's quiet reconciliation work is ever detected.
-- How the campaign intends him to be survivable at all, given the printed numbers.

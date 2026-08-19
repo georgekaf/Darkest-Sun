@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -11,7 +11,7 @@ visibility: mixed
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/sala.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/sala.json` (revision 3, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -207,8 +207,3 @@ Working alone in the infirmary among his preparations, with three patients — o
   - Source type: campaign record (read-only reference)
   - Adaptation note: Existing record already has "tends the wounded, blesses the community's water, and performs rites for those killed by the gith… gentleness conceals a hard refusal to waste life or water." This nominee is written directly onto that.
   - Id note: `actor-tenpug`, `actor-arcus`, `actor-roi`, `actor-danya`, `actor-lynth` all resolve to real sandbox records. `actor-jolon` is a proposed id from this nominee batch.
-
-## Unresolved Questions
-- What the spring's pipe connects to, and when the campaign wants that noticed.
-- Where an Athasian halfling this gentle comes from.
-- Whether he survives the siege. Nothing protects him, and Strength 6 in a hall full of gith is not a survivable combination.

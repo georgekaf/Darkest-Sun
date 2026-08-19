@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -11,7 +11,7 @@ visibility: mixed
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/mosak-eggstealer.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/mosak-eggstealer.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -36,7 +36,7 @@ The Clan Father of the first generation dray, a planner rather than a talker, wh
 - Subtype: named-npc — **first generation dray**
 - Control: autonomous
 - Status: active
-- Faction or allegiance: **the first generation dray of Kragmorta**; **worships [[Dregoth]] and hates him**
+- Faction or allegiance: **the first generation dray of Kragmorta**; **worships Dregoth and hates him**
 - Current location: `location-kragmorta` — **area 5, the dray settlement**, among ancient buildings amid rivers of lava
 - Current route, when traveling: —
 - Role: **Clan Father** — *"Like the leaders before him, he carries the title of Clan Father (though there have been Clan Mothers in the past, too)."*
@@ -60,7 +60,7 @@ Absolute within Kragmorta. **He is the man who challenged the spirit in front of
 - **He distrusts outsiders, fearing they may be from Dregoth.**
 - **Neither he nor his dray know much about the surface world.**
 - **If visitors can convince Mosak that they are friendly, he would love to hear tales of the world above.**
-- **He also seeks help against the [[The Spirit of Kragmorta|Spirit of Kragmorta]].**
+- **He also seeks help against the Spirit of Kragmorta.**
 - **If adventurers confront the spirit and expose it for what it is (thus saving more of Mosak's clan), they will earn the respect and gratitude of the Clan Father.**
 - **When the spirit first appeared, Mosak was suspicious and challenged it.** **Instead of striking him down like the crowd feared it would, the spirit forgave Mosak's doubt.**
 - **He believes the wall-walkers come from the same place as the other terrors of Kragmorta** — *"the truth is the wall-walkers are native to Athas's subterranean regions."* **He is wrong about that one.**
@@ -154,7 +154,7 @@ Leading a city of exiles, humouring a spirit he does not trust, and watching the
 - **The forgiveness was the trap and he is the only one who half-felt it.** A spirit that struck him down would have been feared; a spirit that forgave him was *believed*. **Mosak has been living with that discomfort for a year.**
 - **The tests are a superb roleplaying gate and they have teeth.** Fail twice and **a PC is permanently a child in Kragmorta** — tolerated, ignored, excluded from every adult discussion for the rest of the campaign. **That is a real, lasting social consequence with no combat attached, and it should be enforced.** They are *"tough but fair"* and **suited to the talents of the participant** — so build one per PC.
 - **The clan will watch the party get mauled before helping.** Printed. *"They are far more interested in seeing how strangers defend themselves."* **Only extreme bravery or skill, followed by being overwhelmed, brings Mosak in.** The first fight in Kragmorta is an audition.
-- **He is Absalom's protectorate and does not know why.** [[Absalom]] shields Kragmorta and preaches there, and is quietly working to reconcile the two dray generations. **Mosak has a patron in the enemy capital and no idea.**
+- **He is Absalom's protectorate and does not know why.** Absalom shields Kragmorta and preaches there, and is quietly working to reconcile the two dray generations. **Mosak has a patron in the enemy capital and no idea.**
 - **The templar allergy is exploitable in both directions.** They distrust templars **of any sorcerer-king**. A party travelling with a templar — or a defector from Nibenay, Tyr or anywhere else — has a problem the module explicitly anticipates.
 - *(Proposed.)* "Eggstealer" is a name with a story behind it that nobody has written. **First generation dray with strange mutations, in a cavern full of imported predators — something laid eggs, and he took them.**
 - *(Proposed.)* If the Spirit is exposed and the clan turns, **Mosak still has three thousand people who worship Dregoth.** Proving the messenger false does not undo the religion. **He may need the party's help with the aftermath more than with the exposure.**
@@ -209,9 +209,3 @@ THAC0 15; Str 16, Dex 16, Con 14, Int 15, Wis 13, Cha 13.)*
   - Source type: official
   - Adaptation note: Source of the coming of age tests and the permanent "child" consequence, the mixed worship-and-hatred of Dregoth, the distrust of all templars, and the fact that no first generation dray has ever seen a live human or demihuman.
   - Id note: `actor-dregoth`, `location-kragmorta` resolve to real sandbox/vault records. `actor-mosak-eggstealer`, `actor-spirit-of-kragmorta`, `actor-absalom`, `actor-mon-adderath`, `actor-bracorr` are proposed ids from this batch.
-
-## Unresolved Questions
-- **Where the name "Eggstealer" comes from.** Nothing is printed.
-- What the clan does after the Spirit is exposed — they still worship Dregoth.
-- Whether he ever learns Absalom has been protecting them.
-- Whether he would accept help from a party travelling with a templar of any kind.

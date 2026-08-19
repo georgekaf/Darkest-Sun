@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -11,7 +11,7 @@ visibility: mixed
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/lynth.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/lynth.json` (revision 4, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -203,8 +203,3 @@ Arguing against the war in open council while privately calculating whether the 
   - Source type: campaign record (read-only reference)
   - Adaptation note: The existing record carries only the public framing — scout, screener, suspicious of newcomers. The informer tasking is **not** in the sandbox description and is held here in GM-Only Secrets, consistent with that.
   - Id note: `actor-tenpug`, `actor-raxxon`, `actor-arcus`, `actor-sala`, `actor-roi` all resolve to real sandbox records. Her handler has no id and deliberately none is proposed.
-
-## Unresolved Questions
-- Which templar of Nibenay actually runs her. The printed source refuses to say; the campaign could use the slot.
-- Whether she has ever filed a report, and if so how old the intelligence in Nibenay is.
-- Whether the campaign wants her exposed at all, or wants her to quietly choose the band and never be found out.

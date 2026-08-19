@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -11,7 +11,7 @@ visibility: mixed
 
 ## ⚠ Cross-Campaign Resolution — the Lion Temple
 
-The Black Spine nominees flagged an unresolved geography and identity question: **who built the "temple of lion-headed giants" that Tenpug's Band occupies, and where is it?** See [[Tenpug]], Unresolved Questions.
+The Black Spine nominees flagged an unresolved geography and identity question: **who built the "temple of lion-headed giants" that Tenpug's Band occupies, and where is it?** See Tenpug, Unresolved Questions.
 
 **City by the Silt Sea answers it outright:**
 
@@ -25,7 +25,7 @@ The Black Spine nominees flagged an unresolved geography and identity question: 
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/taraskir.json` (revision 5, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/taraskir.json` (revision 5, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -48,7 +48,7 @@ The beast-head giant who ruled Giustenal in the Time of Magic, was killed by Dre
 ## Classification
 - Subtype: named-npc — **historical**
 - Control: —
-- Status: **dead** — killed by [[Dregoth]] during the Cleansing Wars
+- Status: **dead** — killed by Dregoth during the Cleansing Wars
 - Faction or allegiance: Giustenal, under his own rule
 - Current location: `location-taraskirs-tomb`; his temple is `location-lion-temple` / `location-tenpugs-temple`
 - Current route, when traveling: —
@@ -67,7 +67,7 @@ No dialogue survives. What survives is a reputation: **a beast-head giant of gre
 
 ## Confirmed Facts
 - **Taraskir the Lion, a beast-head giant of great presence and personal power**, ruled Giustenal during the **Time of Magic**.
-- **[[Dregoth]], Third Champion of Rajaat the War-Bringer, Ravager of Giants, took his title very seriously, gathered an army, and marched on Giustenal.**
+- **Dregoth, Third Champion of Rajaat the War-Bringer, Ravager of Giants, took his title very seriously, gathered an army, and marched on Giustenal.**
 - **Taraskir and his lion warriors were not able to stop the psionics and sorcery of Dregoth.**
 - **The Ravager killed Taraskir and slaughtered his chief followers. Then he declared himself Sorcerer-King of Giustenal, and the Cleansing Wars moved into full swing.**
 - His **elite warriors were the Lion Guard**, whose likenesses are the statues at his temple.
@@ -168,9 +168,3 @@ If the campaign needs him — a vision, a fresco-borne memory, a guardian spirit
   - Source type: campaign record (read-only reference)
   - Adaptation note: This nominee proposes an update.
 `actor-taraskir`, `actor-dregoth`, `actor-tenpug`, `actor-rajaat`, `location-lion-temple`, `location-tenpugs-temple` resolve to real sandbox/vault records. **Correction:** `location-taraskirs-tomb` do **not** exist in mk-sandbox and are proposed ids, not existing records.
-
-## Unresolved Questions
-- **Adopt the location merge?** `location-lion-temple` and `location-tenpugs-temple` appear to be the same site.
-- Where `location-taraskirs-tomb` sits relative to the temple.
-- Whether anything of his cult survives — and whether the offering bowl reaches anyone.
-- Whether the *Black Spine* murals of lion-headed giants at war depict the Cleansing Wars and Dregoth's army.

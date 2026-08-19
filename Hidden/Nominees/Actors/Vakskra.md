@@ -1,7 +1,7 @@
 ---
 entryType: actor
 entrySubtype: named-npc
-authorGM: ""
+authorGM: "Ghost"
 visibility: mixed
 ---
 
@@ -11,7 +11,7 @@ visibility: mixed
 
 ## Current record in mk-sandbox
 
-*Read-only snapshot of `mk-repos/mk-sandbox/actors/vakskra.json` (revision 5, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
+*Read-only snapshot of `actors/vakskra.json` (revision 5, updated 2026-07-22). Anything this nominee proposes is a change **against these values**.*
 
 | Field | Current value |
 |---|---|
@@ -63,7 +63,7 @@ Within Nibenay: an officer of the Shadow Brides on a mission that has gone badly
 ## Confirmed Facts
 - A **templar-wife of Nibenay**, and leader of the Nibenese unit sent to liberate the captured iron mine.
 - Her unit was part of a much larger force sent to retake the mine and reopen it, so that vital iron ore would continue to flow to Nibenay.
-- The force suffered the same psionic assault from [[Askai]] that the PCs did, compounded by constant gith skirmishing on its flanks. It has been reduced to a pitiful state.
+- The force suffered the same psionic assault from Askai that the PCs did, compounded by constant gith skirmishing on its flanks. It has been reduced to a pitiful state.
 - **She cannot go back** and tell the sorcerer-king she failed utterly with only a handful of her men alive.
 - **She cannot go forward** — her scouts report the gith garrison is too strong for her small unit alone.
 - She is **definitely open to negotiation**.
@@ -223,9 +223,3 @@ Camped near the stockade with a broken command, unable to advance or withdraw, w
   - Source type: campaign record (read-only reference)
   - Adaptation note: This nominee proposes an update. All three existing goals (`goal-vakskra-retake-mine`, `goal-vakskra-preserve-force`, `goal-vakskra-control-news`) are preserved above as Goals 1–3.
   - Id note: `faction-shadow-brides`, `actor-zigath`, `actor-lady-vardan`, `actor-brugg-stone-thumb`, `actor-orruk-vesh`, `actor-tenpug`, `location-nibenay-iron-mine-stockade`, `location-nibenay`, `location-black-spine-mountains`, `location-nibenay-iron-mine` all resolve to real sandbox records. `actor-askai` is proposed.
-
-## Unresolved Questions
-- **Does she learn what Tenpug's Band is?** The module never asks. The campaign should.
-- What is in the sealed map case.
-- What happens the day after the mine is retaken.
-- Whether the band will even accept the alliance — this should be their decision, not the PCs'.
