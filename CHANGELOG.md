@@ -3,6 +3,24 @@ title: "Kharanok — Changelog"
 tags: [kharanok, meta]
 ---
 
+## v1.28 — ad8 Human-Fix Merge: Crystal Dust Counts, the Voices in Kharanok, Breck's Questions
+
+The user's reviewed pass over the ad8 body came back with eight deltas. All were applied to **`transcripts and summaries/Περίληψη - ad8 - The Voices of Giustenal.md`** and propagated to **`Hidden/Session prep/0008 - Session Prep 13-8-2026.md`**. The header block of the summary stays as written; only the numbers the corrections invalidate moved.
+
+**The Crystal Dust arithmetic was wrong in both files.** Zilvar carried **25 handfuls**, not 15 with a further 9 held back on Ranni for the return — that split was never played and is gone from both records. Twelve stayed in Kharanok for Tzala's potions, as before. Fifteen went into the grooves to light the gate, which leaves **Breck holding 10**, not the 15 the summary's loot line and the prep's Done list both claimed.
+
+**Breck named Ranni.** His second warning before the crossing was not about "one of theirs" having touched something beyond them — he said her name. The prep's account of the exchange now carries it too.
+
+**The voices were about Kharanok, not Giustenal.** Relo's question to Breck was whether he had heard the voices **here, in the village**. Both records had flattened it to "the voices", which reads as the far side of the gate and loses the point of the question — that something may be speaking on this side as well. Breck's face still gave nothing away.
+
+**Three details restored:** the gate's light is **blue**; the party came out **close to** the Sea of Silt rather than on its shore; and the spider's burned webs are «φρέσκους ιστούς», not «δίχτυα».
+
+**The episode ends on a question.** Breck was waiting at the far plate and asked outright what happened over there — the closing beat was missing from the summary and from the prep. It is now also an open item in the prep's Left to do: what they tell him about the Caller, the voices in Kharanok and the price already promised to the cave creature is undecided.
+
+**Not changed:** the reviewed file strips Greek accents and writes «Μπρεκ» for Breck. Accents were restored and NPC names kept in Latin, as the rest of the summary spells them. The reviewed pass is authoritative on facts, not on typography.
+
+---
+
 ## v1.27 — The Kharanok Secret, the Gate Rules, the Nominee Queue Filed and Archived
 
 Everything since v1.26, consolidated into one entry.
